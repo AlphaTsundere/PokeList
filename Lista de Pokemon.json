@@ -1824,15 +1824,15 @@
   "Tipo": "Bicho"
  },
  {
-  "Nombre": "Wormadam Tronco Planta",
+  "Nombre": "Wormadam",
   "Tipo": "Bicho\/Planta"
  },
  {
-  "Nombre": "Wormadam Tronco Arena",
+  "Nombre": "Wormadam Sandy",
   "Tipo": "Bicho\/Tierra"
  },
  {
-  "Nombre": "Wormadam Tronco Basura",
+  "Nombre": "Wormadam Trash",
   "Tipo": "Bicho\/Acero"
  },
  {
