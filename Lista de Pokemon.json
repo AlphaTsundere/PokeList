@@ -2100,23 +2100,23 @@
   "Tipo": "Electrico\/Fantasma"
  },
  {
-  "Nombre": "Rotom calor",
+  "Nombre": "Rotom heat",
   "Tipo": "Electrico\/Fuego"
  },
  {
-  "Nombre": "Rotom lavado",
+  "Nombre": "Rotom wash",
   "Tipo": "Electrico\/Agua"
  },
  {
-  "Nombre": "Rotom frio",
+  "Nombre": "Rotom frost",
   "Tipo": "Electrico\/Hielo"
  },
  {
-  "Nombre": "Rotom ventilador",
+  "Nombre": "Rotom fan",
   "Tipo": "Electrico\/Volador"
  },
  {
-  "Nombre": "Rotom corte",
+  "Nombre": "Rotom mow",
   "Tipo": "Electrico\/Planta"
  },
  {
