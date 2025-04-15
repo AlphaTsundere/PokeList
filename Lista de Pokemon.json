@@ -1,4987 +1,4402 @@
 [
  {
-  "Bulbasaur": "Ivysaur",
-  "Planta": "Planta",
-  "Veneno": "Veneno"
+  "Nombre": "Bulbasaur",
+  "Tipo": "Planta\/Veneno"
  },
  {
-  "Bulbasaur": "Venusaur",
-  "Planta": "Planta",
-  "Veneno": "Veneno"
+  "Nombre": "Ivysaur",
+  "Tipo": "Planta\/Veneno"
  },
  {
-  "Bulbasaur": "Charmander",
-  "Planta": "Fuego"
+  "Nombre": "Venusaur",
+  "Tipo": "Planta\/Veneno"
  },
  {
-  "Bulbasaur": "Charmeleon",
-  "Planta": "Fuego"
+  "Nombre": "Charmander",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Charizard",
-  "Planta": "Fuego",
-  "Veneno": "Volador"
+  "Nombre": "Charmeleon",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Squirtle",
-  "Planta": "Agua"
+  "Nombre": "Charizard",
+  "Tipo": "Fuego\/Volador"
  },
  {
-  "Bulbasaur": "Wartortle",
-  "Planta": "Agua"
+  "Nombre": "Squirtle",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Blastoise",
-  "Planta": "Agua"
+  "Nombre": "Wartortle",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Caterpie",
-  "Planta": "Bicho"
+  "Nombre": "Blastoise",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Metapod",
-  "Planta": "Bicho"
+  "Nombre": "Caterpie",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Butterfree",
-  "Planta": "Bicho",
-  "Veneno": "Volador"
+  "Nombre": "Metapod",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Weedle",
-  "Planta": "Bicho",
-  "Veneno": "Veneno"
+  "Nombre": "Butterfree",
+  "Tipo": "Bicho\/Volador"
  },
  {
-  "Bulbasaur": "Kakuna",
-  "Planta": "Bicho",
-  "Veneno": "Veneno"
+  "Nombre": "Weedle",
+  "Tipo": "Bicho\/Veneno"
  },
  {
-  "Bulbasaur": "Beedrill",
-  "Planta": "Bicho",
-  "Veneno": "Veneno"
+  "Nombre": "Kakuna",
+  "Tipo": "Bicho\/Veneno"
  },
  {
-  "Bulbasaur": "Pidgey",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Beedrill",
+  "Tipo": "Bicho\/Veneno"
  },
  {
-  "Bulbasaur": "Pidgeotto",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Pidgey",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Pidgeot",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Pidgeotto",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Rattata",
-  "Planta": "Normal"
+  "Nombre": "Pidgeot",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Rattata Alola",
-  "Planta": "Siniestro",
-  "Veneno": "Normal"
+  "Nombre": "Rattata",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Raticate",
-  "Planta": "Normal"
+  "Nombre": "Rattata Alola",
+  "Tipo": "Siniestro\/Normal"
  },
  {
-  "Bulbasaur": "Raticate Alola",
-  "Planta": "Siniestro",
-  "Veneno": "Normal"
+  "Nombre": "Raticate",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Spearow",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Raticate Alola",
+  "Tipo": "Siniestro\/Normal"
  },
  {
-  "Bulbasaur": "Fearow",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Spearow",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Ekans",
-  "Planta": "Veneno"
+  "Nombre": "Fearow",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Arbok",
-  "Planta": "Veneno"
+  "Nombre": "Ekans",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Pikachu",
-  "Planta": "Electrico"
+  "Nombre": "Arbok",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Raichu",
-  "Planta": "Electrico"
+  "Nombre": "Pikachu",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Raichu Alola",
-  "Planta": "Electrico",
-  "Veneno": "Psiquico"
+  "Nombre": "Raichu",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Sandshrew",
-  "Planta": "Tierra"
+  "Nombre": "Raichu Alola",
+  "Tipo": "Electrico\/Psiquico"
  },
  {
-  "Bulbasaur": "Sandshrew Alola",
-  "Planta": "Hielo",
-  "Veneno": "Acero"
+  "Nombre": "Sandshrew",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Sandslash",
-  "Planta": "Tierra"
+  "Nombre": "Sandshrew Alola",
+  "Tipo": "Hielo\/Acero"
  },
  {
-  "Bulbasaur": "Sandslash Alola",
-  "Planta": "Hielo",
-  "Veneno": "Acero"
+  "Nombre": "Sandslash",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Nidoran♀",
-  "Planta": "Veneno"
+  "Nombre": "Sandslash Alola",
+  "Tipo": "Hielo\/Acero"
  },
  {
-  "Bulbasaur": "Nidorina",
-  "Planta": "Veneno"
+  "Nombre": "Nidoran♀",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Nidoqueen",
-  "Planta": "Veneno",
-  "Veneno": "Tierra"
+  "Nombre": "Nidorina",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Nidoran♂",
-  "Planta": "Veneno"
+  "Nombre": "Nidoqueen",
+  "Tipo": "Veneno\/Tierra"
  },
  {
-  "Bulbasaur": "Nidorino",
-  "Planta": "Veneno"
+  "Nombre": "Nidoran♂",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Nidoking",
-  "Planta": "Veneno",
-  "Veneno": "Tierra"
+  "Nombre": "Nidorino",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Clefairy",
-  "Planta": "Hada"
+  "Nombre": "Nidoking",
+  "Tipo": "Veneno\/Tierra"
  },
  {
-  "Bulbasaur": "Clefable",
-  "Planta": "Hada"
+  "Nombre": "Clefairy",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Vulpix",
-  "Planta": "Fuego"
+  "Nombre": "Clefable",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Vulpix Alola",
-  "Planta": "Hielo"
+  "Nombre": "Vulpix",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Ninetales",
-  "Planta": "Fuego"
+  "Nombre": "Vulpix Alola",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Ninetales Alola",
-  "Planta": "Hielo",
-  "Veneno": "Hada"
+  "Nombre": "Ninetales",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Jigglypuff",
-  "Planta": "Normal",
-  "Veneno": "Hada"
+  "Nombre": "Ninetales Alola",
+  "Tipo": "Hielo\/Hada"
  },
  {
-  "Bulbasaur": "Wigglytuff",
-  "Planta": "Normal",
-  "Veneno": "Hada"
+  "Nombre": "Jigglypuff",
+  "Tipo": "Normal\/Hada"
  },
  {
-  "Bulbasaur": "Zubat",
-  "Planta": "Veneno",
-  "Veneno": "Volador"
+  "Nombre": "Wigglytuff",
+  "Tipo": "Normal\/Hada"
  },
  {
-  "Bulbasaur": "Golbat",
-  "Planta": "Veneno",
-  "Veneno": "Volador"
+  "Nombre": "Zubat",
+  "Tipo": "Veneno\/Volador"
  },
  {
-  "Bulbasaur": "Oddish",
-  "Planta": "Planta",
-  "Veneno": "Veneno"
+  "Nombre": "Golbat",
+  "Tipo": "Veneno\/Volador"
  },
  {
-  "Bulbasaur": "Gloom",
-  "Planta": "Planta",
-  "Veneno": "Veneno"
+  "Nombre": "Oddish",
+  "Tipo": "Planta\/Veneno"
  },
  {
-  "Bulbasaur": "Vileplume",
-  "Planta": "Planta",
-  "Veneno": "Veneno"
+  "Nombre": "Gloom",
+  "Tipo": "Planta\/Veneno"
  },
  {
-  "Bulbasaur": "Paras",
-  "Planta": "Bicho",
-  "Veneno": "Planta"
+  "Nombre": "Vileplume",
+  "Tipo": "Planta\/Veneno"
  },
  {
-  "Bulbasaur": "Parasect",
-  "Planta": "Bicho",
-  "Veneno": "Planta"
+  "Nombre": "Paras",
+  "Tipo": "Bicho\/Planta"
  },
  {
-  "Bulbasaur": "Venonat",
-  "Planta": "Bicho",
-  "Veneno": "Veneno"
+  "Nombre": "Parasect",
+  "Tipo": "Bicho\/Planta"
  },
  {
-  "Bulbasaur": "Venomoth",
-  "Planta": "Bicho",
-  "Veneno": "Veneno"
+  "Nombre": "Venonat",
+  "Tipo": "Bicho\/Veneno"
  },
  {
-  "Bulbasaur": "Diglett",
-  "Planta": "Tierra"
+  "Nombre": "Venomoth",
+  "Tipo": "Bicho\/Veneno"
  },
  {
-  "Bulbasaur": "Diglett Alola",
-  "Planta": "Tierra",
-  "Veneno": "Acero"
+  "Nombre": "Diglett",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Dugtrio",
-  "Planta": "Tierra"
+  "Nombre": "Diglett Alola",
+  "Tipo": "Tierra\/Acero"
  },
  {
-  "Bulbasaur": "Dugtrio Alola",
-  "Planta": "Tierra",
-  "Veneno": "Acero"
+  "Nombre": "Dugtrio",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Meowth",
-  "Planta": "Normal"
+  "Nombre": "Dugtrio Alola",
+  "Tipo": "Tierra\/Acero"
  },
  {
-  "Bulbasaur": "Meowth Alola",
-  "Planta": "Siniestro"
+  "Nombre": "Meowth",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Meowth Galar",
-  "Planta": "Acero"
+  "Nombre": "Meowth Alola",
+  "Tipo": "Siniestro"
  },
  {
-  "Bulbasaur": "Persian",
-  "Planta": "Normal"
+  "Nombre": "Meowth Galar",
+  "Tipo": "Acero"
  },
  {
-  "Bulbasaur": "Persian Alola",
-  "Planta": "Siniestro"
+  "Nombre": "Persian",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Psyduck",
-  "Planta": "Agua"
+  "Nombre": "Persian Alola",
+  "Tipo": "Siniestro"
  },
  {
-  "Bulbasaur": "Golduck",
-  "Planta": "Agua"
+  "Nombre": "Psyduck",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Mankey",
-  "Planta": "Lucha"
+  "Nombre": "Golduck",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Primeape",
-  "Planta": "Lucha"
+  "Nombre": "Mankey",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Growlithe",
-  "Planta": "Fuego"
+  "Nombre": "Primeape",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Growlithe Hisui",
-  "Planta": "Fuego",
-  "Veneno": "Roca"
+  "Nombre": "Growlithe",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Arcanine",
-  "Planta": "Fuego"
+  "Nombre": "Growlithe Hisui",
+  "Tipo": "Fuego\/Roca"
  },
  {
-  "Bulbasaur": "Arcanine Hisui",
-  "Planta": "Fuego",
-  "Veneno": "Roca"
+  "Nombre": "Arcanine",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Poliwag",
-  "Planta": "Agua"
+  "Nombre": "Arcanine Hisui",
+  "Tipo": "Fuego\/Roca"
  },
  {
-  "Bulbasaur": "Poliwhirl",
-  "Planta": "Agua"
+  "Nombre": "Poliwag",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Poliwrath",
-  "Planta": "Agua",
-  "Veneno": "Lucha"
+  "Nombre": "Poliwhirl",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Abra",
-  "Planta": "Psiquico"
+  "Nombre": "Poliwrath",
+  "Tipo": "Agua\/Lucha"
  },
  {
-  "Bulbasaur": "Kadabra",
-  "Planta": "Psiquico"
+  "Nombre": "Abra",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Alakazam",
-  "Planta": "Psiquico"
+  "Nombre": "Kadabra",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Machop",
-  "Planta": "Lucha"
+  "Nombre": "Alakazam",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Machoke",
-  "Planta": "Lucha"
+  "Nombre": "Machop",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Machamp",
-  "Planta": "Lucha"
+  "Nombre": "Machoke",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Bellsprout",
-  "Planta": "Planta",
-  "Veneno": "Veneno"
+  "Nombre": "Machamp",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Weepinbell",
-  "Planta": "Planta",
-  "Veneno": "Veneno"
+  "Nombre": "Bellsprout",
+  "Tipo": "Planta\/Veneno"
  },
  {
-  "Bulbasaur": "Victreebel",
-  "Planta": "Planta",
-  "Veneno": "Veneno"
+  "Nombre": "Weepinbell",
+  "Tipo": "Planta\/Veneno"
  },
  {
-  "Bulbasaur": "Tentacool",
-  "Planta": "Agua",
-  "Veneno": "Veneno"
+  "Nombre": "Victreebel",
+  "Tipo": "Planta\/Veneno"
  },
  {
-  "Bulbasaur": "Tentacruel",
-  "Planta": "Agua",
-  "Veneno": "Veneno"
+  "Nombre": "Tentacool",
+  "Tipo": "Agua\/Veneno"
  },
  {
-  "Bulbasaur": "Geodude",
-  "Planta": "Roca",
-  "Veneno": "Tierra"
+  "Nombre": "Tentacruel",
+  "Tipo": "Agua\/Veneno"
  },
  {
-  "Bulbasaur": "Geodude Alola",
-  "Planta": "Roca",
-  "Veneno": "Electrico"
+  "Nombre": "Geodude",
+  "Tipo": "Roca\/Tierra"
  },
  {
-  "Bulbasaur": "Graveler",
-  "Planta": "Roca",
-  "Veneno": "Tierra"
+  "Nombre": "Geodude Alola",
+  "Tipo": "Roca\/Electrico"
  },
  {
-  "Bulbasaur": "Graveler Alola",
-  "Planta": "Roca",
-  "Veneno": "Electrico"
+  "Nombre": "Graveler",
+  "Tipo": "Roca\/Tierra"
  },
  {
-  "Bulbasaur": "Golem",
-  "Planta": "Roca",
-  "Veneno": "Tierra"
+  "Nombre": "Graveler Alola",
+  "Tipo": "Roca\/Electrico"
  },
  {
-  "Bulbasaur": "Golem Alola",
-  "Planta": "Roca",
-  "Veneno": "Electrico"
+  "Nombre": "Golem",
+  "Tipo": "Roca\/Tierra"
  },
  {
-  "Bulbasaur": "Ponyta",
-  "Planta": "Fuego"
+  "Nombre": "Golem Alola",
+  "Tipo": "Roca\/Electrico"
  },
  {
-  "Bulbasaur": "Ponyta Galar",
-  "Planta": "Psiquico"
+  "Nombre": "Ponyta",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Rapidash",
-  "Planta": "Fuego"
+  "Nombre": "Ponyta Galar",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Rapidash Galar",
-  "Planta": "Psiquico",
-  "Veneno": "Hada"
+  "Nombre": "Rapidash",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Slowpoke",
-  "Planta": "Agua",
-  "Veneno": "Psiquico"
+  "Nombre": "Rapidash Galar",
+  "Tipo": "Psiquico\/Hada"
  },
  {
-  "Bulbasaur": "Slowpoke Galar",
-  "Planta": "Psiquico"
+  "Nombre": "Slowpoke",
+  "Tipo": "Agua\/Psiquico"
  },
  {
-  "Bulbasaur": "Slowbro",
-  "Planta": "Agua",
-  "Veneno": "Psiquico"
+  "Nombre": "Slowpoke Galar",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Slowbro Galar",
-  "Planta": "Veneno",
-  "Veneno": "Psiquico"
+  "Nombre": "Slowbro",
+  "Tipo": "Agua\/Psiquico"
  },
  {
-  "Bulbasaur": "Magnemite",
-  "Planta": "Electrico",
-  "Veneno": "Acero"
+  "Nombre": "Slowbro Galar",
+  "Tipo": "Veneno\/Psiquico"
  },
  {
-  "Bulbasaur": "Magneton",
-  "Planta": "Electrico",
-  "Veneno": "Acero"
+  "Nombre": "Magnemite",
+  "Tipo": "Electrico\/Acero"
  },
  {
-  "Bulbasaur": "Farfetch'd",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Magneton",
+  "Tipo": "Electrico\/Acero"
  },
  {
-  "Bulbasaur": "Farfetch'd Galar",
-  "Planta": "Lucha"
+  "Nombre": "Farfetch'd",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Doduo",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Farfetch'd Galar",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Dodrio",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Doduo",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Seel",
-  "Planta": "Agua"
+  "Nombre": "Dodrio",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Dewgong",
-  "Planta": "Agua",
-  "Veneno": "Hielo"
+  "Nombre": "Seel",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Grimer",
-  "Planta": "Veneno"
+  "Nombre": "Dewgong",
+  "Tipo": "Agua\/Hielo"
  },
  {
-  "Bulbasaur": "Grimer Alola",
-  "Planta": "Veneno",
-  "Veneno": "Siniestro"
+  "Nombre": "Grimer",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Muk",
-  "Planta": "Veneno"
+  "Nombre": "Grimer Alola",
+  "Tipo": "Veneno\/Siniestro"
  },
  {
-  "Bulbasaur": "Muk Alola",
-  "Planta": "Veneno",
-  "Veneno": "Siniestro"
+  "Nombre": "Muk",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Shellder",
-  "Planta": "Agua"
+  "Nombre": "Muk Alola",
+  "Tipo": "Veneno\/Siniestro"
  },
  {
-  "Bulbasaur": "Cloyster",
-  "Planta": "Agua",
-  "Veneno": "Hielo"
+  "Nombre": "Shellder",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Gastly",
-  "Planta": "Fantasma",
-  "Veneno": "Veneno"
+  "Nombre": "Cloyster",
+  "Tipo": "Agua\/Hielo"
  },
  {
-  "Bulbasaur": "Haunter",
-  "Planta": "Fantasma",
-  "Veneno": "Veneno"
+  "Nombre": "Gastly",
+  "Tipo": "Fantasma\/Veneno"
  },
  {
-  "Bulbasaur": "Gengar",
-  "Planta": "Fantasma",
-  "Veneno": "Veneno"
+  "Nombre": "Haunter",
+  "Tipo": "Fantasma\/Veneno"
  },
  {
-  "Bulbasaur": "Onix",
-  "Planta": "Roca",
-  "Veneno": "Tierra"
+  "Nombre": "Gengar",
+  "Tipo": "Fantasma\/Veneno"
  },
  {
-  "Bulbasaur": "Drowzee",
-  "Planta": "Psiquico"
+  "Nombre": "Onix",
+  "Tipo": "Roca\/Tierra"
  },
  {
-  "Bulbasaur": "Hypno",
-  "Planta": "Psiquico"
+  "Nombre": "Drowzee",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Krabby",
-  "Planta": "Agua"
+  "Nombre": "Hypno",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Kingler",
-  "Planta": "Agua"
+  "Nombre": "Krabby",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Voltorb",
-  "Planta": "Electrico"
+  "Nombre": "Kingler",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Voltorb Hisui",
-  "Planta": "Electrico",
-  "Veneno": "Planta"
+  "Nombre": "Voltorb",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Electrode",
-  "Planta": "Electrico"
+  "Nombre": "Voltorb Hisui",
+  "Tipo": "Electrico\/Planta"
  },
  {
-  "Bulbasaur": "Electrode Hisui",
-  "Planta": "Electrico",
-  "Veneno": "Planta"
+  "Nombre": "Electrode",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Exeggcute",
-  "Planta": "Planta",
-  "Veneno": "Psiquico"
+  "Nombre": "Electrode Hisui",
+  "Tipo": "Electrico\/Planta"
  },
  {
-  "Bulbasaur": "Exeggutor",
-  "Planta": "Planta",
-  "Veneno": "Psiquico"
+  "Nombre": "Exeggcute",
+  "Tipo": "Planta\/Psiquico"
  },
  {
-  "Bulbasaur": "Exeggutor Alola",
-  "Planta": "Planta",
-  "Veneno": "Dragon"
+  "Nombre": "Exeggutor",
+  "Tipo": "Planta\/Psiquico"
  },
  {
-  "Bulbasaur": "Cubone",
-  "Planta": "Tierra"
+  "Nombre": "Exeggutor Alola",
+  "Tipo": "Planta\/Dragon"
  },
  {
-  "Bulbasaur": "Marowak",
-  "Planta": "Tierra"
+  "Nombre": "Cubone",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Marowak Alola",
-  "Planta": "Fuego",
-  "Veneno": "Fantasma"
+  "Nombre": "Marowak",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Hitmonlee",
-  "Planta": "Lucha"
+  "Nombre": "Marowak Alola",
+  "Tipo": "Fuego\/Fantasma"
  },
  {
-  "Bulbasaur": "Hitmonchan",
-  "Planta": "Lucha"
+  "Nombre": "Hitmonlee",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Lickitung",
-  "Planta": "Normal"
+  "Nombre": "Hitmonchan",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Koffing",
-  "Planta": "Veneno"
+  "Nombre": "Lickitung",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Weezing",
-  "Planta": "Veneno"
+  "Nombre": "Koffing",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Weezing Galar",
-  "Planta": "Veneno",
-  "Veneno": "Hada"
+  "Nombre": "Weezing",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Rhyhorn",
-  "Planta": "Tierra",
-  "Veneno": "Roca"
+  "Nombre": "Weezing Galar",
+  "Tipo": "Veneno\/Hada"
  },
  {
-  "Bulbasaur": "Rhydon",
-  "Planta": "Tierra",
-  "Veneno": "Roca"
+  "Nombre": "Rhyhorn",
+  "Tipo": "Tierra\/Roca"
  },
  {
-  "Bulbasaur": "Chansey",
-  "Planta": "Normal"
+  "Nombre": "Rhydon",
+  "Tipo": "Tierra\/Roca"
  },
  {
-  "Bulbasaur": "Tangela",
-  "Planta": "Planta"
+  "Nombre": "Chansey",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Kangaskhan",
-  "Planta": "Normal"
+  "Nombre": "Tangela",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Horsea",
-  "Planta": "Agua"
+  "Nombre": "Kangaskhan",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Seadra",
-  "Planta": "Agua"
+  "Nombre": "Horsea",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Goldeen",
-  "Planta": "Agua"
+  "Nombre": "Seadra",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Seaking",
-  "Planta": "Agua"
+  "Nombre": "Goldeen",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Staryu",
-  "Planta": "Agua"
+  "Nombre": "Seaking",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Starmie",
-  "Planta": "Agua",
-  "Veneno": "Psiquico"
+  "Nombre": "Staryu",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Mr. Mime",
-  "Planta": "Psiquico",
-  "Veneno": "Hada"
+  "Nombre": "Starmie",
+  "Tipo": "Agua\/Psiquico"
  },
  {
-  "Bulbasaur": "Mr. Mime Galar",
-  "Planta": "Hielo",
-  "Veneno": "Psiquico"
+  "Nombre": "Mr. Mime",
+  "Tipo": "Psiquico\/Hada"
  },
  {
-  "Bulbasaur": "Scyther",
-  "Planta": "Bicho",
-  "Veneno": "Volador"
+  "Nombre": "Mr. Mime Galar",
+  "Tipo": "Hielo\/Psiquico"
  },
  {
-  "Bulbasaur": "Jynx",
-  "Planta": "Hielo",
-  "Veneno": "Psiquico"
+  "Nombre": "Scyther",
+  "Tipo": "Bicho\/Volador"
  },
  {
-  "Bulbasaur": "Electabuzz",
-  "Planta": "Electrico"
+  "Nombre": "Jynx",
+  "Tipo": "Hielo\/Psiquico"
  },
  {
-  "Bulbasaur": "Magmar",
-  "Planta": "Fuego"
+  "Nombre": "Electabuzz",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Pinsir",
-  "Planta": "Bicho"
+  "Nombre": "Magmar",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Tauros",
-  "Planta": "Normal"
+  "Nombre": "Pinsir",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Tauros Paldea Variedad Combatiente",
-  "Planta": "Lucha"
+  "Nombre": "Tauros",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Tauros Paldea Variedad Ardiente",
-  "Planta": "Lucha",
-  "Veneno": "Fuego"
+  "Nombre": "Tauros Paldea Variedad Combatiente",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Tauros Paldea Variedad Acuatica",
-  "Planta": "Lucha",
-  "Veneno": "Agua"
+  "Nombre": "Tauros Paldea Variedad Ardiente",
+  "Tipo": "Lucha\/Fuego"
  },
  {
-  "Bulbasaur": "Magikarp",
-  "Planta": "Agua"
+  "Nombre": "Tauros Paldea Variedad Acuatica",
+  "Tipo": "Lucha\/Agua"
  },
  {
-  "Bulbasaur": "Gyarados",
-  "Planta": "Agua",
-  "Veneno": "Volador"
+  "Nombre": "Magikarp",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Lapras",
-  "Planta": "Agua",
-  "Veneno": "Hielo"
+  "Nombre": "Gyarados",
+  "Tipo": "Agua\/Volador"
  },
  {
-  "Bulbasaur": "Ditto",
-  "Planta": "Normal"
+  "Nombre": "Lapras",
+  "Tipo": "Agua\/Hielo"
  },
  {
-  "Bulbasaur": "Eevee",
-  "Planta": "Normal"
+  "Nombre": "Ditto",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Vaporeon",
-  "Planta": "Agua"
+  "Nombre": "Eevee",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Jolteon",
-  "Planta": "Electrico"
+  "Nombre": "Vaporeon",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Flareon",
-  "Planta": "Fuego"
+  "Nombre": "Jolteon",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Porygon",
-  "Planta": "Normal"
+  "Nombre": "Flareon",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Omanyte",
-  "Planta": "Roca",
-  "Veneno": "Agua"
+  "Nombre": "Porygon",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Omastar",
-  "Planta": "Roca",
-  "Veneno": "Agua"
+  "Nombre": "Omanyte",
+  "Tipo": "Roca\/Agua"
  },
  {
-  "Bulbasaur": "Kabuto",
-  "Planta": "Roca",
-  "Veneno": "Agua"
+  "Nombre": "Omastar",
+  "Tipo": "Roca\/Agua"
  },
  {
-  "Bulbasaur": "Kabutops",
-  "Planta": "Roca",
-  "Veneno": "Agua"
+  "Nombre": "Kabuto",
+  "Tipo": "Roca\/Agua"
  },
  {
-  "Bulbasaur": "Aerodactyl",
-  "Planta": "Roca",
-  "Veneno": "Volador"
+  "Nombre": "Kabutops",
+  "Tipo": "Roca\/Agua"
  },
  {
-  "Bulbasaur": "Snorlax",
-  "Planta": "Normal"
+  "Nombre": "Aerodactyl",
+  "Tipo": "Roca\/Volador"
  },
  {
-  "Bulbasaur": "Articuno",
-  "Planta": "Hielo",
-  "Veneno": "Volador"
+  "Nombre": "Snorlax",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Articuno Galar",
-  "Planta": "Psiquico",
-  "Veneno": "Volador"
+  "Nombre": "Articuno",
+  "Tipo": "Hielo\/Volador"
  },
  {
-  "Bulbasaur": "Zapdos",
-  "Planta": "Electrico",
-  "Veneno": "Volador"
+  "Nombre": "Articuno Galar",
+  "Tipo": "Psiquico\/Volador"
  },
  {
-  "Bulbasaur": "Zapdos Galar",
-  "Planta": "Lucha",
-  "Veneno": "Volador"
+  "Nombre": "Zapdos",
+  "Tipo": "Electrico\/Volador"
  },
  {
-  "Bulbasaur": "Moltres",
-  "Planta": "Fuego",
-  "Veneno": "Volador"
+  "Nombre": "Zapdos Galar",
+  "Tipo": "Lucha\/Volador"
  },
  {
-  "Bulbasaur": "Moltres Galar",
-  "Planta": "Siniestro",
-  "Veneno": "Volador"
+  "Nombre": "Moltres",
+  "Tipo": "Fuego\/Volador"
  },
  {
-  "Bulbasaur": "Dratini",
-  "Planta": "Dragon"
+  "Nombre": "Moltres Galar",
+  "Tipo": "Siniestro\/Volador"
  },
  {
-  "Bulbasaur": "Dragonair",
-  "Planta": "Dragon"
+  "Nombre": "Dratini",
+  "Tipo": "Dragon"
  },
  {
-  "Bulbasaur": "Dragonite",
-  "Planta": "Dragon",
-  "Veneno": "Volador"
+  "Nombre": "Dragonair",
+  "Tipo": "Dragon"
  },
  {
-  "Bulbasaur": "Mewtwo",
-  "Planta": "Psiquico"
+  "Nombre": "Dragonite",
+  "Tipo": "Dragon\/Volador"
  },
  {
-  "Bulbasaur": "Mew",
-  "Planta": "Psiquico"
+  "Nombre": "Mewtwo",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Chikorita",
-  "Planta": "Planta"
+  "Nombre": "Mew",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Bayleef",
-  "Planta": "Planta"
+  "Nombre": "Chikorita",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Meganium",
-  "Planta": "Planta"
+  "Nombre": "Bayleef",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Cyndaquil",
-  "Planta": "Fuego"
+  "Nombre": "Meganium",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Quilava",
-  "Planta": "Fuego"
+  "Nombre": "Cyndaquil",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Typhlosion",
-  "Planta": "Fuego"
+  "Nombre": "Quilava",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Typhlosion Hisui",
-  "Planta": "Fuego",
-  "Veneno": "Fantasma"
+  "Nombre": "Typhlosion",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Totodile",
-  "Planta": "Agua"
+  "Nombre": "Typhlosion Hisui",
+  "Tipo": "Fuego\/Fantasma"
  },
  {
-  "Bulbasaur": "Croconaw",
-  "Planta": "Agua"
+  "Nombre": "Totodile",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Feraligatr",
-  "Planta": "Agua"
+  "Nombre": "Croconaw",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Sentret",
-  "Planta": "Normal"
+  "Nombre": "Feraligatr",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Furret",
-  "Planta": "Normal"
+  "Nombre": "Sentret",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Hoothoot",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Furret",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Noctowl",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Hoothoot",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Ledyba",
-  "Planta": "Bicho",
-  "Veneno": "Volador"
+  "Nombre": "Noctowl",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Ledian",
-  "Planta": "Bicho",
-  "Veneno": "Volador"
+  "Nombre": "Ledyba",
+  "Tipo": "Bicho\/Volador"
  },
  {
-  "Bulbasaur": "Spinarak",
-  "Planta": "Bicho",
-  "Veneno": "Veneno"
+  "Nombre": "Ledian",
+  "Tipo": "Bicho\/Volador"
  },
  {
-  "Bulbasaur": "Ariados",
-  "Planta": "Bicho",
-  "Veneno": "Veneno"
+  "Nombre": "Spinarak",
+  "Tipo": "Bicho\/Veneno"
  },
  {
-  "Bulbasaur": "Crobat",
-  "Planta": "Veneno",
-  "Veneno": "Volador"
+  "Nombre": "Ariados",
+  "Tipo": "Bicho\/Veneno"
  },
  {
-  "Bulbasaur": "Chinchou",
-  "Planta": "Agua",
-  "Veneno": "Electrico"
+  "Nombre": "Crobat",
+  "Tipo": "Veneno\/Volador"
  },
  {
-  "Bulbasaur": "Lanturn",
-  "Planta": "Agua",
-  "Veneno": "Electrico"
+  "Nombre": "Chinchou",
+  "Tipo": "Agua\/Electrico"
  },
  {
-  "Bulbasaur": "Pichu",
-  "Planta": "Electrico"
+  "Nombre": "Lanturn",
+  "Tipo": "Agua\/Electrico"
  },
  {
-  "Bulbasaur": "Cleffa",
-  "Planta": "Hada"
+  "Nombre": "Pichu",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Igglybuff",
-  "Planta": "Normal",
-  "Veneno": "Hada"
+  "Nombre": "Cleffa",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Togepi",
-  "Planta": "Hada"
+  "Nombre": "Igglybuff",
+  "Tipo": "Normal\/Hada"
  },
  {
-  "Bulbasaur": "Togetic",
-  "Planta": "Hada",
-  "Veneno": "Volador"
+  "Nombre": "Togepi",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Natu",
-  "Planta": "Psiquico",
-  "Veneno": "Volador"
+  "Nombre": "Togetic",
+  "Tipo": "Hada\/Volador"
  },
  {
-  "Bulbasaur": "Xatu",
-  "Planta": "Psiquico",
-  "Veneno": "Volador"
+  "Nombre": "Natu",
+  "Tipo": "Psiquico\/Volador"
  },
  {
-  "Bulbasaur": "Mareep",
-  "Planta": "Electrico"
+  "Nombre": "Xatu",
+  "Tipo": "Psiquico\/Volador"
  },
  {
-  "Bulbasaur": "Flaaffy",
-  "Planta": "Electrico"
+  "Nombre": "Mareep",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Ampharos",
-  "Planta": "Electrico"
+  "Nombre": "Flaaffy",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Bellossom",
-  "Planta": "Planta"
+  "Nombre": "Ampharos",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Marill",
-  "Planta": "Agua",
-  "Veneno": "Hada"
+  "Nombre": "Bellossom",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Azumarill",
-  "Planta": "Agua",
-  "Veneno": "Hada"
+  "Nombre": "Marill",
+  "Tipo": "Agua\/Hada"
  },
  {
-  "Bulbasaur": "Sudowoodo",
-  "Planta": "Roca"
+  "Nombre": "Azumarill",
+  "Tipo": "Agua\/Hada"
  },
  {
-  "Bulbasaur": "Politoed",
-  "Planta": "Agua"
+  "Nombre": "Sudowoodo",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Hoppip",
-  "Planta": "Planta",
-  "Veneno": "Volador"
+  "Nombre": "Politoed",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Skiploom",
-  "Planta": "Planta",
-  "Veneno": "Volador"
+  "Nombre": "Hoppip",
+  "Tipo": "Planta\/Volador"
  },
  {
-  "Bulbasaur": "Jumpluff",
-  "Planta": "Planta",
-  "Veneno": "Volador"
+  "Nombre": "Skiploom",
+  "Tipo": "Planta\/Volador"
  },
  {
-  "Bulbasaur": "Aipom",
-  "Planta": "Normal"
+  "Nombre": "Jumpluff",
+  "Tipo": "Planta\/Volador"
  },
  {
-  "Bulbasaur": "Sunkern",
-  "Planta": "Planta"
+  "Nombre": "Aipom",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Sunflora",
-  "Planta": "Planta"
+  "Nombre": "Sunkern",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Yanma",
-  "Planta": "Bicho",
-  "Veneno": "Volador"
+  "Nombre": "Sunflora",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Wooper",
-  "Planta": "Agua",
-  "Veneno": "Tierra"
+  "Nombre": "Yanma",
+  "Tipo": "Bicho\/Volador"
  },
  {
-  "Bulbasaur": "Wooper Paldea",
-  "Planta": "Veneno",
-  "Veneno": "Tierra"
+  "Nombre": "Wooper",
+  "Tipo": "Agua\/Tierra"
  },
  {
-  "Bulbasaur": "Quagsire",
-  "Planta": "Agua",
-  "Veneno": "Tierra"
+  "Nombre": "Wooper Paldea",
+  "Tipo": "Veneno\/Tierra"
  },
  {
-  "Bulbasaur": "Espeon",
-  "Planta": "Psiquico"
+  "Nombre": "Quagsire",
+  "Tipo": "Agua\/Tierra"
  },
  {
-  "Bulbasaur": "Umbreon",
-  "Planta": "Siniestro"
+  "Nombre": "Espeon",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Murkrow",
-  "Planta": "Siniestro",
-  "Veneno": "Volador"
+  "Nombre": "Umbreon",
+  "Tipo": "Siniestro"
  },
  {
-  "Bulbasaur": "Slowking",
-  "Planta": "Agua",
-  "Veneno": "Psiquico"
+  "Nombre": "Murkrow",
+  "Tipo": "Siniestro\/Volador"
  },
  {
-  "Bulbasaur": "Slowking Galar",
-  "Planta": "Veneno",
-  "Veneno": "Psiquico"
+  "Nombre": "Slowking",
+  "Tipo": "Agua\/Psiquico"
  },
  {
-  "Bulbasaur": "Misdreavus",
-  "Planta": "Fantasma"
+  "Nombre": "Slowking Galar",
+  "Tipo": "Veneno\/Psiquico"
  },
  {
-  "Bulbasaur": "Unown",
-  "Planta": "Psiquico"
+  "Nombre": "Misdreavus",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Wobbuffet",
-  "Planta": "Psiquico"
+  "Nombre": "Unown",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Girafarig",
-  "Planta": "Normal",
-  "Veneno": "Psiquico"
+  "Nombre": "Wobbuffet",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Pineco",
-  "Planta": "Bicho"
+  "Nombre": "Girafarig",
+  "Tipo": "Normal\/Psiquico"
  },
  {
-  "Bulbasaur": "Forretress",
-  "Planta": "Bicho",
-  "Veneno": "Acero"
+  "Nombre": "Pineco",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Dunsparce",
-  "Planta": "Normal"
+  "Nombre": "Forretress",
+  "Tipo": "Bicho\/Acero"
  },
  {
-  "Bulbasaur": "Gligar",
-  "Planta": "Tierra",
-  "Veneno": "Volador"
+  "Nombre": "Dunsparce",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Steelix",
-  "Planta": "Acero",
-  "Veneno": "Tierra"
+  "Nombre": "Gligar",
+  "Tipo": "Tierra\/Volador"
  },
  {
-  "Bulbasaur": "Snubbull",
-  "Planta": "Hada"
+  "Nombre": "Steelix",
+  "Tipo": "Acero\/Tierra"
  },
  {
-  "Bulbasaur": "Granbull",
-  "Planta": "Hada"
+  "Nombre": "Snubbull",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Qwilfish",
-  "Planta": "Agua",
-  "Veneno": "Veneno"
+  "Nombre": "Granbull",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Qwilfish Hisui",
-  "Planta": "Siniestro",
-  "Veneno": "Veneno"
+  "Nombre": "Qwilfish",
+  "Tipo": "Agua\/Veneno"
  },
  {
-  "Bulbasaur": "Scizor",
-  "Planta": "Bicho",
-  "Veneno": "Acero"
+  "Nombre": "Qwilfish Hisui",
+  "Tipo": "Siniestro\/Veneno"
  },
  {
-  "Bulbasaur": "Shuckle",
-  "Planta": "Bicho",
-  "Veneno": "Roca"
+  "Nombre": "Scizor",
+  "Tipo": "Bicho\/Acero"
  },
  {
-  "Bulbasaur": "Heracross",
-  "Planta": "Bicho",
-  "Veneno": "Lucha"
+  "Nombre": "Shuckle",
+  "Tipo": "Bicho\/Roca"
  },
  {
-  "Bulbasaur": "Sneasel",
-  "Planta": "Siniestro",
-  "Veneno": "Hielo"
+  "Nombre": "Heracross",
+  "Tipo": "Bicho\/Lucha"
  },
  {
-  "Bulbasaur": "Sneasel Hisui",
-  "Planta": "Veneno",
-  "Veneno": "Lucha"
+  "Nombre": "Sneasel",
+  "Tipo": "Siniestro\/Hielo"
  },
  {
-  "Bulbasaur": "Teddiursa",
-  "Planta": "Normal"
+  "Nombre": "Sneasel Hisui",
+  "Tipo": "Veneno\/Lucha"
  },
  {
-  "Bulbasaur": "Ursaring",
-  "Planta": "Normal"
+  "Nombre": "Teddiursa",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Slugma",
-  "Planta": "Fuego"
+  "Nombre": "Ursaring",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Magcargo",
-  "Planta": "Fuego",
-  "Veneno": "Roca"
+  "Nombre": "Slugma",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Swinub",
-  "Planta": "Hielo",
-  "Veneno": "Tierra"
+  "Nombre": "Magcargo",
+  "Tipo": "Fuego\/Roca"
  },
  {
-  "Bulbasaur": "Piloswine",
-  "Planta": "Hielo",
-  "Veneno": "Tierra"
+  "Nombre": "Swinub",
+  "Tipo": "Hielo\/Tierra"
  },
  {
-  "Bulbasaur": "Corsola",
-  "Planta": "Agua",
-  "Veneno": "Roca"
+  "Nombre": "Piloswine",
+  "Tipo": "Hielo\/Tierra"
  },
  {
-  "Bulbasaur": "Corsola Galar",
-  "Planta": "Fantasma"
+  "Nombre": "Corsola",
+  "Tipo": "Agua\/Roca"
  },
  {
-  "Bulbasaur": "Remoraid",
-  "Planta": "Agua"
+  "Nombre": "Corsola Galar",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Octillery",
-  "Planta": "Agua"
+  "Nombre": "Remoraid",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Delibird",
-  "Planta": "Hielo",
-  "Veneno": "Volador"
+  "Nombre": "Octillery",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Mantine",
-  "Planta": "Agua",
-  "Veneno": "Volador"
+  "Nombre": "Delibird",
+  "Tipo": "Hielo\/Volador"
  },
  {
-  "Bulbasaur": "Skarmory",
-  "Planta": "Acero",
-  "Veneno": "Volador"
+  "Nombre": "Mantine",
+  "Tipo": "Agua\/Volador"
  },
  {
-  "Bulbasaur": "Houndour",
-  "Planta": "Siniestro",
-  "Veneno": "Fuego"
+  "Nombre": "Skarmory",
+  "Tipo": "Acero\/Volador"
  },
  {
-  "Bulbasaur": "Houndoom",
-  "Planta": "Siniestro",
-  "Veneno": "Fuego"
+  "Nombre": "Houndour",
+  "Tipo": "Siniestro\/Fuego"
  },
  {
-  "Bulbasaur": "Kingdra",
-  "Planta": "Agua",
-  "Veneno": "Dragon"
+  "Nombre": "Houndoom",
+  "Tipo": "Siniestro\/Fuego"
  },
  {
-  "Bulbasaur": "Phanpy",
-  "Planta": "Tierra"
+  "Nombre": "Kingdra",
+  "Tipo": "Agua\/Dragon"
  },
  {
-  "Bulbasaur": "Donphan",
-  "Planta": "Tierra"
+  "Nombre": "Phanpy",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Porygon2",
-  "Planta": "Normal"
+  "Nombre": "Donphan",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Stantler",
-  "Planta": "Normal"
+  "Nombre": "Porygon2",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Smeargle",
-  "Planta": "Normal"
+  "Nombre": "Stantler",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Tyrogue",
-  "Planta": "Lucha"
+  "Nombre": "Smeargle",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Hitmontop",
-  "Planta": "Lucha"
+  "Nombre": "Tyrogue",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Smoochum",
-  "Planta": "Hielo",
-  "Veneno": "Psiquico"
+  "Nombre": "Hitmontop",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Elekid",
-  "Planta": "Electrico"
+  "Nombre": "Smoochum",
+  "Tipo": "Hielo\/Psiquico"
  },
  {
-  "Bulbasaur": "Magby",
-  "Planta": "Fuego"
+  "Nombre": "Elekid",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Miltank",
-  "Planta": "Normal"
+  "Nombre": "Magby",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Blissey",
-  "Planta": "Normal"
+  "Nombre": "Miltank",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Raikou",
-  "Planta": "Electrico"
+  "Nombre": "Blissey",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Entei",
-  "Planta": "Fuego"
+  "Nombre": "Raikou",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Suicune",
-  "Planta": "Agua"
+  "Nombre": "Entei",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Larvitar",
-  "Planta": "Roca",
-  "Veneno": "Tierra"
+  "Nombre": "Suicune",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Pupitar",
-  "Planta": "Roca",
-  "Veneno": "Tierra"
+  "Nombre": "Larvitar",
+  "Tipo": "Roca\/Tierra"
  },
  {
-  "Bulbasaur": "Tyranitar",
-  "Planta": "Roca",
-  "Veneno": "Siniestro"
+  "Nombre": "Pupitar",
+  "Tipo": "Roca\/Tierra"
  },
  {
-  "Bulbasaur": "Lugia",
-  "Planta": "Psiquico",
-  "Veneno": "Volador"
+  "Nombre": "Tyranitar",
+  "Tipo": "Roca\/Siniestro"
  },
  {
-  "Bulbasaur": "Ho-Oh",
-  "Planta": "Fuego",
-  "Veneno": "Volador"
+  "Nombre": "Lugia",
+  "Tipo": "Psiquico\/Volador"
  },
  {
-  "Bulbasaur": "Celebi",
-  "Planta": "Psiquico",
-  "Veneno": "Planta"
+  "Nombre": "Ho-Oh",
+  "Tipo": "Fuego\/Volador"
  },
  {
-  "Bulbasaur": "Treecko",
-  "Planta": "Planta"
+  "Nombre": "Celebi",
+  "Tipo": "Psiquico\/Planta"
  },
  {
-  "Bulbasaur": "Grovyle",
-  "Planta": "Planta"
+  "Nombre": "Treecko",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Sceptile",
-  "Planta": "Planta"
+  "Nombre": "Grovyle",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Torchic",
-  "Planta": "Fuego"
+  "Nombre": "Sceptile",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Combusken",
-  "Planta": "Fuego",
-  "Veneno": "Lucha"
+  "Nombre": "Torchic",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Blaziken",
-  "Planta": "Fuego",
-  "Veneno": "Lucha"
+  "Nombre": "Combusken",
+  "Tipo": "Fuego\/Lucha"
  },
  {
-  "Bulbasaur": "Mudkip",
-  "Planta": "Agua"
+  "Nombre": "Blaziken",
+  "Tipo": "Fuego\/Lucha"
  },
  {
-  "Bulbasaur": "Marshtomp",
-  "Planta": "Agua",
-  "Veneno": "Tierra"
+  "Nombre": "Mudkip",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Swampert",
-  "Planta": "Agua",
-  "Veneno": "Tierra"
+  "Nombre": "Marshtomp",
+  "Tipo": "Agua\/Tierra"
  },
  {
-  "Bulbasaur": "Poochyena",
-  "Planta": "Siniestro"
+  "Nombre": "Swampert",
+  "Tipo": "Agua\/Tierra"
  },
  {
-  "Bulbasaur": "Mightyena",
-  "Planta": "Siniestro"
+  "Nombre": "Poochyena",
+  "Tipo": "Siniestro"
  },
  {
-  "Bulbasaur": "Zigzagoon",
-  "Planta": "Normal"
+  "Nombre": "Mightyena",
+  "Tipo": "Siniestro"
  },
  {
-  "Bulbasaur": "Linoone",
-  "Planta": "Normal"
+  "Nombre": "Zigzagoon",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Wurmple",
-  "Planta": "Bicho"
+  "Nombre": "Linoone",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Silcoon",
-  "Planta": "Bicho"
+  "Nombre": "Wurmple",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Beautifly",
-  "Planta": "Bicho",
-  "Veneno": "Volador"
+  "Nombre": "Silcoon",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Cascoon",
-  "Planta": "Bicho"
+  "Nombre": "Beautifly",
+  "Tipo": "Bicho\/Volador"
  },
  {
-  "Bulbasaur": "Dustox",
-  "Planta": "Bicho",
-  "Veneno": "Veneno"
+  "Nombre": "Cascoon",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Lotad",
-  "Planta": "Agua",
-  "Veneno": "Planta"
+  "Nombre": "Dustox",
+  "Tipo": "Bicho\/Veneno"
  },
  {
-  "Bulbasaur": "Lombre",
-  "Planta": "Agua",
-  "Veneno": "Planta"
+  "Nombre": "Lotad",
+  "Tipo": "Agua\/Planta"
  },
  {
-  "Bulbasaur": "Ludicolo",
-  "Planta": "Agua",
-  "Veneno": "Planta"
+  "Nombre": "Lombre",
+  "Tipo": "Agua\/Planta"
  },
  {
-  "Bulbasaur": "Seedot",
-  "Planta": "Planta"
+  "Nombre": "Ludicolo",
+  "Tipo": "Agua\/Planta"
  },
  {
-  "Bulbasaur": "Zigzagoon Galar",
-  "Planta": "Siniestro",
-  "Veneno": "Normal"
+  "Nombre": "Seedot",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Nuzleaf",
-  "Planta": "Planta",
-  "Veneno": "Siniestro"
+  "Nombre": "Zigzagoon Galar",
+  "Tipo": "Siniestro\/Normal"
  },
  {
-  "Bulbasaur": "Linoone Galar",
-  "Planta": "Siniestro",
-  "Veneno": "Normal"
+  "Nombre": "Nuzleaf",
+  "Tipo": "Planta\/Siniestro"
  },
  {
-  "Bulbasaur": "Shiftry",
-  "Planta": "Planta",
-  "Veneno": "Siniestro"
+  "Nombre": "Linoone Galar",
+  "Tipo": "Siniestro\/Normal"
  },
  {
-  "Bulbasaur": "Taillow",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Shiftry",
+  "Tipo": "Planta\/Siniestro"
  },
  {
-  "Bulbasaur": "Swellow",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Taillow",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Wingull",
-  "Planta": "Agua",
-  "Veneno": "Volador"
+  "Nombre": "Swellow",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Pelipper",
-  "Planta": "Agua",
-  "Veneno": "Volador"
+  "Nombre": "Wingull",
+  "Tipo": "Agua\/Volador"
  },
  {
-  "Bulbasaur": "Ralts",
-  "Planta": "Psiquico",
-  "Veneno": "Hada"
+  "Nombre": "Pelipper",
+  "Tipo": "Agua\/Volador"
  },
  {
-  "Bulbasaur": "Kirlia",
-  "Planta": "Psiquico",
-  "Veneno": "Hada"
+  "Nombre": "Ralts",
+  "Tipo": "Psiquico\/Hada"
  },
  {
-  "Bulbasaur": "Gardevoir",
-  "Planta": "Psiquico",
-  "Veneno": "Hada"
+  "Nombre": "Kirlia",
+  "Tipo": "Psiquico\/Hada"
  },
  {
-  "Bulbasaur": "Surskit",
-  "Planta": "Bicho",
-  "Veneno": "Agua"
+  "Nombre": "Gardevoir",
+  "Tipo": "Psiquico\/Hada"
  },
  {
-  "Bulbasaur": "Masquerain",
-  "Planta": "Bicho",
-  "Veneno": "Volador"
+  "Nombre": "Surskit",
+  "Tipo": "Bicho\/Agua"
  },
  {
-  "Bulbasaur": "Shroomish",
-  "Planta": "Planta"
+  "Nombre": "Masquerain",
+  "Tipo": "Bicho\/Volador"
  },
  {
-  "Bulbasaur": "Breloom",
-  "Planta": "Planta",
-  "Veneno": "Lucha"
+  "Nombre": "Shroomish",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Slakoth",
-  "Planta": "Normal"
+  "Nombre": "Breloom",
+  "Tipo": "Planta\/Lucha"
  },
  {
-  "Bulbasaur": "Vigoroth",
-  "Planta": "Normal"
+  "Nombre": "Slakoth",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Slaking",
-  "Planta": "Normal"
+  "Nombre": "Vigoroth",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Nincada",
-  "Planta": "Bicho",
-  "Veneno": "Tierra"
+  "Nombre": "Slaking",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Ninjask",
-  "Planta": "Bicho",
-  "Veneno": "Volador"
+  "Nombre": "Nincada",
+  "Tipo": "Bicho\/Tierra"
  },
  {
-  "Bulbasaur": "Shedinja",
-  "Planta": "Bicho",
-  "Veneno": "Fantasma"
+  "Nombre": "Ninjask",
+  "Tipo": "Bicho\/Volador"
  },
  {
-  "Bulbasaur": "Whismur",
-  "Planta": "Normal"
+  "Nombre": "Shedinja",
+  "Tipo": "Bicho\/Fantasma"
  },
  {
-  "Bulbasaur": "Loudred",
-  "Planta": "Normal"
+  "Nombre": "Whismur",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Exploud",
-  "Planta": "Normal"
+  "Nombre": "Loudred",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Makuhita",
-  "Planta": "Lucha"
+  "Nombre": "Exploud",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Hariyama",
-  "Planta": "Lucha"
+  "Nombre": "Makuhita",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Azurill",
-  "Planta": "Normal",
-  "Veneno": "Hada"
+  "Nombre": "Hariyama",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Nosepass",
-  "Planta": "Roca"
+  "Nombre": "Azurill",
+  "Tipo": "Normal\/Hada"
  },
  {
-  "Bulbasaur": "Skitty",
-  "Planta": "Normal"
+  "Nombre": "Nosepass",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Delcatty",
-  "Planta": "Normal"
+  "Nombre": "Skitty",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Sableye",
-  "Planta": "Siniestro",
-  "Veneno": "Fantasma"
+  "Nombre": "Delcatty",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Mawile",
-  "Planta": "Acero",
-  "Veneno": "Hada"
+  "Nombre": "Sableye",
+  "Tipo": "Siniestro\/Fantasma"
  },
  {
-  "Bulbasaur": "Aron",
-  "Planta": "Acero",
-  "Veneno": "Roca"
+  "Nombre": "Mawile",
+  "Tipo": "Acero\/Hada"
  },
  {
-  "Bulbasaur": "Lairon",
-  "Planta": "Acero",
-  "Veneno": "Roca"
+  "Nombre": "Aron",
+  "Tipo": "Acero\/Roca"
  },
  {
-  "Bulbasaur": "Aggron",
-  "Planta": "Acero",
-  "Veneno": "Roca"
+  "Nombre": "Lairon",
+  "Tipo": "Acero\/Roca"
  },
  {
-  "Bulbasaur": "Meditite",
-  "Planta": "Lucha",
-  "Veneno": "Psiquico"
+  "Nombre": "Aggron",
+  "Tipo": "Acero\/Roca"
  },
  {
-  "Bulbasaur": "Medicham",
-  "Planta": "Lucha",
-  "Veneno": "Psiquico"
+  "Nombre": "Meditite",
+  "Tipo": "Lucha\/Psiquico"
  },
  {
-  "Bulbasaur": "Electrike",
-  "Planta": "Electrico"
+  "Nombre": "Medicham",
+  "Tipo": "Lucha\/Psiquico"
  },
  {
-  "Bulbasaur": "Manectric",
-  "Planta": "Electrico"
+  "Nombre": "Electrike",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Plusle",
-  "Planta": "Electrico"
+  "Nombre": "Manectric",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Minun",
-  "Planta": "Electrico"
+  "Nombre": "Plusle",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Volbeat",
-  "Planta": "Bicho"
+  "Nombre": "Minun",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Illumise",
-  "Planta": "Bicho"
+  "Nombre": "Volbeat",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Roselia",
-  "Planta": "Planta",
-  "Veneno": "Veneno"
+  "Nombre": "Illumise",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Gulpin",
-  "Planta": "Veneno"
+  "Nombre": "Roselia",
+  "Tipo": "Planta\/Veneno"
  },
  {
-  "Bulbasaur": "Swalot",
-  "Planta": "Veneno"
+  "Nombre": "Gulpin",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Carvanha",
-  "Planta": "Agua",
-  "Veneno": "Siniestro"
+  "Nombre": "Swalot",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Sharpedo",
-  "Planta": "Agua",
-  "Veneno": "Siniestro"
+  "Nombre": "Carvanha",
+  "Tipo": "Agua\/Siniestro"
  },
  {
-  "Bulbasaur": "Wailmer",
-  "Planta": "Agua"
+  "Nombre": "Sharpedo",
+  "Tipo": "Agua\/Siniestro"
  },
  {
-  "Bulbasaur": "Wailord",
-  "Planta": "Agua"
+  "Nombre": "Wailmer",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Numel",
-  "Planta": "Fuego",
-  "Veneno": "Tierra"
+  "Nombre": "Wailord",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Camerupt",
-  "Planta": "Fuego",
-  "Veneno": "Tierra"
+  "Nombre": "Numel",
+  "Tipo": "Fuego\/Tierra"
  },
  {
-  "Bulbasaur": "Torkoal",
-  "Planta": "Fuego"
+  "Nombre": "Camerupt",
+  "Tipo": "Fuego\/Tierra"
  },
  {
-  "Bulbasaur": "Spoink",
-  "Planta": "Psiquico"
+  "Nombre": "Torkoal",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Grumpig",
-  "Planta": "Psiquico"
+  "Nombre": "Spoink",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Spinda",
-  "Planta": "Normal"
+  "Nombre": "Grumpig",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Trapinch",
-  "Planta": "Tierra"
+  "Nombre": "Spinda",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Vibrava",
-  "Planta": "Tierra",
-  "Veneno": "Dragon"
+  "Nombre": "Trapinch",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Flygon",
-  "Planta": "Tierra",
-  "Veneno": "Dragon"
+  "Nombre": "Vibrava",
+  "Tipo": "Tierra\/Dragon"
  },
  {
-  "Bulbasaur": "Cacnea",
-  "Planta": "Planta"
+  "Nombre": "Flygon",
+  "Tipo": "Tierra\/Dragon"
  },
  {
-  "Bulbasaur": "Cacturne",
-  "Planta": "Planta",
-  "Veneno": "Siniestro"
+  "Nombre": "Cacnea",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Swablu",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Cacturne",
+  "Tipo": "Planta\/Siniestro"
  },
  {
-  "Bulbasaur": "Altaria",
-  "Planta": "Dragon",
-  "Veneno": "Volador"
+  "Nombre": "Swablu",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Zangoose",
-  "Planta": "Normal"
+  "Nombre": "Altaria",
+  "Tipo": "Dragon\/Volador"
  },
  {
-  "Bulbasaur": "Seviper",
-  "Planta": "Veneno"
+  "Nombre": "Zangoose",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Lunatone",
-  "Planta": "Roca",
-  "Veneno": "Psiquico"
+  "Nombre": "Seviper",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Solrock",
-  "Planta": "Roca",
-  "Veneno": "Psiquico"
+  "Nombre": "Lunatone",
+  "Tipo": "Roca\/Psiquico"
  },
  {
-  "Bulbasaur": "Barboach",
-  "Planta": "Agua",
-  "Veneno": "Tierra"
+  "Nombre": "Solrock",
+  "Tipo": "Roca\/Psiquico"
  },
  {
-  "Bulbasaur": "Whiscash",
-  "Planta": "Agua",
-  "Veneno": "Tierra"
+  "Nombre": "Barboach",
+  "Tipo": "Agua\/Tierra"
  },
  {
-  "Bulbasaur": "Corphish",
-  "Planta": "Agua"
+  "Nombre": "Whiscash",
+  "Tipo": "Agua\/Tierra"
  },
  {
-  "Bulbasaur": "Crawdaunt",
-  "Planta": "Agua",
-  "Veneno": "Siniestro"
+  "Nombre": "Corphish",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Baltoy",
-  "Planta": "Tierra",
-  "Veneno": "Psiquico"
+  "Nombre": "Crawdaunt",
+  "Tipo": "Agua\/Siniestro"
  },
  {
-  "Bulbasaur": "Claydol",
-  "Planta": "Tierra",
-  "Veneno": "Psiquico"
+  "Nombre": "Baltoy",
+  "Tipo": "Tierra\/Psiquico"
  },
  {
-  "Bulbasaur": "Lileep",
-  "Planta": "Roca",
-  "Veneno": "Planta"
+  "Nombre": "Claydol",
+  "Tipo": "Tierra\/Psiquico"
  },
  {
-  "Bulbasaur": "Cradily",
-  "Planta": "Roca",
-  "Veneno": "Planta"
+  "Nombre": "Lileep",
+  "Tipo": "Roca\/Planta"
  },
  {
-  "Bulbasaur": "Anorith",
-  "Planta": "Roca",
-  "Veneno": "Bicho"
+  "Nombre": "Cradily",
+  "Tipo": "Roca\/Planta"
  },
  {
-  "Bulbasaur": "Armaldo",
-  "Planta": "Roca",
-  "Veneno": "Bicho"
+  "Nombre": "Anorith",
+  "Tipo": "Roca\/Bicho"
  },
  {
-  "Bulbasaur": "Feebas",
-  "Planta": "Agua"
+  "Nombre": "Armaldo",
+  "Tipo": "Roca\/Bicho"
  },
  {
-  "Bulbasaur": "Milotic",
-  "Planta": "Agua"
+  "Nombre": "Feebas",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Castform",
-  "Planta": "Normal"
+  "Nombre": "Milotic",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Kecleon",
-  "Planta": "Normal"
+  "Nombre": "Castform",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Shuppet",
-  "Planta": "Fantasma"
+  "Nombre": "Kecleon",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Banette",
-  "Planta": "Fantasma"
+  "Nombre": "Shuppet",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Duskull",
-  "Planta": "Fantasma"
+  "Nombre": "Banette",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Dusclops",
-  "Planta": "Fantasma"
+  "Nombre": "Duskull",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Tropius",
-  "Planta": "Planta",
-  "Veneno": "Volador"
+  "Nombre": "Dusclops",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Chimecho",
-  "Planta": "Psiquico"
+  "Nombre": "Tropius",
+  "Tipo": "Planta\/Volador"
  },
  {
-  "Bulbasaur": "Absol",
-  "Planta": "Siniestro"
+  "Nombre": "Chimecho",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Wynaut",
-  "Planta": "Psiquico"
+  "Nombre": "Absol",
+  "Tipo": "Siniestro"
  },
  {
-  "Bulbasaur": "Snorunt",
-  "Planta": "Hielo"
+  "Nombre": "Wynaut",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Glalie",
-  "Planta": "Hielo"
+  "Nombre": "Snorunt",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Spheal",
-  "Planta": "Hielo",
-  "Veneno": "Agua"
+  "Nombre": "Glalie",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Sealeo",
-  "Planta": "Hielo",
-  "Veneno": "Agua"
+  "Nombre": "Spheal",
+  "Tipo": "Hielo\/Agua"
  },
  {
-  "Bulbasaur": "Walrein",
-  "Planta": "Hielo",
-  "Veneno": "Agua"
+  "Nombre": "Sealeo",
+  "Tipo": "Hielo\/Agua"
  },
  {
-  "Bulbasaur": "Clamperl",
-  "Planta": "Agua"
+  "Nombre": "Walrein",
+  "Tipo": "Hielo\/Agua"
  },
  {
-  "Bulbasaur": "Huntail",
-  "Planta": "Agua"
+  "Nombre": "Clamperl",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Gorebyss",
-  "Planta": "Agua"
+  "Nombre": "Huntail",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Relicanth",
-  "Planta": "Agua",
-  "Veneno": "Roca"
+  "Nombre": "Gorebyss",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Luvdisc",
-  "Planta": "Agua"
+  "Nombre": "Relicanth",
+  "Tipo": "Agua\/Roca"
  },
  {
-  "Bulbasaur": "Bagon",
-  "Planta": "Dragon"
+  "Nombre": "Luvdisc",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Shelgon",
-  "Planta": "Dragon"
+  "Nombre": "Bagon",
+  "Tipo": "Dragon"
  },
  {
-  "Bulbasaur": "Salamence",
-  "Planta": "Dragon",
-  "Veneno": "Volador"
+  "Nombre": "Shelgon",
+  "Tipo": "Dragon"
  },
  {
-  "Bulbasaur": "Beldum",
-  "Planta": "Acero",
-  "Veneno": "Psiquico"
+  "Nombre": "Salamence",
+  "Tipo": "Dragon\/Volador"
  },
  {
-  "Bulbasaur": "Metang",
-  "Planta": "Acero",
-  "Veneno": "Psiquico"
+  "Nombre": "Beldum",
+  "Tipo": "Acero\/Psiquico"
  },
  {
-  "Bulbasaur": "Metagross",
-  "Planta": "Acero",
-  "Veneno": "Psiquico"
+  "Nombre": "Metang",
+  "Tipo": "Acero\/Psiquico"
  },
  {
-  "Bulbasaur": "Regirock",
-  "Planta": "Roca"
+  "Nombre": "Metagross",
+  "Tipo": "Acero\/Psiquico"
  },
  {
-  "Bulbasaur": "Regice",
-  "Planta": "Hielo"
+  "Nombre": "Regirock",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Registeel",
-  "Planta": "Acero"
+  "Nombre": "Regice",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Latias",
-  "Planta": "Dragon",
-  "Veneno": "Psiquico"
+  "Nombre": "Registeel",
+  "Tipo": "Acero"
  },
  {
-  "Bulbasaur": "Latios",
-  "Planta": "Dragon",
-  "Veneno": "Psiquico"
+  "Nombre": "Latias",
+  "Tipo": "Dragon\/Psiquico"
  },
  {
-  "Bulbasaur": "Kyogre",
-  "Planta": "Agua"
+  "Nombre": "Latios",
+  "Tipo": "Dragon\/Psiquico"
  },
  {
-  "Bulbasaur": "Groudon",
-  "Planta": "Tierra"
+  "Nombre": "Kyogre",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Rayquaza",
-  "Planta": "Dragon",
-  "Veneno": "Volador"
+  "Nombre": "Groudon",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Jirachi",
-  "Planta": "Acero",
-  "Veneno": "Psiquico"
+  "Nombre": "Rayquaza",
+  "Tipo": "Dragon\/Volador"
  },
  {
-  "Bulbasaur": "Deoxys",
-  "Planta": "Psiquico"
+  "Nombre": "Jirachi",
+  "Tipo": "Acero\/Psiquico"
  },
  {
-  "Bulbasaur": "Turtwig",
-  "Planta": "Planta"
+  "Nombre": "Deoxys",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Grotle",
-  "Planta": "Planta"
+  "Nombre": "Turtwig",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Torterra",
-  "Planta": "Planta",
-  "Veneno": "Tierra"
+  "Nombre": "Grotle",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Chimchar",
-  "Planta": "Fuego"
+  "Nombre": "Torterra",
+  "Tipo": "Planta\/Tierra"
  },
  {
-  "Bulbasaur": "Monferno",
-  "Planta": "Fuego",
-  "Veneno": "Lucha"
+  "Nombre": "Chimchar",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Infernape",
-  "Planta": "Fuego",
-  "Veneno": "Lucha"
+  "Nombre": "Monferno",
+  "Tipo": "Fuego\/Lucha"
  },
  {
-  "Bulbasaur": "Piplup",
-  "Planta": "Agua"
+  "Nombre": "Infernape",
+  "Tipo": "Fuego\/Lucha"
  },
  {
-  "Bulbasaur": "Prinplup",
-  "Planta": "Agua"
+  "Nombre": "Piplup",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Empoleon",
-  "Planta": "Agua",
-  "Veneno": "Acero"
+  "Nombre": "Prinplup",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Starly",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Empoleon",
+  "Tipo": "Agua\/Acero"
  },
  {
-  "Bulbasaur": "Staravia",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Starly",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Staraptor",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Staravia",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Bidoof",
-  "Planta": "Normal"
+  "Nombre": "Staraptor",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Bibarel",
-  "Planta": "Normal",
-  "Veneno": "Agua"
+  "Nombre": "Bidoof",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Kricketot",
-  "Planta": "Bicho"
+  "Nombre": "Bibarel",
+  "Tipo": "Normal\/Agua"
  },
  {
-  "Bulbasaur": "Kricketune",
-  "Planta": "Bicho"
+  "Nombre": "Kricketot",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Shinx",
-  "Planta": "Electrico"
+  "Nombre": "Kricketune",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Luxio",
-  "Planta": "Electrico"
+  "Nombre": "Shinx",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Luxray",
-  "Planta": "Electrico"
+  "Nombre": "Luxio",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Budew",
-  "Planta": "Planta",
-  "Veneno": "Veneno"
+  "Nombre": "Luxray",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Roserade",
-  "Planta": "Planta",
-  "Veneno": "Veneno"
+  "Nombre": "Budew",
+  "Tipo": "Planta\/Veneno"
  },
  {
-  "Bulbasaur": "Cranidos",
-  "Planta": "Roca"
+  "Nombre": "Roserade",
+  "Tipo": "Planta\/Veneno"
  },
  {
-  "Bulbasaur": "Rampardos",
-  "Planta": "Roca"
+  "Nombre": "Cranidos",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Shieldon",
-  "Planta": "Roca",
-  "Veneno": "Acero"
+  "Nombre": "Rampardos",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Bastiodon",
-  "Planta": "Roca",
-  "Veneno": "Acero"
+  "Nombre": "Shieldon",
+  "Tipo": "Roca\/Acero"
  },
  {
-  "Bulbasaur": "Burmy",
-  "Planta": "Bicho"
+  "Nombre": "Bastiodon",
+  "Tipo": "Roca\/Acero"
  },
  {
-  "Bulbasaur": "Wormadam Tronco Planta",
-  "Planta": "Bicho",
-  "Veneno": "Planta"
+  "Nombre": "Burmy",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Wormadam Tronco Arena",
-  "Planta": "Bicho",
-  "Veneno": "Tierra"
+  "Nombre": "Wormadam Tronco Planta",
+  "Tipo": "Bicho\/Planta"
  },
  {
-  "Bulbasaur": "Wormadam Tronco Basura",
-  "Planta": "Bicho",
-  "Veneno": "Acero"
+  "Nombre": "Wormadam Tronco Arena",
+  "Tipo": "Bicho\/Tierra"
  },
  {
-  "Bulbasaur": "Mothim",
-  "Planta": "Bicho",
-  "Veneno": "Volador"
+  "Nombre": "Wormadam Tronco Basura",
+  "Tipo": "Bicho\/Acero"
  },
  {
-  "Bulbasaur": "Combee",
-  "Planta": "Bicho",
-  "Veneno": "Volador"
+  "Nombre": "Mothim",
+  "Tipo": "Bicho\/Volador"
  },
  {
-  "Bulbasaur": "Vespiquen",
-  "Planta": "Bicho",
-  "Veneno": "Volador"
+  "Nombre": "Combee",
+  "Tipo": "Bicho\/Volador"
  },
  {
-  "Bulbasaur": "Pachirisu",
-  "Planta": "Electrico"
+  "Nombre": "Vespiquen",
+  "Tipo": "Bicho\/Volador"
  },
  {
-  "Bulbasaur": "Buizel",
-  "Planta": "Agua"
+  "Nombre": "Pachirisu",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Floatzel",
-  "Planta": "Agua"
+  "Nombre": "Buizel",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Cherubi",
-  "Planta": "Planta"
+  "Nombre": "Floatzel",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Cherrim",
-  "Planta": "Planta"
+  "Nombre": "Cherubi",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Shellos",
-  "Planta": "Agua"
+  "Nombre": "Cherrim",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Gastrodon",
-  "Planta": "Agua",
-  "Veneno": "Tierra"
+  "Nombre": "Shellos",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Ambipom",
-  "Planta": "Normal"
+  "Nombre": "Gastrodon",
+  "Tipo": "Agua\/Tierra"
  },
  {
-  "Bulbasaur": "Drifloon",
-  "Planta": "Fantasma",
-  "Veneno": "Volador"
+  "Nombre": "Ambipom",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Drifblim",
-  "Planta": "Fantasma",
-  "Veneno": "Volador"
+  "Nombre": "Drifloon",
+  "Tipo": "Fantasma\/Volador"
  },
  {
-  "Bulbasaur": "Buneary",
-  "Planta": "Normal"
+  "Nombre": "Drifblim",
+  "Tipo": "Fantasma\/Volador"
  },
  {
-  "Bulbasaur": "Lopunny",
-  "Planta": "Normal"
+  "Nombre": "Buneary",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Mismagius",
-  "Planta": "Fantasma"
+  "Nombre": "Lopunny",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Honchkrow",
-  "Planta": "Siniestro",
-  "Veneno": "Volador"
+  "Nombre": "Mismagius",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Glameow",
-  "Planta": "Normal"
+  "Nombre": "Honchkrow",
+  "Tipo": "Siniestro\/Volador"
  },
  {
-  "Bulbasaur": "Purugly",
-  "Planta": "Normal"
+  "Nombre": "Glameow",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Chingling",
-  "Planta": "Psiquico"
+  "Nombre": "Purugly",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Stunky",
-  "Planta": "Veneno",
-  "Veneno": "Siniestro"
+  "Nombre": "Chingling",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Skuntank",
-  "Planta": "Veneno",
-  "Veneno": "Siniestro"
+  "Nombre": "Stunky",
+  "Tipo": "Veneno\/Siniestro"
  },
  {
-  "Bulbasaur": "Bronzor",
-  "Planta": "Acero",
-  "Veneno": "Psiquico"
+  "Nombre": "Skuntank",
+  "Tipo": "Veneno\/Siniestro"
  },
  {
-  "Bulbasaur": "Bronzong",
-  "Planta": "Acero",
-  "Veneno": "Psiquico"
+  "Nombre": "Bronzor",
+  "Tipo": "Acero\/Psiquico"
  },
  {
-  "Bulbasaur": "Bonsly",
-  "Planta": "Roca"
+  "Nombre": "Bronzong",
+  "Tipo": "Acero\/Psiquico"
  },
  {
-  "Bulbasaur": "Mime Jr.",
-  "Planta": "Psiquico",
-  "Veneno": "Hada"
+  "Nombre": "Bonsly",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Happiny",
-  "Planta": "Normal"
+  "Nombre": "Mime Jr.",
+  "Tipo": "Psiquico\/Hada"
  },
  {
-  "Bulbasaur": "Chatot",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Happiny",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Spiritomb",
-  "Planta": "Fantasma",
-  "Veneno": "Siniestro"
+  "Nombre": "Chatot",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Gible",
-  "Planta": "Dragon",
-  "Veneno": "Tierra"
+  "Nombre": "Spiritomb",
+  "Tipo": "Fantasma\/Siniestro"
  },
  {
-  "Bulbasaur": "Gabite",
-  "Planta": "Dragon",
-  "Veneno": "Tierra"
+  "Nombre": "Gible",
+  "Tipo": "Dragon\/Tierra"
  },
  {
-  "Bulbasaur": "Garchomp",
-  "Planta": "Dragon",
-  "Veneno": "Tierra"
+  "Nombre": "Gabite",
+  "Tipo": "Dragon\/Tierra"
  },
  {
-  "Bulbasaur": "Munchlax",
-  "Planta": "Normal"
+  "Nombre": "Garchomp",
+  "Tipo": "Dragon\/Tierra"
  },
  {
-  "Bulbasaur": "Riolu",
-  "Planta": "Lucha"
+  "Nombre": "Munchlax",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Lucario",
-  "Planta": "Lucha",
-  "Veneno": "Acero"
+  "Nombre": "Riolu",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Hippopotas",
-  "Planta": "Tierra"
+  "Nombre": "Lucario",
+  "Tipo": "Lucha\/Acero"
  },
  {
-  "Bulbasaur": "Hippowdon",
-  "Planta": "Tierra"
+  "Nombre": "Hippopotas",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Skorupi",
-  "Planta": "Veneno",
-  "Veneno": "Bicho"
+  "Nombre": "Hippowdon",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Drapion",
-  "Planta": "Veneno",
-  "Veneno": "Siniestro"
+  "Nombre": "Skorupi",
+  "Tipo": "Veneno\/Bicho"
  },
  {
-  "Bulbasaur": "Croagunk",
-  "Planta": "Veneno",
-  "Veneno": "Lucha"
+  "Nombre": "Drapion",
+  "Tipo": "Veneno\/Siniestro"
  },
  {
-  "Bulbasaur": "Toxicroak",
-  "Planta": "Veneno",
-  "Veneno": "Lucha"
+  "Nombre": "Croagunk",
+  "Tipo": "Veneno\/Lucha"
  },
  {
-  "Bulbasaur": "Carnivine",
-  "Planta": "Planta"
+  "Nombre": "Toxicroak",
+  "Tipo": "Veneno\/Lucha"
  },
  {
-  "Bulbasaur": "Finneon",
-  "Planta": "Agua"
+  "Nombre": "Carnivine",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Lumineon",
-  "Planta": "Agua"
+  "Nombre": "Finneon",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Mantyke",
-  "Planta": "Agua",
-  "Veneno": "Volador"
+  "Nombre": "Lumineon",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Snover",
-  "Planta": "Planta",
-  "Veneno": "Hielo"
+  "Nombre": "Mantyke",
+  "Tipo": "Agua\/Volador"
  },
  {
-  "Bulbasaur": "Abomasnow",
-  "Planta": "Planta",
-  "Veneno": "Hielo"
+  "Nombre": "Snover",
+  "Tipo": "Planta\/Hielo"
  },
  {
-  "Bulbasaur": "Weavile",
-  "Planta": "Siniestro",
-  "Veneno": "Hielo"
+  "Nombre": "Abomasnow",
+  "Tipo": "Planta\/Hielo"
  },
  {
-  "Bulbasaur": "Magnezone",
-  "Planta": "Electrico",
-  "Veneno": "Acero"
+  "Nombre": "Weavile",
+  "Tipo": "Siniestro\/Hielo"
  },
  {
-  "Bulbasaur": "Lickilicky",
-  "Planta": "Normal"
+  "Nombre": "Magnezone",
+  "Tipo": "Electrico\/Acero"
  },
  {
-  "Bulbasaur": "Rhyperior",
-  "Planta": "Tierra",
-  "Veneno": "Roca"
+  "Nombre": "Lickilicky",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Tangrowth",
-  "Planta": "Planta"
+  "Nombre": "Rhyperior",
+  "Tipo": "Tierra\/Roca"
  },
  {
-  "Bulbasaur": "Electivire",
-  "Planta": "Electrico"
+  "Nombre": "Tangrowth",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Magmortar",
-  "Planta": "Fuego"
+  "Nombre": "Electivire",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Togekiss",
-  "Planta": "Hada",
-  "Veneno": "Volador"
+  "Nombre": "Magmortar",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Yanmega",
-  "Planta": "Bicho",
-  "Veneno": "Volador"
+  "Nombre": "Togekiss",
+  "Tipo": "Hada\/Volador"
  },
  {
-  "Bulbasaur": "Leafeon",
-  "Planta": "Planta"
+  "Nombre": "Yanmega",
+  "Tipo": "Bicho\/Volador"
  },
  {
-  "Bulbasaur": "Glaceon",
-  "Planta": "Hielo"
+  "Nombre": "Leafeon",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Gliscor",
-  "Planta": "Tierra",
-  "Veneno": "Volador"
+  "Nombre": "Glaceon",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Mamoswine",
-  "Planta": "Hielo",
-  "Veneno": "Tierra"
+  "Nombre": "Gliscor",
+  "Tipo": "Tierra\/Volador"
  },
  {
-  "Bulbasaur": "Porygon-Z",
-  "Planta": "Normal"
+  "Nombre": "Mamoswine",
+  "Tipo": "Hielo\/Tierra"
  },
  {
-  "Bulbasaur": "Gallade",
-  "Planta": "Psiquico",
-  "Veneno": "Lucha"
+  "Nombre": "Porygon-Z",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Probopass",
-  "Planta": "Roca",
-  "Veneno": "Acero"
+  "Nombre": "Gallade",
+  "Tipo": "Psiquico\/Lucha"
  },
  {
-  "Bulbasaur": "Dusknoir",
-  "Planta": "Fantasma"
+  "Nombre": "Probopass",
+  "Tipo": "Roca\/Acero"
  },
  {
-  "Bulbasaur": "Froslass",
-  "Planta": "Hielo",
-  "Veneno": "Fantasma"
+  "Nombre": "Dusknoir",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Rotom",
-  "Planta": "Electrico",
-  "Veneno": "Fantasma"
+  "Nombre": "Froslass",
+  "Tipo": "Hielo\/Fantasma"
  },
  {
-  "Bulbasaur": "Rotom calor",
-  "Planta": "Electrico",
-  "Veneno": "Fuego"
+  "Nombre": "Rotom",
+  "Tipo": "Electrico\/Fantasma"
  },
  {
-  "Bulbasaur": "Rotom lavado",
-  "Planta": "Electrico",
-  "Veneno": "Agua"
+  "Nombre": "Rotom calor",
+  "Tipo": "Electrico\/Fuego"
  },
  {
-  "Bulbasaur": "Rotom frio",
-  "Planta": "Electrico",
-  "Veneno": "Hielo"
+  "Nombre": "Rotom lavado",
+  "Tipo": "Electrico\/Agua"
  },
  {
-  "Bulbasaur": "Rotom ventilador",
-  "Planta": "Electrico",
-  "Veneno": "Volador"
+  "Nombre": "Rotom frio",
+  "Tipo": "Electrico\/Hielo"
  },
  {
-  "Bulbasaur": "Rotom corte",
-  "Planta": "Electrico",
-  "Veneno": "Planta"
+  "Nombre": "Rotom ventilador",
+  "Tipo": "Electrico\/Volador"
  },
  {
-  "Bulbasaur": "Uxie",
-  "Planta": "Psiquico"
+  "Nombre": "Rotom corte",
+  "Tipo": "Electrico\/Planta"
  },
  {
-  "Bulbasaur": "Mesprit",
-  "Planta": "Psiquico"
+  "Nombre": "Uxie",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Azelf",
-  "Planta": "Psiquico"
+  "Nombre": "Mesprit",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Dialga",
-  "Planta": "Acero",
-  "Veneno": "Dragon"
+  "Nombre": "Azelf",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Dialga Origen",
-  "Planta": "Acero",
-  "Veneno": "Dragon"
+  "Nombre": "Dialga",
+  "Tipo": "Acero\/Dragon"
  },
  {
-  "Bulbasaur": "Palkia",
-  "Planta": "Agua",
-  "Veneno": "Dragon"
+  "Nombre": "Dialga Origen",
+  "Tipo": "Acero\/Dragon"
  },
  {
-  "Bulbasaur": "Heatran",
-  "Planta": "Fuego",
-  "Veneno": "Acero"
+  "Nombre": "Palkia",
+  "Tipo": "Agua\/Dragon"
  },
  {
-  "Bulbasaur": "Regigigas",
-  "Planta": "Normal"
+  "Nombre": "Heatran",
+  "Tipo": "Fuego\/Acero"
  },
  {
-  "Bulbasaur": "Giratina",
-  "Planta": "Fantasma",
-  "Veneno": "Dragon"
+  "Nombre": "Regigigas",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Cresselia",
-  "Planta": "Psiquico"
+  "Nombre": "Giratina",
+  "Tipo": "Fantasma\/Dragon"
  },
  {
-  "Bulbasaur": "Phione",
-  "Planta": "Agua"
+  "Nombre": "Cresselia",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Manaphy",
-  "Planta": "Agua"
+  "Nombre": "Phione",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Darkrai",
-  "Planta": "Siniestro"
+  "Nombre": "Manaphy",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Shaymin",
-  "Planta": "Planta"
+  "Nombre": "Darkrai",
+  "Tipo": "Siniestro"
  },
  {
-  "Bulbasaur": "Arceus",
-  "Planta": "Normal"
+  "Nombre": "Shaymin",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Victini",
-  "Planta": "Psiquico",
-  "Veneno": "Fuego"
+  "Nombre": "Arceus",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Snivy",
-  "Planta": "Planta"
+  "Nombre": "Victini",
+  "Tipo": "Psiquico\/Fuego"
  },
  {
-  "Bulbasaur": "Servine",
-  "Planta": "Planta"
+  "Nombre": "Snivy",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Serperior",
-  "Planta": "Planta"
+  "Nombre": "Servine",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Tepig",
-  "Planta": "Fuego"
+  "Nombre": "Serperior",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Pignite",
-  "Planta": "Fuego",
-  "Veneno": "Lucha"
+  "Nombre": "Tepig",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Emboar",
-  "Planta": "Fuego",
-  "Veneno": "Lucha"
+  "Nombre": "Pignite",
+  "Tipo": "Fuego\/Lucha"
  },
  {
-  "Bulbasaur": "Oshawott",
-  "Planta": "Agua"
+  "Nombre": "Emboar",
+  "Tipo": "Fuego\/Lucha"
  },
  {
-  "Bulbasaur": "Dewott",
-  "Planta": "Agua"
+  "Nombre": "Oshawott",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Samurott",
-  "Planta": "Agua"
+  "Nombre": "Dewott",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Samurott Hisui",
-  "Planta": "Agua",
-  "Veneno": "Siniestro"
+  "Nombre": "Samurott",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Patrat",
-  "Planta": "Normal"
+  "Nombre": "Samurott Hisui",
+  "Tipo": "Agua\/Siniestro"
  },
  {
-  "Bulbasaur": "Watchog",
-  "Planta": "Normal"
+  "Nombre": "Patrat",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Lillipup",
-  "Planta": "Normal"
+  "Nombre": "Watchog",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Herdier",
-  "Planta": "Normal"
+  "Nombre": "Lillipup",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Stoutland",
-  "Planta": "Normal"
+  "Nombre": "Herdier",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Purrloin",
-  "Planta": "Siniestro"
+  "Nombre": "Stoutland",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Liepard",
-  "Planta": "Siniestro"
+  "Nombre": "Purrloin",
+  "Tipo": "Siniestro"
  },
  {
-  "Bulbasaur": "Pansage",
-  "Planta": "Planta"
+  "Nombre": "Liepard",
+  "Tipo": "Siniestro"
  },
  {
-  "Bulbasaur": "Simisage",
-  "Planta": "Planta"
+  "Nombre": "Pansage",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Pansear",
-  "Planta": "Fuego"
+  "Nombre": "Simisage",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Simisear",
-  "Planta": "Fuego"
+  "Nombre": "Pansear",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Panpour",
-  "Planta": "Agua"
+  "Nombre": "Simisear",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Simipour",
-  "Planta": "Agua"
+  "Nombre": "Panpour",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Munna",
-  "Planta": "Psiquico"
+  "Nombre": "Simipour",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Musharna",
-  "Planta": "Psiquico"
+  "Nombre": "Munna",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Pidove",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Musharna",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Tranquill",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Pidove",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Unfezant",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Tranquill",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Blitzle",
-  "Planta": "Electrico"
+  "Nombre": "Unfezant",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Zebstrika",
-  "Planta": "Electrico"
+  "Nombre": "Blitzle",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Roggenrola",
-  "Planta": "Roca"
+  "Nombre": "Zebstrika",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Boldore",
-  "Planta": "Roca"
+  "Nombre": "Roggenrola",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Gigalith",
-  "Planta": "Roca"
+  "Nombre": "Boldore",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Woobat",
-  "Planta": "Psiquico",
-  "Veneno": "Volador"
+  "Nombre": "Gigalith",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Swoobat",
-  "Planta": "Psiquico",
-  "Veneno": "Volador"
+  "Nombre": "Woobat",
+  "Tipo": "Psiquico\/Volador"
  },
  {
-  "Bulbasaur": "Drilbur",
-  "Planta": "Tierra"
+  "Nombre": "Swoobat",
+  "Tipo": "Psiquico\/Volador"
  },
  {
-  "Bulbasaur": "Excadrill",
-  "Planta": "Tierra",
-  "Veneno": "Acero"
+  "Nombre": "Drilbur",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Audino",
-  "Planta": "Normal"
+  "Nombre": "Excadrill",
+  "Tipo": "Tierra\/Acero"
  },
  {
-  "Bulbasaur": "Timburr",
-  "Planta": "Lucha"
+  "Nombre": "Audino",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Gurdurr",
-  "Planta": "Lucha"
+  "Nombre": "Timburr",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Conkeldurr",
-  "Planta": "Lucha"
+  "Nombre": "Gurdurr",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Tympole",
-  "Planta": "Agua"
+  "Nombre": "Conkeldurr",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Palpitoad",
-  "Planta": "Agua",
-  "Veneno": "Tierra"
+  "Nombre": "Tympole",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Seismitoad",
-  "Planta": "Agua",
-  "Veneno": "Tierra"
+  "Nombre": "Palpitoad",
+  "Tipo": "Agua\/Tierra"
  },
  {
-  "Bulbasaur": "Throh",
-  "Planta": "Lucha"
+  "Nombre": "Seismitoad",
+  "Tipo": "Agua\/Tierra"
  },
  {
-  "Bulbasaur": "Sawk",
-  "Planta": "Lucha"
+  "Nombre": "Throh",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Sewaddle",
-  "Planta": "Bicho",
-  "Veneno": "Planta"
+  "Nombre": "Sawk",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Swadloon",
-  "Planta": "Bicho",
-  "Veneno": "Planta"
+  "Nombre": "Sewaddle",
+  "Tipo": "Bicho\/Planta"
  },
  {
-  "Bulbasaur": "Leavanny",
-  "Planta": "Bicho",
-  "Veneno": "Planta"
+  "Nombre": "Swadloon",
+  "Tipo": "Bicho\/Planta"
  },
  {
-  "Bulbasaur": "Venipede",
-  "Planta": "Bicho",
-  "Veneno": "Veneno"
+  "Nombre": "Leavanny",
+  "Tipo": "Bicho\/Planta"
  },
  {
-  "Bulbasaur": "Whirlipede",
-  "Planta": "Bicho",
-  "Veneno": "Veneno"
+  "Nombre": "Venipede",
+  "Tipo": "Bicho\/Veneno"
  },
  {
-  "Bulbasaur": "Scolipede",
-  "Planta": "Bicho",
-  "Veneno": "Veneno"
+  "Nombre": "Whirlipede",
+  "Tipo": "Bicho\/Veneno"
  },
  {
-  "Bulbasaur": "Cottonee",
-  "Planta": "Planta",
-  "Veneno": "Hada"
+  "Nombre": "Scolipede",
+  "Tipo": "Bicho\/Veneno"
  },
  {
-  "Bulbasaur": "Whimsicott",
-  "Planta": "Planta",
-  "Veneno": "Hada"
+  "Nombre": "Cottonee",
+  "Tipo": "Planta\/Hada"
  },
  {
-  "Bulbasaur": "Petilil",
-  "Planta": "Planta"
+  "Nombre": "Whimsicott",
+  "Tipo": "Planta\/Hada"
  },
  {
-  "Bulbasaur": "Lilligant",
-  "Planta": "Planta"
+  "Nombre": "Petilil",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Lilligant Hisui",
-  "Planta": "Planta",
-  "Veneno": "Lucha"
+  "Nombre": "Lilligant",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Basculin",
-  "Planta": "Agua"
+  "Nombre": "Lilligant Hisui",
+  "Tipo": "Planta\/Lucha"
  },
  {
-  "Bulbasaur": "Basculin raya blanca",
-  "Planta": "Agua"
+  "Nombre": "Basculin",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Sandile",
-  "Planta": "Tierra",
-  "Veneno": "Siniestro"
+  "Nombre": "Basculin raya blanca",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Krokorok",
-  "Planta": "Tierra",
-  "Veneno": "Siniestro"
+  "Nombre": "Sandile",
+  "Tipo": "Tierra\/Siniestro"
  },
  {
-  "Bulbasaur": "Krookodile",
-  "Planta": "Tierra",
-  "Veneno": "Siniestro"
+  "Nombre": "Krokorok",
+  "Tipo": "Tierra\/Siniestro"
  },
  {
-  "Bulbasaur": "Darumaka",
-  "Planta": "Fuego"
+  "Nombre": "Krookodile",
+  "Tipo": "Tierra\/Siniestro"
  },
  {
-  "Bulbasaur": "Darumaka Galar",
-  "Planta": "Hielo"
+  "Nombre": "Darumaka",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Darmanitan",
-  "Planta": "Fuego"
+  "Nombre": "Darumaka Galar",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Darmanitan Galar",
-  "Planta": "Hielo",
-  "Veneno": "Fuego"
+  "Nombre": "Darmanitan",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Maractus",
-  "Planta": "Planta"
+  "Nombre": "Darmanitan Galar",
+  "Tipo": "Hielo\/Fuego"
  },
  {
-  "Bulbasaur": "Dwebble",
-  "Planta": "Bicho",
-  "Veneno": "Roca"
+  "Nombre": "Maractus",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Crustle",
-  "Planta": "Bicho",
-  "Veneno": "Roca"
+  "Nombre": "Dwebble",
+  "Tipo": "Bicho\/Roca"
  },
  {
-  "Bulbasaur": "Scraggy",
-  "Planta": "Siniestro",
-  "Veneno": "Lucha"
+  "Nombre": "Crustle",
+  "Tipo": "Bicho\/Roca"
  },
  {
-  "Bulbasaur": "Scrafty",
-  "Planta": "Siniestro",
-  "Veneno": "Lucha"
+  "Nombre": "Scraggy",
+  "Tipo": "Siniestro\/Lucha"
  },
  {
-  "Bulbasaur": "Sigilyph",
-  "Planta": "Psiquico",
-  "Veneno": "Volador"
+  "Nombre": "Scrafty",
+  "Tipo": "Siniestro\/Lucha"
  },
  {
-  "Bulbasaur": "Yamask",
-  "Planta": "Fantasma"
+  "Nombre": "Sigilyph",
+  "Tipo": "Psiquico\/Volador"
  },
  {
-  "Bulbasaur": "Yamask Galar",
-  "Planta": "Tierra",
-  "Veneno": "Fantasma"
+  "Nombre": "Yamask",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Cofagrigus",
-  "Planta": "Fantasma"
+  "Nombre": "Yamask Galar",
+  "Tipo": "Tierra\/Fantasma"
  },
  {
-  "Bulbasaur": "Tirtouga",
-  "Planta": "Agua",
-  "Veneno": "Roca"
+  "Nombre": "Cofagrigus",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Carracosta",
-  "Planta": "Agua",
-  "Veneno": "Roca"
+  "Nombre": "Tirtouga",
+  "Tipo": "Agua\/Roca"
  },
  {
-  "Bulbasaur": "Archen",
-  "Planta": "Roca",
-  "Veneno": "Volador"
+  "Nombre": "Carracosta",
+  "Tipo": "Agua\/Roca"
  },
  {
-  "Bulbasaur": "Archeops",
-  "Planta": "Roca",
-  "Veneno": "Volador"
+  "Nombre": "Archen",
+  "Tipo": "Roca\/Volador"
  },
  {
-  "Bulbasaur": "Trubbish",
-  "Planta": "Veneno"
+  "Nombre": "Archeops",
+  "Tipo": "Roca\/Volador"
  },
  {
-  "Bulbasaur": "Garbodor",
-  "Planta": "Veneno"
+  "Nombre": "Trubbish",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Zorua",
-  "Planta": "Siniestro"
+  "Nombre": "Garbodor",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Zorua Hisui",
-  "Planta": "Normal",
-  "Veneno": "Fantasma"
+  "Nombre": "Zorua",
+  "Tipo": "Siniestro"
  },
  {
-  "Bulbasaur": "Zoroark",
-  "Planta": "Siniestro"
+  "Nombre": "Zorua Hisui",
+  "Tipo": "Normal\/Fantasma"
  },
  {
-  "Bulbasaur": "Zoroark Hisui",
-  "Planta": "Normal",
-  "Veneno": "Fantasma"
+  "Nombre": "Zoroark",
+  "Tipo": "Siniestro"
  },
  {
-  "Bulbasaur": "Minccino",
-  "Planta": "Normal"
+  "Nombre": "Zoroark Hisui",
+  "Tipo": "Normal\/Fantasma"
  },
  {
-  "Bulbasaur": "Cinccino",
-  "Planta": "Normal"
+  "Nombre": "Minccino",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Gothita",
-  "Planta": "Psiquico"
+  "Nombre": "Cinccino",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Gothorita",
-  "Planta": "Psiquico"
+  "Nombre": "Gothita",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Gothitelle",
-  "Planta": "Psiquico"
+  "Nombre": "Gothorita",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Solosis",
-  "Planta": "Psiquico"
+  "Nombre": "Gothitelle",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Duosion",
-  "Planta": "Psiquico"
+  "Nombre": "Solosis",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Reuniclus",
-  "Planta": "Psiquico"
+  "Nombre": "Duosion",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Ducklett",
-  "Planta": "Agua",
-  "Veneno": "Volador"
+  "Nombre": "Reuniclus",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Swanna",
-  "Planta": "Agua",
-  "Veneno": "Volador"
+  "Nombre": "Ducklett",
+  "Tipo": "Agua\/Volador"
  },
  {
-  "Bulbasaur": "Vanillite",
-  "Planta": "Hielo"
+  "Nombre": "Swanna",
+  "Tipo": "Agua\/Volador"
  },
  {
-  "Bulbasaur": "Vanillish",
-  "Planta": "Hielo"
+  "Nombre": "Vanillite",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Vanilluxe",
-  "Planta": "Hielo"
+  "Nombre": "Vanillish",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Palkia Origen",
-  "Planta": "Agua",
-  "Veneno": "Dragon"
+  "Nombre": "Vanilluxe",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Deerling",
-  "Planta": "Normal",
-  "Veneno": "Planta"
+  "Nombre": "Palkia Origen",
+  "Tipo": "Agua\/Dragon"
  },
  {
-  "Bulbasaur": "Sawsbuck",
-  "Planta": "Normal",
-  "Veneno": "Planta"
+  "Nombre": "Deerling",
+  "Tipo": "Normal\/Planta"
  },
  {
-  "Bulbasaur": "Emolga",
-  "Planta": "Electrico",
-  "Veneno": "Volador"
+  "Nombre": "Sawsbuck",
+  "Tipo": "Normal\/Planta"
  },
  {
-  "Bulbasaur": "Karrablast",
-  "Planta": "Bicho"
+  "Nombre": "Emolga",
+  "Tipo": "Electrico\/Volador"
  },
  {
-  "Bulbasaur": "Escavalier",
-  "Planta": "Bicho",
-  "Veneno": "Acero"
+  "Nombre": "Karrablast",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Foongus",
-  "Planta": "Planta",
-  "Veneno": "Veneno"
+  "Nombre": "Escavalier",
+  "Tipo": "Bicho\/Acero"
  },
  {
-  "Bulbasaur": "Amoonguss",
-  "Planta": "Planta",
-  "Veneno": "Veneno"
+  "Nombre": "Foongus",
+  "Tipo": "Planta\/Veneno"
  },
  {
-  "Bulbasaur": "Frillish",
-  "Planta": "Agua",
-  "Veneno": "Fantasma"
+  "Nombre": "Amoonguss",
+  "Tipo": "Planta\/Veneno"
  },
  {
-  "Bulbasaur": "Jellicent",
-  "Planta": "Agua",
-  "Veneno": "Fantasma"
+  "Nombre": "Frillish",
+  "Tipo": "Agua\/Fantasma"
  },
  {
-  "Bulbasaur": "Alomomola",
-  "Planta": "Agua"
+  "Nombre": "Jellicent",
+  "Tipo": "Agua\/Fantasma"
  },
  {
-  "Bulbasaur": "Joltik",
-  "Planta": "Bicho",
-  "Veneno": "Electrico"
+  "Nombre": "Alomomola",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Galvantula",
-  "Planta": "Bicho",
-  "Veneno": "Electrico"
+  "Nombre": "Joltik",
+  "Tipo": "Bicho\/Electrico"
  },
  {
-  "Bulbasaur": "Ferroseed",
-  "Planta": "Planta",
-  "Veneno": "Acero"
+  "Nombre": "Galvantula",
+  "Tipo": "Bicho\/Electrico"
  },
  {
-  "Bulbasaur": "Ferrothorn",
-  "Planta": "Planta",
-  "Veneno": "Acero"
+  "Nombre": "Ferroseed",
+  "Tipo": "Planta\/Acero"
  },
  {
-  "Bulbasaur": "Klink",
-  "Planta": "Acero"
+  "Nombre": "Ferrothorn",
+  "Tipo": "Planta\/Acero"
  },
  {
-  "Bulbasaur": "Klang",
-  "Planta": "Acero"
+  "Nombre": "Klink",
+  "Tipo": "Acero"
  },
  {
-  "Bulbasaur": "Klinklang",
-  "Planta": "Acero"
+  "Nombre": "Klang",
+  "Tipo": "Acero"
  },
  {
-  "Bulbasaur": "Tynamo",
-  "Planta": "Electrico"
+  "Nombre": "Klinklang",
+  "Tipo": "Acero"
  },
  {
-  "Bulbasaur": "Eelektrik",
-  "Planta": "Electrico"
+  "Nombre": "Tynamo",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Eelektross",
-  "Planta": "Electrico"
+  "Nombre": "Eelektrik",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Elgyem",
-  "Planta": "Psiquico"
+  "Nombre": "Eelektross",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Beheeyem",
-  "Planta": "Psiquico"
+  "Nombre": "Elgyem",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Litwick",
-  "Planta": "Fantasma",
-  "Veneno": "Fuego"
+  "Nombre": "Beheeyem",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Lampent",
-  "Planta": "Fantasma",
-  "Veneno": "Fuego"
+  "Nombre": "Litwick",
+  "Tipo": "Fantasma\/Fuego"
  },
  {
-  "Bulbasaur": "Chandelure",
-  "Planta": "Fantasma",
-  "Veneno": "Fuego"
+  "Nombre": "Lampent",
+  "Tipo": "Fantasma\/Fuego"
  },
  {
-  "Bulbasaur": "Axew",
-  "Planta": "Dragon"
+  "Nombre": "Chandelure",
+  "Tipo": "Fantasma\/Fuego"
  },
  {
-  "Bulbasaur": "Fraxure",
-  "Planta": "Dragon"
+  "Nombre": "Axew",
+  "Tipo": "Dragon"
  },
  {
-  "Bulbasaur": "Haxorus",
-  "Planta": "Dragon"
+  "Nombre": "Fraxure",
+  "Tipo": "Dragon"
  },
  {
-  "Bulbasaur": "Cubchoo",
-  "Planta": "Hielo"
+  "Nombre": "Haxorus",
+  "Tipo": "Dragon"
  },
  {
-  "Bulbasaur": "Beartic",
-  "Planta": "Hielo"
+  "Nombre": "Cubchoo",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Cryogonal",
-  "Planta": "Hielo"
+  "Nombre": "Beartic",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Shelmet",
-  "Planta": "Bicho"
+  "Nombre": "Cryogonal",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Accelgor",
-  "Planta": "Bicho"
+  "Nombre": "Shelmet",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Stunfisk",
-  "Planta": "Tierra",
-  "Veneno": "Electrico"
+  "Nombre": "Accelgor",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Stunfisk Galar",
-  "Planta": "Tierra",
-  "Veneno": "Acero"
+  "Nombre": "Stunfisk",
+  "Tipo": "Tierra\/Electrico"
  },
  {
-  "Bulbasaur": "Mienfoo",
-  "Planta": "Lucha"
+  "Nombre": "Stunfisk Galar",
+  "Tipo": "Tierra\/Acero"
  },
  {
-  "Bulbasaur": "Mienshao",
-  "Planta": "Lucha"
+  "Nombre": "Mienfoo",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Druddigon",
-  "Planta": "Dragon"
+  "Nombre": "Mienshao",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Golett",
-  "Planta": "Tierra",
-  "Veneno": "Fantasma"
+  "Nombre": "Druddigon",
+  "Tipo": "Dragon"
  },
  {
-  "Bulbasaur": "Golurk",
-  "Planta": "Tierra",
-  "Veneno": "Fantasma"
+  "Nombre": "Golett",
+  "Tipo": "Tierra\/Fantasma"
  },
  {
-  "Bulbasaur": "Pawniard",
-  "Planta": "Siniestro",
-  "Veneno": "Acero"
+  "Nombre": "Golurk",
+  "Tipo": "Tierra\/Fantasma"
  },
  {
-  "Bulbasaur": "Bisharp",
-  "Planta": "Siniestro",
-  "Veneno": "Acero"
+  "Nombre": "Pawniard",
+  "Tipo": "Siniestro\/Acero"
  },
  {
-  "Bulbasaur": "Bouffalant",
-  "Planta": "Normal"
+  "Nombre": "Bisharp",
+  "Tipo": "Siniestro\/Acero"
  },
  {
-  "Bulbasaur": "Rufflet",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Bouffalant",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Braviary",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Rufflet",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Braviary Hisui",
-  "Planta": "Psiquico",
-  "Veneno": "Volador"
+  "Nombre": "Braviary",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Vullaby",
-  "Planta": "Siniestro",
-  "Veneno": "Volador"
+  "Nombre": "Braviary Hisui",
+  "Tipo": "Psiquico\/Volador"
  },
  {
-  "Bulbasaur": "Mandibuzz",
-  "Planta": "Siniestro",
-  "Veneno": "Volador"
+  "Nombre": "Vullaby",
+  "Tipo": "Siniestro\/Volador"
  },
  {
-  "Bulbasaur": "Heatmor",
-  "Planta": "Fuego"
+  "Nombre": "Mandibuzz",
+  "Tipo": "Siniestro\/Volador"
  },
  {
-  "Bulbasaur": "Durant",
-  "Planta": "Bicho",
-  "Veneno": "Acero"
+  "Nombre": "Heatmor",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Deino",
-  "Planta": "Siniestro",
-  "Veneno": "Dragon"
+  "Nombre": "Durant",
+  "Tipo": "Bicho\/Acero"
  },
  {
-  "Bulbasaur": "Zweilous",
-  "Planta": "Siniestro",
-  "Veneno": "Dragon"
+  "Nombre": "Deino",
+  "Tipo": "Siniestro\/Dragon"
  },
  {
-  "Bulbasaur": "Hydreigon",
-  "Planta": "Siniestro",
-  "Veneno": "Dragon"
+  "Nombre": "Zweilous",
+  "Tipo": "Siniestro\/Dragon"
  },
  {
-  "Bulbasaur": "Larvesta",
-  "Planta": "Bicho",
-  "Veneno": "Fuego"
+  "Nombre": "Hydreigon",
+  "Tipo": "Siniestro\/Dragon"
  },
  {
-  "Bulbasaur": "Volcarona",
-  "Planta": "Bicho",
-  "Veneno": "Fuego"
+  "Nombre": "Larvesta",
+  "Tipo": "Bicho\/Fuego"
  },
  {
-  "Bulbasaur": "Cobalion",
-  "Planta": "Acero",
-  "Veneno": "Lucha"
+  "Nombre": "Volcarona",
+  "Tipo": "Bicho\/Fuego"
  },
  {
-  "Bulbasaur": "Terrakion",
-  "Planta": "Roca",
-  "Veneno": "Lucha"
+  "Nombre": "Cobalion",
+  "Tipo": "Acero\/Lucha"
  },
  {
-  "Bulbasaur": "Virizion",
-  "Planta": "Planta",
-  "Veneno": "Lucha"
+  "Nombre": "Terrakion",
+  "Tipo": "Roca\/Lucha"
  },
  {
-  "Bulbasaur": "Tornadus",
-  "Planta": "Volador"
+  "Nombre": "Virizion",
+  "Tipo": "Planta\/Lucha"
  },
  {
-  "Bulbasaur": "Thundurus",
-  "Planta": "Electrico",
-  "Veneno": "Volador"
+  "Nombre": "Tornadus",
+  "Tipo": "Volador"
  },
  {
-  "Bulbasaur": "Reshiram",
-  "Planta": "Dragon",
-  "Veneno": "Fuego"
+  "Nombre": "Thundurus",
+  "Tipo": "Electrico\/Volador"
  },
  {
-  "Bulbasaur": "Zekrom",
-  "Planta": "Dragon",
-  "Veneno": "Electrico"
+  "Nombre": "Reshiram",
+  "Tipo": "Dragon\/Fuego"
  },
  {
-  "Bulbasaur": "Landorus",
-  "Planta": "Tierra",
-  "Veneno": "Volador"
+  "Nombre": "Zekrom",
+  "Tipo": "Dragon\/Electrico"
  },
  {
-  "Bulbasaur": "Kyurem",
-  "Planta": "Dragon",
-  "Veneno": "Hielo"
+  "Nombre": "Landorus",
+  "Tipo": "Tierra\/Volador"
  },
  {
-  "Bulbasaur": "Keldeo",
-  "Planta": "Agua",
-  "Veneno": "Lucha"
+  "Nombre": "Kyurem",
+  "Tipo": "Dragon\/Hielo"
  },
  {
-  "Bulbasaur": "Meloetta",
-  "Planta": "Normal",
-  "Veneno": "Psiquico"
+  "Nombre": "Keldeo",
+  "Tipo": "Agua\/Lucha"
  },
  {
-  "Bulbasaur": "Genesect",
-  "Planta": "Bicho",
-  "Veneno": "Acero"
+  "Nombre": "Meloetta",
+  "Tipo": "Normal\/Psiquico"
  },
  {
-  "Bulbasaur": "Chespin",
-  "Planta": "Planta"
+  "Nombre": "Genesect",
+  "Tipo": "Bicho\/Acero"
  },
  {
-  "Bulbasaur": "Quilladin",
-  "Planta": "Planta"
+  "Nombre": "Chespin",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Chesnaught",
-  "Planta": "Planta",
-  "Veneno": "Lucha"
+  "Nombre": "Quilladin",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Fennekin",
-  "Planta": "Fuego"
+  "Nombre": "Chesnaught",
+  "Tipo": "Planta\/Lucha"
  },
  {
-  "Bulbasaur": "Braixen",
-  "Planta": "Fuego"
+  "Nombre": "Fennekin",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Delphox",
-  "Planta": "Fuego",
-  "Veneno": "Psiquico"
+  "Nombre": "Braixen",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Froakie",
-  "Planta": "Agua"
+  "Nombre": "Delphox",
+  "Tipo": "Fuego\/Psiquico"
  },
  {
-  "Bulbasaur": "Frogadier",
-  "Planta": "Agua"
+  "Nombre": "Froakie",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Greninja",
-  "Planta": "Agua",
-  "Veneno": "Siniestro"
+  "Nombre": "Frogadier",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Bunnelby",
-  "Planta": "Normal"
+  "Nombre": "Greninja",
+  "Tipo": "Agua\/Siniestro"
  },
  {
-  "Bulbasaur": "Diggersby",
-  "Planta": "Normal",
-  "Veneno": "Tierra"
+  "Nombre": "Bunnelby",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Fletchling",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Diggersby",
+  "Tipo": "Normal\/Tierra"
  },
  {
-  "Bulbasaur": "Fletchinder",
-  "Planta": "Fuego",
-  "Veneno": "Volador"
+  "Nombre": "Fletchling",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Talonflame",
-  "Planta": "Fuego",
-  "Veneno": "Volador"
+  "Nombre": "Fletchinder",
+  "Tipo": "Fuego\/Volador"
  },
  {
-  "Bulbasaur": "Scatterbug",
-  "Planta": "Bicho"
+  "Nombre": "Talonflame",
+  "Tipo": "Fuego\/Volador"
  },
  {
-  "Bulbasaur": "Spewpa",
-  "Planta": "Bicho"
+  "Nombre": "Scatterbug",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Vivillon",
-  "Planta": "Bicho",
-  "Veneno": "Volador"
+  "Nombre": "Spewpa",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Litleo",
-  "Planta": "Fuego",
-  "Veneno": "Normal"
+  "Nombre": "Vivillon",
+  "Tipo": "Bicho\/Volador"
  },
  {
-  "Bulbasaur": "Pyroar",
-  "Planta": "Fuego",
-  "Veneno": "Normal"
+  "Nombre": "Litleo",
+  "Tipo": "Fuego\/Normal"
  },
  {
-  "Bulbasaur": "Flabébé",
-  "Planta": "Hada"
+  "Nombre": "Pyroar",
+  "Tipo": "Fuego\/Normal"
  },
  {
-  "Bulbasaur": "Floette",
-  "Planta": "Hada"
+  "Nombre": "Flabébé",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Florges",
-  "Planta": "Hada"
+  "Nombre": "Floette",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Skiddo",
-  "Planta": "Planta"
+  "Nombre": "Florges",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Gogoat",
-  "Planta": "Planta"
+  "Nombre": "Skiddo",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Pancham",
-  "Planta": "Lucha"
+  "Nombre": "Gogoat",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Pangoro",
-  "Planta": "Lucha",
-  "Veneno": "Siniestro"
+  "Nombre": "Pancham",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Furfrou",
-  "Planta": "Normal"
+  "Nombre": "Pangoro",
+  "Tipo": "Lucha\/Siniestro"
  },
  {
-  "Bulbasaur": "Espurr",
-  "Planta": "Psiquico"
+  "Nombre": "Furfrou",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Meowstic",
-  "Planta": "Psiquico"
+  "Nombre": "Espurr",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Honedge",
-  "Planta": "Acero",
-  "Veneno": "Fantasma"
+  "Nombre": "Meowstic",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Doublade",
-  "Planta": "Acero",
-  "Veneno": "Fantasma"
+  "Nombre": "Honedge",
+  "Tipo": "Acero\/Fantasma"
  },
  {
-  "Bulbasaur": "Aegislash",
-  "Planta": "Acero",
-  "Veneno": "Fantasma"
+  "Nombre": "Doublade",
+  "Tipo": "Acero\/Fantasma"
  },
  {
-  "Bulbasaur": "Spritzee",
-  "Planta": "Hada"
+  "Nombre": "Aegislash",
+  "Tipo": "Acero\/Fantasma"
  },
  {
-  "Bulbasaur": "Aromatisse",
-  "Planta": "Hada"
+  "Nombre": "Spritzee",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Swirlix",
-  "Planta": "Hada"
+  "Nombre": "Aromatisse",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Slurpuff",
-  "Planta": "Hada"
+  "Nombre": "Swirlix",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Inkay",
-  "Planta": "Siniestro",
-  "Veneno": "Psiquico"
+  "Nombre": "Slurpuff",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Malamar",
-  "Planta": "Siniestro",
-  "Veneno": "Psiquico"
+  "Nombre": "Inkay",
+  "Tipo": "Siniestro\/Psiquico"
  },
  {
-  "Bulbasaur": "Binacle",
-  "Planta": "Roca",
-  "Veneno": "Agua"
+  "Nombre": "Malamar",
+  "Tipo": "Siniestro\/Psiquico"
  },
  {
-  "Bulbasaur": "Barbaracle",
-  "Planta": "Roca",
-  "Veneno": "Agua"
+  "Nombre": "Binacle",
+  "Tipo": "Roca\/Agua"
  },
  {
-  "Bulbasaur": "Skrelp",
-  "Planta": "Veneno",
-  "Veneno": "Agua"
+  "Nombre": "Barbaracle",
+  "Tipo": "Roca\/Agua"
  },
  {
-  "Bulbasaur": "Dragalge",
-  "Planta": "Veneno",
-  "Veneno": "Dragon"
+  "Nombre": "Skrelp",
+  "Tipo": "Veneno\/Agua"
  },
  {
-  "Bulbasaur": "Clauncher",
-  "Planta": "Agua"
+  "Nombre": "Dragalge",
+  "Tipo": "Veneno\/Dragon"
  },
  {
-  "Bulbasaur": "Clawitzer",
-  "Planta": "Agua"
+  "Nombre": "Clauncher",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Helioptile",
-  "Planta": "Electrico",
-  "Veneno": "Normal"
+  "Nombre": "Clawitzer",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Heliolisk",
-  "Planta": "Electrico",
-  "Veneno": "Normal"
+  "Nombre": "Helioptile",
+  "Tipo": "Electrico\/Normal"
  },
  {
-  "Bulbasaur": "Tyrunt",
-  "Planta": "Roca",
-  "Veneno": "Dragon"
+  "Nombre": "Heliolisk",
+  "Tipo": "Electrico\/Normal"
  },
  {
-  "Bulbasaur": "Tyrantrum",
-  "Planta": "Roca",
-  "Veneno": "Dragon"
+  "Nombre": "Tyrunt",
+  "Tipo": "Roca\/Dragon"
  },
  {
-  "Bulbasaur": "Amaura",
-  "Planta": "Roca",
-  "Veneno": "Hielo"
+  "Nombre": "Tyrantrum",
+  "Tipo": "Roca\/Dragon"
  },
  {
-  "Bulbasaur": "Aurorus",
-  "Planta": "Roca",
-  "Veneno": "Hielo"
+  "Nombre": "Amaura",
+  "Tipo": "Roca\/Hielo"
  },
  {
-  "Bulbasaur": "Sylveon",
-  "Planta": "Hada"
+  "Nombre": "Aurorus",
+  "Tipo": "Roca\/Hielo"
  },
  {
-  "Bulbasaur": "Hawlucha",
-  "Planta": "Lucha",
-  "Veneno": "Volador"
+  "Nombre": "Sylveon",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Dedenne",
-  "Planta": "Electrico",
-  "Veneno": "Hada"
+  "Nombre": "Hawlucha",
+  "Tipo": "Lucha\/Volador"
  },
  {
-  "Bulbasaur": "Carbink",
-  "Planta": "Roca",
-  "Veneno": "Hada"
+  "Nombre": "Dedenne",
+  "Tipo": "Electrico\/Hada"
  },
  {
-  "Bulbasaur": "Goomy",
-  "Planta": "Dragon"
+  "Nombre": "Carbink",
+  "Tipo": "Roca\/Hada"
  },
  {
-  "Bulbasaur": "Sliggoo",
-  "Planta": "Dragon"
+  "Nombre": "Goomy",
+  "Tipo": "Dragon"
  },
  {
-  "Bulbasaur": "Sliggoo Hisui",
-  "Planta": "Dragon",
-  "Veneno": "Acero"
+  "Nombre": "Sliggoo",
+  "Tipo": "Dragon"
  },
  {
-  "Bulbasaur": "Goodra",
-  "Planta": "Dragon"
+  "Nombre": "Sliggoo Hisui",
+  "Tipo": "Dragon\/Acero"
  },
  {
-  "Bulbasaur": "Goodra Hisui",
-  "Planta": "Dragon",
-  "Veneno": "Acero"
+  "Nombre": "Goodra",
+  "Tipo": "Dragon"
  },
  {
-  "Bulbasaur": "Klefki",
-  "Planta": "Acero",
-  "Veneno": "Hada"
+  "Nombre": "Goodra Hisui",
+  "Tipo": "Dragon\/Acero"
  },
  {
-  "Bulbasaur": "Phantump",
-  "Planta": "Fantasma",
-  "Veneno": "Planta"
+  "Nombre": "Klefki",
+  "Tipo": "Acero\/Hada"
  },
  {
-  "Bulbasaur": "Trevenant",
-  "Planta": "Fantasma",
-  "Veneno": "Planta"
+  "Nombre": "Phantump",
+  "Tipo": "Fantasma\/Planta"
  },
  {
-  "Bulbasaur": "Pumpkaboo",
-  "Planta": "Fantasma",
-  "Veneno": "Planta"
+  "Nombre": "Trevenant",
+  "Tipo": "Fantasma\/Planta"
  },
  {
-  "Bulbasaur": "Gourgeist",
-  "Planta": "Fantasma",
-  "Veneno": "Planta"
+  "Nombre": "Pumpkaboo",
+  "Tipo": "Fantasma\/Planta"
  },
  {
-  "Bulbasaur": "Bergmite",
-  "Planta": "Hielo"
+  "Nombre": "Gourgeist",
+  "Tipo": "Fantasma\/Planta"
  },
  {
-  "Bulbasaur": "Avalugg",
-  "Planta": "Hielo"
+  "Nombre": "Bergmite",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Avalugg Hisui",
-  "Planta": "Hielo",
-  "Veneno": "Roca"
+  "Nombre": "Avalugg",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Noibat",
-  "Planta": "Volador",
-  "Veneno": "Dragon"
+  "Nombre": "Avalugg Hisui",
+  "Tipo": "Hielo\/Roca"
  },
  {
-  "Bulbasaur": "Noivern",
-  "Planta": "Volador",
-  "Veneno": "Dragon"
+  "Nombre": "Noibat",
+  "Tipo": "Volador\/Dragon"
  },
  {
-  "Bulbasaur": "Xerneas",
-  "Planta": "Hada"
+  "Nombre": "Noivern",
+  "Tipo": "Volador\/Dragon"
  },
  {
-  "Bulbasaur": "Yveltal",
-  "Planta": "Siniestro",
-  "Veneno": "Volador"
+  "Nombre": "Xerneas",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Zygarde",
-  "Planta": "Dragon",
-  "Veneno": "Tierra"
+  "Nombre": "Yveltal",
+  "Tipo": "Siniestro\/Volador"
  },
  {
-  "Bulbasaur": "Diancie",
-  "Planta": "Roca",
-  "Veneno": "Hada"
+  "Nombre": "Zygarde",
+  "Tipo": "Dragon\/Tierra"
  },
  {
-  "Bulbasaur": "Hoopa",
-  "Planta": "Psiquico",
-  "Veneno": "Fantasma"
+  "Nombre": "Diancie",
+  "Tipo": "Roca\/Hada"
  },
  {
-  "Bulbasaur": "Volcanion",
-  "Planta": "Fuego",
-  "Veneno": "Agua"
+  "Nombre": "Hoopa",
+  "Tipo": "Psiquico\/Fantasma"
  },
  {
-  "Bulbasaur": "Rowlet",
-  "Planta": "Planta",
-  "Veneno": "Volador"
+  "Nombre": "Volcanion",
+  "Tipo": "Fuego\/Agua"
  },
  {
-  "Bulbasaur": "Dartrix",
-  "Planta": "Planta",
-  "Veneno": "Volador"
+  "Nombre": "Rowlet",
+  "Tipo": "Planta\/Volador"
  },
  {
-  "Bulbasaur": "Decidueye",
-  "Planta": "Planta",
-  "Veneno": "Fantasma"
+  "Nombre": "Dartrix",
+  "Tipo": "Planta\/Volador"
  },
  {
-  "Bulbasaur": "Decidueye Hisui",
-  "Planta": "Planta",
-  "Veneno": "Lucha"
+  "Nombre": "Decidueye",
+  "Tipo": "Planta\/Fantasma"
  },
  {
-  "Bulbasaur": "Litten",
-  "Planta": "Fuego"
+  "Nombre": "Decidueye Hisui",
+  "Tipo": "Planta\/Lucha"
  },
  {
-  "Bulbasaur": "Torracat",
-  "Planta": "Fuego"
+  "Nombre": "Litten",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Incineroar",
-  "Planta": "Fuego",
-  "Veneno": "Siniestro"
+  "Nombre": "Torracat",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Popplio",
-  "Planta": "Agua"
+  "Nombre": "Incineroar",
+  "Tipo": "Fuego\/Siniestro"
  },
  {
-  "Bulbasaur": "Brionne",
-  "Planta": "Agua"
+  "Nombre": "Popplio",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Primarina",
-  "Planta": "Agua",
-  "Veneno": "Hada"
+  "Nombre": "Brionne",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Pikipek",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Primarina",
+  "Tipo": "Agua\/Hada"
  },
  {
-  "Bulbasaur": "Trumbeak",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Pikipek",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Toucannon",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Trumbeak",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Yungoos",
-  "Planta": "Normal"
+  "Nombre": "Toucannon",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Gumshoos",
-  "Planta": "Normal"
+  "Nombre": "Yungoos",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Grubbin",
-  "Planta": "Bicho"
+  "Nombre": "Gumshoos",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Charjabug",
-  "Planta": "Bicho",
-  "Veneno": "Electrico"
+  "Nombre": "Grubbin",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Vikavolt",
-  "Planta": "Bicho",
-  "Veneno": "Electrico"
+  "Nombre": "Charjabug",
+  "Tipo": "Bicho\/Electrico"
  },
  {
-  "Bulbasaur": "Crabrawler",
-  "Planta": "Lucha"
+  "Nombre": "Vikavolt",
+  "Tipo": "Bicho\/Electrico"
  },
  {
-  "Bulbasaur": "Crabominable",
-  "Planta": "Lucha",
-  "Veneno": "Hielo"
+  "Nombre": "Crabrawler",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Oricorio Estilo Animado",
-  "Planta": "Electrico",
-  "Veneno": "Volador"
+  "Nombre": "Crabominable",
+  "Tipo": "Lucha\/Hielo"
  },
  {
-  "Bulbasaur": "Oricorio Estilo Placido",
-  "Planta": "Psiquico",
-  "Veneno": "Volador"
+  "Nombre": "Oricorio Estilo Animado",
+  "Tipo": "Electrico\/Volador"
  },
  {
-  "Bulbasaur": "Oricorio Estilo Apasionado",
-  "Planta": "Fuego",
-  "Veneno": "Volador"
+  "Nombre": "Oricorio Estilo Placido",
+  "Tipo": "Psiquico\/Volador"
  },
  {
-  "Bulbasaur": "Oricorio Estilo Refinado",
-  "Planta": "Fantasma",
-  "Veneno": "Volador"
+  "Nombre": "Oricorio Estilo Apasionado",
+  "Tipo": "Fuego\/Volador"
  },
  {
-  "Bulbasaur": "Cutiefly",
-  "Planta": "Bicho",
-  "Veneno": "Hada"
+  "Nombre": "Oricorio Estilo Refinado",
+  "Tipo": "Fantasma\/Volador"
  },
  {
-  "Bulbasaur": "Ribombee",
-  "Planta": "Bicho",
-  "Veneno": "Hada"
+  "Nombre": "Cutiefly",
+  "Tipo": "Bicho\/Hada"
  },
  {
-  "Bulbasaur": "Rockruff",
-  "Planta": "Roca"
+  "Nombre": "Ribombee",
+  "Tipo": "Bicho\/Hada"
  },
  {
-  "Bulbasaur": "Lycanroc",
-  "Planta": "Roca"
+  "Nombre": "Rockruff",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Wishiwashi",
-  "Planta": "Agua"
+  "Nombre": "Lycanroc",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Mareanie",
-  "Planta": "Veneno",
-  "Veneno": "Agua"
+  "Nombre": "Wishiwashi",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Toxapex",
-  "Planta": "Veneno",
-  "Veneno": "Agua"
+  "Nombre": "Mareanie",
+  "Tipo": "Veneno\/Agua"
  },
  {
-  "Bulbasaur": "Mudbray",
-  "Planta": "Tierra"
+  "Nombre": "Toxapex",
+  "Tipo": "Veneno\/Agua"
  },
  {
-  "Bulbasaur": "Mudsdale",
-  "Planta": "Tierra"
+  "Nombre": "Mudbray",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Dewpider",
-  "Planta": "Agua",
-  "Veneno": "Bicho"
+  "Nombre": "Mudsdale",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Araquanid",
-  "Planta": "Agua",
-  "Veneno": "Bicho"
+  "Nombre": "Dewpider",
+  "Tipo": "Agua\/Bicho"
  },
  {
-  "Bulbasaur": "Fomantis",
-  "Planta": "Planta"
+  "Nombre": "Araquanid",
+  "Tipo": "Agua\/Bicho"
  },
  {
-  "Bulbasaur": "Lurantis",
-  "Planta": "Planta"
+  "Nombre": "Fomantis",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Morelull",
-  "Planta": "Planta",
-  "Veneno": "Hada"
+  "Nombre": "Lurantis",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Shiinotic",
-  "Planta": "Planta",
-  "Veneno": "Hada"
+  "Nombre": "Morelull",
+  "Tipo": "Planta\/Hada"
  },
  {
-  "Bulbasaur": "Salandit",
-  "Planta": "Veneno",
-  "Veneno": "Fuego"
+  "Nombre": "Shiinotic",
+  "Tipo": "Planta\/Hada"
  },
  {
-  "Bulbasaur": "Salazzle",
-  "Planta": "Veneno",
-  "Veneno": "Fuego"
+  "Nombre": "Salandit",
+  "Tipo": "Veneno\/Fuego"
  },
  {
-  "Bulbasaur": "Stufful",
-  "Planta": "Normal",
-  "Veneno": "Lucha"
+  "Nombre": "Salazzle",
+  "Tipo": "Veneno\/Fuego"
  },
  {
-  "Bulbasaur": "Bewear",
-  "Planta": "Normal",
-  "Veneno": "Lucha"
+  "Nombre": "Stufful",
+  "Tipo": "Normal\/Lucha"
  },
  {
-  "Bulbasaur": "Bounsweet",
-  "Planta": "Planta"
+  "Nombre": "Bewear",
+  "Tipo": "Normal\/Lucha"
  },
  {
-  "Bulbasaur": "Steenee",
-  "Planta": "Planta"
+  "Nombre": "Bounsweet",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Tsareena",
-  "Planta": "Planta"
+  "Nombre": "Steenee",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Comfey",
-  "Planta": "Hada"
+  "Nombre": "Tsareena",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Oranguru",
-  "Planta": "Normal",
-  "Veneno": "Psiquico"
+  "Nombre": "Comfey",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Passimian",
-  "Planta": "Lucha"
+  "Nombre": "Oranguru",
+  "Tipo": "Normal\/Psiquico"
  },
  {
-  "Bulbasaur": "Wimpod",
-  "Planta": "Bicho",
-  "Veneno": "Agua"
+  "Nombre": "Passimian",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Golisopod",
-  "Planta": "Bicho",
-  "Veneno": "Agua"
+  "Nombre": "Wimpod",
+  "Tipo": "Bicho\/Agua"
  },
  {
-  "Bulbasaur": "Sandygast",
-  "Planta": "Fantasma",
-  "Veneno": "Tierra"
+  "Nombre": "Golisopod",
+  "Tipo": "Bicho\/Agua"
  },
  {
-  "Bulbasaur": "Palossand",
-  "Planta": "Fantasma",
-  "Veneno": "Tierra"
+  "Nombre": "Sandygast",
+  "Tipo": "Fantasma\/Tierra"
  },
  {
-  "Bulbasaur": "Pyukumuku",
-  "Planta": "Agua"
+  "Nombre": "Palossand",
+  "Tipo": "Fantasma\/Tierra"
  },
  {
-  "Bulbasaur": "Código Cero",
-  "Planta": "Normal"
+  "Nombre": "Pyukumuku",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Silvally",
-  "Planta": "Normal"
+  "Nombre": "Código Cero",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Minior",
-  "Planta": "Roca",
-  "Veneno": "Volador"
+  "Nombre": "Silvally",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Komala",
-  "Planta": "Normal"
+  "Nombre": "Minior",
+  "Tipo": "Roca\/Volador"
  },
  {
-  "Bulbasaur": "Turtonator",
-  "Planta": "Fuego",
-  "Veneno": "Dragon"
+  "Nombre": "Komala",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Togedemaru",
-  "Planta": "Electrico",
-  "Veneno": "Acero"
+  "Nombre": "Turtonator",
+  "Tipo": "Fuego\/Dragon"
  },
  {
-  "Bulbasaur": "Mimikyu",
-  "Planta": "Fantasma",
-  "Veneno": "Hada"
+  "Nombre": "Togedemaru",
+  "Tipo": "Electrico\/Acero"
  },
  {
-  "Bulbasaur": "Bruxish",
-  "Planta": "Agua",
-  "Veneno": "Psiquico"
+  "Nombre": "Mimikyu",
+  "Tipo": "Fantasma\/Hada"
  },
  {
-  "Bulbasaur": "Drampa",
-  "Planta": "Normal",
-  "Veneno": "Dragon"
+  "Nombre": "Bruxish",
+  "Tipo": "Agua\/Psiquico"
  },
  {
-  "Bulbasaur": "Dhelmise",
-  "Planta": "Fantasma",
-  "Veneno": "Planta"
+  "Nombre": "Drampa",
+  "Tipo": "Normal\/Dragon"
  },
  {
-  "Bulbasaur": "Jangmo-o",
-  "Planta": "Dragon"
+  "Nombre": "Dhelmise",
+  "Tipo": "Fantasma\/Planta"
  },
  {
-  "Bulbasaur": "Hakamo-o",
-  "Planta": "Dragon",
-  "Veneno": "Lucha"
+  "Nombre": "Jangmo-o",
+  "Tipo": "Dragon"
  },
  {
-  "Bulbasaur": "Kommo-o",
-  "Planta": "Dragon",
-  "Veneno": "Lucha"
+  "Nombre": "Hakamo-o",
+  "Tipo": "Dragon\/Lucha"
  },
  {
-  "Bulbasaur": "Tapu Koko",
-  "Planta": "Electrico",
-  "Veneno": "Hada"
+  "Nombre": "Kommo-o",
+  "Tipo": "Dragon\/Lucha"
  },
  {
-  "Bulbasaur": "Tapu Lele",
-  "Planta": "Psiquico",
-  "Veneno": "Hada"
+  "Nombre": "Tapu Koko",
+  "Tipo": "Electrico\/Hada"
  },
  {
-  "Bulbasaur": "Tapu Bulu",
-  "Planta": "Planta",
-  "Veneno": "Hada"
+  "Nombre": "Tapu Lele",
+  "Tipo": "Psiquico\/Hada"
  },
  {
-  "Bulbasaur": "Tapu Fini",
-  "Planta": "Agua",
-  "Veneno": "Hada"
+  "Nombre": "Tapu Bulu",
+  "Tipo": "Planta\/Hada"
  },
  {
-  "Bulbasaur": "Cosmog",
-  "Planta": "Psiquico"
+  "Nombre": "Tapu Fini",
+  "Tipo": "Agua\/Hada"
  },
  {
-  "Bulbasaur": "Cosmoem",
-  "Planta": "Psiquico"
+  "Nombre": "Cosmog",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Solgaleo",
-  "Planta": "Psiquico",
-  "Veneno": "Acero"
+  "Nombre": "Cosmoem",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Lunala",
-  "Planta": "Psiquico",
-  "Veneno": "Fantasma"
+  "Nombre": "Solgaleo",
+  "Tipo": "Psiquico\/Acero"
  },
  {
-  "Bulbasaur": "Nihilego",
-  "Planta": "Roca",
-  "Veneno": "Veneno"
+  "Nombre": "Lunala",
+  "Tipo": "Psiquico\/Fantasma"
  },
  {
-  "Bulbasaur": "Buzzwole",
-  "Planta": "Bicho",
-  "Veneno": "Lucha"
+  "Nombre": "Nihilego",
+  "Tipo": "Roca\/Veneno"
  },
  {
-  "Bulbasaur": "Pheromosa",
-  "Planta": "Bicho",
-  "Veneno": "Lucha"
+  "Nombre": "Buzzwole",
+  "Tipo": "Bicho\/Lucha"
  },
  {
-  "Bulbasaur": "Xurkitree",
-  "Planta": "Electrico"
+  "Nombre": "Pheromosa",
+  "Tipo": "Bicho\/Lucha"
  },
  {
-  "Bulbasaur": "Celesteela",
-  "Planta": "Acero",
-  "Veneno": "Volador"
+  "Nombre": "Xurkitree",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Kartana",
-  "Planta": "Planta",
-  "Veneno": "Acero"
+  "Nombre": "Celesteela",
+  "Tipo": "Acero\/Volador"
  },
  {
-  "Bulbasaur": "Guzzlord",
-  "Planta": "Siniestro",
-  "Veneno": "Dragon"
+  "Nombre": "Kartana",
+  "Tipo": "Planta\/Acero"
  },
  {
-  "Bulbasaur": "Necrozma",
-  "Planta": "Psiquico"
+  "Nombre": "Guzzlord",
+  "Tipo": "Siniestro\/Dragon"
  },
  {
-  "Bulbasaur": "Magearna",
-  "Planta": "Acero",
-  "Veneno": "Hada"
+  "Nombre": "Necrozma",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Marshadow",
-  "Planta": "Lucha",
-  "Veneno": "Fantasma"
+  "Nombre": "Magearna",
+  "Tipo": "Acero\/Hada"
  },
  {
-  "Bulbasaur": "Poipole",
-  "Planta": "Veneno"
+  "Nombre": "Marshadow",
+  "Tipo": "Lucha\/Fantasma"
  },
  {
-  "Bulbasaur": "Naganadel",
-  "Planta": "Veneno",
-  "Veneno": "Dragon"
+  "Nombre": "Poipole",
+  "Tipo": "Veneno"
  },
  {
-  "Bulbasaur": "Stakataka",
-  "Planta": "Roca",
-  "Veneno": "Acero"
+  "Nombre": "Naganadel",
+  "Tipo": "Veneno\/Dragon"
  },
  {
-  "Bulbasaur": "Blacephalon",
-  "Planta": "Fuego",
-  "Veneno": "Fantasma"
+  "Nombre": "Stakataka",
+  "Tipo": "Roca\/Acero"
  },
  {
-  "Bulbasaur": "Zeraora",
-  "Planta": "Electrico"
+  "Nombre": "Blacephalon",
+  "Tipo": "Fuego\/Fantasma"
  },
  {
-  "Bulbasaur": "Meltan",
-  "Planta": "Acero"
+  "Nombre": "Zeraora",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Melmetal",
-  "Planta": "Acero"
+  "Nombre": "Meltan",
+  "Tipo": "Acero"
  },
  {
-  "Bulbasaur": "Grookey",
-  "Planta": "Planta"
+  "Nombre": "Melmetal",
+  "Tipo": "Acero"
  },
  {
-  "Bulbasaur": "Thwackey",
-  "Planta": "Planta"
+  "Nombre": "Grookey",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Rillaboom",
-  "Planta": "Planta"
+  "Nombre": "Thwackey",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Scorbunny",
-  "Planta": "Fuego"
+  "Nombre": "Rillaboom",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Raboot",
-  "Planta": "Fuego"
+  "Nombre": "Scorbunny",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Cinderace",
-  "Planta": "Fuego"
+  "Nombre": "Raboot",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Sobble",
-  "Planta": "Agua"
+  "Nombre": "Cinderace",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Drizzile",
-  "Planta": "Agua"
+  "Nombre": "Sobble",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Inteleon",
-  "Planta": "Agua"
+  "Nombre": "Drizzile",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Skwovet",
-  "Planta": "Normal"
+  "Nombre": "Inteleon",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Greedent",
-  "Planta": "Normal"
+  "Nombre": "Skwovet",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Rookidee",
-  "Planta": "Volador"
+  "Nombre": "Greedent",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Corvisquire",
-  "Planta": "Volador"
+  "Nombre": "Rookidee",
+  "Tipo": "Volador"
  },
  {
-  "Bulbasaur": "Corviknight",
-  "Planta": "Volador",
-  "Veneno": "Acero"
+  "Nombre": "Corvisquire",
+  "Tipo": "Volador"
  },
  {
-  "Bulbasaur": "Blipbug",
-  "Planta": "Bicho"
+  "Nombre": "Corviknight",
+  "Tipo": "Volador\/Acero"
  },
  {
-  "Bulbasaur": "Dottler",
-  "Planta": "Bicho",
-  "Veneno": "Psiquico"
+  "Nombre": "Blipbug",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Orbeetle",
-  "Planta": "Bicho",
-  "Veneno": "Psiquico"
+  "Nombre": "Dottler",
+  "Tipo": "Bicho\/Psiquico"
  },
  {
-  "Bulbasaur": "Nickit",
-  "Planta": "Siniestro"
+  "Nombre": "Orbeetle",
+  "Tipo": "Bicho\/Psiquico"
  },
  {
-  "Bulbasaur": "Thievul",
-  "Planta": "Siniestro"
+  "Nombre": "Nickit",
+  "Tipo": "Siniestro"
  },
  {
-  "Bulbasaur": "Gossifleur",
-  "Planta": "Planta"
+  "Nombre": "Thievul",
+  "Tipo": "Siniestro"
  },
  {
-  "Bulbasaur": "Eldegoss",
-  "Planta": "Planta"
+  "Nombre": "Gossifleur",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Wooloo",
-  "Planta": "Normal"
+  "Nombre": "Eldegoss",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Dubwool",
-  "Planta": "Normal"
+  "Nombre": "Wooloo",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Chewtle",
-  "Planta": "Agua"
+  "Nombre": "Dubwool",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Drednaw",
-  "Planta": "Agua",
-  "Veneno": "Roca"
+  "Nombre": "Chewtle",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Yamper",
-  "Planta": "Electrico"
+  "Nombre": "Drednaw",
+  "Tipo": "Agua\/Roca"
  },
  {
-  "Bulbasaur": "Boltund",
-  "Planta": "Electrico"
+  "Nombre": "Yamper",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Rolycoly",
-  "Planta": "Roca"
+  "Nombre": "Boltund",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Carkol",
-  "Planta": "Roca",
-  "Veneno": "Fuego"
+  "Nombre": "Rolycoly",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Coalossal",
-  "Planta": "Roca",
-  "Veneno": "Fuego"
+  "Nombre": "Carkol",
+  "Tipo": "Roca\/Fuego"
  },
  {
-  "Bulbasaur": "Applin",
-  "Planta": "Planta",
-  "Veneno": "Dragon"
+  "Nombre": "Coalossal",
+  "Tipo": "Roca\/Fuego"
  },
  {
-  "Bulbasaur": "Flapple",
-  "Planta": "Planta",
-  "Veneno": "Dragon"
+  "Nombre": "Applin",
+  "Tipo": "Planta\/Dragon"
  },
  {
-  "Bulbasaur": "Appletun",
-  "Planta": "Planta",
-  "Veneno": "Dragon"
+  "Nombre": "Flapple",
+  "Tipo": "Planta\/Dragon"
  },
  {
-  "Bulbasaur": "Silicobra",
-  "Planta": "Tierra"
+  "Nombre": "Appletun",
+  "Tipo": "Planta\/Dragon"
  },
  {
-  "Bulbasaur": "Sandaconda",
-  "Planta": "Tierra"
+  "Nombre": "Silicobra",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Cramorant",
-  "Planta": "Volador",
-  "Veneno": "Agua"
+  "Nombre": "Sandaconda",
+  "Tipo": "Tierra"
  },
  {
-  "Bulbasaur": "Arrokuda",
-  "Planta": "Agua"
+  "Nombre": "Cramorant",
+  "Tipo": "Volador\/Agua"
  },
  {
-  "Bulbasaur": "Barraskewda",
-  "Planta": "Agua"
+  "Nombre": "Arrokuda",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Toxel",
-  "Planta": "Electrico",
-  "Veneno": "Veneno"
+  "Nombre": "Barraskewda",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Toxtricity",
-  "Planta": "Electrico",
-  "Veneno": "Veneno"
+  "Nombre": "Toxel",
+  "Tipo": "Electrico\/Veneno"
  },
  {
-  "Bulbasaur": "Sizzlipede",
-  "Planta": "Fuego",
-  "Veneno": "Bicho"
+  "Nombre": "Toxtricity",
+  "Tipo": "Electrico\/Veneno"
  },
  {
-  "Bulbasaur": "Centiskorch",
-  "Planta": "Fuego",
-  "Veneno": "Bicho"
+  "Nombre": "Sizzlipede",
+  "Tipo": "Fuego\/Bicho"
  },
  {
-  "Bulbasaur": "Clobbopus",
-  "Planta": "Lucha"
+  "Nombre": "Centiskorch",
+  "Tipo": "Fuego\/Bicho"
  },
  {
-  "Bulbasaur": "Grapploct",
-  "Planta": "Lucha"
+  "Nombre": "Clobbopus",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Sinistea",
-  "Planta": "Fantasma"
+  "Nombre": "Grapploct",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Polteageist",
-  "Planta": "Fantasma"
+  "Nombre": "Sinistea",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Hatenna",
-  "Planta": "Psiquico"
+  "Nombre": "Polteageist",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Hattrem",
-  "Planta": "Psiquico"
+  "Nombre": "Hatenna",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Hatterene",
-  "Planta": "Psiquico",
-  "Veneno": "Hada"
+  "Nombre": "Hattrem",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Impidimp",
-  "Planta": "Siniestro",
-  "Veneno": "Hada"
+  "Nombre": "Hatterene",
+  "Tipo": "Psiquico\/Hada"
  },
  {
-  "Bulbasaur": "Morgrem",
-  "Planta": "Siniestro",
-  "Veneno": "Hada"
+  "Nombre": "Impidimp",
+  "Tipo": "Siniestro\/Hada"
  },
  {
-  "Bulbasaur": "Grimmsnarl",
-  "Planta": "Siniestro",
-  "Veneno": "Hada"
+  "Nombre": "Morgrem",
+  "Tipo": "Siniestro\/Hada"
  },
  {
-  "Bulbasaur": "Obstagoon",
-  "Planta": "Siniestro",
-  "Veneno": "Normal"
+  "Nombre": "Grimmsnarl",
+  "Tipo": "Siniestro\/Hada"
  },
  {
-  "Bulbasaur": "Perrserker",
-  "Planta": "Acero"
+  "Nombre": "Obstagoon",
+  "Tipo": "Siniestro\/Normal"
  },
  {
-  "Bulbasaur": "Cursola",
-  "Planta": "Fantasma"
+  "Nombre": "Perrserker",
+  "Tipo": "Acero"
  },
  {
-  "Bulbasaur": "Sirfetch'd",
-  "Planta": "Lucha"
+  "Nombre": "Cursola",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Mr. Rime",
-  "Planta": "Hielo",
-  "Veneno": "Psiquico"
+  "Nombre": "Sirfetch'd",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Runerigus",
-  "Planta": "Tierra",
-  "Veneno": "Fantasma"
+  "Nombre": "Mr. Rime",
+  "Tipo": "Hielo\/Psiquico"
  },
  {
-  "Bulbasaur": "Milcery",
-  "Planta": "Hada"
+  "Nombre": "Runerigus",
+  "Tipo": "Tierra\/Fantasma"
  },
  {
-  "Bulbasaur": "Alcremie",
-  "Planta": "Hada"
+  "Nombre": "Milcery",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Falinks",
-  "Planta": "Lucha"
+  "Nombre": "Alcremie",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Pincurchin",
-  "Planta": "Electrico"
+  "Nombre": "Falinks",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Snom",
-  "Planta": "Hielo",
-  "Veneno": "Bicho"
+  "Nombre": "Pincurchin",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Frosmoth",
-  "Planta": "Hielo",
-  "Veneno": "Bicho"
+  "Nombre": "Snom",
+  "Tipo": "Hielo\/Bicho"
  },
  {
-  "Bulbasaur": "Stonjourner",
-  "Planta": "Roca"
+  "Nombre": "Frosmoth",
+  "Tipo": "Hielo\/Bicho"
  },
  {
-  "Bulbasaur": "Eiscue",
-  "Planta": "Hielo"
+  "Nombre": "Stonjourner",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Indeedee",
-  "Planta": "Psiquico",
-  "Veneno": "Normal"
+  "Nombre": "Eiscue",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Morpeko",
-  "Planta": "Electrico",
-  "Veneno": "Siniestro"
+  "Nombre": "Indeedee",
+  "Tipo": "Psiquico\/Normal"
  },
  {
-  "Bulbasaur": "Cufant",
-  "Planta": "Acero"
+  "Nombre": "Morpeko",
+  "Tipo": "Electrico\/Siniestro"
  },
  {
-  "Bulbasaur": "Copperajah",
-  "Planta": "Acero"
+  "Nombre": "Cufant",
+  "Tipo": "Acero"
  },
  {
-  "Bulbasaur": "Dracozolt",
-  "Planta": "Electrico",
-  "Veneno": "Dragon"
+  "Nombre": "Copperajah",
+  "Tipo": "Acero"
  },
  {
-  "Bulbasaur": "Arctozolt",
-  "Planta": "Electrico",
-  "Veneno": "Hielo"
+  "Nombre": "Dracozolt",
+  "Tipo": "Electrico\/Dragon"
  },
  {
-  "Bulbasaur": "Dracovish",
-  "Planta": "Agua",
-  "Veneno": "Dragon"
+  "Nombre": "Arctozolt",
+  "Tipo": "Electrico\/Hielo"
  },
  {
-  "Bulbasaur": "Arctovish",
-  "Planta": "Agua",
-  "Veneno": "Hielo"
+  "Nombre": "Dracovish",
+  "Tipo": "Agua\/Dragon"
  },
  {
-  "Bulbasaur": "Duraludon",
-  "Planta": "Acero",
-  "Veneno": "Dragon"
+  "Nombre": "Arctovish",
+  "Tipo": "Agua\/Hielo"
  },
  {
-  "Bulbasaur": "Dreepy",
-  "Planta": "Dragon",
-  "Veneno": "Fantasma"
+  "Nombre": "Duraludon",
+  "Tipo": "Acero\/Dragon"
  },
  {
-  "Bulbasaur": "Drakloak",
-  "Planta": "Dragon",
-  "Veneno": "Fantasma"
+  "Nombre": "Dreepy",
+  "Tipo": "Dragon\/Fantasma"
  },
  {
-  "Bulbasaur": "Dragapult",
-  "Planta": "Dragon",
-  "Veneno": "Fantasma"
+  "Nombre": "Drakloak",
+  "Tipo": "Dragon\/Fantasma"
  },
  {
-  "Bulbasaur": "Zacian",
-  "Planta": "Hada"
+  "Nombre": "Dragapult",
+  "Tipo": "Dragon\/Fantasma"
  },
  {
-  "Bulbasaur": "Zacian espada suprema",
-  "Planta": "Hada",
-  "Veneno": "Acero"
+  "Nombre": "Zacian",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Zamazenta",
-  "Planta": "Lucha"
+  "Nombre": "Zacian espada suprema",
+  "Tipo": "Hada\/Acero"
  },
  {
-  "Bulbasaur": "Zamazenta escudo supremo",
-  "Planta": "Lucha",
-  "Veneno": "Acero"
+  "Nombre": "Zamazenta",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Eternatus",
-  "Planta": "Veneno",
-  "Veneno": "Dragon"
+  "Nombre": "Zamazenta escudo supremo",
+  "Tipo": "Lucha\/Acero"
  },
  {
-  "Bulbasaur": "Kubfu",
-  "Planta": "Lucha"
+  "Nombre": "Eternatus",
+  "Tipo": "Veneno\/Dragon"
  },
  {
-  "Bulbasaur": "Urshifu Estilo Brusco",
-  "Planta": "Lucha",
-  "Veneno": "Siniestro"
+  "Nombre": "Kubfu",
+  "Tipo": "Lucha"
  },
  {
-  "Bulbasaur": "Urshifu Estilo Fluido",
-  "Planta": "Lucha",
-  "Veneno": "Agua"
+  "Nombre": "Urshifu Estilo Brusco",
+  "Tipo": "Lucha\/Siniestro"
  },
  {
-  "Bulbasaur": "Zarude",
-  "Planta": "Siniestro",
-  "Veneno": "Planta"
+  "Nombre": "Urshifu Estilo Fluido",
+  "Tipo": "Lucha\/Agua"
  },
  {
-  "Bulbasaur": "Regieleki",
-  "Planta": "Electrico"
+  "Nombre": "Zarude",
+  "Tipo": "Siniestro\/Planta"
  },
  {
-  "Bulbasaur": "Regidrago",
-  "Planta": "Dragon"
+  "Nombre": "Regieleki",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Glastrier",
-  "Planta": "Hielo"
+  "Nombre": "Regidrago",
+  "Tipo": "Dragon"
  },
  {
-  "Bulbasaur": "Spectrier",
-  "Planta": "Fantasma"
+  "Nombre": "Glastrier",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Calyrex",
-  "Planta": "Psiquico",
-  "Veneno": "Planta "
+  "Nombre": "Spectrier",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Calyrex Jinete Glacial",
-  "Planta": "Psiquico",
-  "Veneno": "Hielo"
+  "Nombre": "Calyrex",
+  "Tipo": "Psiquico\/Planta "
  },
  {
-  "Bulbasaur": "Calyrex Jinete Espectral",
-  "Planta": "Psiquico",
-  "Veneno": "Fantasma"
+  "Nombre": "Calyrex Jinete Glacial",
+  "Tipo": "Psiquico\/Hielo"
  },
  {
-  "Bulbasaur": "Wyrdeer",
-  "Planta": "Normal",
-  "Veneno": "Psiquico"
+  "Nombre": "Calyrex Jinete Espectral",
+  "Tipo": "Psiquico\/Fantasma"
  },
  {
-  "Bulbasaur": "Kleavor",
-  "Planta": "Bicho",
-  "Veneno": "Roca"
+  "Nombre": "Wyrdeer",
+  "Tipo": "Normal\/Psiquico"
  },
  {
-  "Bulbasaur": "Ursaluna",
-  "Planta": "Tierra",
-  "Veneno": "Normal"
+  "Nombre": "Kleavor",
+  "Tipo": "Bicho\/Roca"
  },
  {
-  "Bulbasaur": "Basculegion",
-  "Planta": "Agua",
-  "Veneno": "Fantasma"
+  "Nombre": "Ursaluna",
+  "Tipo": "Tierra\/Normal"
  },
  {
-  "Bulbasaur": "Sneasler",
-  "Planta": "Lucha",
-  "Veneno": "Veneno"
+  "Nombre": "Basculegion",
+  "Tipo": "Agua\/Fantasma"
  },
  {
-  "Bulbasaur": "Overqwil",
-  "Planta": "Siniestro",
-  "Veneno": "Veneno"
+  "Nombre": "Sneasler",
+  "Tipo": "Lucha\/Veneno"
  },
  {
-  "Bulbasaur": "Enamorus",
-  "Planta": "Hada",
-  "Veneno": "Volador"
+  "Nombre": "Overqwil",
+  "Tipo": "Siniestro\/Veneno"
  },
  {
-  "Bulbasaur": "Sprigatito",
-  "Planta": "Planta"
+  "Nombre": "Enamorus",
+  "Tipo": "Hada\/Volador"
  },
  {
-  "Bulbasaur": "Floragato",
-  "Planta": "Planta"
+  "Nombre": "Sprigatito",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Meowscarada",
-  "Planta": "Planta",
-  "Veneno": "Siniestro"
+  "Nombre": "Floragato",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Fuecoco",
-  "Planta": "Fuego"
+  "Nombre": "Meowscarada",
+  "Tipo": "Planta\/Siniestro"
  },
  {
-  "Bulbasaur": "Crocalor",
-  "Planta": "Fuego"
+  "Nombre": "Fuecoco",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Skeledirge",
-  "Planta": "Fuego",
-  "Veneno": "Fantasma"
+  "Nombre": "Crocalor",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Quaxly",
-  "Planta": "Agua"
+  "Nombre": "Skeledirge",
+  "Tipo": "Fuego\/Fantasma"
  },
  {
-  "Bulbasaur": "Quaxwell",
-  "Planta": "Agua"
+  "Nombre": "Quaxly",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Quaquaval",
-  "Planta": "Agua",
-  "Veneno": "Lucha"
+  "Nombre": "Quaxwell",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Lechonk",
-  "Planta": "Normal"
+  "Nombre": "Quaquaval",
+  "Tipo": "Agua\/Lucha"
  },
  {
-  "Bulbasaur": "Oinkologne",
-  "Planta": "Normal"
+  "Nombre": "Lechonk",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Tarountula",
-  "Planta": "Bicho"
+  "Nombre": "Oinkologne",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Spidops",
-  "Planta": "Bicho"
+  "Nombre": "Tarountula",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Nymble",
-  "Planta": "Bicho"
+  "Nombre": "Spidops",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Lokix",
-  "Planta": "Bicho",
-  "Veneno": "Siniestro"
+  "Nombre": "Nymble",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Pawmi",
-  "Planta": "Electrico"
+  "Nombre": "Lokix",
+  "Tipo": "Bicho\/Siniestro"
  },
  {
-  "Bulbasaur": "Pawmo",
-  "Planta": "Electrico",
-  "Veneno": "Lucha"
+  "Nombre": "Pawmi",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Pawmot",
-  "Planta": "Electrico",
-  "Veneno": "Lucha"
+  "Nombre": "Pawmo",
+  "Tipo": "Electrico\/Lucha"
  },
  {
-  "Bulbasaur": "Tandemaus",
-  "Planta": "Normal"
+  "Nombre": "Pawmot",
+  "Tipo": "Electrico\/Lucha"
  },
  {
-  "Bulbasaur": "Maushold",
-  "Planta": "Normal"
+  "Nombre": "Tandemaus",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Fidough",
-  "Planta": "Hada"
+  "Nombre": "Maushold",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Dachsbun",
-  "Planta": "Hada"
+  "Nombre": "Fidough",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Smoliv",
-  "Planta": "Planta",
-  "Veneno": "Normal"
+  "Nombre": "Dachsbun",
+  "Tipo": "Hada"
  },
  {
-  "Bulbasaur": "Dolliv",
-  "Planta": "Planta",
-  "Veneno": "Normal"
+  "Nombre": "Smoliv",
+  "Tipo": "Planta\/Normal"
  },
  {
-  "Bulbasaur": "Arboliva",
-  "Planta": "Planta",
-  "Veneno": "Normal"
+  "Nombre": "Dolliv",
+  "Tipo": "Planta\/Normal"
  },
  {
-  "Bulbasaur": "Squawkabilly",
-  "Planta": "Normal",
-  "Veneno": "Volador"
+  "Nombre": "Arboliva",
+  "Tipo": "Planta\/Normal"
  },
  {
-  "Bulbasaur": "Nacli",
-  "Planta": "Roca"
+  "Nombre": "Squawkabilly",
+  "Tipo": "Normal\/Volador"
  },
  {
-  "Bulbasaur": "Naclstack",
-  "Planta": "Roca"
+  "Nombre": "Nacli",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Garganacl",
-  "Planta": "Roca"
+  "Nombre": "Naclstack",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Charcadet",
-  "Planta": "Fuego"
+  "Nombre": "Garganacl",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Armarouge",
-  "Planta": "Fuego",
-  "Veneno": "Psiquico"
+  "Nombre": "Charcadet",
+  "Tipo": "Fuego"
  },
  {
-  "Bulbasaur": "Ceruledge",
-  "Planta": "Fuego",
-  "Veneno": "Fantasma"
+  "Nombre": "Armarouge",
+  "Tipo": "Fuego\/Psiquico"
  },
  {
-  "Bulbasaur": "Tadbulb",
-  "Planta": "Electrico"
+  "Nombre": "Ceruledge",
+  "Tipo": "Fuego\/Fantasma"
  },
  {
-  "Bulbasaur": "Bellibolt",
-  "Planta": "Electrico"
+  "Nombre": "Tadbulb",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Wattrel",
-  "Planta": "Electrico",
-  "Veneno": "Volador"
+  "Nombre": "Bellibolt",
+  "Tipo": "Electrico"
  },
  {
-  "Bulbasaur": "Kilowattrel",
-  "Planta": "Electrico",
-  "Veneno": "Volador"
+  "Nombre": "Wattrel",
+  "Tipo": "Electrico\/Volador"
  },
  {
-  "Bulbasaur": "Maschiff",
-  "Planta": "Siniestro"
+  "Nombre": "Kilowattrel",
+  "Tipo": "Electrico\/Volador"
  },
  {
-  "Bulbasaur": "Mabosstiff",
-  "Planta": "Siniestro"
+  "Nombre": "Maschiff",
+  "Tipo": "Siniestro"
  },
  {
-  "Bulbasaur": "Shroodle",
-  "Planta": "Veneno",
-  "Veneno": "Normal"
+  "Nombre": "Mabosstiff",
+  "Tipo": "Siniestro"
  },
  {
-  "Bulbasaur": "Grafaiai",
-  "Planta": "Veneno",
-  "Veneno": "Normal"
+  "Nombre": "Shroodle",
+  "Tipo": "Veneno\/Normal"
  },
  {
-  "Bulbasaur": "Bramblin",
-  "Planta": "Planta",
-  "Veneno": "Fantasma"
+  "Nombre": "Grafaiai",
+  "Tipo": "Veneno\/Normal"
  },
  {
-  "Bulbasaur": "Brambleghast",
-  "Planta": "Planta",
-  "Veneno": "Fantasma"
+  "Nombre": "Bramblin",
+  "Tipo": "Planta\/Fantasma"
  },
  {
-  "Bulbasaur": "Toedscool",
-  "Planta": "Tierra",
-  "Veneno": "Planta"
+  "Nombre": "Brambleghast",
+  "Tipo": "Planta\/Fantasma"
  },
  {
-  "Bulbasaur": "Toedscruel",
-  "Planta": "Tierra",
-  "Veneno": "Planta"
+  "Nombre": "Toedscool",
+  "Tipo": "Tierra\/Planta"
  },
  {
-  "Bulbasaur": "Klawf",
-  "Planta": "Roca"
+  "Nombre": "Toedscruel",
+  "Tipo": "Tierra\/Planta"
  },
  {
-  "Bulbasaur": "Capsakid",
-  "Planta": "Planta"
+  "Nombre": "Klawf",
+  "Tipo": "Roca"
  },
  {
-  "Bulbasaur": "Scovillain",
-  "Planta": "Planta",
-  "Veneno": "Fuego"
+  "Nombre": "Capsakid",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Rellor",
-  "Planta": "Bicho"
+  "Nombre": "Scovillain",
+  "Tipo": "Planta\/Fuego"
  },
  {
-  "Bulbasaur": "Rabsca",
-  "Planta": "Bicho",
-  "Veneno": "Psiquico"
+  "Nombre": "Rellor",
+  "Tipo": "Bicho"
  },
  {
-  "Bulbasaur": "Flittle",
-  "Planta": "Psiquico"
+  "Nombre": "Rabsca",
+  "Tipo": "Bicho\/Psiquico"
  },
  {
-  "Bulbasaur": "Espathra",
-  "Planta": "Psiquico"
+  "Nombre": "Flittle",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Tinkatink",
-  "Planta": "Hada",
-  "Veneno": "Acero"
+  "Nombre": "Espathra",
+  "Tipo": "Psiquico"
  },
  {
-  "Bulbasaur": "Tinkatuff",
-  "Planta": "Hada",
-  "Veneno": "Acero"
+  "Nombre": "Tinkatink",
+  "Tipo": "Hada\/Acero"
  },
  {
-  "Bulbasaur": "Tinkaton",
-  "Planta": "Hada",
-  "Veneno": "Acero"
+  "Nombre": "Tinkatuff",
+  "Tipo": "Hada\/Acero"
  },
  {
-  "Bulbasaur": "Wiglett",
-  "Planta": "Agua"
+  "Nombre": "Tinkaton",
+  "Tipo": "Hada\/Acero"
  },
  {
-  "Bulbasaur": "Wugtrio",
-  "Planta": "Agua"
+  "Nombre": "Wiglett",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Bombirdier",
-  "Planta": "Volador",
-  "Veneno": "Siniestro"
+  "Nombre": "Wugtrio",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Finizen",
-  "Planta": "Agua"
+  "Nombre": "Bombirdier",
+  "Tipo": "Volador\/Siniestro"
  },
  {
-  "Bulbasaur": "Palafin",
-  "Planta": "Agua"
+  "Nombre": "Finizen",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Varoom",
-  "Planta": "Acero",
-  "Veneno": "Veneno"
+  "Nombre": "Palafin",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Revavroom",
-  "Planta": "Acero",
-  "Veneno": "Veneno"
+  "Nombre": "Varoom",
+  "Tipo": "Acero\/Veneno"
  },
  {
-  "Bulbasaur": "Cyclizar",
-  "Planta": "Dragon",
-  "Veneno": "Normal"
+  "Nombre": "Revavroom",
+  "Tipo": "Acero\/Veneno"
  },
  {
-  "Bulbasaur": "Orthworm",
-  "Planta": "Acero"
+  "Nombre": "Cyclizar",
+  "Tipo": "Dragon\/Normal"
  },
  {
-  "Bulbasaur": "Glimmet",
-  "Planta": "Roca",
-  "Veneno": "Veneno"
+  "Nombre": "Orthworm",
+  "Tipo": "Acero"
  },
  {
-  "Bulbasaur": "Glimmora",
-  "Planta": "Roca",
-  "Veneno": "Veneno"
+  "Nombre": "Glimmet",
+  "Tipo": "Roca\/Veneno"
  },
  {
-  "Bulbasaur": "Greavard",
-  "Planta": "Fantasma"
+  "Nombre": "Glimmora",
+  "Tipo": "Roca\/Veneno"
  },
  {
-  "Bulbasaur": "Houndstone",
-  "Planta": "Fantasma"
+  "Nombre": "Greavard",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Flamigo",
-  "Planta": "Volador",
-  "Veneno": "Lucha"
+  "Nombre": "Houndstone",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Cetoddle",
-  "Planta": "Hielo"
+  "Nombre": "Flamigo",
+  "Tipo": "Volador\/Lucha"
  },
  {
-  "Bulbasaur": "Cetitan",
-  "Planta": "Hielo"
+  "Nombre": "Cetoddle",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Veluza",
-  "Planta": "Agua",
-  "Veneno": "Psiquico"
+  "Nombre": "Cetitan",
+  "Tipo": "Hielo"
  },
  {
-  "Bulbasaur": "Dondozo",
-  "Planta": "Agua"
+  "Nombre": "Veluza",
+  "Tipo": "Agua\/Psiquico"
  },
  {
-  "Bulbasaur": "Tatsugiri",
-  "Planta": "Dragon",
-  "Veneno": "Agua"
+  "Nombre": "Dondozo",
+  "Tipo": "Agua"
  },
  {
-  "Bulbasaur": "Annihilape",
-  "Planta": "Lucha",
-  "Veneno": "Fantasma"
+  "Nombre": "Tatsugiri",
+  "Tipo": "Dragon\/Agua"
  },
  {
-  "Bulbasaur": "Clodsire",
-  "Planta": "Veneno",
-  "Veneno": "Tierra"
+  "Nombre": "Annihilape",
+  "Tipo": "Lucha\/Fantasma"
  },
  {
-  "Bulbasaur": "Farigiraf",
-  "Planta": "Normal",
-  "Veneno": "Psiquico"
+  "Nombre": "Clodsire",
+  "Tipo": "Veneno\/Tierra"
  },
  {
-  "Bulbasaur": "Dudunsparce",
-  "Planta": "Normal"
+  "Nombre": "Farigiraf",
+  "Tipo": "Normal\/Psiquico"
  },
  {
-  "Bulbasaur": "Kingambit",
-  "Planta": "Siniestro",
-  "Veneno": "Acero"
+  "Nombre": "Dudunsparce",
+  "Tipo": "Normal"
  },
  {
-  "Bulbasaur": "Colmilargo",
-  "Planta": "Tierra",
-  "Veneno": "Lucha"
+  "Nombre": "Kingambit",
+  "Tipo": "Siniestro\/Acero"
  },
  {
-  "Bulbasaur": "Colagrito",
-  "Planta": "Hada",
-  "Veneno": "Psiquico"
+  "Nombre": "Colmilargo",
+  "Tipo": "Tierra\/Lucha"
  },
  {
-  "Bulbasaur": "Furioseta",
-  "Planta": "Planta",
-  "Veneno": "Siniestro"
+  "Nombre": "Colagrito",
+  "Tipo": "Hada\/Psiquico"
  },
  {
-  "Bulbasaur": "Melenaleteo",
-  "Planta": "Fantasma",
-  "Veneno": "Hada"
+  "Nombre": "Furioseta",
+  "Tipo": "Planta\/Siniestro"
  },
  {
-  "Bulbasaur": "Reptalada",
-  "Planta": "Bicho",
-  "Veneno": "Lucha"
+  "Nombre": "Melenaleteo",
+  "Tipo": "Fantasma\/Hada"
  },
  {
-  "Bulbasaur": "Pelarena",
-  "Planta": "Electrico",
-  "Veneno": "Tierra"
+  "Nombre": "Reptalada",
+  "Tipo": "Bicho\/Lucha"
  },
  {
-  "Bulbasaur": "Ferrodada",
-  "Planta": "Tierra",
-  "Veneno": "Acero"
+  "Nombre": "Pelarena",
+  "Tipo": "Electrico\/Tierra"
  },
  {
-  "Bulbasaur": "Ferrosaco",
-  "Planta": "Hielo",
-  "Veneno": "Agua"
+  "Nombre": "Ferrodada",
+  "Tipo": "Tierra\/Acero"
  },
  {
-  "Bulbasaur": "Ferropalmas",
-  "Planta": "Lucha",
-  "Veneno": "Electrico"
+  "Nombre": "Ferrosaco",
+  "Tipo": "Hielo\/Agua"
  },
  {
-  "Bulbasaur": "Ferrocuello",
-  "Planta": "Siniestro",
-  "Veneno": "Volador"
+  "Nombre": "Ferropalmas",
+  "Tipo": "Lucha\/Electrico"
  },
  {
-  "Bulbasaur": "Ferropolilla",
-  "Planta": "Fuego",
-  "Veneno": "Veneno"
+  "Nombre": "Ferrocuello",
+  "Tipo": "Siniestro\/Volador"
  },
  {
-  "Bulbasaur": "Ferropúas",
-  "Planta": "Roca",
-  "Veneno": "Electrico"
+  "Nombre": "Ferropolilla",
+  "Tipo": "Fuego\/Veneno"
  },
  {
-  "Bulbasaur": "Frigibax",
-  "Planta": "Dragon",
-  "Veneno": "Hielo"
+  "Nombre": "Ferropúas",
+  "Tipo": "Roca\/Electrico"
  },
  {
-  "Bulbasaur": "Arctibax",
-  "Planta": "Dragon",
-  "Veneno": "Hielo"
+  "Nombre": "Frigibax",
+  "Tipo": "Dragon\/Hielo"
  },
  {
-  "Bulbasaur": "Baxcalibur",
-  "Planta": "Dragon",
-  "Veneno": "Hielo"
+  "Nombre": "Arctibax",
+  "Tipo": "Dragon\/Hielo"
  },
  {
-  "Bulbasaur": "Gimmighoul",
-  "Planta": "Fantasma"
+  "Nombre": "Baxcalibur",
+  "Tipo": "Dragon\/Hielo"
  },
  {
-  "Bulbasaur": "Gholdengo",
-  "Planta": "Acero",
-  "Veneno": "Fantasma"
+  "Nombre": "Gimmighoul",
+  "Tipo": "Fantasma"
  },
  {
-  "Bulbasaur": "Wo-Chien",
-  "Planta": "Siniestro",
-  "Veneno": "Planta"
+  "Nombre": "Gholdengo",
+  "Tipo": "Acero\/Fantasma"
  },
  {
-  "Bulbasaur": "Chien-Pao",
-  "Planta": "Siniestro",
-  "Veneno": "Hielo"
+  "Nombre": "Wo-Chien",
+  "Tipo": "Siniestro\/Planta"
  },
  {
-  "Bulbasaur": "Ting-Lu",
-  "Planta": "Siniestro",
-  "Veneno": "Tierra"
+  "Nombre": "Chien-Pao",
+  "Tipo": "Siniestro\/Hielo"
  },
  {
-  "Bulbasaur": "Chi-Yu",
-  "Planta": "Siniestro",
-  "Veneno": "Fuego"
+  "Nombre": "Ting-Lu",
+  "Tipo": "Siniestro\/Tierra"
  },
  {
-  "Bulbasaur": "Bramaluna",
-  "Planta": "Dragon",
-  "Veneno": "Siniestro"
+  "Nombre": "Chi-Yu",
+  "Tipo": "Siniestro\/Fuego"
  },
  {
-  "Bulbasaur": "Ferropaladín",
-  "Planta": "Hada",
-  "Veneno": "Lucha"
+  "Nombre": "Bramaluna",
+  "Tipo": "Dragon\/Siniestro"
  },
  {
-  "Bulbasaur": "Koraidon",
-  "Planta": "Lucha",
-  "Veneno": "Dragon"
+  "Nombre": "Ferropaladín",
+  "Tipo": "Hada\/Lucha"
  },
  {
-  "Bulbasaur": "Miraidon",
-  "Planta": "Electrico",
-  "Veneno": "Dragon"
+  "Nombre": "Koraidon",
+  "Tipo": "Lucha\/Dragon"
  },
  {
-  "Bulbasaur": "Ondulagua",
-  "Planta": "Agua",
-  "Veneno": "Dragon"
+  "Nombre": "Miraidon",
+  "Tipo": "Electrico\/Dragon"
  },
  {
-  "Bulbasaur": "Ferroverdor",
-  "Planta": "Planta",
-  "Veneno": "Psiquico"
+  "Nombre": "Ondulagua",
+  "Tipo": "Agua\/Dragon"
  },
  {
-  "Bulbasaur": "Dipplin",
-  "Planta": "Planta",
-  "Veneno": "Dragon"
+  "Nombre": "Ferroverdor",
+  "Tipo": "Planta\/Psiquico"
  },
  {
-  "Bulbasaur": "Poltchageist",
-  "Planta": "Planta",
-  "Veneno": "Fantasma"
+  "Nombre": "Dipplin",
+  "Tipo": "Planta\/Dragon"
  },
  {
-  "Bulbasaur": "Sinistcha",
-  "Planta": "Planta",
-  "Veneno": "Fantasma"
+  "Nombre": "Poltchageist",
+  "Tipo": "Planta\/Fantasma"
  },
  {
-  "Bulbasaur": "Okidogi",
-  "Planta": "Veneno",
-  "Veneno": "Lucha"
+  "Nombre": "Sinistcha",
+  "Tipo": "Planta\/Fantasma"
  },
  {
-  "Bulbasaur": "Munkidori",
-  "Planta": "Veneno",
-  "Veneno": "Psiquico"
+  "Nombre": "Okidogi",
+  "Tipo": "Veneno\/Lucha"
  },
  {
-  "Bulbasaur": "Fenzadipiti",
-  "Planta": "Veneno",
-  "Veneno": "Hada"
+  "Nombre": "Munkidori",
+  "Tipo": "Veneno\/Psiquico"
  },
  {
-  "Bulbasaur": "Ogerpon",
-  "Planta": "Planta"
+  "Nombre": "Fenzadipiti",
+  "Tipo": "Veneno\/Hada"
  },
  {
-  "Bulbasaur": "Archaludon",
-  "Planta": "Acero",
-  "Veneno": "Dragon"
+  "Nombre": "Ogerpon",
+  "Tipo": "Planta"
  },
  {
-  "Bulbasaur": "Hydrapple",
-  "Planta": "Planta",
-  "Veneno": "Dragon"
+  "Nombre": "Archaludon",
+  "Tipo": "Acero\/Dragon"
  },
  {
-  "Bulbasaur": "Flamariete",
-  "Planta": "Fuego",
-  "Veneno": "Dragon"
+  "Nombre": "Hydrapple",
+  "Tipo": "Planta\/Dragon"
  },
  {
-  "Bulbasaur": "Electrofuria",
-  "Planta": "Electrico",
-  "Veneno": "Dragon"
+  "Nombre": "Flamariete",
+  "Tipo": "Fuego\/Dragon"
  },
  {
-  "Bulbasaur": "Ferromole",
-  "Planta": "Roca",
-  "Veneno": "Psiquico"
+  "Nombre": "Electrofuria",
+  "Tipo": "Electrico\/Dragon"
  },
  {
-  "Bulbasaur": "Ferrotesta",
-  "Planta": "Acero",
-  "Veneno": "Psiquico"
+  "Nombre": "Ferromole",
+  "Tipo": "Roca\/Psiquico"
  },
  {
-  "Bulbasaur": "Terapagos",
-  "Planta": "Normal"
+  "Nombre": "Ferrotesta",
+  "Tipo": "Acero\/Psiquico"
  },
  {
-  "Bulbasaur": "Pecharunt",
-  "Planta": "Veneno",
-  "Veneno": "Fantasma"
+  "Nombre": "Terapagos",
+  "Tipo": "Normal"
+ },
+ {
+  "Nombre": "Pecharunt",
+  "Tipo": "Veneno\/Fantasma"
  }
 ]
