@@ -1579,6 +1579,18 @@
   "Nombre": "Castform",
   "Tipo": "Normal"
  },
+  {
+  "Nombre": "Castform sunny",
+  "Tipo": "Fuego"
+ },
+  {
+  "Nombre": "Castform snowy",
+  "Tipo": "Hielo"
+ },
+  {
+  "Nombre": "Castform rainy",
+  "Tipo": "Agua"
+ },
  {
   "Nombre": "Kecleon",
   "Tipo": "Normal"
@@ -3832,7 +3844,7 @@
   "Tipo": "Hada"
  },
  {
-  "Nombre": "Zacian espada suprema",
+  "Nombre": "Zacian crowned",
   "Tipo": "Hada\/Acero"
  },
  {
@@ -3840,7 +3852,7 @@
   "Tipo": "Lucha"
  },
  {
-  "Nombre": "Zamazenta escudo supremo",
+  "Nombre": "Zamazenta crowned",
   "Tipo": "Lucha\/Acero"
  },
  {
@@ -3884,11 +3896,11 @@
   "Tipo": "Psiquico\/Planta "
  },
  {
-  "Nombre": "Calyrex Jinete Glacial",
+  "Nombre": "Calyrex ice",
   "Tipo": "Psiquico\/Hielo"
  },
  {
-  "Nombre": "Calyrex Jinete Espectral",
+  "Nombre": "Calyrex shadow",
   "Tipo": "Psiquico\/Fantasma"
  },
  {
