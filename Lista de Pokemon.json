@@ -1,4418 +1,4418 @@
 [
- {
-  "Nombre": "Bulbasaur",
-  "Tipo": "Planta\/Veneno"
- },
- {
-  "Nombre": "Ivysaur",
-  "Tipo": "Planta\/Veneno"
- },
- {
-  "Nombre": "Venusaur",
-  "Tipo": "Planta\/Veneno"
- },
- {
-  "Nombre": "Charmander",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Charmeleon",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Charizard",
-  "Tipo": "Fuego\/Volador"
- },
- {
-  "Nombre": "Squirtle",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Wartortle",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Blastoise",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Caterpie",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Metapod",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Butterfree",
-  "Tipo": "Bicho\/Volador"
- },
- {
-  "Nombre": "Weedle",
-  "Tipo": "Bicho\/Veneno"
- },
- {
-  "Nombre": "Kakuna",
-  "Tipo": "Bicho\/Veneno"
- },
- {
-  "Nombre": "Beedrill",
-  "Tipo": "Bicho\/Veneno"
- },
- {
-  "Nombre": "Pidgey",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Pidgeotto",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Pidgeot",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Rattata",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Rattata Alola",
-  "Tipo": "Siniestro\/Normal"
- },
- {
-  "Nombre": "Raticate",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Raticate Alola",
-  "Tipo": "Siniestro\/Normal"
- },
- {
-  "Nombre": "Spearow",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Fearow",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Ekans",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Arbok",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Pikachu",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Raichu",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Raichu Alola",
-  "Tipo": "Electrico\/Psiquico"
- },
- {
-  "Nombre": "Sandshrew",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Sandshrew Alola",
-  "Tipo": "Hielo\/Acero"
- },
- {
-  "Nombre": "Sandslash",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Sandslash Alola",
-  "Tipo": "Hielo\/Acero"
- },
- {
-  "Nombre": "Nidoran♀",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Nidorina",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Nidoqueen",
-  "Tipo": "Veneno\/Tierra"
- },
- {
-  "Nombre": "Nidoran♂",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Nidorino",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Nidoking",
-  "Tipo": "Veneno\/Tierra"
- },
- {
-  "Nombre": "Clefairy",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Clefable",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Vulpix",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Vulpix Alola",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Ninetales",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Ninetales Alola",
-  "Tipo": "Hielo\/Hada"
- },
- {
-  "Nombre": "Jigglypuff",
-  "Tipo": "Normal\/Hada"
- },
- {
-  "Nombre": "Wigglytuff",
-  "Tipo": "Normal\/Hada"
- },
- {
-  "Nombre": "Zubat",
-  "Tipo": "Veneno\/Volador"
- },
- {
-  "Nombre": "Golbat",
-  "Tipo": "Veneno\/Volador"
- },
- {
-  "Nombre": "Oddish",
-  "Tipo": "Planta\/Veneno"
- },
- {
-  "Nombre": "Gloom",
-  "Tipo": "Planta\/Veneno"
- },
- {
-  "Nombre": "Vileplume",
-  "Tipo": "Planta\/Veneno"
- },
- {
-  "Nombre": "Paras",
-  "Tipo": "Bicho\/Planta"
- },
- {
-  "Nombre": "Parasect",
-  "Tipo": "Bicho\/Planta"
- },
- {
-  "Nombre": "Venonat",
-  "Tipo": "Bicho\/Veneno"
- },
- {
-  "Nombre": "Venomoth",
-  "Tipo": "Bicho\/Veneno"
- },
- {
-  "Nombre": "Diglett",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Diglett Alola",
-  "Tipo": "Tierra\/Acero"
- },
- {
-  "Nombre": "Dugtrio",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Dugtrio Alola",
-  "Tipo": "Tierra\/Acero"
- },
- {
-  "Nombre": "Meowth",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Meowth Alola",
-  "Tipo": "Siniestro"
- },
- {
-  "Nombre": "Meowth Galar",
-  "Tipo": "Acero"
- },
- {
-  "Nombre": "Persian",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Persian Alola",
-  "Tipo": "Siniestro"
- },
- {
-  "Nombre": "Psyduck",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Golduck",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Mankey",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Primeape",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Growlithe",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Growlithe Hisui",
-  "Tipo": "Fuego\/Roca"
- },
- {
-  "Nombre": "Arcanine",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Arcanine Hisui",
-  "Tipo": "Fuego\/Roca"
- },
- {
-  "Nombre": "Poliwag",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Poliwhirl",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Poliwrath",
-  "Tipo": "Agua\/Lucha"
- },
- {
-  "Nombre": "Abra",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Kadabra",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Alakazam",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Machop",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Machoke",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Machamp",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Bellsprout",
-  "Tipo": "Planta\/Veneno"
- },
- {
-  "Nombre": "Weepinbell",
-  "Tipo": "Planta\/Veneno"
- },
- {
-  "Nombre": "Victreebel",
-  "Tipo": "Planta\/Veneno"
- },
- {
-  "Nombre": "Tentacool",
-  "Tipo": "Agua\/Veneno"
- },
- {
-  "Nombre": "Tentacruel",
-  "Tipo": "Agua\/Veneno"
- },
- {
-  "Nombre": "Geodude",
-  "Tipo": "Roca\/Tierra"
- },
- {
-  "Nombre": "Geodude Alola",
-  "Tipo": "Roca\/Electrico"
- },
- {
-  "Nombre": "Graveler",
-  "Tipo": "Roca\/Tierra"
- },
- {
-  "Nombre": "Graveler Alola",
-  "Tipo": "Roca\/Electrico"
- },
- {
-  "Nombre": "Golem",
-  "Tipo": "Roca\/Tierra"
- },
- {
-  "Nombre": "Golem Alola",
-  "Tipo": "Roca\/Electrico"
- },
- {
-  "Nombre": "Ponyta",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Ponyta Galar",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Rapidash",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Rapidash Galar",
-  "Tipo": "Psiquico\/Hada"
- },
- {
-  "Nombre": "Slowpoke",
-  "Tipo": "Agua\/Psiquico"
- },
- {
-  "Nombre": "Slowpoke Galar",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Slowbro",
-  "Tipo": "Agua\/Psiquico"
- },
- {
-  "Nombre": "Slowbro Galar",
-  "Tipo": "Veneno\/Psiquico"
- },
- {
-  "Nombre": "Magnemite",
-  "Tipo": "Electrico\/Acero"
- },
- {
-  "Nombre": "Magneton",
-  "Tipo": "Electrico\/Acero"
- },
- {
-  "Nombre": "Farfetch'd",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Farfetch'd Galar",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Doduo",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Dodrio",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Seel",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Dewgong",
-  "Tipo": "Agua\/Hielo"
- },
- {
-  "Nombre": "Grimer",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Grimer Alola",
-  "Tipo": "Veneno\/Siniestro"
- },
- {
-  "Nombre": "Muk",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Muk Alola",
-  "Tipo": "Veneno\/Siniestro"
- },
- {
-  "Nombre": "Shellder",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Cloyster",
-  "Tipo": "Agua\/Hielo"
- },
- {
-  "Nombre": "Gastly",
-  "Tipo": "Fantasma\/Veneno"
- },
- {
-  "Nombre": "Haunter",
-  "Tipo": "Fantasma\/Veneno"
- },
- {
-  "Nombre": "Gengar",
-  "Tipo": "Fantasma\/Veneno"
- },
- {
-  "Nombre": "Onix",
-  "Tipo": "Roca\/Tierra"
- },
- {
-  "Nombre": "Drowzee",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Hypno",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Krabby",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Kingler",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Voltorb",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Voltorb Hisui",
-  "Tipo": "Electrico\/Planta"
- },
- {
-  "Nombre": "Electrode",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Electrode Hisui",
-  "Tipo": "Electrico\/Planta"
- },
- {
-  "Nombre": "Exeggcute",
-  "Tipo": "Planta\/Psiquico"
- },
- {
-  "Nombre": "Exeggutor",
-  "Tipo": "Planta\/Psiquico"
- },
- {
-  "Nombre": "Exeggutor Alola",
-  "Tipo": "Planta\/Dragon"
- },
- {
-  "Nombre": "Cubone",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Marowak",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Marowak Alola",
-  "Tipo": "Fuego\/Fantasma"
- },
- {
-  "Nombre": "Hitmonlee",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Hitmonchan",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Lickitung",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Koffing",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Weezing",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Weezing Galar",
-  "Tipo": "Veneno\/Hada"
- },
- {
-  "Nombre": "Rhyhorn",
-  "Tipo": "Tierra\/Roca"
- },
- {
-  "Nombre": "Rhydon",
-  "Tipo": "Tierra\/Roca"
- },
- {
-  "Nombre": "Chansey",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Tangela",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Kangaskhan",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Horsea",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Seadra",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Goldeen",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Seaking",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Staryu",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Starmie",
-  "Tipo": "Agua\/Psiquico"
- },
- {
-  "Nombre": "Mr. Mime",
-  "Tipo": "Psiquico\/Hada"
- },
- {
-  "Nombre": "Mr. Mime Galar",
-  "Tipo": "Hielo\/Psiquico"
- },
- {
-  "Nombre": "Scyther",
-  "Tipo": "Bicho\/Volador"
- },
- {
-  "Nombre": "Jynx",
-  "Tipo": "Hielo\/Psiquico"
- },
- {
-  "Nombre": "Electabuzz",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Magmar",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Pinsir",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Tauros",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Tauros Paldea",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Tauros Paldea Ardiente",
-  "Tipo": "Lucha\/Fuego"
- },
- {
-  "Nombre": "Tauros Paldea Acuatico",
-  "Tipo": "Lucha\/Agua"
- },
- {
-  "Nombre": "Magikarp",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Gyarados",
-  "Tipo": "Agua\/Volador"
- },
- {
-  "Nombre": "Lapras",
-  "Tipo": "Agua\/Hielo"
- },
- {
-  "Nombre": "Ditto",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Eevee",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Vaporeon",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Jolteon",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Flareon",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Porygon",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Omanyte",
-  "Tipo": "Roca\/Agua"
- },
- {
-  "Nombre": "Omastar",
-  "Tipo": "Roca\/Agua"
- },
- {
-  "Nombre": "Kabuto",
-  "Tipo": "Roca\/Agua"
- },
- {
-  "Nombre": "Kabutops",
-  "Tipo": "Roca\/Agua"
- },
- {
-  "Nombre": "Aerodactyl",
-  "Tipo": "Roca\/Volador"
- },
- {
-  "Nombre": "Snorlax",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Articuno",
-  "Tipo": "Hielo\/Volador"
- },
- {
-  "Nombre": "Articuno Galar",
-  "Tipo": "Psiquico\/Volador"
- },
- {
-  "Nombre": "Zapdos",
-  "Tipo": "Electrico\/Volador"
- },
- {
-  "Nombre": "Zapdos Galar",
-  "Tipo": "Lucha\/Volador"
- },
- {
-  "Nombre": "Moltres",
-  "Tipo": "Fuego\/Volador"
- },
- {
-  "Nombre": "Moltres Galar",
-  "Tipo": "Siniestro\/Volador"
- },
- {
-  "Nombre": "Dratini",
-  "Tipo": "Dragon"
- },
- {
-  "Nombre": "Dragonair",
-  "Tipo": "Dragon"
- },
- {
-  "Nombre": "Dragonite",
-  "Tipo": "Dragon\/Volador"
- },
- {
-  "Nombre": "Mewtwo",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Mew",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Chikorita",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Bayleef",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Meganium",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Cyndaquil",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Quilava",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Typhlosion",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Typhlosion Hisui",
-  "Tipo": "Fuego\/Fantasma"
- },
- {
-  "Nombre": "Totodile",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Croconaw",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Feraligatr",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Sentret",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Furret",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Hoothoot",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Noctowl",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Ledyba",
-  "Tipo": "Bicho\/Volador"
- },
- {
-  "Nombre": "Ledian",
-  "Tipo": "Bicho\/Volador"
- },
- {
-  "Nombre": "Spinarak",
-  "Tipo": "Bicho\/Veneno"
- },
- {
-  "Nombre": "Ariados",
-  "Tipo": "Bicho\/Veneno"
- },
- {
-  "Nombre": "Crobat",
-  "Tipo": "Veneno\/Volador"
- },
- {
-  "Nombre": "Chinchou",
-  "Tipo": "Agua\/Electrico"
- },
- {
-  "Nombre": "Lanturn",
-  "Tipo": "Agua\/Electrico"
- },
- {
-  "Nombre": "Pichu",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Cleffa",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Igglybuff",
-  "Tipo": "Normal\/Hada"
- },
- {
-  "Nombre": "Togepi",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Togetic",
-  "Tipo": "Hada\/Volador"
- },
- {
-  "Nombre": "Natu",
-  "Tipo": "Psiquico\/Volador"
- },
- {
-  "Nombre": "Xatu",
-  "Tipo": "Psiquico\/Volador"
- },
- {
-  "Nombre": "Mareep",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Flaaffy",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Ampharos",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Bellossom",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Marill",
-  "Tipo": "Agua\/Hada"
- },
- {
-  "Nombre": "Azumarill",
-  "Tipo": "Agua\/Hada"
- },
- {
-  "Nombre": "Sudowoodo",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Politoed",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Hoppip",
-  "Tipo": "Planta\/Volador"
- },
- {
-  "Nombre": "Skiploom",
-  "Tipo": "Planta\/Volador"
- },
- {
-  "Nombre": "Jumpluff",
-  "Tipo": "Planta\/Volador"
- },
- {
-  "Nombre": "Aipom",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Sunkern",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Sunflora",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Yanma",
-  "Tipo": "Bicho\/Volador"
- },
- {
-  "Nombre": "Wooper",
-  "Tipo": "Agua\/Tierra"
- },
- {
-  "Nombre": "Wooper Paldea",
-  "Tipo": "Veneno\/Tierra"
- },
- {
-  "Nombre": "Quagsire",
-  "Tipo": "Agua\/Tierra"
- },
- {
-  "Nombre": "Espeon",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Umbreon",
-  "Tipo": "Siniestro"
- },
- {
-  "Nombre": "Murkrow",
-  "Tipo": "Siniestro\/Volador"
- },
- {
-  "Nombre": "Slowking",
-  "Tipo": "Agua\/Psiquico"
- },
- {
-  "Nombre": "Slowking Galar",
-  "Tipo": "Veneno\/Psiquico"
- },
- {
-  "Nombre": "Misdreavus",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Unown",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Wobbuffet",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Girafarig",
-  "Tipo": "Normal\/Psiquico"
- },
- {
-  "Nombre": "Pineco",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Forretress",
-  "Tipo": "Bicho\/Acero"
- },
- {
-  "Nombre": "Dunsparce",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Gligar",
-  "Tipo": "Tierra\/Volador"
- },
- {
-  "Nombre": "Steelix",
-  "Tipo": "Acero\/Tierra"
- },
- {
-  "Nombre": "Snubbull",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Granbull",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Qwilfish",
-  "Tipo": "Agua\/Veneno"
- },
- {
-  "Nombre": "Qwilfish Hisui",
-  "Tipo": "Siniestro\/Veneno"
- },
- {
-  "Nombre": "Scizor",
-  "Tipo": "Bicho\/Acero"
- },
- {
-  "Nombre": "Shuckle",
-  "Tipo": "Bicho\/Roca"
- },
- {
-  "Nombre": "Heracross",
-  "Tipo": "Bicho\/Lucha"
- },
- {
-  "Nombre": "Sneasel",
-  "Tipo": "Siniestro\/Hielo"
- },
- {
-  "Nombre": "Sneasel Hisui",
-  "Tipo": "Veneno\/Lucha"
- },
- {
-  "Nombre": "Teddiursa",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Ursaring",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Slugma",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Magcargo",
-  "Tipo": "Fuego\/Roca"
- },
- {
-  "Nombre": "Swinub",
-  "Tipo": "Hielo\/Tierra"
- },
- {
-  "Nombre": "Piloswine",
-  "Tipo": "Hielo\/Tierra"
- },
- {
-  "Nombre": "Corsola",
-  "Tipo": "Agua\/Roca"
- },
- {
-  "Nombre": "Corsola Galar",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Remoraid",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Octillery",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Delibird",
-  "Tipo": "Hielo\/Volador"
- },
- {
-  "Nombre": "Mantine",
-  "Tipo": "Agua\/Volador"
- },
- {
-  "Nombre": "Skarmory",
-  "Tipo": "Acero\/Volador"
- },
- {
-  "Nombre": "Houndour",
-  "Tipo": "Siniestro\/Fuego"
- },
- {
-  "Nombre": "Houndoom",
-  "Tipo": "Siniestro\/Fuego"
- },
- {
-  "Nombre": "Kingdra",
-  "Tipo": "Agua\/Dragon"
- },
- {
-  "Nombre": "Phanpy",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Donphan",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Porygon2",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Stantler",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Smeargle",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Tyrogue",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Hitmontop",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Smoochum",
-  "Tipo": "Hielo\/Psiquico"
- },
- {
-  "Nombre": "Elekid",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Magby",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Miltank",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Blissey",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Raikou",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Entei",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Suicune",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Larvitar",
-  "Tipo": "Roca\/Tierra"
- },
- {
-  "Nombre": "Pupitar",
-  "Tipo": "Roca\/Tierra"
- },
- {
-  "Nombre": "Tyranitar",
-  "Tipo": "Roca\/Siniestro"
- },
- {
-  "Nombre": "Lugia",
-  "Tipo": "Psiquico\/Volador"
- },
- {
-  "Nombre": "Ho-Oh",
-  "Tipo": "Fuego\/Volador"
- },
- {
-  "Nombre": "Celebi",
-  "Tipo": "Psiquico\/Planta"
- },
- {
-  "Nombre": "Treecko",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Grovyle",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Sceptile",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Torchic",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Combusken",
-  "Tipo": "Fuego\/Lucha"
- },
- {
-  "Nombre": "Blaziken",
-  "Tipo": "Fuego\/Lucha"
- },
- {
-  "Nombre": "Mudkip",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Marshtomp",
-  "Tipo": "Agua\/Tierra"
- },
- {
-  "Nombre": "Swampert",
-  "Tipo": "Agua\/Tierra"
- },
- {
-  "Nombre": "Poochyena",
-  "Tipo": "Siniestro"
- },
- {
-  "Nombre": "Mightyena",
-  "Tipo": "Siniestro"
- },
- {
-  "Nombre": "Zigzagoon",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Linoone",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Wurmple",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Silcoon",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Beautifly",
-  "Tipo": "Bicho\/Volador"
- },
- {
-  "Nombre": "Cascoon",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Dustox",
-  "Tipo": "Bicho\/Veneno"
- },
- {
-  "Nombre": "Lotad",
-  "Tipo": "Agua\/Planta"
- },
- {
-  "Nombre": "Lombre",
-  "Tipo": "Agua\/Planta"
- },
- {
-  "Nombre": "Ludicolo",
-  "Tipo": "Agua\/Planta"
- },
- {
-  "Nombre": "Seedot",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Zigzagoon Galar",
-  "Tipo": "Siniestro\/Normal"
- },
- {
-  "Nombre": "Nuzleaf",
-  "Tipo": "Planta\/Siniestro"
- },
- {
-  "Nombre": "Linoone Galar",
-  "Tipo": "Siniestro\/Normal"
- },
- {
-  "Nombre": "Shiftry",
-  "Tipo": "Planta\/Siniestro"
- },
- {
-  "Nombre": "Taillow",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Swellow",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Wingull",
-  "Tipo": "Agua\/Volador"
- },
- {
-  "Nombre": "Pelipper",
-  "Tipo": "Agua\/Volador"
- },
- {
-  "Nombre": "Ralts",
-  "Tipo": "Psiquico\/Hada"
- },
- {
-  "Nombre": "Kirlia",
-  "Tipo": "Psiquico\/Hada"
- },
- {
-  "Nombre": "Gardevoir",
-  "Tipo": "Psiquico\/Hada"
- },
- {
-  "Nombre": "Surskit",
-  "Tipo": "Bicho\/Agua"
- },
- {
-  "Nombre": "Masquerain",
-  "Tipo": "Bicho\/Volador"
- },
- {
-  "Nombre": "Shroomish",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Breloom",
-  "Tipo": "Planta\/Lucha"
- },
- {
-  "Nombre": "Slakoth",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Vigoroth",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Slaking",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Nincada",
-  "Tipo": "Bicho\/Tierra"
- },
- {
-  "Nombre": "Ninjask",
-  "Tipo": "Bicho\/Volador"
- },
- {
-  "Nombre": "Shedinja",
-  "Tipo": "Bicho\/Fantasma"
- },
- {
-  "Nombre": "Whismur",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Loudred",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Exploud",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Makuhita",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Hariyama",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Azurill",
-  "Tipo": "Normal\/Hada"
- },
- {
-  "Nombre": "Nosepass",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Skitty",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Delcatty",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Sableye",
-  "Tipo": "Siniestro\/Fantasma"
- },
- {
-  "Nombre": "Mawile",
-  "Tipo": "Acero\/Hada"
- },
- {
-  "Nombre": "Aron",
-  "Tipo": "Acero\/Roca"
- },
- {
-  "Nombre": "Lairon",
-  "Tipo": "Acero\/Roca"
- },
- {
-  "Nombre": "Aggron",
-  "Tipo": "Acero\/Roca"
- },
- {
-  "Nombre": "Meditite",
-  "Tipo": "Lucha\/Psiquico"
- },
- {
-  "Nombre": "Medicham",
-  "Tipo": "Lucha\/Psiquico"
- },
- {
-  "Nombre": "Electrike",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Manectric",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Plusle",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Minun",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Volbeat",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Illumise",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Roselia",
-  "Tipo": "Planta\/Veneno"
- },
- {
-  "Nombre": "Gulpin",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Swalot",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Carvanha",
-  "Tipo": "Agua\/Siniestro"
- },
- {
-  "Nombre": "Sharpedo",
-  "Tipo": "Agua\/Siniestro"
- },
- {
-  "Nombre": "Wailmer",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Wailord",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Numel",
-  "Tipo": "Fuego\/Tierra"
- },
- {
-  "Nombre": "Camerupt",
-  "Tipo": "Fuego\/Tierra"
- },
- {
-  "Nombre": "Torkoal",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Spoink",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Grumpig",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Spinda",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Trapinch",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Vibrava",
-  "Tipo": "Tierra\/Dragon"
- },
- {
-  "Nombre": "Flygon",
-  "Tipo": "Tierra\/Dragon"
- },
- {
-  "Nombre": "Cacnea",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Cacturne",
-  "Tipo": "Planta\/Siniestro"
- },
- {
-  "Nombre": "Swablu",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Altaria",
-  "Tipo": "Dragon\/Volador"
- },
- {
-  "Nombre": "Zangoose",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Seviper",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Lunatone",
-  "Tipo": "Roca\/Psiquico"
- },
- {
-  "Nombre": "Solrock",
-  "Tipo": "Roca\/Psiquico"
- },
- {
-  "Nombre": "Barboach",
-  "Tipo": "Agua\/Tierra"
- },
- {
-  "Nombre": "Whiscash",
-  "Tipo": "Agua\/Tierra"
- },
- {
-  "Nombre": "Corphish",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Crawdaunt",
-  "Tipo": "Agua\/Siniestro"
- },
- {
-  "Nombre": "Baltoy",
-  "Tipo": "Tierra\/Psiquico"
- },
- {
-  "Nombre": "Claydol",
-  "Tipo": "Tierra\/Psiquico"
- },
- {
-  "Nombre": "Lileep",
-  "Tipo": "Roca\/Planta"
- },
- {
-  "Nombre": "Cradily",
-  "Tipo": "Roca\/Planta"
- },
- {
-  "Nombre": "Anorith",
-  "Tipo": "Roca\/Bicho"
- },
- {
-  "Nombre": "Armaldo",
-  "Tipo": "Roca\/Bicho"
- },
- {
-  "Nombre": "Feebas",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Milotic",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Castform",
-  "Tipo": "Normal"
- },
-  {
-  "Nombre": "Castform sunny",
-  "Tipo": "Fuego"
- },
-  {
-  "Nombre": "Castform snowy",
-  "Tipo": "Hielo"
- },
-  {
-  "Nombre": "Castform rainy",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Kecleon",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Shuppet",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Banette",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Duskull",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Dusclops",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Tropius",
-  "Tipo": "Planta\/Volador"
- },
- {
-  "Nombre": "Chimecho",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Absol",
-  "Tipo": "Siniestro"
- },
- {
-  "Nombre": "Wynaut",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Snorunt",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Glalie",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Spheal",
-  "Tipo": "Hielo\/Agua"
- },
- {
-  "Nombre": "Sealeo",
-  "Tipo": "Hielo\/Agua"
- },
- {
-  "Nombre": "Walrein",
-  "Tipo": "Hielo\/Agua"
- },
- {
-  "Nombre": "Clamperl",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Huntail",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Gorebyss",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Relicanth",
-  "Tipo": "Agua\/Roca"
- },
- {
-  "Nombre": "Luvdisc",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Bagon",
-  "Tipo": "Dragon"
- },
- {
-  "Nombre": "Shelgon",
-  "Tipo": "Dragon"
- },
- {
-  "Nombre": "Salamence",
-  "Tipo": "Dragon\/Volador"
- },
- {
-  "Nombre": "Beldum",
-  "Tipo": "Acero\/Psiquico"
- },
- {
-  "Nombre": "Metang",
-  "Tipo": "Acero\/Psiquico"
- },
- {
-  "Nombre": "Metagross",
-  "Tipo": "Acero\/Psiquico"
- },
- {
-  "Nombre": "Regirock",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Regice",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Registeel",
-  "Tipo": "Acero"
- },
- {
-  "Nombre": "Latias",
-  "Tipo": "Dragon\/Psiquico"
- },
- {
-  "Nombre": "Latios",
-  "Tipo": "Dragon\/Psiquico"
- },
- {
-  "Nombre": "Kyogre",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Groudon",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Rayquaza",
-  "Tipo": "Dragon\/Volador"
- },
- {
-  "Nombre": "Jirachi",
-  "Tipo": "Acero\/Psiquico"
- },
- {
-  "Nombre": "Deoxys",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Turtwig",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Grotle",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Torterra",
-  "Tipo": "Planta\/Tierra"
- },
- {
-  "Nombre": "Chimchar",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Monferno",
-  "Tipo": "Fuego\/Lucha"
- },
- {
-  "Nombre": "Infernape",
-  "Tipo": "Fuego\/Lucha"
- },
- {
-  "Nombre": "Piplup",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Prinplup",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Empoleon",
-  "Tipo": "Agua\/Acero"
- },
- {
-  "Nombre": "Starly",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Staravia",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Staraptor",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Bidoof",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Bibarel",
-  "Tipo": "Normal\/Agua"
- },
- {
-  "Nombre": "Kricketot",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Kricketune",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Shinx",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Luxio",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Luxray",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Budew",
-  "Tipo": "Planta\/Veneno"
- },
- {
-  "Nombre": "Roserade",
-  "Tipo": "Planta\/Veneno"
- },
- {
-  "Nombre": "Cranidos",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Rampardos",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Shieldon",
-  "Tipo": "Roca\/Acero"
- },
- {
-  "Nombre": "Bastiodon",
-  "Tipo": "Roca\/Acero"
- },
- {
-  "Nombre": "Burmy",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Wormadam",
-  "Tipo": "Bicho\/Planta"
- },
- {
-  "Nombre": "Wormadam Sandy",
-  "Tipo": "Bicho\/Tierra"
- },
- {
-  "Nombre": "Wormadam Trash",
-  "Tipo": "Bicho\/Acero"
- },
- {
-  "Nombre": "Mothim",
-  "Tipo": "Bicho\/Volador"
- },
- {
-  "Nombre": "Combee",
-  "Tipo": "Bicho\/Volador"
- },
- {
-  "Nombre": "Vespiquen",
-  "Tipo": "Bicho\/Volador"
- },
- {
-  "Nombre": "Pachirisu",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Buizel",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Floatzel",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Cherubi",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Cherrim",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Shellos",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Gastrodon",
-  "Tipo": "Agua\/Tierra"
- },
- {
-  "Nombre": "Ambipom",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Drifloon",
-  "Tipo": "Fantasma\/Volador"
- },
- {
-  "Nombre": "Drifblim",
-  "Tipo": "Fantasma\/Volador"
- },
- {
-  "Nombre": "Buneary",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Lopunny",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Lopunny Mega",
-  "Tipo": "Normal\/Lucha"
- },
- {
-  "Nombre": "Mismagius",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Honchkrow",
-  "Tipo": "Siniestro\/Volador"
- },
- {
-  "Nombre": "Glameow",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Purugly",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Chingling",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Stunky",
-  "Tipo": "Veneno\/Siniestro"
- },
- {
-  "Nombre": "Skuntank",
-  "Tipo": "Veneno\/Siniestro"
- },
- {
-  "Nombre": "Bronzor",
-  "Tipo": "Acero\/Psiquico"
- },
- {
-  "Nombre": "Bronzong",
-  "Tipo": "Acero\/Psiquico"
- },
- {
-  "Nombre": "Bonsly",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Mime Jr.",
-  "Tipo": "Psiquico\/Hada"
- },
- {
-  "Nombre": "Happiny",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Chatot",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Spiritomb",
-  "Tipo": "Fantasma\/Siniestro"
- },
- {
-  "Nombre": "Gible",
-  "Tipo": "Dragon\/Tierra"
- },
- {
-  "Nombre": "Gabite",
-  "Tipo": "Dragon\/Tierra"
- },
- {
-  "Nombre": "Garchomp",
-  "Tipo": "Dragon\/Tierra"
- },
- {
-  "Nombre": "Munchlax",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Riolu",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Lucario",
-  "Tipo": "Lucha\/Acero"
- },
- {
-  "Nombre": "Hippopotas",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Hippowdon",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Skorupi",
-  "Tipo": "Veneno\/Bicho"
- },
- {
-  "Nombre": "Drapion",
-  "Tipo": "Veneno\/Siniestro"
- },
- {
-  "Nombre": "Croagunk",
-  "Tipo": "Veneno\/Lucha"
- },
- {
-  "Nombre": "Toxicroak",
-  "Tipo": "Veneno\/Lucha"
- },
- {
-  "Nombre": "Carnivine",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Finneon",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Lumineon",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Mantyke",
-  "Tipo": "Agua\/Volador"
- },
- {
-  "Nombre": "Snover",
-  "Tipo": "Planta\/Hielo"
- },
- {
-  "Nombre": "Abomasnow",
-  "Tipo": "Planta\/Hielo"
- },
- {
-  "Nombre": "Weavile",
-  "Tipo": "Siniestro\/Hielo"
- },
- {
-  "Nombre": "Magnezone",
-  "Tipo": "Electrico\/Acero"
- },
- {
-  "Nombre": "Lickilicky",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Rhyperior",
-  "Tipo": "Tierra\/Roca"
- },
- {
-  "Nombre": "Tangrowth",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Electivire",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Magmortar",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Togekiss",
-  "Tipo": "Hada\/Volador"
- },
- {
-  "Nombre": "Yanmega",
-  "Tipo": "Bicho\/Volador"
- },
- {
-  "Nombre": "Leafeon",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Glaceon",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Gliscor",
-  "Tipo": "Tierra\/Volador"
- },
- {
-  "Nombre": "Mamoswine",
-  "Tipo": "Hielo\/Tierra"
- },
- {
-  "Nombre": "Porygon-Z",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Gallade",
-  "Tipo": "Psiquico\/Lucha"
- },
- {
-  "Nombre": "Probopass",
-  "Tipo": "Roca\/Acero"
- },
- {
-  "Nombre": "Dusknoir",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Froslass",
-  "Tipo": "Hielo\/Fantasma"
- },
- {
-  "Nombre": "Rotom",
-  "Tipo": "Electrico\/Fantasma"
- },
- {
-  "Nombre": "Rotom heat",
-  "Tipo": "Electrico\/Fuego"
- },
- {
-  "Nombre": "Rotom wash",
-  "Tipo": "Electrico\/Agua"
- },
- {
-  "Nombre": "Rotom frost",
-  "Tipo": "Electrico\/Hielo"
- },
- {
-  "Nombre": "Rotom fan",
-  "Tipo": "Electrico\/Volador"
- },
- {
-  "Nombre": "Rotom mow",
-  "Tipo": "Electrico\/Planta"
- },
- {
-  "Nombre": "Uxie",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Mesprit",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Azelf",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Dialga",
-  "Tipo": "Acero\/Dragon"
- },
- {
-  "Nombre": "Dialga Origen",
-  "Tipo": "Acero\/Dragon"
- },
- {
-  "Nombre": "Palkia",
-  "Tipo": "Agua\/Dragon"
- },
- {
-  "Nombre": "Heatran",
-  "Tipo": "Fuego\/Acero"
- },
- {
-  "Nombre": "Regigigas",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Giratina",
-  "Tipo": "Fantasma\/Dragon"
- },
- {
-  "Nombre": "Cresselia",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Phione",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Manaphy",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Darkrai",
-  "Tipo": "Siniestro"
- },
- {
-  "Nombre": "Shaymin",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Arceus",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Victini",
-  "Tipo": "Psiquico\/Fuego"
- },
- {
-  "Nombre": "Snivy",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Servine",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Serperior",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Tepig",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Pignite",
-  "Tipo": "Fuego\/Lucha"
- },
- {
-  "Nombre": "Emboar",
-  "Tipo": "Fuego\/Lucha"
- },
- {
-  "Nombre": "Oshawott",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Dewott",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Samurott",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Samurott Hisui",
-  "Tipo": "Agua\/Siniestro"
- },
- {
-  "Nombre": "Patrat",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Watchog",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Lillipup",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Herdier",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Stoutland",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Purrloin",
-  "Tipo": "Siniestro"
- },
- {
-  "Nombre": "Liepard",
-  "Tipo": "Siniestro"
- },
- {
-  "Nombre": "Pansage",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Simisage",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Pansear",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Simisear",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Panpour",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Simipour",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Munna",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Musharna",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Pidove",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Tranquill",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Unfezant",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Blitzle",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Zebstrika",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Roggenrola",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Boldore",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Gigalith",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Woobat",
-  "Tipo": "Psiquico\/Volador"
- },
- {
-  "Nombre": "Swoobat",
-  "Tipo": "Psiquico\/Volador"
- },
- {
-  "Nombre": "Drilbur",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Excadrill",
-  "Tipo": "Tierra\/Acero"
- },
- {
-  "Nombre": "Audino",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Timburr",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Gurdurr",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Conkeldurr",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Tympole",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Palpitoad",
-  "Tipo": "Agua\/Tierra"
- },
- {
-  "Nombre": "Seismitoad",
-  "Tipo": "Agua\/Tierra"
- },
- {
-  "Nombre": "Throh",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Sawk",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Sewaddle",
-  "Tipo": "Bicho\/Planta"
- },
- {
-  "Nombre": "Swadloon",
-  "Tipo": "Bicho\/Planta"
- },
- {
-  "Nombre": "Leavanny",
-  "Tipo": "Bicho\/Planta"
- },
- {
-  "Nombre": "Venipede",
-  "Tipo": "Bicho\/Veneno"
- },
- {
-  "Nombre": "Whirlipede",
-  "Tipo": "Bicho\/Veneno"
- },
- {
-  "Nombre": "Scolipede",
-  "Tipo": "Bicho\/Veneno"
- },
- {
-  "Nombre": "Cottonee",
-  "Tipo": "Planta\/Hada"
- },
- {
-  "Nombre": "Whimsicott",
-  "Tipo": "Planta\/Hada"
- },
- {
-  "Nombre": "Petilil",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Lilligant",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Lilligant Hisui",
-  "Tipo": "Planta\/Lucha"
- },
- {
-  "Nombre": "Basculin",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Basculin whitestriped",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Sandile",
-  "Tipo": "Tierra\/Siniestro"
- },
- {
-  "Nombre": "Krokorok",
-  "Tipo": "Tierra\/Siniestro"
- },
- {
-  "Nombre": "Krookodile",
-  "Tipo": "Tierra\/Siniestro"
- },
- {
-  "Nombre": "Darumaka",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Darumaka Galar",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Darmanitan",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Darmanitan Galar",
-  "Tipo": "Hielo\/Fuego"
- },
- {
-  "Nombre": "Maractus",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Dwebble",
-  "Tipo": "Bicho\/Roca"
- },
- {
-  "Nombre": "Crustle",
-  "Tipo": "Bicho\/Roca"
- },
- {
-  "Nombre": "Scraggy",
-  "Tipo": "Siniestro\/Lucha"
- },
- {
-  "Nombre": "Scrafty",
-  "Tipo": "Siniestro\/Lucha"
- },
- {
-  "Nombre": "Sigilyph",
-  "Tipo": "Psiquico\/Volador"
- },
- {
-  "Nombre": "Yamask",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Yamask Galar",
-  "Tipo": "Tierra\/Fantasma"
- },
- {
-  "Nombre": "Cofagrigus",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Tirtouga",
-  "Tipo": "Agua\/Roca"
- },
- {
-  "Nombre": "Carracosta",
-  "Tipo": "Agua\/Roca"
- },
- {
-  "Nombre": "Archen",
-  "Tipo": "Roca\/Volador"
- },
- {
-  "Nombre": "Archeops",
-  "Tipo": "Roca\/Volador"
- },
- {
-  "Nombre": "Trubbish",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Garbodor",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Zorua",
-  "Tipo": "Siniestro"
- },
- {
-  "Nombre": "Zorua Hisui",
-  "Tipo": "Normal\/Fantasma"
- },
- {
-  "Nombre": "Zoroark",
-  "Tipo": "Siniestro"
- },
- {
-  "Nombre": "Zoroark Hisui",
-  "Tipo": "Normal\/Fantasma"
- },
- {
-  "Nombre": "Minccino",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Cinccino",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Gothita",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Gothorita",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Gothitelle",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Solosis",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Duosion",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Reuniclus",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Ducklett",
-  "Tipo": "Agua\/Volador"
- },
- {
-  "Nombre": "Swanna",
-  "Tipo": "Agua\/Volador"
- },
- {
-  "Nombre": "Vanillite",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Vanillish",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Vanilluxe",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Palkia Origen",
-  "Tipo": "Agua\/Dragon"
- },
- {
-  "Nombre": "Deerling",
-  "Tipo": "Normal\/Planta"
- },
- {
-  "Nombre": "Sawsbuck",
-  "Tipo": "Normal\/Planta"
- },
- {
-  "Nombre": "Emolga",
-  "Tipo": "Electrico\/Volador"
- },
- {
-  "Nombre": "Karrablast",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Escavalier",
-  "Tipo": "Bicho\/Acero"
- },
- {
-  "Nombre": "Foongus",
-  "Tipo": "Planta\/Veneno"
- },
- {
-  "Nombre": "Amoonguss",
-  "Tipo": "Planta\/Veneno"
- },
- {
-  "Nombre": "Frillish",
-  "Tipo": "Agua\/Fantasma"
- },
- {
-  "Nombre": "Jellicent",
-  "Tipo": "Agua\/Fantasma"
- },
- {
-  "Nombre": "Alomomola",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Joltik",
-  "Tipo": "Bicho\/Electrico"
- },
- {
-  "Nombre": "Galvantula",
-  "Tipo": "Bicho\/Electrico"
- },
- {
-  "Nombre": "Ferroseed",
-  "Tipo": "Planta\/Acero"
- },
- {
-  "Nombre": "Ferrothorn",
-  "Tipo": "Planta\/Acero"
- },
- {
-  "Nombre": "Klink",
-  "Tipo": "Acero"
- },
- {
-  "Nombre": "Klang",
-  "Tipo": "Acero"
- },
- {
-  "Nombre": "Klinklang",
-  "Tipo": "Acero"
- },
- {
-  "Nombre": "Tynamo",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Eelektrik",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Eelektross",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Elgyem",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Beheeyem",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Litwick",
-  "Tipo": "Fantasma\/Fuego"
- },
- {
-  "Nombre": "Lampent",
-  "Tipo": "Fantasma\/Fuego"
- },
- {
-  "Nombre": "Chandelure",
-  "Tipo": "Fantasma\/Fuego"
- },
- {
-  "Nombre": "Axew",
-  "Tipo": "Dragon"
- },
- {
-  "Nombre": "Fraxure",
-  "Tipo": "Dragon"
- },
- {
-  "Nombre": "Haxorus",
-  "Tipo": "Dragon"
- },
- {
-  "Nombre": "Cubchoo",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Beartic",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Cryogonal",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Shelmet",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Accelgor",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Stunfisk",
-  "Tipo": "Tierra\/Electrico"
- },
- {
-  "Nombre": "Stunfisk Galar",
-  "Tipo": "Tierra\/Acero"
- },
- {
-  "Nombre": "Mienfoo",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Mienshao",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Druddigon",
-  "Tipo": "Dragon"
- },
- {
-  "Nombre": "Golett",
-  "Tipo": "Tierra\/Fantasma"
- },
- {
-  "Nombre": "Golurk",
-  "Tipo": "Tierra\/Fantasma"
- },
- {
-  "Nombre": "Pawniard",
-  "Tipo": "Siniestro\/Acero"
- },
- {
-  "Nombre": "Bisharp",
-  "Tipo": "Siniestro\/Acero"
- },
- {
-  "Nombre": "Bouffalant",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Rufflet",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Braviary",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Braviary Hisui",
-  "Tipo": "Psiquico\/Volador"
- },
- {
-  "Nombre": "Vullaby",
-  "Tipo": "Siniestro\/Volador"
- },
- {
-  "Nombre": "Mandibuzz",
-  "Tipo": "Siniestro\/Volador"
- },
- {
-  "Nombre": "Heatmor",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Durant",
-  "Tipo": "Bicho\/Acero"
- },
- {
-  "Nombre": "Deino",
-  "Tipo": "Siniestro\/Dragon"
- },
- {
-  "Nombre": "Zweilous",
-  "Tipo": "Siniestro\/Dragon"
- },
- {
-  "Nombre": "Hydreigon",
-  "Tipo": "Siniestro\/Dragon"
- },
- {
-  "Nombre": "Larvesta",
-  "Tipo": "Bicho\/Fuego"
- },
- {
-  "Nombre": "Volcarona",
-  "Tipo": "Bicho\/Fuego"
- },
- {
-  "Nombre": "Cobalion",
-  "Tipo": "Acero\/Lucha"
- },
- {
-  "Nombre": "Terrakion",
-  "Tipo": "Roca\/Lucha"
- },
- {
-  "Nombre": "Virizion",
-  "Tipo": "Planta\/Lucha"
- },
- {
-  "Nombre": "Tornadus",
-  "Tipo": "Volador"
- },
- {
-  "Nombre": "Thundurus",
-  "Tipo": "Electrico\/Volador"
- },
- {
-  "Nombre": "Reshiram",
-  "Tipo": "Dragon\/Fuego"
- },
- {
-  "Nombre": "Zekrom",
-  "Tipo": "Dragon\/Electrico"
- },
- {
-  "Nombre": "Landorus",
-  "Tipo": "Tierra\/Volador"
- },
- {
-  "Nombre": "Kyurem",
-  "Tipo": "Dragon\/Hielo"
- },
- {
-  "Nombre": "Keldeo",
-  "Tipo": "Agua\/Lucha"
- },
- {
-  "Nombre": "Meloetta",
-  "Tipo": "Normal\/Psiquico"
- },
- {
-  "Nombre": "Genesect",
-  "Tipo": "Bicho\/Acero"
- },
- {
-  "Nombre": "Chespin",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Quilladin",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Chesnaught",
-  "Tipo": "Planta\/Lucha"
- },
- {
-  "Nombre": "Fennekin",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Braixen",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Delphox",
-  "Tipo": "Fuego\/Psiquico"
- },
- {
-  "Nombre": "Froakie",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Frogadier",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Greninja",
-  "Tipo": "Agua\/Siniestro"
- },
- {
-  "Nombre": "Bunnelby",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Diggersby",
-  "Tipo": "Normal\/Tierra"
- },
- {
-  "Nombre": "Fletchling",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Fletchinder",
-  "Tipo": "Fuego\/Volador"
- },
- {
-  "Nombre": "Talonflame",
-  "Tipo": "Fuego\/Volador"
- },
- {
-  "Nombre": "Scatterbug",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Spewpa",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Vivillon",
-  "Tipo": "Bicho\/Volador"
- },
- {
-  "Nombre": "Litleo",
-  "Tipo": "Fuego\/Normal"
- },
- {
-  "Nombre": "Pyroar",
-  "Tipo": "Fuego\/Normal"
- },
- {
-  "Nombre": "Flabébé",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Floette",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Florges",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Skiddo",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Gogoat",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Pancham",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Pangoro",
-  "Tipo": "Lucha\/Siniestro"
- },
- {
-  "Nombre": "Furfrou",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Espurr",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Meowstic",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Honedge",
-  "Tipo": "Acero\/Fantasma"
- },
- {
-  "Nombre": "Doublade",
-  "Tipo": "Acero\/Fantasma"
- },
- {
-  "Nombre": "Aegislash",
-  "Tipo": "Acero\/Fantasma"
- },
- {
-  "Nombre": "Spritzee",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Aromatisse",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Swirlix",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Slurpuff",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Inkay",
-  "Tipo": "Siniestro\/Psiquico"
- },
- {
-  "Nombre": "Malamar",
-  "Tipo": "Siniestro\/Psiquico"
- },
- {
-  "Nombre": "Binacle",
-  "Tipo": "Roca\/Agua"
- },
- {
-  "Nombre": "Barbaracle",
-  "Tipo": "Roca\/Agua"
- },
- {
-  "Nombre": "Skrelp",
-  "Tipo": "Veneno\/Agua"
- },
- {
-  "Nombre": "Dragalge",
-  "Tipo": "Veneno\/Dragon"
- },
- {
-  "Nombre": "Clauncher",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Clawitzer",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Helioptile",
-  "Tipo": "Electrico\/Normal"
- },
- {
-  "Nombre": "Heliolisk",
-  "Tipo": "Electrico\/Normal"
- },
- {
-  "Nombre": "Tyrunt",
-  "Tipo": "Roca\/Dragon"
- },
- {
-  "Nombre": "Tyrantrum",
-  "Tipo": "Roca\/Dragon"
- },
- {
-  "Nombre": "Amaura",
-  "Tipo": "Roca\/Hielo"
- },
- {
-  "Nombre": "Aurorus",
-  "Tipo": "Roca\/Hielo"
- },
- {
-  "Nombre": "Sylveon",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Hawlucha",
-  "Tipo": "Lucha\/Volador"
- },
- {
-  "Nombre": "Dedenne",
-  "Tipo": "Electrico\/Hada"
- },
- {
-  "Nombre": "Carbink",
-  "Tipo": "Roca\/Hada"
- },
- {
-  "Nombre": "Goomy",
-  "Tipo": "Dragon"
- },
- {
-  "Nombre": "Sliggoo",
-  "Tipo": "Dragon"
- },
- {
-  "Nombre": "Sliggoo Hisui",
-  "Tipo": "Dragon\/Acero"
- },
- {
-  "Nombre": "Goodra",
-  "Tipo": "Dragon"
- },
- {
-  "Nombre": "Goodra Hisui",
-  "Tipo": "Dragon\/Acero"
- },
- {
-  "Nombre": "Klefki",
-  "Tipo": "Acero\/Hada"
- },
- {
-  "Nombre": "Phantump",
-  "Tipo": "Fantasma\/Planta"
- },
- {
-  "Nombre": "Trevenant",
-  "Tipo": "Fantasma\/Planta"
- },
- {
-  "Nombre": "Pumpkaboo",
-  "Tipo": "Fantasma\/Planta"
- },
- {
-  "Nombre": "Gourgeist",
-  "Tipo": "Fantasma\/Planta"
- },
- {
-  "Nombre": "Bergmite",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Avalugg",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Avalugg Hisui",
-  "Tipo": "Hielo\/Roca"
- },
- {
-  "Nombre": "Noibat",
-  "Tipo": "Volador\/Dragon"
- },
- {
-  "Nombre": "Noivern",
-  "Tipo": "Volador\/Dragon"
- },
- {
-  "Nombre": "Xerneas",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Yveltal",
-  "Tipo": "Siniestro\/Volador"
- },
- {
-  "Nombre": "Zygarde",
-  "Tipo": "Dragon\/Tierra"
- },
- {
-  "Nombre": "Diancie",
-  "Tipo": "Roca\/Hada"
- },
- {
-  "Nombre": "Hoopa",
-  "Tipo": "Psiquico\/Fantasma"
- },
- {
-  "Nombre": "Volcanion",
-  "Tipo": "Fuego\/Agua"
- },
- {
-  "Nombre": "Rowlet",
-  "Tipo": "Planta\/Volador"
- },
- {
-  "Nombre": "Dartrix",
-  "Tipo": "Planta\/Volador"
- },
- {
-  "Nombre": "Decidueye",
-  "Tipo": "Planta\/Fantasma"
- },
- {
-  "Nombre": "Decidueye Hisui",
-  "Tipo": "Planta\/Lucha"
- },
- {
-  "Nombre": "Litten",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Torracat",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Incineroar",
-  "Tipo": "Fuego\/Siniestro"
- },
- {
-  "Nombre": "Popplio",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Brionne",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Primarina",
-  "Tipo": "Agua\/Hada"
- },
- {
-  "Nombre": "Pikipek",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Trumbeak",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Toucannon",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Yungoos",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Gumshoos",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Grubbin",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Charjabug",
-  "Tipo": "Bicho\/Electrico"
- },
- {
-  "Nombre": "Vikavolt",
-  "Tipo": "Bicho\/Electrico"
- },
- {
-  "Nombre": "Crabrawler",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Crabominable",
-  "Tipo": "Lucha\/Hielo"
- },
- {
-  "Nombre": "Oricorio pompom",
-  "Tipo": "Electrico\/Volador"
- },
- {
-  "Nombre": "Oricorio pau",
-  "Tipo": "Psiquico\/Volador"
- },
- {
-  "Nombre": "Oricorio",
-  "Tipo": "Fuego\/Volador"
- },
- {
-  "Nombre": "Oricorio sensu",
-  "Tipo": "Fantasma\/Volador"
- },
- {
-  "Nombre": "Cutiefly",
-  "Tipo": "Bicho\/Hada"
- },
- {
-  "Nombre": "Ribombee",
-  "Tipo": "Bicho\/Hada"
- },
- {
-  "Nombre": "Rockruff",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Lycanroc",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Wishiwashi",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Mareanie",
-  "Tipo": "Veneno\/Agua"
- },
- {
-  "Nombre": "Toxapex",
-  "Tipo": "Veneno\/Agua"
- },
- {
-  "Nombre": "Mudbray",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Mudsdale",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Dewpider",
-  "Tipo": "Agua\/Bicho"
- },
- {
-  "Nombre": "Araquanid",
-  "Tipo": "Agua\/Bicho"
- },
- {
-  "Nombre": "Fomantis",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Lurantis",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Morelull",
-  "Tipo": "Planta\/Hada"
- },
- {
-  "Nombre": "Shiinotic",
-  "Tipo": "Planta\/Hada"
- },
- {
-  "Nombre": "Salandit",
-  "Tipo": "Veneno\/Fuego"
- },
- {
-  "Nombre": "Salazzle",
-  "Tipo": "Veneno\/Fuego"
- },
- {
-  "Nombre": "Stufful",
-  "Tipo": "Normal\/Lucha"
- },
- {
-  "Nombre": "Bewear",
-  "Tipo": "Normal\/Lucha"
- },
- {
-  "Nombre": "Bounsweet",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Steenee",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Tsareena",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Comfey",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Oranguru",
-  "Tipo": "Normal\/Psiquico"
- },
- {
-  "Nombre": "Passimian",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Wimpod",
-  "Tipo": "Bicho\/Agua"
- },
- {
-  "Nombre": "Golisopod",
-  "Tipo": "Bicho\/Agua"
- },
- {
-  "Nombre": "Sandygast",
-  "Tipo": "Fantasma\/Tierra"
- },
- {
-  "Nombre": "Palossand",
-  "Tipo": "Fantasma\/Tierra"
- },
- {
-  "Nombre": "Pyukumuku",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Código Cero",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Silvally",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Minior",
-  "Tipo": "Roca\/Volador"
- },
- {
-  "Nombre": "Komala",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Turtonator",
-  "Tipo": "Fuego\/Dragon"
- },
- {
-  "Nombre": "Togedemaru",
-  "Tipo": "Electrico\/Acero"
- },
- {
-  "Nombre": "Mimikyu",
-  "Tipo": "Fantasma\/Hada"
- },
- {
-  "Nombre": "Bruxish",
-  "Tipo": "Agua\/Psiquico"
- },
- {
-  "Nombre": "Drampa",
-  "Tipo": "Normal\/Dragon"
- },
- {
-  "Nombre": "Dhelmise",
-  "Tipo": "Fantasma\/Planta"
- },
- {
-  "Nombre": "Jangmo-o",
-  "Tipo": "Dragon"
- },
- {
-  "Nombre": "Hakamo-o",
-  "Tipo": "Dragon\/Lucha"
- },
- {
-  "Nombre": "Kommo-o",
-  "Tipo": "Dragon\/Lucha"
- },
- {
-  "Nombre": "Tapu Koko",
-  "Tipo": "Electrico\/Hada"
- },
- {
-  "Nombre": "Tapu Lele",
-  "Tipo": "Psiquico\/Hada"
- },
- {
-  "Nombre": "Tapu Bulu",
-  "Tipo": "Planta\/Hada"
- },
- {
-  "Nombre": "Tapu Fini",
-  "Tipo": "Agua\/Hada"
- },
- {
-  "Nombre": "Cosmog",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Cosmoem",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Solgaleo",
-  "Tipo": "Psiquico\/Acero"
- },
- {
-  "Nombre": "Lunala",
-  "Tipo": "Psiquico\/Fantasma"
- },
- {
-  "Nombre": "Nihilego",
-  "Tipo": "Roca\/Veneno"
- },
- {
-  "Nombre": "Buzzwole",
-  "Tipo": "Bicho\/Lucha"
- },
- {
-  "Nombre": "Pheromosa",
-  "Tipo": "Bicho\/Lucha"
- },
- {
-  "Nombre": "Xurkitree",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Celesteela",
-  "Tipo": "Acero\/Volador"
- },
- {
-  "Nombre": "Kartana",
-  "Tipo": "Planta\/Acero"
- },
- {
-  "Nombre": "Guzzlord",
-  "Tipo": "Siniestro\/Dragon"
- },
- {
-  "Nombre": "Necrozma",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Magearna",
-  "Tipo": "Acero\/Hada"
- },
- {
-  "Nombre": "Marshadow",
-  "Tipo": "Lucha\/Fantasma"
- },
- {
-  "Nombre": "Poipole",
-  "Tipo": "Veneno"
- },
- {
-  "Nombre": "Naganadel",
-  "Tipo": "Veneno\/Dragon"
- },
- {
-  "Nombre": "Stakataka",
-  "Tipo": "Roca\/Acero"
- },
- {
-  "Nombre": "Blacephalon",
-  "Tipo": "Fuego\/Fantasma"
- },
- {
-  "Nombre": "Zeraora",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Meltan",
-  "Tipo": "Acero"
- },
- {
-  "Nombre": "Melmetal",
-  "Tipo": "Acero"
- },
- {
-  "Nombre": "Grookey",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Thwackey",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Rillaboom",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Scorbunny",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Raboot",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Cinderace",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Sobble",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Drizzile",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Inteleon",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Skwovet",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Greedent",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Rookidee",
-  "Tipo": "Volador"
- },
- {
-  "Nombre": "Corvisquire",
-  "Tipo": "Volador"
- },
- {
-  "Nombre": "Corviknight",
-  "Tipo": "Volador\/Acero"
- },
- {
-  "Nombre": "Blipbug",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Dottler",
-  "Tipo": "Bicho\/Psiquico"
- },
- {
-  "Nombre": "Orbeetle",
-  "Tipo": "Bicho\/Psiquico"
- },
- {
-  "Nombre": "Nickit",
-  "Tipo": "Siniestro"
- },
- {
-  "Nombre": "Thievul",
-  "Tipo": "Siniestro"
- },
- {
-  "Nombre": "Gossifleur",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Eldegoss",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Wooloo",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Dubwool",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Chewtle",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Drednaw",
-  "Tipo": "Agua\/Roca"
- },
- {
-  "Nombre": "Yamper",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Boltund",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Rolycoly",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Carkol",
-  "Tipo": "Roca\/Fuego"
- },
- {
-  "Nombre": "Coalossal",
-  "Tipo": "Roca\/Fuego"
- },
- {
-  "Nombre": "Applin",
-  "Tipo": "Planta\/Dragon"
- },
- {
-  "Nombre": "Flapple",
-  "Tipo": "Planta\/Dragon"
- },
- {
-  "Nombre": "Appletun",
-  "Tipo": "Planta\/Dragon"
- },
- {
-  "Nombre": "Silicobra",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Sandaconda",
-  "Tipo": "Tierra"
- },
- {
-  "Nombre": "Cramorant",
-  "Tipo": "Volador\/Agua"
- },
- {
-  "Nombre": "Arrokuda",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Barraskewda",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Toxel",
-  "Tipo": "Electrico\/Veneno"
- },
- {
-  "Nombre": "Toxtricity",
-  "Tipo": "Electrico\/Veneno"
- },
- {
-  "Nombre": "Sizzlipede",
-  "Tipo": "Fuego\/Bicho"
- },
- {
-  "Nombre": "Centiskorch",
-  "Tipo": "Fuego\/Bicho"
- },
- {
-  "Nombre": "Clobbopus",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Grapploct",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Sinistea",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Polteageist",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Hatenna",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Hattrem",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Hatterene",
-  "Tipo": "Psiquico\/Hada"
- },
- {
-  "Nombre": "Impidimp",
-  "Tipo": "Siniestro\/Hada"
- },
- {
-  "Nombre": "Morgrem",
-  "Tipo": "Siniestro\/Hada"
- },
- {
-  "Nombre": "Grimmsnarl",
-  "Tipo": "Siniestro\/Hada"
- },
- {
-  "Nombre": "Obstagoon",
-  "Tipo": "Siniestro\/Normal"
- },
- {
-  "Nombre": "Perrserker",
-  "Tipo": "Acero"
- },
- {
-  "Nombre": "Cursola",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Sirfetch'd",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Mr. Rime",
-  "Tipo": "Hielo\/Psiquico"
- },
- {
-  "Nombre": "Runerigus",
-  "Tipo": "Tierra\/Fantasma"
- },
- {
-  "Nombre": "Milcery",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Alcremie",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Falinks",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Pincurchin",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Snom",
-  "Tipo": "Hielo\/Bicho"
- },
- {
-  "Nombre": "Frosmoth",
-  "Tipo": "Hielo\/Bicho"
- },
- {
-  "Nombre": "Stonjourner",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Eiscue",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Indeedee",
-  "Tipo": "Psiquico\/Normal"
- },
- {
-  "Nombre": "Morpeko",
-  "Tipo": "Electrico\/Siniestro"
- },
- {
-  "Nombre": "Cufant",
-  "Tipo": "Acero"
- },
- {
-  "Nombre": "Copperajah",
-  "Tipo": "Acero"
- },
- {
-  "Nombre": "Dracozolt",
-  "Tipo": "Electrico\/Dragon"
- },
- {
-  "Nombre": "Arctozolt",
-  "Tipo": "Electrico\/Hielo"
- },
- {
-  "Nombre": "Dracovish",
-  "Tipo": "Agua\/Dragon"
- },
- {
-  "Nombre": "Arctovish",
-  "Tipo": "Agua\/Hielo"
- },
- {
-  "Nombre": "Duraludon",
-  "Tipo": "Acero\/Dragon"
- },
- {
-  "Nombre": "Dreepy",
-  "Tipo": "Dragon\/Fantasma"
- },
- {
-  "Nombre": "Drakloak",
-  "Tipo": "Dragon\/Fantasma"
- },
- {
-  "Nombre": "Dragapult",
-  "Tipo": "Dragon\/Fantasma"
- },
- {
-  "Nombre": "Zacian",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Zacian crowned",
-  "Tipo": "Hada\/Acero"
- },
- {
-  "Nombre": "Zamazenta",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Zamazenta crowned",
-  "Tipo": "Lucha\/Acero"
- },
- {
-  "Nombre": "Eternatus",
-  "Tipo": "Veneno\/Dragon"
- },
- {
-  "Nombre": "Kubfu",
-  "Tipo": "Lucha"
- },
- {
-  "Nombre": "Urshifu",
-  "Tipo": "Lucha\/Siniestro"
- },
- {
-  "Nombre": "Urshifu rapidstrike",
-  "Tipo": "Lucha\/Agua"
- },
- {
-  "Nombre": "Zarude",
-  "Tipo": "Siniestro\/Planta"
- },
- {
-  "Nombre": "Regieleki",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Regidrago",
-  "Tipo": "Dragon"
- },
- {
-  "Nombre": "Glastrier",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Spectrier",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Calyrex",
-  "Tipo": "Psiquico\/Planta "
- },
- {
-  "Nombre": "Calyrex ice",
-  "Tipo": "Psiquico\/Hielo"
- },
- {
-  "Nombre": "Calyrex shadow",
-  "Tipo": "Psiquico\/Fantasma"
- },
- {
-  "Nombre": "Wyrdeer",
-  "Tipo": "Normal\/Psiquico"
- },
- {
-  "Nombre": "Kleavor",
-  "Tipo": "Bicho\/Roca"
- },
- {
-  "Nombre": "Ursaluna",
-  "Tipo": "Tierra\/Normal"
- },
- {
-  "Nombre": "Basculegion",
-  "Tipo": "Agua\/Fantasma"
- },
- {
-  "Nombre": "Sneasler",
-  "Tipo": "Lucha\/Veneno"
- },
- {
-  "Nombre": "Overqwil",
-  "Tipo": "Siniestro\/Veneno"
- },
- {
-  "Nombre": "Enamorus",
-  "Tipo": "Hada\/Volador"
- },
- {
-  "Nombre": "Sprigatito",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Floragato",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Meowscarada",
-  "Tipo": "Planta\/Siniestro"
- },
- {
-  "Nombre": "Fuecoco",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Crocalor",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Skeledirge",
-  "Tipo": "Fuego\/Fantasma"
- },
- {
-  "Nombre": "Quaxly",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Quaxwell",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Quaquaval",
-  "Tipo": "Agua\/Lucha"
- },
- {
-  "Nombre": "Lechonk",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Oinkologne",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Tarountula",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Spidops",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Nymble",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Lokix",
-  "Tipo": "Bicho\/Siniestro"
- },
- {
-  "Nombre": "Pawmi",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Pawmo",
-  "Tipo": "Electrico\/Lucha"
- },
- {
-  "Nombre": "Pawmot",
-  "Tipo": "Electrico\/Lucha"
- },
- {
-  "Nombre": "Tandemaus",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Maushold",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Fidough",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Dachsbun",
-  "Tipo": "Hada"
- },
- {
-  "Nombre": "Smoliv",
-  "Tipo": "Planta\/Normal"
- },
- {
-  "Nombre": "Dolliv",
-  "Tipo": "Planta\/Normal"
- },
- {
-  "Nombre": "Arboliva",
-  "Tipo": "Planta\/Normal"
- },
- {
-  "Nombre": "Squawkabilly",
-  "Tipo": "Normal\/Volador"
- },
- {
-  "Nombre": "Nacli",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Naclstack",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Garganacl",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Charcadet",
-  "Tipo": "Fuego"
- },
- {
-  "Nombre": "Armarouge",
-  "Tipo": "Fuego\/Psiquico"
- },
- {
-  "Nombre": "Ceruledge",
-  "Tipo": "Fuego\/Fantasma"
- },
- {
-  "Nombre": "Tadbulb",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Bellibolt",
-  "Tipo": "Electrico"
- },
- {
-  "Nombre": "Wattrel",
-  "Tipo": "Electrico\/Volador"
- },
- {
-  "Nombre": "Kilowattrel",
-  "Tipo": "Electrico\/Volador"
- },
- {
-  "Nombre": "Maschiff",
-  "Tipo": "Siniestro"
- },
- {
-  "Nombre": "Mabosstiff",
-  "Tipo": "Siniestro"
- },
- {
-  "Nombre": "Shroodle",
-  "Tipo": "Veneno\/Normal"
- },
- {
-  "Nombre": "Grafaiai",
-  "Tipo": "Veneno\/Normal"
- },
- {
-  "Nombre": "Bramblin",
-  "Tipo": "Planta\/Fantasma"
- },
- {
-  "Nombre": "Brambleghast",
-  "Tipo": "Planta\/Fantasma"
- },
- {
-  "Nombre": "Toedscool",
-  "Tipo": "Tierra\/Planta"
- },
- {
-  "Nombre": "Toedscruel",
-  "Tipo": "Tierra\/Planta"
- },
- {
-  "Nombre": "Klawf",
-  "Tipo": "Roca"
- },
- {
-  "Nombre": "Capsakid",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Scovillain",
-  "Tipo": "Planta\/Fuego"
- },
- {
-  "Nombre": "Rellor",
-  "Tipo": "Bicho"
- },
- {
-  "Nombre": "Rabsca",
-  "Tipo": "Bicho\/Psiquico"
- },
- {
-  "Nombre": "Flittle",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Espathra",
-  "Tipo": "Psiquico"
- },
- {
-  "Nombre": "Tinkatink",
-  "Tipo": "Hada\/Acero"
- },
- {
-  "Nombre": "Tinkatuff",
-  "Tipo": "Hada\/Acero"
- },
- {
-  "Nombre": "Tinkaton",
-  "Tipo": "Hada\/Acero"
- },
- {
-  "Nombre": "Wiglett",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Wugtrio",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Bombirdier",
-  "Tipo": "Volador\/Siniestro"
- },
- {
-  "Nombre": "Finizen",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Palafin",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Varoom",
-  "Tipo": "Acero\/Veneno"
- },
- {
-  "Nombre": "Revavroom",
-  "Tipo": "Acero\/Veneno"
- },
- {
-  "Nombre": "Cyclizar",
-  "Tipo": "Dragon\/Normal"
- },
- {
-  "Nombre": "Orthworm",
-  "Tipo": "Acero"
- },
- {
-  "Nombre": "Glimmet",
-  "Tipo": "Roca\/Veneno"
- },
- {
-  "Nombre": "Glimmora",
-  "Tipo": "Roca\/Veneno"
- },
- {
-  "Nombre": "Greavard",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Houndstone",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Flamigo",
-  "Tipo": "Volador\/Lucha"
- },
- {
-  "Nombre": "Cetoddle",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Cetitan",
-  "Tipo": "Hielo"
- },
- {
-  "Nombre": "Veluza",
-  "Tipo": "Agua\/Psiquico"
- },
- {
-  "Nombre": "Dondozo",
-  "Tipo": "Agua"
- },
- {
-  "Nombre": "Tatsugiri",
-  "Tipo": "Dragon\/Agua"
- },
- {
-  "Nombre": "Annihilape",
-  "Tipo": "Lucha\/Fantasma"
- },
- {
-  "Nombre": "Clodsire",
-  "Tipo": "Veneno\/Tierra"
- },
- {
-  "Nombre": "Farigiraf",
-  "Tipo": "Normal\/Psiquico"
- },
- {
-  "Nombre": "Dudunsparce",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Kingambit",
-  "Tipo": "Siniestro\/Acero"
- },
- {
-  "Nombre": "Colmilargo",
-  "Tipo": "Tierra\/Lucha"
- },
- {
-  "Nombre": "Colagrito",
-  "Tipo": "Hada\/Psiquico"
- },
- {
-  "Nombre": "Furioseta",
-  "Tipo": "Planta\/Siniestro"
- },
- {
-  "Nombre": "Melenaleteo",
-  "Tipo": "Fantasma\/Hada"
- },
- {
-  "Nombre": "Reptalada",
-  "Tipo": "Bicho\/Lucha"
- },
- {
-  "Nombre": "Pelarena",
-  "Tipo": "Electrico\/Tierra"
- },
- {
-  "Nombre": "Ferrodada",
-  "Tipo": "Tierra\/Acero"
- },
- {
-  "Nombre": "Ferrosaco",
-  "Tipo": "Hielo\/Agua"
- },
- {
-  "Nombre": "Ferropalmas",
-  "Tipo": "Lucha\/Electrico"
- },
- {
-  "Nombre": "Ferrocuello",
-  "Tipo": "Siniestro\/Volador"
- },
- {
-  "Nombre": "Ferropolilla",
-  "Tipo": "Fuego\/Veneno"
- },
- {
-  "Nombre": "Ferropúas",
-  "Tipo": "Roca\/Electrico"
- },
- {
-  "Nombre": "Frigibax",
-  "Tipo": "Dragon\/Hielo"
- },
- {
-  "Nombre": "Arctibax",
-  "Tipo": "Dragon\/Hielo"
- },
- {
-  "Nombre": "Baxcalibur",
-  "Tipo": "Dragon\/Hielo"
- },
- {
-  "Nombre": "Gimmighoul",
-  "Tipo": "Fantasma"
- },
- {
-  "Nombre": "Gholdengo",
-  "Tipo": "Acero\/Fantasma"
- },
- {
-  "Nombre": "Wo-Chien",
-  "Tipo": "Siniestro\/Planta"
- },
- {
-  "Nombre": "Chien-Pao",
-  "Tipo": "Siniestro\/Hielo"
- },
- {
-  "Nombre": "Ting-Lu",
-  "Tipo": "Siniestro\/Tierra"
- },
- {
-  "Nombre": "Chi-Yu",
-  "Tipo": "Siniestro\/Fuego"
- },
- {
-  "Nombre": "Bramaluna",
-  "Tipo": "Dragon\/Siniestro"
- },
- {
-  "Nombre": "Ferropaladín",
-  "Tipo": "Hada\/Lucha"
- },
- {
-  "Nombre": "Koraidon",
-  "Tipo": "Lucha\/Dragon"
- },
- {
-  "Nombre": "Miraidon",
-  "Tipo": "Electrico\/Dragon"
- },
- {
-  "Nombre": "Ondulagua",
-  "Tipo": "Agua\/Dragon"
- },
- {
-  "Nombre": "Ferroverdor",
-  "Tipo": "Planta\/Psiquico"
- },
- {
-  "Nombre": "Dipplin",
-  "Tipo": "Planta\/Dragon"
- },
- {
-  "Nombre": "Poltchageist",
-  "Tipo": "Planta\/Fantasma"
- },
- {
-  "Nombre": "Sinistcha",
-  "Tipo": "Planta\/Fantasma"
- },
- {
-  "Nombre": "Okidogi",
-  "Tipo": "Veneno\/Lucha"
- },
- {
-  "Nombre": "Munkidori",
-  "Tipo": "Veneno\/Psiquico"
- },
- {
-  "Nombre": "Fenzadipiti",
-  "Tipo": "Veneno\/Hada"
- },
- {
-  "Nombre": "Ogerpon",
-  "Tipo": "Planta"
- },
- {
-  "Nombre": "Archaludon",
-  "Tipo": "Acero\/Dragon"
- },
- {
-  "Nombre": "Hydrapple",
-  "Tipo": "Planta\/Dragon"
- },
- {
-  "Nombre": "Flamariete",
-  "Tipo": "Fuego\/Dragon"
- },
- {
-  "Nombre": "Electrofuria",
-  "Tipo": "Electrico\/Dragon"
- },
- {
-  "Nombre": "Ferromole",
-  "Tipo": "Roca\/Psiquico"
- },
- {
-  "Nombre": "Ferrotesta",
-  "Tipo": "Acero\/Psiquico"
- },
- {
-  "Nombre": "Terapagos",
-  "Tipo": "Normal"
- },
- {
-  "Nombre": "Pecharunt",
-  "Tipo": "Veneno\/Fantasma"
- }
+    {
+        "Nombre": "Bulbasaur",
+        "Tipo": "Planta\/Veneno"
+    },
+    {
+        "Nombre": "Ivysaur",
+        "Tipo": "Planta\/Veneno"
+    },
+    {
+        "Nombre": "Venusaur",
+        "Tipo": "Planta\/Veneno"
+    },
+    {
+        "Nombre": "Charmander",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Charmeleon",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Charizard",
+        "Tipo": "Fuego\/Volador"
+    },
+    {
+        "Nombre": "Squirtle",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Wartortle",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Blastoise",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Caterpie",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Metapod",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Butterfree",
+        "Tipo": "Bicho\/Volador"
+    },
+    {
+        "Nombre": "Weedle",
+        "Tipo": "Bicho\/Veneno"
+    },
+    {
+        "Nombre": "Kakuna",
+        "Tipo": "Bicho\/Veneno"
+    },
+    {
+        "Nombre": "Beedrill",
+        "Tipo": "Bicho\/Veneno"
+    },
+    {
+        "Nombre": "Pidgey",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Pidgeotto",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Pidgeot",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Rattata",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Rattata Alola",
+        "Tipo": "Siniestro\/Normal"
+    },
+    {
+        "Nombre": "Raticate",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Raticate Alola",
+        "Tipo": "Siniestro\/Normal"
+    },
+    {
+        "Nombre": "Spearow",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Fearow",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Ekans",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Arbok",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Pikachu",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Raichu",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Raichu Alola",
+        "Tipo": "Electrico\/Psiquico"
+    },
+    {
+        "Nombre": "Sandshrew",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Sandshrew Alola",
+        "Tipo": "Hielo\/Acero"
+    },
+    {
+        "Nombre": "Sandslash",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Sandslash Alola",
+        "Tipo": "Hielo\/Acero"
+    },
+    {
+        "Nombre": "Nidoran♀",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Nidorina",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Nidoqueen",
+        "Tipo": "Veneno\/Tierra"
+    },
+    {
+        "Nombre": "Nidoran♂",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Nidorino",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Nidoking",
+        "Tipo": "Veneno\/Tierra"
+    },
+    {
+        "Nombre": "Clefairy",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Clefable",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Vulpix",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Vulpix Alola",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Ninetales",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Ninetales Alola",
+        "Tipo": "Hielo\/Hada"
+    },
+    {
+        "Nombre": "Jigglypuff",
+        "Tipo": "Normal\/Hada"
+    },
+    {
+        "Nombre": "Wigglytuff",
+        "Tipo": "Normal\/Hada"
+    },
+    {
+        "Nombre": "Zubat",
+        "Tipo": "Veneno\/Volador"
+    },
+    {
+        "Nombre": "Golbat",
+        "Tipo": "Veneno\/Volador"
+    },
+    {
+        "Nombre": "Oddish",
+        "Tipo": "Planta\/Veneno"
+    },
+    {
+        "Nombre": "Gloom",
+        "Tipo": "Planta\/Veneno"
+    },
+    {
+        "Nombre": "Vileplume",
+        "Tipo": "Planta\/Veneno"
+    },
+    {
+        "Nombre": "Paras",
+        "Tipo": "Bicho\/Planta"
+    },
+    {
+        "Nombre": "Parasect",
+        "Tipo": "Bicho\/Planta"
+    },
+    {
+        "Nombre": "Venonat",
+        "Tipo": "Bicho\/Veneno"
+    },
+    {
+        "Nombre": "Venomoth",
+        "Tipo": "Bicho\/Veneno"
+    },
+    {
+        "Nombre": "Diglett",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Diglett Alola",
+        "Tipo": "Tierra\/Acero"
+    },
+    {
+        "Nombre": "Dugtrio",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Dugtrio Alola",
+        "Tipo": "Tierra\/Acero"
+    },
+    {
+        "Nombre": "Meowth",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Meowth Alola",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Meowth Galar",
+        "Tipo": "Acero"
+    },
+    {
+        "Nombre": "Persian",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Persian Alola",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Psyduck",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Golduck",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Mankey",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Primeape",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Growlithe",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Growlithe Hisui",
+        "Tipo": "Fuego\/Roca"
+    },
+    {
+        "Nombre": "Arcanine",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Arcanine Hisui",
+        "Tipo": "Fuego\/Roca"
+    },
+    {
+        "Nombre": "Poliwag",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Poliwhirl",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Poliwrath",
+        "Tipo": "Agua\/Lucha"
+    },
+    {
+        "Nombre": "Abra",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Kadabra",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Alakazam",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Machop",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Machoke",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Machamp",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Bellsprout",
+        "Tipo": "Planta\/Veneno"
+    },
+    {
+        "Nombre": "Weepinbell",
+        "Tipo": "Planta\/Veneno"
+    },
+    {
+        "Nombre": "Victreebel",
+        "Tipo": "Planta\/Veneno"
+    },
+    {
+        "Nombre": "Tentacool",
+        "Tipo": "Agua\/Veneno"
+    },
+    {
+        "Nombre": "Tentacruel",
+        "Tipo": "Agua\/Veneno"
+    },
+    {
+        "Nombre": "Geodude",
+        "Tipo": "Roca\/Tierra"
+    },
+    {
+        "Nombre": "Geodude Alola",
+        "Tipo": "Roca\/Electrico"
+    },
+    {
+        "Nombre": "Graveler",
+        "Tipo": "Roca\/Tierra"
+    },
+    {
+        "Nombre": "Graveler Alola",
+        "Tipo": "Roca\/Electrico"
+    },
+    {
+        "Nombre": "Golem",
+        "Tipo": "Roca\/Tierra"
+    },
+    {
+        "Nombre": "Golem Alola",
+        "Tipo": "Roca\/Electrico"
+    },
+    {
+        "Nombre": "Ponyta",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Ponyta Galar",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Rapidash",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Rapidash Galar",
+        "Tipo": "Psiquico\/Hada"
+    },
+    {
+        "Nombre": "Slowpoke",
+        "Tipo": "Agua\/Psiquico"
+    },
+    {
+        "Nombre": "Slowpoke Galar",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Slowbro",
+        "Tipo": "Agua\/Psiquico"
+    },
+    {
+        "Nombre": "Slowbro Galar",
+        "Tipo": "Veneno\/Psiquico"
+    },
+    {
+        "Nombre": "Magnemite",
+        "Tipo": "Electrico\/Acero"
+    },
+    {
+        "Nombre": "Magneton",
+        "Tipo": "Electrico\/Acero"
+    },
+    {
+        "Nombre": "Farfetch'd",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Farfetch'd Galar",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Doduo",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Dodrio",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Seel",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Dewgong",
+        "Tipo": "Agua\/Hielo"
+    },
+    {
+        "Nombre": "Grimer",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Grimer Alola",
+        "Tipo": "Veneno\/Siniestro"
+    },
+    {
+        "Nombre": "Muk",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Muk Alola",
+        "Tipo": "Veneno\/Siniestro"
+    },
+    {
+        "Nombre": "Shellder",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Cloyster",
+        "Tipo": "Agua\/Hielo"
+    },
+    {
+        "Nombre": "Gastly",
+        "Tipo": "Fantasma\/Veneno"
+    },
+    {
+        "Nombre": "Haunter",
+        "Tipo": "Fantasma\/Veneno"
+    },
+    {
+        "Nombre": "Gengar",
+        "Tipo": "Fantasma\/Veneno"
+    },
+    {
+        "Nombre": "Onix",
+        "Tipo": "Roca\/Tierra"
+    },
+    {
+        "Nombre": "Drowzee",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Hypno",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Krabby",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Kingler",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Voltorb",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Voltorb Hisui",
+        "Tipo": "Electrico\/Planta"
+    },
+    {
+        "Nombre": "Electrode",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Electrode Hisui",
+        "Tipo": "Electrico\/Planta"
+    },
+    {
+        "Nombre": "Exeggcute",
+        "Tipo": "Planta\/Psiquico"
+    },
+    {
+        "Nombre": "Exeggutor",
+        "Tipo": "Planta\/Psiquico"
+    },
+    {
+        "Nombre": "Exeggutor Alola",
+        "Tipo": "Planta\/Dragon"
+    },
+    {
+        "Nombre": "Cubone",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Marowak",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Marowak Alola",
+        "Tipo": "Fuego\/Fantasma"
+    },
+    {
+        "Nombre": "Hitmonlee",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Hitmonchan",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Lickitung",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Koffing",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Weezing",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Weezing Galar",
+        "Tipo": "Veneno\/Hada"
+    },
+    {
+        "Nombre": "Rhyhorn",
+        "Tipo": "Tierra\/Roca"
+    },
+    {
+        "Nombre": "Rhydon",
+        "Tipo": "Tierra\/Roca"
+    },
+    {
+        "Nombre": "Chansey",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Tangela",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Kangaskhan",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Horsea",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Seadra",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Goldeen",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Seaking",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Staryu",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Starmie",
+        "Tipo": "Agua\/Psiquico"
+    },
+    {
+        "Nombre": "Mr. Mime",
+        "Tipo": "Psiquico\/Hada"
+    },
+    {
+        "Nombre": "Mr. Mime Galar",
+        "Tipo": "Hielo\/Psiquico"
+    },
+    {
+        "Nombre": "Scyther",
+        "Tipo": "Bicho\/Volador"
+    },
+    {
+        "Nombre": "Jynx",
+        "Tipo": "Hielo\/Psiquico"
+    },
+    {
+        "Nombre": "Electabuzz",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Magmar",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Pinsir",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Tauros",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Tauros Paldea",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Tauros Paldea Ardiente",
+        "Tipo": "Lucha\/Fuego"
+    },
+    {
+        "Nombre": "Tauros Paldea Acuatico",
+        "Tipo": "Lucha\/Agua"
+    },
+    {
+        "Nombre": "Magikarp",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Gyarados",
+        "Tipo": "Agua\/Volador"
+    },
+    {
+        "Nombre": "Lapras",
+        "Tipo": "Agua\/Hielo"
+    },
+    {
+        "Nombre": "Ditto",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Eevee",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Vaporeon",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Jolteon",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Flareon",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Porygon",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Omanyte",
+        "Tipo": "Roca\/Agua"
+    },
+    {
+        "Nombre": "Omastar",
+        "Tipo": "Roca\/Agua"
+    },
+    {
+        "Nombre": "Kabuto",
+        "Tipo": "Roca\/Agua"
+    },
+    {
+        "Nombre": "Kabutops",
+        "Tipo": "Roca\/Agua"
+    },
+    {
+        "Nombre": "Aerodactyl",
+        "Tipo": "Roca\/Volador"
+    },
+    {
+        "Nombre": "Snorlax",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Articuno",
+        "Tipo": "Hielo\/Volador"
+    },
+    {
+        "Nombre": "Articuno Galar",
+        "Tipo": "Psiquico\/Volador"
+    },
+    {
+        "Nombre": "Zapdos",
+        "Tipo": "Electrico\/Volador"
+    },
+    {
+        "Nombre": "Zapdos Galar",
+        "Tipo": "Lucha\/Volador"
+    },
+    {
+        "Nombre": "Moltres",
+        "Tipo": "Fuego\/Volador"
+    },
+    {
+        "Nombre": "Moltres Galar",
+        "Tipo": "Siniestro\/Volador"
+    },
+    {
+        "Nombre": "Dratini",
+        "Tipo": "Dragon"
+    },
+    {
+        "Nombre": "Dragonair",
+        "Tipo": "Dragon"
+    },
+    {
+        "Nombre": "Dragonite",
+        "Tipo": "Dragon\/Volador"
+    },
+    {
+        "Nombre": "Mewtwo",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Mew",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Chikorita",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Bayleef",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Meganium",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Cyndaquil",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Quilava",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Typhlosion",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Typhlosion Hisui",
+        "Tipo": "Fuego\/Fantasma"
+    },
+    {
+        "Nombre": "Totodile",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Croconaw",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Feraligatr",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Sentret",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Furret",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Hoothoot",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Noctowl",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Ledyba",
+        "Tipo": "Bicho\/Volador"
+    },
+    {
+        "Nombre": "Ledian",
+        "Tipo": "Bicho\/Volador"
+    },
+    {
+        "Nombre": "Spinarak",
+        "Tipo": "Bicho\/Veneno"
+    },
+    {
+        "Nombre": "Ariados",
+        "Tipo": "Bicho\/Veneno"
+    },
+    {
+        "Nombre": "Crobat",
+        "Tipo": "Veneno\/Volador"
+    },
+    {
+        "Nombre": "Chinchou",
+        "Tipo": "Agua\/Electrico"
+    },
+    {
+        "Nombre": "Lanturn",
+        "Tipo": "Agua\/Electrico"
+    },
+    {
+        "Nombre": "Pichu",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Cleffa",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Igglybuff",
+        "Tipo": "Normal\/Hada"
+    },
+    {
+        "Nombre": "Togepi",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Togetic",
+        "Tipo": "Hada\/Volador"
+    },
+    {
+        "Nombre": "Natu",
+        "Tipo": "Psiquico\/Volador"
+    },
+    {
+        "Nombre": "Xatu",
+        "Tipo": "Psiquico\/Volador"
+    },
+    {
+        "Nombre": "Mareep",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Flaaffy",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Ampharos",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Bellossom",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Marill",
+        "Tipo": "Agua\/Hada"
+    },
+    {
+        "Nombre": "Azumarill",
+        "Tipo": "Agua\/Hada"
+    },
+    {
+        "Nombre": "Sudowoodo",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Politoed",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Hoppip",
+        "Tipo": "Planta\/Volador"
+    },
+    {
+        "Nombre": "Skiploom",
+        "Tipo": "Planta\/Volador"
+    },
+    {
+        "Nombre": "Jumpluff",
+        "Tipo": "Planta\/Volador"
+    },
+    {
+        "Nombre": "Aipom",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Sunkern",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Sunflora",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Yanma",
+        "Tipo": "Bicho\/Volador"
+    },
+    {
+        "Nombre": "Wooper",
+        "Tipo": "Agua\/Tierra"
+    },
+    {
+        "Nombre": "Wooper Paldea",
+        "Tipo": "Veneno\/Tierra"
+    },
+    {
+        "Nombre": "Quagsire",
+        "Tipo": "Agua\/Tierra"
+    },
+    {
+        "Nombre": "Espeon",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Umbreon",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Murkrow",
+        "Tipo": "Siniestro\/Volador"
+    },
+    {
+        "Nombre": "Slowking",
+        "Tipo": "Agua\/Psiquico"
+    },
+    {
+        "Nombre": "Slowking Galar",
+        "Tipo": "Veneno\/Psiquico"
+    },
+    {
+        "Nombre": "Misdreavus",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Unown",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Wobbuffet",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Girafarig",
+        "Tipo": "Normal\/Psiquico"
+    },
+    {
+        "Nombre": "Pineco",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Forretress",
+        "Tipo": "Bicho\/Acero"
+    },
+    {
+        "Nombre": "Dunsparce",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Gligar",
+        "Tipo": "Tierra\/Volador"
+    },
+    {
+        "Nombre": "Steelix",
+        "Tipo": "Acero\/Tierra"
+    },
+    {
+        "Nombre": "Snubbull",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Granbull",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Qwilfish",
+        "Tipo": "Agua\/Veneno"
+    },
+    {
+        "Nombre": "Qwilfish Hisui",
+        "Tipo": "Siniestro\/Veneno"
+    },
+    {
+        "Nombre": "Scizor",
+        "Tipo": "Bicho\/Acero"
+    },
+    {
+        "Nombre": "Shuckle",
+        "Tipo": "Bicho\/Roca"
+    },
+    {
+        "Nombre": "Heracross",
+        "Tipo": "Bicho\/Lucha"
+    },
+    {
+        "Nombre": "Sneasel",
+        "Tipo": "Siniestro\/Hielo"
+    },
+    {
+        "Nombre": "Sneasel Hisui",
+        "Tipo": "Veneno\/Lucha"
+    },
+    {
+        "Nombre": "Teddiursa",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Ursaring",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Slugma",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Magcargo",
+        "Tipo": "Fuego\/Roca"
+    },
+    {
+        "Nombre": "Swinub",
+        "Tipo": "Hielo\/Tierra"
+    },
+    {
+        "Nombre": "Piloswine",
+        "Tipo": "Hielo\/Tierra"
+    },
+    {
+        "Nombre": "Corsola",
+        "Tipo": "Agua\/Roca"
+    },
+    {
+        "Nombre": "Corsola Galar",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Remoraid",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Octillery",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Delibird",
+        "Tipo": "Hielo\/Volador"
+    },
+    {
+        "Nombre": "Mantine",
+        "Tipo": "Agua\/Volador"
+    },
+    {
+        "Nombre": "Skarmory",
+        "Tipo": "Acero\/Volador"
+    },
+    {
+        "Nombre": "Houndour",
+        "Tipo": "Siniestro\/Fuego"
+    },
+    {
+        "Nombre": "Houndoom",
+        "Tipo": "Siniestro\/Fuego"
+    },
+    {
+        "Nombre": "Kingdra",
+        "Tipo": "Agua\/Dragon"
+    },
+    {
+        "Nombre": "Phanpy",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Donphan",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Porygon2",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Stantler",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Smeargle",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Tyrogue",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Hitmontop",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Smoochum",
+        "Tipo": "Hielo\/Psiquico"
+    },
+    {
+        "Nombre": "Elekid",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Magby",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Miltank",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Blissey",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Raikou",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Entei",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Suicune",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Larvitar",
+        "Tipo": "Roca\/Tierra"
+    },
+    {
+        "Nombre": "Pupitar",
+        "Tipo": "Roca\/Tierra"
+    },
+    {
+        "Nombre": "Tyranitar",
+        "Tipo": "Roca\/Siniestro"
+    },
+    {
+        "Nombre": "Lugia",
+        "Tipo": "Psiquico\/Volador"
+    },
+    {
+        "Nombre": "Ho-Oh",
+        "Tipo": "Fuego\/Volador"
+    },
+    {
+        "Nombre": "Celebi",
+        "Tipo": "Psiquico\/Planta"
+    },
+    {
+        "Nombre": "Treecko",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Grovyle",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Sceptile",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Torchic",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Combusken",
+        "Tipo": "Fuego\/Lucha"
+    },
+    {
+        "Nombre": "Blaziken",
+        "Tipo": "Fuego\/Lucha"
+    },
+    {
+        "Nombre": "Mudkip",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Marshtomp",
+        "Tipo": "Agua\/Tierra"
+    },
+    {
+        "Nombre": "Swampert",
+        "Tipo": "Agua\/Tierra"
+    },
+    {
+        "Nombre": "Poochyena",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Mightyena",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Zigzagoon",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Linoone",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Wurmple",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Silcoon",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Beautifly",
+        "Tipo": "Bicho\/Volador"
+    },
+    {
+        "Nombre": "Cascoon",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Dustox",
+        "Tipo": "Bicho\/Veneno"
+    },
+    {
+        "Nombre": "Lotad",
+        "Tipo": "Agua\/Planta"
+    },
+    {
+        "Nombre": "Lombre",
+        "Tipo": "Agua\/Planta"
+    },
+    {
+        "Nombre": "Ludicolo",
+        "Tipo": "Agua\/Planta"
+    },
+    {
+        "Nombre": "Seedot",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Zigzagoon Galar",
+        "Tipo": "Siniestro\/Normal"
+    },
+    {
+        "Nombre": "Nuzleaf",
+        "Tipo": "Planta\/Siniestro"
+    },
+    {
+        "Nombre": "Linoone Galar",
+        "Tipo": "Siniestro\/Normal"
+    },
+    {
+        "Nombre": "Shiftry",
+        "Tipo": "Planta\/Siniestro"
+    },
+    {
+        "Nombre": "Taillow",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Swellow",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Wingull",
+        "Tipo": "Agua\/Volador"
+    },
+    {
+        "Nombre": "Pelipper",
+        "Tipo": "Agua\/Volador"
+    },
+    {
+        "Nombre": "Ralts",
+        "Tipo": "Psiquico\/Hada"
+    },
+    {
+        "Nombre": "Kirlia",
+        "Tipo": "Psiquico\/Hada"
+    },
+    {
+        "Nombre": "Gardevoir",
+        "Tipo": "Psiquico\/Hada"
+    },
+    {
+        "Nombre": "Surskit",
+        "Tipo": "Bicho\/Agua"
+    },
+    {
+        "Nombre": "Masquerain",
+        "Tipo": "Bicho\/Volador"
+    },
+    {
+        "Nombre": "Shroomish",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Breloom",
+        "Tipo": "Planta\/Lucha"
+    },
+    {
+        "Nombre": "Slakoth",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Vigoroth",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Slaking",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Nincada",
+        "Tipo": "Bicho\/Tierra"
+    },
+    {
+        "Nombre": "Ninjask",
+        "Tipo": "Bicho\/Volador"
+    },
+    {
+        "Nombre": "Shedinja",
+        "Tipo": "Bicho\/Fantasma"
+    },
+    {
+        "Nombre": "Whismur",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Loudred",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Exploud",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Makuhita",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Hariyama",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Azurill",
+        "Tipo": "Normal\/Hada"
+    },
+    {
+        "Nombre": "Nosepass",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Skitty",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Delcatty",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Sableye",
+        "Tipo": "Siniestro\/Fantasma"
+    },
+    {
+        "Nombre": "Mawile",
+        "Tipo": "Acero\/Hada"
+    },
+    {
+        "Nombre": "Aron",
+        "Tipo": "Acero\/Roca"
+    },
+    {
+        "Nombre": "Lairon",
+        "Tipo": "Acero\/Roca"
+    },
+    {
+        "Nombre": "Aggron",
+        "Tipo": "Acero\/Roca"
+    },
+    {
+        "Nombre": "Meditite",
+        "Tipo": "Lucha\/Psiquico"
+    },
+    {
+        "Nombre": "Medicham",
+        "Tipo": "Lucha\/Psiquico"
+    },
+    {
+        "Nombre": "Electrike",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Manectric",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Plusle",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Minun",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Volbeat",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Illumise",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Roselia",
+        "Tipo": "Planta\/Veneno"
+    },
+    {
+        "Nombre": "Gulpin",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Swalot",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Carvanha",
+        "Tipo": "Agua\/Siniestro"
+    },
+    {
+        "Nombre": "Sharpedo",
+        "Tipo": "Agua\/Siniestro"
+    },
+    {
+        "Nombre": "Wailmer",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Wailord",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Numel",
+        "Tipo": "Fuego\/Tierra"
+    },
+    {
+        "Nombre": "Camerupt",
+        "Tipo": "Fuego\/Tierra"
+    },
+    {
+        "Nombre": "Torkoal",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Spoink",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Grumpig",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Spinda",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Trapinch",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Vibrava",
+        "Tipo": "Tierra\/Dragon"
+    },
+    {
+        "Nombre": "Flygon",
+        "Tipo": "Tierra\/Dragon"
+    },
+    {
+        "Nombre": "Cacnea",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Cacturne",
+        "Tipo": "Planta\/Siniestro"
+    },
+    {
+        "Nombre": "Swablu",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Altaria",
+        "Tipo": "Dragon\/Volador"
+    },
+    {
+        "Nombre": "Zangoose",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Seviper",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Lunatone",
+        "Tipo": "Roca\/Psiquico"
+    },
+    {
+        "Nombre": "Solrock",
+        "Tipo": "Roca\/Psiquico"
+    },
+    {
+        "Nombre": "Barboach",
+        "Tipo": "Agua\/Tierra"
+    },
+    {
+        "Nombre": "Whiscash",
+        "Tipo": "Agua\/Tierra"
+    },
+    {
+        "Nombre": "Corphish",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Crawdaunt",
+        "Tipo": "Agua\/Siniestro"
+    },
+    {
+        "Nombre": "Baltoy",
+        "Tipo": "Tierra\/Psiquico"
+    },
+    {
+        "Nombre": "Claydol",
+        "Tipo": "Tierra\/Psiquico"
+    },
+    {
+        "Nombre": "Lileep",
+        "Tipo": "Roca\/Planta"
+    },
+    {
+        "Nombre": "Cradily",
+        "Tipo": "Roca\/Planta"
+    },
+    {
+        "Nombre": "Anorith",
+        "Tipo": "Roca\/Bicho"
+    },
+    {
+        "Nombre": "Armaldo",
+        "Tipo": "Roca\/Bicho"
+    },
+    {
+        "Nombre": "Feebas",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Milotic",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Castform",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Castform sunny",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Castform snowy",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Castform rainy",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Kecleon",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Shuppet",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Banette",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Duskull",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Dusclops",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Tropius",
+        "Tipo": "Planta\/Volador"
+    },
+    {
+        "Nombre": "Chimecho",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Absol",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Wynaut",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Snorunt",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Glalie",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Spheal",
+        "Tipo": "Hielo\/Agua"
+    },
+    {
+        "Nombre": "Sealeo",
+        "Tipo": "Hielo\/Agua"
+    },
+    {
+        "Nombre": "Walrein",
+        "Tipo": "Hielo\/Agua"
+    },
+    {
+        "Nombre": "Clamperl",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Huntail",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Gorebyss",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Relicanth",
+        "Tipo": "Agua\/Roca"
+    },
+    {
+        "Nombre": "Luvdisc",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Bagon",
+        "Tipo": "Dragon"
+    },
+    {
+        "Nombre": "Shelgon",
+        "Tipo": "Dragon"
+    },
+    {
+        "Nombre": "Salamence",
+        "Tipo": "Dragon\/Volador"
+    },
+    {
+        "Nombre": "Beldum",
+        "Tipo": "Acero\/Psiquico"
+    },
+    {
+        "Nombre": "Metang",
+        "Tipo": "Acero\/Psiquico"
+    },
+    {
+        "Nombre": "Metagross",
+        "Tipo": "Acero\/Psiquico"
+    },
+    {
+        "Nombre": "Regirock",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Regice",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Registeel",
+        "Tipo": "Acero"
+    },
+    {
+        "Nombre": "Latias",
+        "Tipo": "Dragon\/Psiquico"
+    },
+    {
+        "Nombre": "Latios",
+        "Tipo": "Dragon\/Psiquico"
+    },
+    {
+        "Nombre": "Kyogre",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Groudon",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Rayquaza",
+        "Tipo": "Dragon\/Volador"
+    },
+    {
+        "Nombre": "Jirachi",
+        "Tipo": "Acero\/Psiquico"
+    },
+    {
+        "Nombre": "Deoxys",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Turtwig",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Grotle",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Torterra",
+        "Tipo": "Planta\/Tierra"
+    },
+    {
+        "Nombre": "Chimchar",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Monferno",
+        "Tipo": "Fuego\/Lucha"
+    },
+    {
+        "Nombre": "Infernape",
+        "Tipo": "Fuego\/Lucha"
+    },
+    {
+        "Nombre": "Piplup",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Prinplup",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Empoleon",
+        "Tipo": "Agua\/Acero"
+    },
+    {
+        "Nombre": "Starly",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Staravia",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Staraptor",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Bidoof",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Bibarel",
+        "Tipo": "Normal\/Agua"
+    },
+    {
+        "Nombre": "Kricketot",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Kricketune",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Shinx",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Luxio",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Luxray",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Budew",
+        "Tipo": "Planta\/Veneno"
+    },
+    {
+        "Nombre": "Roserade",
+        "Tipo": "Planta\/Veneno"
+    },
+    {
+        "Nombre": "Cranidos",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Rampardos",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Shieldon",
+        "Tipo": "Roca\/Acero"
+    },
+    {
+        "Nombre": "Bastiodon",
+        "Tipo": "Roca\/Acero"
+    },
+    {
+        "Nombre": "Burmy",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Wormadam",
+        "Tipo": "Bicho\/Planta"
+    },
+    {
+        "Nombre": "Wormadam Sandy",
+        "Tipo": "Bicho\/Tierra"
+    },
+    {
+        "Nombre": "Wormadam Trash",
+        "Tipo": "Bicho\/Acero"
+    },
+    {
+        "Nombre": "Mothim",
+        "Tipo": "Bicho\/Volador"
+    },
+    {
+        "Nombre": "Combee",
+        "Tipo": "Bicho\/Volador"
+    },
+    {
+        "Nombre": "Vespiquen",
+        "Tipo": "Bicho\/Volador"
+    },
+    {
+        "Nombre": "Pachirisu",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Buizel",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Floatzel",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Cherubi",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Cherrim",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Shellos",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Gastrodon",
+        "Tipo": "Agua\/Tierra"
+    },
+    {
+        "Nombre": "Ambipom",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Drifloon",
+        "Tipo": "Fantasma\/Volador"
+    },
+    {
+        "Nombre": "Drifblim",
+        "Tipo": "Fantasma\/Volador"
+    },
+    {
+        "Nombre": "Buneary",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Lopunny",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Lopunny Mega",
+        "Tipo": "Normal\/Lucha"
+    },
+    {
+        "Nombre": "Mismagius",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Honchkrow",
+        "Tipo": "Siniestro\/Volador"
+    },
+    {
+        "Nombre": "Glameow",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Purugly",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Chingling",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Stunky",
+        "Tipo": "Veneno\/Siniestro"
+    },
+    {
+        "Nombre": "Skuntank",
+        "Tipo": "Veneno\/Siniestro"
+    },
+    {
+        "Nombre": "Bronzor",
+        "Tipo": "Acero\/Psiquico"
+    },
+    {
+        "Nombre": "Bronzong",
+        "Tipo": "Acero\/Psiquico"
+    },
+    {
+        "Nombre": "Bonsly",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Mime Jr.",
+        "Tipo": "Psiquico\/Hada"
+    },
+    {
+        "Nombre": "Happiny",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Chatot",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Spiritomb",
+        "Tipo": "Fantasma\/Siniestro"
+    },
+    {
+        "Nombre": "Gible",
+        "Tipo": "Dragon\/Tierra"
+    },
+    {
+        "Nombre": "Gabite",
+        "Tipo": "Dragon\/Tierra"
+    },
+    {
+        "Nombre": "Garchomp",
+        "Tipo": "Dragon\/Tierra"
+    },
+    {
+        "Nombre": "Munchlax",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Riolu",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Lucario",
+        "Tipo": "Lucha\/Acero"
+    },
+    {
+        "Nombre": "Hippopotas",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Hippowdon",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Skorupi",
+        "Tipo": "Veneno\/Bicho"
+    },
+    {
+        "Nombre": "Drapion",
+        "Tipo": "Veneno\/Siniestro"
+    },
+    {
+        "Nombre": "Croagunk",
+        "Tipo": "Veneno\/Lucha"
+    },
+    {
+        "Nombre": "Toxicroak",
+        "Tipo": "Veneno\/Lucha"
+    },
+    {
+        "Nombre": "Carnivine",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Finneon",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Lumineon",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Mantyke",
+        "Tipo": "Agua\/Volador"
+    },
+    {
+        "Nombre": "Snover",
+        "Tipo": "Planta\/Hielo"
+    },
+    {
+        "Nombre": "Abomasnow",
+        "Tipo": "Planta\/Hielo"
+    },
+    {
+        "Nombre": "Weavile",
+        "Tipo": "Siniestro\/Hielo"
+    },
+    {
+        "Nombre": "Magnezone",
+        "Tipo": "Electrico\/Acero"
+    },
+    {
+        "Nombre": "Lickilicky",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Rhyperior",
+        "Tipo": "Tierra\/Roca"
+    },
+    {
+        "Nombre": "Tangrowth",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Electivire",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Magmortar",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Togekiss",
+        "Tipo": "Hada\/Volador"
+    },
+    {
+        "Nombre": "Yanmega",
+        "Tipo": "Bicho\/Volador"
+    },
+    {
+        "Nombre": "Leafeon",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Glaceon",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Gliscor",
+        "Tipo": "Tierra\/Volador"
+    },
+    {
+        "Nombre": "Mamoswine",
+        "Tipo": "Hielo\/Tierra"
+    },
+    {
+        "Nombre": "Porygon-Z",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Gallade",
+        "Tipo": "Psiquico\/Lucha"
+    },
+    {
+        "Nombre": "Probopass",
+        "Tipo": "Roca\/Acero"
+    },
+    {
+        "Nombre": "Dusknoir",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Froslass",
+        "Tipo": "Hielo\/Fantasma"
+    },
+    {
+        "Nombre": "Rotom",
+        "Tipo": "Electrico\/Fantasma"
+    },
+    {
+        "Nombre": "Rotom heat",
+        "Tipo": "Electrico\/Fuego"
+    },
+    {
+        "Nombre": "Rotom wash",
+        "Tipo": "Electrico\/Agua"
+    },
+    {
+        "Nombre": "Rotom frost",
+        "Tipo": "Electrico\/Hielo"
+    },
+    {
+        "Nombre": "Rotom fan",
+        "Tipo": "Electrico\/Volador"
+    },
+    {
+        "Nombre": "Rotom mow",
+        "Tipo": "Electrico\/Planta"
+    },
+    {
+        "Nombre": "Uxie",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Mesprit",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Azelf",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Dialga",
+        "Tipo": "Acero\/Dragon"
+    },
+    {
+        "Nombre": "Dialga Origen",
+        "Tipo": "Acero\/Dragon"
+    },
+    {
+        "Nombre": "Palkia",
+        "Tipo": "Agua\/Dragon"
+    },
+    {
+        "Nombre": "Heatran",
+        "Tipo": "Fuego\/Acero"
+    },
+    {
+        "Nombre": "Regigigas",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Giratina",
+        "Tipo": "Fantasma\/Dragon"
+    },
+    {
+        "Nombre": "Cresselia",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Phione",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Manaphy",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Darkrai",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Shaymin",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Arceus",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Victini",
+        "Tipo": "Psiquico\/Fuego"
+    },
+    {
+        "Nombre": "Snivy",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Servine",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Serperior",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Tepig",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Pignite",
+        "Tipo": "Fuego\/Lucha"
+    },
+    {
+        "Nombre": "Emboar",
+        "Tipo": "Fuego\/Lucha"
+    },
+    {
+        "Nombre": "Oshawott",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Dewott",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Samurott",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Samurott Hisui",
+        "Tipo": "Agua\/Siniestro"
+    },
+    {
+        "Nombre": "Patrat",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Watchog",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Lillipup",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Herdier",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Stoutland",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Purrloin",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Liepard",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Pansage",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Simisage",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Pansear",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Simisear",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Panpour",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Simipour",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Munna",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Musharna",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Pidove",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Tranquill",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Unfezant",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Blitzle",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Zebstrika",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Roggenrola",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Boldore",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Gigalith",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Woobat",
+        "Tipo": "Psiquico\/Volador"
+    },
+    {
+        "Nombre": "Swoobat",
+        "Tipo": "Psiquico\/Volador"
+    },
+    {
+        "Nombre": "Drilbur",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Excadrill",
+        "Tipo": "Tierra\/Acero"
+    },
+    {
+        "Nombre": "Audino",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Timburr",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Gurdurr",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Conkeldurr",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Tympole",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Palpitoad",
+        "Tipo": "Agua\/Tierra"
+    },
+    {
+        "Nombre": "Seismitoad",
+        "Tipo": "Agua\/Tierra"
+    },
+    {
+        "Nombre": "Throh",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Sawk",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Sewaddle",
+        "Tipo": "Bicho\/Planta"
+    },
+    {
+        "Nombre": "Swadloon",
+        "Tipo": "Bicho\/Planta"
+    },
+    {
+        "Nombre": "Leavanny",
+        "Tipo": "Bicho\/Planta"
+    },
+    {
+        "Nombre": "Venipede",
+        "Tipo": "Bicho\/Veneno"
+    },
+    {
+        "Nombre": "Whirlipede",
+        "Tipo": "Bicho\/Veneno"
+    },
+    {
+        "Nombre": "Scolipede",
+        "Tipo": "Bicho\/Veneno"
+    },
+    {
+        "Nombre": "Cottonee",
+        "Tipo": "Planta\/Hada"
+    },
+    {
+        "Nombre": "Whimsicott",
+        "Tipo": "Planta\/Hada"
+    },
+    {
+        "Nombre": "Petilil",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Lilligant",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Lilligant Hisui",
+        "Tipo": "Planta\/Lucha"
+    },
+    {
+        "Nombre": "Basculin",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Basculin whitestriped",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Sandile",
+        "Tipo": "Tierra\/Siniestro"
+    },
+    {
+        "Nombre": "Krokorok",
+        "Tipo": "Tierra\/Siniestro"
+    },
+    {
+        "Nombre": "Krookodile",
+        "Tipo": "Tierra\/Siniestro"
+    },
+    {
+        "Nombre": "Darumaka",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Darumaka Galar",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Darmanitan",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Darmanitan Galar",
+        "Tipo": "Hielo\/Fuego"
+    },
+    {
+        "Nombre": "Maractus",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Dwebble",
+        "Tipo": "Bicho\/Roca"
+    },
+    {
+        "Nombre": "Crustle",
+        "Tipo": "Bicho\/Roca"
+    },
+    {
+        "Nombre": "Scraggy",
+        "Tipo": "Siniestro\/Lucha"
+    },
+    {
+        "Nombre": "Scrafty",
+        "Tipo": "Siniestro\/Lucha"
+    },
+    {
+        "Nombre": "Sigilyph",
+        "Tipo": "Psiquico\/Volador"
+    },
+    {
+        "Nombre": "Yamask",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Yamask Galar",
+        "Tipo": "Tierra\/Fantasma"
+    },
+    {
+        "Nombre": "Cofagrigus",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Tirtouga",
+        "Tipo": "Agua\/Roca"
+    },
+    {
+        "Nombre": "Carracosta",
+        "Tipo": "Agua\/Roca"
+    },
+    {
+        "Nombre": "Archen",
+        "Tipo": "Roca\/Volador"
+    },
+    {
+        "Nombre": "Archeops",
+        "Tipo": "Roca\/Volador"
+    },
+    {
+        "Nombre": "Trubbish",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Garbodor",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Zorua",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Zorua Hisui",
+        "Tipo": "Normal\/Fantasma"
+    },
+    {
+        "Nombre": "Zoroark",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Zoroark Hisui",
+        "Tipo": "Normal\/Fantasma"
+    },
+    {
+        "Nombre": "Minccino",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Cinccino",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Gothita",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Gothorita",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Gothitelle",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Solosis",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Duosion",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Reuniclus",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Ducklett",
+        "Tipo": "Agua\/Volador"
+    },
+    {
+        "Nombre": "Swanna",
+        "Tipo": "Agua\/Volador"
+    },
+    {
+        "Nombre": "Vanillite",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Vanillish",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Vanilluxe",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Palkia Origen",
+        "Tipo": "Agua\/Dragon"
+    },
+    {
+        "Nombre": "Deerling",
+        "Tipo": "Normal\/Planta"
+    },
+    {
+        "Nombre": "Sawsbuck",
+        "Tipo": "Normal\/Planta"
+    },
+    {
+        "Nombre": "Emolga",
+        "Tipo": "Electrico\/Volador"
+    },
+    {
+        "Nombre": "Karrablast",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Escavalier",
+        "Tipo": "Bicho\/Acero"
+    },
+    {
+        "Nombre": "Foongus",
+        "Tipo": "Planta\/Veneno"
+    },
+    {
+        "Nombre": "Amoonguss",
+        "Tipo": "Planta\/Veneno"
+    },
+    {
+        "Nombre": "Frillish",
+        "Tipo": "Agua\/Fantasma"
+    },
+    {
+        "Nombre": "Jellicent",
+        "Tipo": "Agua\/Fantasma"
+    },
+    {
+        "Nombre": "Alomomola",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Joltik",
+        "Tipo": "Bicho\/Electrico"
+    },
+    {
+        "Nombre": "Galvantula",
+        "Tipo": "Bicho\/Electrico"
+    },
+    {
+        "Nombre": "Ferroseed",
+        "Tipo": "Planta\/Acero"
+    },
+    {
+        "Nombre": "Ferrothorn",
+        "Tipo": "Planta\/Acero"
+    },
+    {
+        "Nombre": "Klink",
+        "Tipo": "Acero"
+    },
+    {
+        "Nombre": "Klang",
+        "Tipo": "Acero"
+    },
+    {
+        "Nombre": "Klinklang",
+        "Tipo": "Acero"
+    },
+    {
+        "Nombre": "Tynamo",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Eelektrik",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Eelektross",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Elgyem",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Beheeyem",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Litwick",
+        "Tipo": "Fantasma\/Fuego"
+    },
+    {
+        "Nombre": "Lampent",
+        "Tipo": "Fantasma\/Fuego"
+    },
+    {
+        "Nombre": "Chandelure",
+        "Tipo": "Fantasma\/Fuego"
+    },
+    {
+        "Nombre": "Axew",
+        "Tipo": "Dragon"
+    },
+    {
+        "Nombre": "Fraxure",
+        "Tipo": "Dragon"
+    },
+    {
+        "Nombre": "Haxorus",
+        "Tipo": "Dragon"
+    },
+    {
+        "Nombre": "Cubchoo",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Beartic",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Cryogonal",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Shelmet",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Accelgor",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Stunfisk",
+        "Tipo": "Tierra\/Electrico"
+    },
+    {
+        "Nombre": "Stunfisk Galar",
+        "Tipo": "Tierra\/Acero"
+    },
+    {
+        "Nombre": "Mienfoo",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Mienshao",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Druddigon",
+        "Tipo": "Dragon"
+    },
+    {
+        "Nombre": "Golett",
+        "Tipo": "Tierra\/Fantasma"
+    },
+    {
+        "Nombre": "Golurk",
+        "Tipo": "Tierra\/Fantasma"
+    },
+    {
+        "Nombre": "Pawniard",
+        "Tipo": "Siniestro\/Acero"
+    },
+    {
+        "Nombre": "Bisharp",
+        "Tipo": "Siniestro\/Acero"
+    },
+    {
+        "Nombre": "Bouffalant",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Rufflet",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Braviary",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Braviary Hisui",
+        "Tipo": "Psiquico\/Volador"
+    },
+    {
+        "Nombre": "Vullaby",
+        "Tipo": "Siniestro\/Volador"
+    },
+    {
+        "Nombre": "Mandibuzz",
+        "Tipo": "Siniestro\/Volador"
+    },
+    {
+        "Nombre": "Heatmor",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Durant",
+        "Tipo": "Bicho\/Acero"
+    },
+    {
+        "Nombre": "Deino",
+        "Tipo": "Siniestro\/Dragon"
+    },
+    {
+        "Nombre": "Zweilous",
+        "Tipo": "Siniestro\/Dragon"
+    },
+    {
+        "Nombre": "Hydreigon",
+        "Tipo": "Siniestro\/Dragon"
+    },
+    {
+        "Nombre": "Larvesta",
+        "Tipo": "Bicho\/Fuego"
+    },
+    {
+        "Nombre": "Volcarona",
+        "Tipo": "Bicho\/Fuego"
+    },
+    {
+        "Nombre": "Cobalion",
+        "Tipo": "Acero\/Lucha"
+    },
+    {
+        "Nombre": "Terrakion",
+        "Tipo": "Roca\/Lucha"
+    },
+    {
+        "Nombre": "Virizion",
+        "Tipo": "Planta\/Lucha"
+    },
+    {
+        "Nombre": "Tornadus",
+        "Tipo": "Volador"
+    },
+    {
+        "Nombre": "Thundurus",
+        "Tipo": "Electrico\/Volador"
+    },
+    {
+        "Nombre": "Reshiram",
+        "Tipo": "Dragon\/Fuego"
+    },
+    {
+        "Nombre": "Zekrom",
+        "Tipo": "Dragon\/Electrico"
+    },
+    {
+        "Nombre": "Landorus",
+        "Tipo": "Tierra\/Volador"
+    },
+    {
+        "Nombre": "Kyurem",
+        "Tipo": "Dragon\/Hielo"
+    },
+    {
+        "Nombre": "Keldeo",
+        "Tipo": "Agua\/Lucha"
+    },
+    {
+        "Nombre": "Meloetta",
+        "Tipo": "Normal\/Psiquico"
+    },
+    {
+        "Nombre": "Genesect",
+        "Tipo": "Bicho\/Acero"
+    },
+    {
+        "Nombre": "Chespin",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Quilladin",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Chesnaught",
+        "Tipo": "Planta\/Lucha"
+    },
+    {
+        "Nombre": "Fennekin",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Braixen",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Delphox",
+        "Tipo": "Fuego\/Psiquico"
+    },
+    {
+        "Nombre": "Froakie",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Frogadier",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Greninja",
+        "Tipo": "Agua\/Siniestro"
+    },
+    {
+        "Nombre": "Bunnelby",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Diggersby",
+        "Tipo": "Normal\/Tierra"
+    },
+    {
+        "Nombre": "Fletchling",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Fletchinder",
+        "Tipo": "Fuego\/Volador"
+    },
+    {
+        "Nombre": "Talonflame",
+        "Tipo": "Fuego\/Volador"
+    },
+    {
+        "Nombre": "Scatterbug",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Spewpa",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Vivillon",
+        "Tipo": "Bicho\/Volador"
+    },
+    {
+        "Nombre": "Litleo",
+        "Tipo": "Fuego\/Normal"
+    },
+    {
+        "Nombre": "Pyroar",
+        "Tipo": "Fuego\/Normal"
+    },
+    {
+        "Nombre": "Flabébé",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Floette",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Florges",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Skiddo",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Gogoat",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Pancham",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Pangoro",
+        "Tipo": "Lucha\/Siniestro"
+    },
+    {
+        "Nombre": "Furfrou",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Espurr",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Meowstic",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Honedge",
+        "Tipo": "Acero\/Fantasma"
+    },
+    {
+        "Nombre": "Doublade",
+        "Tipo": "Acero\/Fantasma"
+    },
+    {
+        "Nombre": "Aegislash",
+        "Tipo": "Acero\/Fantasma"
+    },
+    {
+        "Nombre": "Spritzee",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Aromatisse",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Swirlix",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Slurpuff",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Inkay",
+        "Tipo": "Siniestro\/Psiquico"
+    },
+    {
+        "Nombre": "Malamar",
+        "Tipo": "Siniestro\/Psiquico"
+    },
+    {
+        "Nombre": "Binacle",
+        "Tipo": "Roca\/Agua"
+    },
+    {
+        "Nombre": "Barbaracle",
+        "Tipo": "Roca\/Agua"
+    },
+    {
+        "Nombre": "Skrelp",
+        "Tipo": "Veneno\/Agua"
+    },
+    {
+        "Nombre": "Dragalge",
+        "Tipo": "Veneno\/Dragon"
+    },
+    {
+        "Nombre": "Clauncher",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Clawitzer",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Helioptile",
+        "Tipo": "Electrico\/Normal"
+    },
+    {
+        "Nombre": "Heliolisk",
+        "Tipo": "Electrico\/Normal"
+    },
+    {
+        "Nombre": "Tyrunt",
+        "Tipo": "Roca\/Dragon"
+    },
+    {
+        "Nombre": "Tyrantrum",
+        "Tipo": "Roca\/Dragon"
+    },
+    {
+        "Nombre": "Amaura",
+        "Tipo": "Roca\/Hielo"
+    },
+    {
+        "Nombre": "Aurorus",
+        "Tipo": "Roca\/Hielo"
+    },
+    {
+        "Nombre": "Sylveon",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Hawlucha",
+        "Tipo": "Lucha\/Volador"
+    },
+    {
+        "Nombre": "Dedenne",
+        "Tipo": "Electrico\/Hada"
+    },
+    {
+        "Nombre": "Carbink",
+        "Tipo": "Roca\/Hada"
+    },
+    {
+        "Nombre": "Goomy",
+        "Tipo": "Dragon"
+    },
+    {
+        "Nombre": "Sliggoo",
+        "Tipo": "Dragon"
+    },
+    {
+        "Nombre": "Sliggoo Hisui",
+        "Tipo": "Dragon\/Acero"
+    },
+    {
+        "Nombre": "Goodra",
+        "Tipo": "Dragon"
+    },
+    {
+        "Nombre": "Goodra Hisui",
+        "Tipo": "Dragon\/Acero"
+    },
+    {
+        "Nombre": "Klefki",
+        "Tipo": "Acero\/Hada"
+    },
+    {
+        "Nombre": "Phantump",
+        "Tipo": "Fantasma\/Planta"
+    },
+    {
+        "Nombre": "Trevenant",
+        "Tipo": "Fantasma\/Planta"
+    },
+    {
+        "Nombre": "Pumpkaboo",
+        "Tipo": "Fantasma\/Planta"
+    },
+    {
+        "Nombre": "Gourgeist",
+        "Tipo": "Fantasma\/Planta"
+    },
+    {
+        "Nombre": "Bergmite",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Avalugg",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Avalugg Hisui",
+        "Tipo": "Hielo\/Roca"
+    },
+    {
+        "Nombre": "Noibat",
+        "Tipo": "Volador\/Dragon"
+    },
+    {
+        "Nombre": "Noivern",
+        "Tipo": "Volador\/Dragon"
+    },
+    {
+        "Nombre": "Xerneas",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Yveltal",
+        "Tipo": "Siniestro\/Volador"
+    },
+    {
+        "Nombre": "Zygarde",
+        "Tipo": "Dragon\/Tierra"
+    },
+    {
+        "Nombre": "Diancie",
+        "Tipo": "Roca\/Hada"
+    },
+    {
+        "Nombre": "Hoopa",
+        "Tipo": "Psiquico\/Fantasma"
+    },
+    {
+        "Nombre": "Volcanion",
+        "Tipo": "Fuego\/Agua"
+    },
+    {
+        "Nombre": "Rowlet",
+        "Tipo": "Planta\/Volador"
+    },
+    {
+        "Nombre": "Dartrix",
+        "Tipo": "Planta\/Volador"
+    },
+    {
+        "Nombre": "Decidueye",
+        "Tipo": "Planta\/Fantasma"
+    },
+    {
+        "Nombre": "Decidueye Hisui",
+        "Tipo": "Planta\/Lucha"
+    },
+    {
+        "Nombre": "Litten",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Torracat",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Incineroar",
+        "Tipo": "Fuego\/Siniestro"
+    },
+    {
+        "Nombre": "Popplio",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Brionne",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Primarina",
+        "Tipo": "Agua\/Hada"
+    },
+    {
+        "Nombre": "Pikipek",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Trumbeak",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Toucannon",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Yungoos",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Gumshoos",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Grubbin",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Charjabug",
+        "Tipo": "Bicho\/Electrico"
+    },
+    {
+        "Nombre": "Vikavolt",
+        "Tipo": "Bicho\/Electrico"
+    },
+    {
+        "Nombre": "Crabrawler",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Crabominable",
+        "Tipo": "Lucha\/Hielo"
+    },
+    {
+        "Nombre": "Oricorio pompom",
+        "Tipo": "Electrico\/Volador"
+    },
+    {
+        "Nombre": "Oricorio pau",
+        "Tipo": "Psiquico\/Volador"
+    },
+    {
+        "Nombre": "Oricorio",
+        "Tipo": "Fuego\/Volador"
+    },
+    {
+        "Nombre": "Oricorio sensu",
+        "Tipo": "Fantasma\/Volador"
+    },
+    {
+        "Nombre": "Cutiefly",
+        "Tipo": "Bicho\/Hada"
+    },
+    {
+        "Nombre": "Ribombee",
+        "Tipo": "Bicho\/Hada"
+    },
+    {
+        "Nombre": "Rockruff",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Lycanroc",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Wishiwashi",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Mareanie",
+        "Tipo": "Veneno\/Agua"
+    },
+    {
+        "Nombre": "Toxapex",
+        "Tipo": "Veneno\/Agua"
+    },
+    {
+        "Nombre": "Mudbray",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Mudsdale",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Dewpider",
+        "Tipo": "Agua\/Bicho"
+    },
+    {
+        "Nombre": "Araquanid",
+        "Tipo": "Agua\/Bicho"
+    },
+    {
+        "Nombre": "Fomantis",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Lurantis",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Morelull",
+        "Tipo": "Planta\/Hada"
+    },
+    {
+        "Nombre": "Shiinotic",
+        "Tipo": "Planta\/Hada"
+    },
+    {
+        "Nombre": "Salandit",
+        "Tipo": "Veneno\/Fuego"
+    },
+    {
+        "Nombre": "Salazzle",
+        "Tipo": "Veneno\/Fuego"
+    },
+    {
+        "Nombre": "Stufful",
+        "Tipo": "Normal\/Lucha"
+    },
+    {
+        "Nombre": "Bewear",
+        "Tipo": "Normal\/Lucha"
+    },
+    {
+        "Nombre": "Bounsweet",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Steenee",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Tsareena",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Comfey",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Oranguru",
+        "Tipo": "Normal\/Psiquico"
+    },
+    {
+        "Nombre": "Passimian",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Wimpod",
+        "Tipo": "Bicho\/Agua"
+    },
+    {
+        "Nombre": "Golisopod",
+        "Tipo": "Bicho\/Agua"
+    },
+    {
+        "Nombre": "Sandygast",
+        "Tipo": "Fantasma\/Tierra"
+    },
+    {
+        "Nombre": "Palossand",
+        "Tipo": "Fantasma\/Tierra"
+    },
+    {
+        "Nombre": "Pyukumuku",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Código Cero",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Silvally",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Minior",
+        "Tipo": "Roca\/Volador"
+    },
+    {
+        "Nombre": "Komala",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Turtonator",
+        "Tipo": "Fuego\/Dragon"
+    },
+    {
+        "Nombre": "Togedemaru",
+        "Tipo": "Electrico\/Acero"
+    },
+    {
+        "Nombre": "Mimikyu",
+        "Tipo": "Fantasma\/Hada"
+    },
+    {
+        "Nombre": "Bruxish",
+        "Tipo": "Agua\/Psiquico"
+    },
+    {
+        "Nombre": "Drampa",
+        "Tipo": "Normal\/Dragon"
+    },
+    {
+        "Nombre": "Dhelmise",
+        "Tipo": "Fantasma\/Planta"
+    },
+    {
+        "Nombre": "Jangmo-o",
+        "Tipo": "Dragon"
+    },
+    {
+        "Nombre": "Hakamo-o",
+        "Tipo": "Dragon\/Lucha"
+    },
+    {
+        "Nombre": "Kommo-o",
+        "Tipo": "Dragon\/Lucha"
+    },
+    {
+        "Nombre": "Tapu Koko",
+        "Tipo": "Electrico\/Hada"
+    },
+    {
+        "Nombre": "Tapu Lele",
+        "Tipo": "Psiquico\/Hada"
+    },
+    {
+        "Nombre": "Tapu Bulu",
+        "Tipo": "Planta\/Hada"
+    },
+    {
+        "Nombre": "Tapu Fini",
+        "Tipo": "Agua\/Hada"
+    },
+    {
+        "Nombre": "Cosmog",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Cosmoem",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Solgaleo",
+        "Tipo": "Psiquico\/Acero"
+    },
+    {
+        "Nombre": "Lunala",
+        "Tipo": "Psiquico\/Fantasma"
+    },
+    {
+        "Nombre": "Nihilego",
+        "Tipo": "Roca\/Veneno"
+    },
+    {
+        "Nombre": "Buzzwole",
+        "Tipo": "Bicho\/Lucha"
+    },
+    {
+        "Nombre": "Pheromosa",
+        "Tipo": "Bicho\/Lucha"
+    },
+    {
+        "Nombre": "Xurkitree",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Celesteela",
+        "Tipo": "Acero\/Volador"
+    },
+    {
+        "Nombre": "Kartana",
+        "Tipo": "Planta\/Acero"
+    },
+    {
+        "Nombre": "Guzzlord",
+        "Tipo": "Siniestro\/Dragon"
+    },
+    {
+        "Nombre": "Necrozma",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Magearna",
+        "Tipo": "Acero\/Hada"
+    },
+    {
+        "Nombre": "Marshadow",
+        "Tipo": "Lucha\/Fantasma"
+    },
+    {
+        "Nombre": "Poipole",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Naganadel",
+        "Tipo": "Veneno\/Dragon"
+    },
+    {
+        "Nombre": "Stakataka",
+        "Tipo": "Roca\/Acero"
+    },
+    {
+        "Nombre": "Blacephalon",
+        "Tipo": "Fuego\/Fantasma"
+    },
+    {
+        "Nombre": "Zeraora",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Meltan",
+        "Tipo": "Acero"
+    },
+    {
+        "Nombre": "Melmetal",
+        "Tipo": "Acero"
+    },
+    {
+        "Nombre": "Grookey",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Thwackey",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Rillaboom",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Scorbunny",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Raboot",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Cinderace",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Sobble",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Drizzile",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Inteleon",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Skwovet",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Greedent",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Rookidee",
+        "Tipo": "Volador"
+    },
+    {
+        "Nombre": "Corvisquire",
+        "Tipo": "Volador"
+    },
+    {
+        "Nombre": "Corviknight",
+        "Tipo": "Volador\/Acero"
+    },
+    {
+        "Nombre": "Blipbug",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Dottler",
+        "Tipo": "Bicho\/Psiquico"
+    },
+    {
+        "Nombre": "Orbeetle",
+        "Tipo": "Bicho\/Psiquico"
+    },
+    {
+        "Nombre": "Nickit",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Thievul",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Gossifleur",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Eldegoss",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Wooloo",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Dubwool",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Chewtle",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Drednaw",
+        "Tipo": "Agua\/Roca"
+    },
+    {
+        "Nombre": "Yamper",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Boltund",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Rolycoly",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Carkol",
+        "Tipo": "Roca\/Fuego"
+    },
+    {
+        "Nombre": "Coalossal",
+        "Tipo": "Roca\/Fuego"
+    },
+    {
+        "Nombre": "Applin",
+        "Tipo": "Planta\/Dragon"
+    },
+    {
+        "Nombre": "Flapple",
+        "Tipo": "Planta\/Dragon"
+    },
+    {
+        "Nombre": "Appletun",
+        "Tipo": "Planta\/Dragon"
+    },
+    {
+        "Nombre": "Silicobra",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Sandaconda",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Cramorant",
+        "Tipo": "Volador\/Agua"
+    },
+    {
+        "Nombre": "Arrokuda",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Barraskewda",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Toxel",
+        "Tipo": "Electrico\/Veneno"
+    },
+    {
+        "Nombre": "Toxtricity",
+        "Tipo": "Electrico\/Veneno"
+    },
+    {
+        "Nombre": "Sizzlipede",
+        "Tipo": "Fuego\/Bicho"
+    },
+    {
+        "Nombre": "Centiskorch",
+        "Tipo": "Fuego\/Bicho"
+    },
+    {
+        "Nombre": "Clobbopus",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Grapploct",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Sinistea",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Polteageist",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Hatenna",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Hattrem",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Hatterene",
+        "Tipo": "Psiquico\/Hada"
+    },
+    {
+        "Nombre": "Impidimp",
+        "Tipo": "Siniestro\/Hada"
+    },
+    {
+        "Nombre": "Morgrem",
+        "Tipo": "Siniestro\/Hada"
+    },
+    {
+        "Nombre": "Grimmsnarl",
+        "Tipo": "Siniestro\/Hada"
+    },
+    {
+        "Nombre": "Obstagoon",
+        "Tipo": "Siniestro\/Normal"
+    },
+    {
+        "Nombre": "Perrserker",
+        "Tipo": "Acero"
+    },
+    {
+        "Nombre": "Cursola",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Sirfetch'd",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Mr. Rime",
+        "Tipo": "Hielo\/Psiquico"
+    },
+    {
+        "Nombre": "Runerigus",
+        "Tipo": "Tierra\/Fantasma"
+    },
+    {
+        "Nombre": "Milcery",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Alcremie",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Falinks",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Pincurchin",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Snom",
+        "Tipo": "Hielo\/Bicho"
+    },
+    {
+        "Nombre": "Frosmoth",
+        "Tipo": "Hielo\/Bicho"
+    },
+    {
+        "Nombre": "Stonjourner",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Eiscue",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Indeedee",
+        "Tipo": "Psiquico\/Normal"
+    },
+    {
+        "Nombre": "Morpeko",
+        "Tipo": "Electrico\/Siniestro"
+    },
+    {
+        "Nombre": "Cufant",
+        "Tipo": "Acero"
+    },
+    {
+        "Nombre": "Copperajah",
+        "Tipo": "Acero"
+    },
+    {
+        "Nombre": "Dracozolt",
+        "Tipo": "Electrico\/Dragon"
+    },
+    {
+        "Nombre": "Arctozolt",
+        "Tipo": "Electrico\/Hielo"
+    },
+    {
+        "Nombre": "Dracovish",
+        "Tipo": "Agua\/Dragon"
+    },
+    {
+        "Nombre": "Arctovish",
+        "Tipo": "Agua\/Hielo"
+    },
+    {
+        "Nombre": "Duraludon",
+        "Tipo": "Acero\/Dragon"
+    },
+    {
+        "Nombre": "Dreepy",
+        "Tipo": "Dragon\/Fantasma"
+    },
+    {
+        "Nombre": "Drakloak",
+        "Tipo": "Dragon\/Fantasma"
+    },
+    {
+        "Nombre": "Dragapult",
+        "Tipo": "Dragon\/Fantasma"
+    },
+    {
+        "Nombre": "Zacian",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Zacian crowned",
+        "Tipo": "Hada\/Acero"
+    },
+    {
+        "Nombre": "Zamazenta",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Zamazenta crowned",
+        "Tipo": "Lucha\/Acero"
+    },
+    {
+        "Nombre": "Eternatus",
+        "Tipo": "Veneno\/Dragon"
+    },
+    {
+        "Nombre": "Kubfu",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Urshifu",
+        "Tipo": "Lucha\/Siniestro"
+    },
+    {
+        "Nombre": "Urshifu rapidstrike",
+        "Tipo": "Lucha\/Agua"
+    },
+    {
+        "Nombre": "Zarude",
+        "Tipo": "Siniestro\/Planta"
+    },
+    {
+        "Nombre": "Regieleki",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Regidrago",
+        "Tipo": "Dragon"
+    },
+    {
+        "Nombre": "Glastrier",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Spectrier",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Calyrex",
+        "Tipo": "Psiquico\/Planta "
+    },
+    {
+        "Nombre": "Calyrex ice",
+        "Tipo": "Psiquico\/Hielo"
+    },
+    {
+        "Nombre": "Calyrex shadow",
+        "Tipo": "Psiquico\/Fantasma"
+    },
+    {
+        "Nombre": "Wyrdeer",
+        "Tipo": "Normal\/Psiquico"
+    },
+    {
+        "Nombre": "Kleavor",
+        "Tipo": "Bicho\/Roca"
+    },
+    {
+        "Nombre": "Ursaluna",
+        "Tipo": "Tierra\/Normal"
+    },
+    {
+        "Nombre": "Basculegion",
+        "Tipo": "Agua\/Fantasma"
+    },
+    {
+        "Nombre": "Sneasler",
+        "Tipo": "Lucha\/Veneno"
+    },
+    {
+        "Nombre": "Overqwil",
+        "Tipo": "Siniestro\/Veneno"
+    },
+    {
+        "Nombre": "Enamorus",
+        "Tipo": "Hada\/Volador"
+    },
+    {
+        "Nombre": "Sprigatito",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Floragato",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Meowscarada",
+        "Tipo": "Planta\/Siniestro"
+    },
+    {
+        "Nombre": "Fuecoco",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Crocalor",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Skeledirge",
+        "Tipo": "Fuego\/Fantasma"
+    },
+    {
+        "Nombre": "Quaxly",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Quaxwell",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Quaquaval",
+        "Tipo": "Agua\/Lucha"
+    },
+    {
+        "Nombre": "Lechonk",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Oinkologne",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Tarountula",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Spidops",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Nymble",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Lokix",
+        "Tipo": "Bicho\/Siniestro"
+    },
+    {
+        "Nombre": "Pawmi",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Pawmo",
+        "Tipo": "Electrico\/Lucha"
+    },
+    {
+        "Nombre": "Pawmot",
+        "Tipo": "Electrico\/Lucha"
+    },
+    {
+        "Nombre": "Tandemaus",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Maushold",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Fidough",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Dachsbun",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Smoliv",
+        "Tipo": "Planta\/Normal"
+    },
+    {
+        "Nombre": "Dolliv",
+        "Tipo": "Planta\/Normal"
+    },
+    {
+        "Nombre": "Arboliva",
+        "Tipo": "Planta\/Normal"
+    },
+    {
+        "Nombre": "Squawkabilly",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Nacli",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Naclstack",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Garganacl",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Charcadet",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Armarouge",
+        "Tipo": "Fuego\/Psiquico"
+    },
+    {
+        "Nombre": "Ceruledge",
+        "Tipo": "Fuego\/Fantasma"
+    },
+    {
+        "Nombre": "Tadbulb",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Bellibolt",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Wattrel",
+        "Tipo": "Electrico\/Volador"
+    },
+    {
+        "Nombre": "Kilowattrel",
+        "Tipo": "Electrico\/Volador"
+    },
+    {
+        "Nombre": "Maschiff",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Mabosstiff",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Shroodle",
+        "Tipo": "Veneno\/Normal"
+    },
+    {
+        "Nombre": "Grafaiai",
+        "Tipo": "Veneno\/Normal"
+    },
+    {
+        "Nombre": "Bramblin",
+        "Tipo": "Planta\/Fantasma"
+    },
+    {
+        "Nombre": "Brambleghast",
+        "Tipo": "Planta\/Fantasma"
+    },
+    {
+        "Nombre": "Toedscool",
+        "Tipo": "Tierra\/Planta"
+    },
+    {
+        "Nombre": "Toedscruel",
+        "Tipo": "Tierra\/Planta"
+    },
+    {
+        "Nombre": "Klawf",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Capsakid",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Scovillain",
+        "Tipo": "Planta\/Fuego"
+    },
+    {
+        "Nombre": "Rellor",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Rabsca",
+        "Tipo": "Bicho\/Psiquico"
+    },
+    {
+        "Nombre": "Flittle",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Espathra",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Tinkatink",
+        "Tipo": "Hada\/Acero"
+    },
+    {
+        "Nombre": "Tinkatuff",
+        "Tipo": "Hada\/Acero"
+    },
+    {
+        "Nombre": "Tinkaton",
+        "Tipo": "Hada\/Acero"
+    },
+    {
+        "Nombre": "Wiglett",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Wugtrio",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Bombirdier",
+        "Tipo": "Volador\/Siniestro"
+    },
+    {
+        "Nombre": "Finizen",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Palafin",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Varoom",
+        "Tipo": "Acero\/Veneno"
+    },
+    {
+        "Nombre": "Revavroom",
+        "Tipo": "Acero\/Veneno"
+    },
+    {
+        "Nombre": "Cyclizar",
+        "Tipo": "Dragon\/Normal"
+    },
+    {
+        "Nombre": "Orthworm",
+        "Tipo": "Acero"
+    },
+    {
+        "Nombre": "Glimmet",
+        "Tipo": "Roca\/Veneno"
+    },
+    {
+        "Nombre": "Glimmora",
+        "Tipo": "Roca\/Veneno"
+    },
+    {
+        "Nombre": "Greavard",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Houndstone",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Flamigo",
+        "Tipo": "Volador\/Lucha"
+    },
+    {
+        "Nombre": "Cetoddle",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Cetitan",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Veluza",
+        "Tipo": "Agua\/Psiquico"
+    },
+    {
+        "Nombre": "Dondozo",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Tatsugiri",
+        "Tipo": "Dragon\/Agua"
+    },
+    {
+        "Nombre": "Annihilape",
+        "Tipo": "Lucha\/Fantasma"
+    },
+    {
+        "Nombre": "Clodsire",
+        "Tipo": "Veneno\/Tierra"
+    },
+    {
+        "Nombre": "Farigiraf",
+        "Tipo": "Normal\/Psiquico"
+    },
+    {
+        "Nombre": "Dudunsparce",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Kingambit",
+        "Tipo": "Siniestro\/Acero"
+    },
+    {
+        "Nombre": "Colmilargo",
+        "Tipo": "Tierra\/Lucha"
+    },
+    {
+        "Nombre": "Colagrito",
+        "Tipo": "Hada\/Psiquico"
+    },
+    {
+        "Nombre": "Furioseta",
+        "Tipo": "Planta\/Siniestro"
+    },
+    {
+        "Nombre": "Melenaleteo",
+        "Tipo": "Fantasma\/Hada"
+    },
+    {
+        "Nombre": "Reptalada",
+        "Tipo": "Bicho\/Lucha"
+    },
+    {
+        "Nombre": "Pelarena",
+        "Tipo": "Electrico\/Tierra"
+    },
+    {
+        "Nombre": "Ferrodada",
+        "Tipo": "Tierra\/Acero"
+    },
+    {
+        "Nombre": "Ferrosaco",
+        "Tipo": "Hielo\/Agua"
+    },
+    {
+        "Nombre": "Ferropalmas",
+        "Tipo": "Lucha\/Electrico"
+    },
+    {
+        "Nombre": "Ferrocuello",
+        "Tipo": "Siniestro\/Volador"
+    },
+    {
+        "Nombre": "Ferropolilla",
+        "Tipo": "Fuego\/Veneno"
+    },
+    {
+        "Nombre": "Ferropúas",
+        "Tipo": "Roca\/Electrico"
+    },
+    {
+        "Nombre": "Frigibax",
+        "Tipo": "Dragon\/Hielo"
+    },
+    {
+        "Nombre": "Arctibax",
+        "Tipo": "Dragon\/Hielo"
+    },
+    {
+        "Nombre": "Baxcalibur",
+        "Tipo": "Dragon\/Hielo"
+    },
+    {
+        "Nombre": "Gimmighoul",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Gholdengo",
+        "Tipo": "Acero\/Fantasma"
+    },
+    {
+        "Nombre": "Wo-Chien",
+        "Tipo": "Siniestro\/Planta"
+    },
+    {
+        "Nombre": "Chien-Pao",
+        "Tipo": "Siniestro\/Hielo"
+    },
+    {
+        "Nombre": "Ting-Lu",
+        "Tipo": "Siniestro\/Tierra"
+    },
+    {
+        "Nombre": "Chi-Yu",
+        "Tipo": "Siniestro\/Fuego"
+    },
+    {
+        "Nombre": "Bramaluna",
+        "Tipo": "Dragon\/Siniestro"
+    },
+    {
+        "Nombre": "Ferropaladín",
+        "Tipo": "Hada\/Lucha"
+    },
+    {
+        "Nombre": "Koraidon",
+        "Tipo": "Lucha\/Dragon"
+    },
+    {
+        "Nombre": "Miraidon",
+        "Tipo": "Electrico\/Dragon"
+    },
+    {
+        "Nombre": "Ondulagua",
+        "Tipo": "Agua\/Dragon"
+    },
+    {
+        "Nombre": "Ferroverdor",
+        "Tipo": "Planta\/Psiquico"
+    },
+    {
+        "Nombre": "Dipplin",
+        "Tipo": "Planta\/Dragon"
+    },
+    {
+        "Nombre": "Poltchageist",
+        "Tipo": "Planta\/Fantasma"
+    },
+    {
+        "Nombre": "Sinistcha",
+        "Tipo": "Planta\/Fantasma"
+    },
+    {
+        "Nombre": "Okidogi",
+        "Tipo": "Veneno\/Lucha"
+    },
+    {
+        "Nombre": "Munkidori",
+        "Tipo": "Veneno\/Psiquico"
+    },
+    {
+        "Nombre": "Fenzadipiti",
+        "Tipo": "Veneno\/Hada"
+    },
+    {
+        "Nombre": "Ogerpon",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Archaludon",
+        "Tipo": "Acero\/Dragon"
+    },
+    {
+        "Nombre": "Hydrapple",
+        "Tipo": "Planta\/Dragon"
+    },
+    {
+        "Nombre": "Flamariete",
+        "Tipo": "Fuego\/Dragon"
+    },
+    {
+        "Nombre": "Electrofuria",
+        "Tipo": "Electrico\/Dragon"
+    },
+    {
+        "Nombre": "Ferromole",
+        "Tipo": "Roca\/Psiquico"
+    },
+    {
+        "Nombre": "Ferrotesta",
+        "Tipo": "Acero\/Psiquico"
+    },
+    {
+        "Nombre": "Terapagos",
+        "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Pecharunt",
+        "Tipo": "Veneno\/Fantasma"
+    }
 ]
