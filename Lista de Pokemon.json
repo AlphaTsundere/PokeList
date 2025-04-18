@@ -12,6 +12,10 @@
         "Tipo": "Planta\/Veneno"
     },
     {
+        "Nombre": "Venusaur Mega",
+        "Tipo": "Planta\/Veneno"
+    },
+    {
         "Nombre": "Charmander",
         "Tipo": "Fuego"
     },
@@ -24,6 +28,14 @@
         "Tipo": "Fuego\/Volador"
     },
     {
+        "Nombre": "Charizard MegaX",
+        "Tipo": "Fuego\/Dragon"
+    },
+    {
+        "Nombre": "Charizard MegaY",
+        "Tipo": "Fuego\/Volador"
+    },
+    {
         "Nombre": "Squirtle",
         "Tipo": "Agua"
     },
@@ -33,6 +45,10 @@
     },
     {
         "Nombre": "Blastoise",
+        "Tipo": "Agua"
+    },
+    {
+        "Nombre": "Blastoise Mega",
         "Tipo": "Agua"
     },
     {
@@ -60,6 +76,10 @@
         "Tipo": "Bicho\/Veneno"
     },
     {
+        "Nombre": "Beedrill Mega",
+        "Tipo": "Bicho\/Veneno"
+    },
+    {
         "Nombre": "Pidgey",
         "Tipo": "Normal\/Volador"
     },
@@ -69,6 +89,10 @@
     },
     {
         "Nombre": "Pidgeot",
+        "Tipo": "Normal\/Volador"
+    },
+    {
+        "Nombre": "Pidgeot Mega",
         "Tipo": "Normal\/Volador"
     },
     {
@@ -316,6 +340,10 @@
         "Tipo": "Psiquico"
     },
     {
+        "Nombre": "Alakazam Mega",
+        "Tipo": "Psiquico"
+    },
+    {
         "Nombre": "Machop",
         "Tipo": "Lucha"
     },
@@ -404,6 +432,10 @@
         "Tipo": "Veneno\/Psiquico"
     },
     {
+        "Nombre": "Slowbro Mega",
+        "Tipo": "Agua\/Psiquico"
+    },
+    {
         "Nombre": "Magnemite",
         "Tipo": "Electrico\/Acero"
     },
@@ -469,6 +501,10 @@
     },
     {
         "Nombre": "Gengar",
+        "Tipo": "Fantasma\/Veneno"
+    },
+    {
+        "Nombre": "Gengar Mega",
         "Tipo": "Fantasma\/Veneno"
     },
     {
@@ -576,6 +612,10 @@
         "Tipo": "Normal"
     },
     {
+        "Nombre": "Kangaskhan Mega",
+        "Tipo": "Normal"
+    },
+    {
         "Nombre": "Horsea",
         "Tipo": "Agua"
     },
@@ -628,6 +668,10 @@
         "Tipo": "Bicho"
     },
     {
+        "Nombre": "Pinsir Mega",
+        "Tipo": "Bicho\/Volador"
+    },
+    {
         "Nombre": "Tauros",
         "Tipo": "Normal"
     },
@@ -650,6 +694,10 @@
     {
         "Nombre": "Gyarados",
         "Tipo": "Agua\/Volador"
+    },
+    {
+        "Nombre": "Gyarados Mega",
+        "Tipo": "Agua\/Siniestro"
     },
     {
         "Nombre": "Lapras",
@@ -700,6 +748,10 @@
         "Tipo": "Roca\/Volador"
     },
     {
+        "Nombre": "Aerodactyl Mega",
+        "Tipo": "Roca\/Volador"
+    },
+    {
         "Nombre": "Snorlax",
         "Tipo": "Normal"
     },
@@ -741,6 +793,14 @@
     },
     {
         "Nombre": "Mewtwo",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Mewtwo MegaX",
+        "Tipo": "Psiquico\/Lucha"
+    },
+    {
+        "Nombre": "Mewtwo MegaY",
         "Tipo": "Psiquico"
     },
     {
@@ -872,6 +932,10 @@
         "Tipo": "Electrico"
     },
     {
+        "Nombre": "Ampharos Mega",
+        "Tipo": "Electrico\/Dragon"
+    },
+    {
         "Nombre": "Bellossom",
         "Tipo": "Planta"
     },
@@ -988,6 +1052,10 @@
         "Tipo": "Acero\/Tierra"
     },
     {
+        "Nombre": "Steelix Mega",
+        "Tipo": "Acero\/Tierra"
+    },
+    {
         "Nombre": "Snubbull",
         "Tipo": "Hada"
     },
@@ -1008,11 +1076,19 @@
         "Tipo": "Bicho\/Acero"
     },
     {
+        "Nombre": "Scizor Mega",
+        "Tipo": "Bicho\/Acero"
+    },
+    {
         "Nombre": "Shuckle",
         "Tipo": "Bicho\/Roca"
     },
     {
         "Nombre": "Heracross",
+        "Tipo": "Bicho\/Lucha"
+    },
+    {
+        "Nombre": "Heracross Mega",
         "Tipo": "Bicho\/Lucha"
     },
     {
@@ -1081,6 +1157,10 @@
     },
     {
         "Nombre": "Houndoom",
+        "Tipo": "Siniestro\/Fuego"
+    },
+    {
+        "Nombre": "Houndoom Mega",
         "Tipo": "Siniestro\/Fuego"
     },
     {
@@ -1160,6 +1240,10 @@
         "Tipo": "Roca\/Siniestro"
     },
     {
+        "Nombre": "Tyranitar Mega",
+        "Tipo": "Roca\/Siniestro"
+    },
+    {
         "Nombre": "Lugia",
         "Tipo": "Psiquico\/Volador"
     },
@@ -1184,6 +1268,10 @@
         "Tipo": "Planta"
     },
     {
+        "Nombre": "Sceptile Mega",
+        "Tipo": "Planta\/Dragon"
+    },
+    {
         "Nombre": "Torchic",
         "Tipo": "Fuego"
     },
@@ -1196,6 +1284,10 @@
         "Tipo": "Fuego\/Lucha"
     },
     {
+        "Nombre": "Blaziken Mega",
+        "Tipo": "Fuego\/Lucha"
+    },
+    {
         "Nombre": "Mudkip",
         "Tipo": "Agua"
     },
@@ -1205,6 +1297,10 @@
     },
     {
         "Nombre": "Swampert",
+        "Tipo": "Agua\/Tierra"
+    },
+    {
+        "Nombre": "Swampert Mega",
         "Tipo": "Agua\/Tierra"
     },
     {
@@ -1304,6 +1400,10 @@
         "Tipo": "Psiquico\/Hada"
     },
     {
+        "Nombre": "Gardevoir Mega",
+        "Tipo": "Psiquico\/Hada"
+    },
+    {
         "Nombre": "Surskit",
         "Tipo": "Bicho\/Agua"
     },
@@ -1384,7 +1484,15 @@
         "Tipo": "Siniestro\/Fantasma"
     },
     {
+        "Nombre": "Sableye Mega",
+        "Tipo": "Siniestro\/Fantasma"
+    },
+    {
         "Nombre": "Mawile",
+        "Tipo": "Acero\/Hada"
+    },
+    {
+        "Nombre": "Mawile Mega",
         "Tipo": "Acero\/Hada"
     },
     {
@@ -1400,6 +1508,10 @@
         "Tipo": "Acero\/Roca"
     },
     {
+        "Nombre": "Aggron",
+        "Tipo": "Acero"
+    },
+    {
         "Nombre": "Meditite",
         "Tipo": "Lucha\/Psiquico"
     },
@@ -1408,11 +1520,19 @@
         "Tipo": "Lucha\/Psiquico"
     },
     {
+        "Nombre": "Medicham Mega",
+        "Tipo": "Lucha\/Psiquico"
+    },
+    {
         "Nombre": "Electrike",
         "Tipo": "Electrico"
     },
     {
         "Nombre": "Manectric",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Manectric Mega",
         "Tipo": "Electrico"
     },
     {
@@ -1452,6 +1572,10 @@
         "Tipo": "Agua\/Siniestro"
     },
     {
+        "Nombre": "Sharpedo Mega",
+        "Tipo": "Agua\/Siniestro"
+    },
+    {
         "Nombre": "Wailmer",
         "Tipo": "Agua"
     },
@@ -1465,6 +1589,10 @@
     },
     {
         "Nombre": "Camerupt",
+        "Tipo": "Fuego\/Tierra"
+    },
+    {
+        "Nombre": "Camerupt Mega",
         "Tipo": "Fuego\/Tierra"
     },
     {
@@ -1510,6 +1638,10 @@
     {
         "Nombre": "Altaria",
         "Tipo": "Dragon\/Volador"
+    },
+    {
+        "Nombre": "Altaria Mega",
+        "Tipo": "Dragon\/Hada"
     },
     {
         "Nombre": "Zangoose",
@@ -1604,6 +1736,10 @@
         "Tipo": "Fantasma"
     },
     {
+        "Nombre": "Banette Mega",
+        "Tipo": "Fantasma"
+    },
+    {
         "Nombre": "Duskull",
         "Tipo": "Fantasma"
     },
@@ -1624,6 +1760,10 @@
         "Tipo": "Siniestro"
     },
     {
+        "Nombre": "Absol Mega",
+        "Tipo": "Siniestro"
+    },
+    {
         "Nombre": "Wynaut",
         "Tipo": "Psiquico"
     },
@@ -1633,6 +1773,10 @@
     },
     {
         "Nombre": "Glalie",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Glalie Mega",
         "Tipo": "Hielo"
     },
     {
@@ -1680,6 +1824,10 @@
         "Tipo": "Dragon\/Volador"
     },
     {
+        "Nombre": "Salamence Mega",
+        "Tipo": "Dragon\/Volador"
+    },
+    {
         "Nombre": "Beldum",
         "Tipo": "Acero\/Psiquico"
     },
@@ -1689,6 +1837,10 @@
     },
     {
         "Nombre": "Metagross",
+        "Tipo": "Acero\/Psiquico"
+    },
+    {
+        "Nombre": "Metagross Mega",
         "Tipo": "Acero\/Psiquico"
     },
     {
@@ -1708,7 +1860,15 @@
         "Tipo": "Dragon\/Psiquico"
     },
     {
+        "Nombre": "Latias Mega",
+        "Tipo": "Dragon\/Psiquico"
+    },
+    {
         "Nombre": "Latios",
+        "Tipo": "Dragon\/Psiquico"
+    },
+    {
+        "Nombre": "Latios Mega",
         "Tipo": "Dragon\/Psiquico"
     },
     {
@@ -1716,11 +1876,23 @@
         "Tipo": "Agua"
     },
     {
+        "Nombre": "Kyogre Primal",
+        "Tipo": "Agua"
+    },
+    {
         "Nombre": "Groudon",
         "Tipo": "Tierra"
     },
     {
+        "Nombre": "Groudon Primal",
+        "Tipo": "Tierra\/Fuego"
+    },
+    {
         "Nombre": "Rayquaza",
+        "Tipo": "Dragon\/Volador"
+    },
+    {
+        "Nombre": "Rayquaza Mega",
         "Tipo": "Dragon\/Volador"
     },
     {
@@ -1980,6 +2152,10 @@
         "Tipo": "Dragon\/Tierra"
     },
     {
+        "Nombre": "Garchomp Mega",
+        "Tipo": "Dragon\/Tierra"
+    },
+    {
         "Nombre": "Munchlax",
         "Tipo": "Normal"
     },
@@ -1989,6 +2165,10 @@
     },
     {
         "Nombre": "Lucario",
+        "Tipo": "Lucha\/Acero"
+    },
+    {
+        "Nombre": "Lucario Mega",
         "Tipo": "Lucha\/Acero"
     },
     {
@@ -2037,6 +2217,10 @@
     },
     {
         "Nombre": "Abomasnow",
+        "Tipo": "Planta\/Hielo"
+    },
+    {
+        "Nombre": "Abomasnow Mega",
         "Tipo": "Planta\/Hielo"
     },
     {
@@ -2097,6 +2281,10 @@
     },
     {
         "Nombre": "Gallade",
+        "Tipo": "Psiquico\/Lucha"
+    },
+    {
+        "Nombre": "Gallade Mega",
         "Tipo": "Psiquico\/Lucha"
     },
     {
@@ -2190,6 +2378,10 @@
     {
         "Nombre": "Shaymin",
         "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Shaymin Sky",
+        "Tipo": "Planta\/Volador"
     },
     {
         "Nombre": "Arceus",
@@ -2350,6 +2542,10 @@
     {
         "Nombre": "Audino",
         "Tipo": "Normal"
+    },
+    {
+        "Nombre": "Audino Mega",
+        "Tipo": "Normal\/Hada"
     },
     {
         "Nombre": "Timburr",
@@ -2852,12 +3048,24 @@
         "Tipo": "Dragon\/Hielo"
     },
     {
+        "Nombre": "Kyurem Black",
+        "Tipo": "Dragon\/Hielo"
+    },
+    {
+        "Nombre": "Kyurem White",
+        "Tipo": "Dragon\/Hielo"
+    },
+    {
         "Nombre": "Keldeo",
         "Tipo": "Agua\/Lucha"
     },
     {
         "Nombre": "Meloetta",
         "Tipo": "Normal\/Psiquico"
+    },
+    {
+        "Nombre": "Meloetta Pirouette",
+        "Tipo": "Normal\/Lucha"
     },
     {
         "Nombre": "Genesect",
@@ -3156,8 +3364,16 @@
         "Tipo": "Roca\/Hada"
     },
     {
+        "Nombre": "Diancie Mega",
+        "Tipo": "Roca\/Hada"
+    },
+    {
         "Nombre": "Hoopa",
         "Tipo": "Psiquico\/Fantasma"
+    },
+    {
+        "Nombre": "Hoopa Unbound",
+        "Tipo": "Psiquico\/Siniestro"
     },
     {
         "Nombre": "Volcanion",
@@ -3388,6 +3604,74 @@
         "Tipo": "Normal"
     },
     {
+        "Nombre": "Silvally Bug",
+        "Tipo": "Bicho"
+    },
+    {
+        "Nombre": "Silvally Dark",
+        "Tipo": "Siniestro"
+    },
+    {
+        "Nombre": "Silvally Dragon",
+        "Tipo": "Dragon"
+    },
+    {
+        "Nombre": "Silvally Electric",
+        "Tipo": "Electrico"
+    },
+    {
+        "Nombre": "Silvally Fairy",
+        "Tipo": "Hada"
+    },
+    {
+        "Nombre": "Silvally Fighting",
+        "Tipo": "Lucha"
+    },
+    {
+        "Nombre": "Silvally Fire",
+        "Tipo": "Fuego"
+    },
+    {
+        "Nombre": "Silvally Flying",
+        "Tipo": "Volador"
+    },
+    {
+        "Nombre": "Silvally Ghost",
+        "Tipo": "Fantasma"
+    },
+    {
+        "Nombre": "Silvally Grass",
+        "Tipo": "Planta"
+    },
+    {
+        "Nombre": "Silvally Ground",
+        "Tipo": "Tierra"
+    },
+    {
+        "Nombre": "Silvally Ice",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Silvally Poison",
+        "Tipo": "Veneno"
+    },
+    {
+        "Nombre": "Silvally Psychic",
+        "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Silvally Rock",
+        "Tipo": "Roca"
+    },
+    {
+        "Nombre": "Silvally Steel",
+        "Tipo": "Acero"
+    },
+    {
+        "Nombre": "Silvally Water",
+        "Tipo": "Agua"
+    },
+    {
         "Nombre": "Minior",
         "Tipo": "Roca\/Volador"
     },
@@ -3494,6 +3778,18 @@
     {
         "Nombre": "Necrozma",
         "Tipo": "Psiquico"
+    },
+    {
+        "Nombre": "Necrozma Dawnwings",
+        "Tipo": "Psiquico\/Fantasma"
+    },
+    {
+        "Nombre": "Necrozma Duskmane",
+        "Tipo": "Psiquico\/Acero"
+    },
+    {
+        "Nombre": "Necrozma Ultra",
+        "Tipo": "Psiquico\/Dragon"
     },
     {
         "Nombre": "Magearna",
@@ -3848,7 +4144,7 @@
         "Tipo": "Hada"
     },
     {
-        "Nombre": "Zacian crowned",
+        "Nombre": "Zacian Crowned",
         "Tipo": "Hada\/Acero"
     },
     {
@@ -3856,7 +4152,7 @@
         "Tipo": "Lucha"
     },
     {
-        "Nombre": "Zamazenta crowned",
+        "Nombre": "Zamazenta Crowned",
         "Tipo": "Lucha\/Acero"
     },
     {
@@ -3872,7 +4168,7 @@
         "Tipo": "Lucha\/Siniestro"
     },
     {
-        "Nombre": "Urshifu rapidstrike",
+        "Nombre": "Urshifu Rapidstrike",
         "Tipo": "Lucha\/Agua"
     },
     {
@@ -3900,11 +4196,11 @@
         "Tipo": "Psiquico\/Planta "
     },
     {
-        "Nombre": "Calyrex ice",
+        "Nombre": "Calyrex Ice",
         "Tipo": "Psiquico\/Hielo"
     },
     {
-        "Nombre": "Calyrex shadow",
+        "Nombre": "Calyrex Shadow",
         "Tipo": "Psiquico\/Fantasma"
     },
     {
