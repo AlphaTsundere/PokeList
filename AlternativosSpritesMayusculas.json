@@ -338,5 +338,9 @@
     "qwilfish-hisui": {
         "normal": "https://play.pokemonshowdown.com/sprites/ani/qwilfish-hisui.gif",
         "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/qwilfish-hisui.gif"
+    },
+    "código-cero": {
+        "normal": "https://play.pokemonshowdown.com/sprites/ani/typenull.gif",
+        "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/typenull.gif"
     }
 }
