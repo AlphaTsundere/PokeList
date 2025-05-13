@@ -888,5 +888,13 @@
         "clave": "tatsugiri-stretchy",
         "nombreVisual": "tatsugiri-stretchy",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/tatsugiri-stretchy.gif"
+    },
+    {
+        "clave": "pikachu-alola",
+        "nombreVisual": "Pikachu (Alola)",
+        "url": {
+            "normal": "https://play.pokemonshowdown.com/sprites/ani/pikachu-alola.gif",
+            "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/pikachu-alolacap.gif"
+        }
     }
 ]
