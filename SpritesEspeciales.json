@@ -1,648 +1,709 @@
 [
     {
         "clave": "alcremie-caramel-swirl-berry",
-        "nombreVisual": "alcremie-caramel-swirl-berry",
+        "nombreVisual": "Alcremie mezcla caramelo fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-caramel-swirl-berry.gif"
     },
     {
         "clave": "alcremie-caramel-swirl-clover",
-        "nombreVisual": "alcremie-caramel-swirl-clover",
+        "nombreVisual": "Alcremie mezcla caramelo trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-caramel-swirl-clover.gif"
     },
     {
         "clave": "alcremie-caramel-swirl-flower",
-        "nombreVisual": "alcremie-caramel-swirl-flower",
+        "nombreVisual": "Alcremie mezcla caramelo flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-caramel-swirl-flower.gif"
     },
     {
         "clave": "alcremie-caramel-swirl-love",
-        "nombreVisual": "alcremie-caramel-swirl-love",
+        "nombreVisual": "Alcremie mezcla caramelo corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-caramel-swirl-love.gif"
     },
     {
         "clave": "alcremie-caramel-swirl-ribbon",
-        "nombreVisual": "alcremie-caramel-swirl-ribbon",
+        "nombreVisual": "Alcremie mezcla caramelo lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-caramel-swirl-ribbon.gif"
     },
     {
         "clave": "alcremie-caramel-swirl-star",
-        "nombreVisual": "alcremie-caramel-swirl-star",
+        "nombreVisual": "Alcremie mezcla caramelo estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-caramel-swirl-star.gif"
     },
     {
         "clave": "alcremie-caramelswirl-berry",
-        "nombreVisual": "alcremie-caramelswirl-berry",
+        "nombreVisual": "Alcremie mezcla caramelo fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-caramelswirl-berry.gif"
     },
     {
         "clave": "alcremie-caramelswirl-clover",
-        "nombreVisual": "alcremie-caramelswirl-clover",
+        "nombreVisual": "Alcremie mezcla caramelo trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-caramelswirl-clover.gif"
     },
     {
         "clave": "alcremie-caramelswirl-flower",
-        "nombreVisual": "alcremie-caramelswirl-flower",
+        "nombreVisual": "Alcremie mezcla caramelo flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-caramelswirl-flower.gif"
     },
     {
         "clave": "alcremie-caramelswirl-love",
-        "nombreVisual": "alcremie-caramelswirl-love",
+        "nombreVisual": "Alcremie mezcla caramelo corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-caramelswirl-love.gif"
     },
     {
         "clave": "alcremie-caramelswirl-ribbon",
-        "nombreVisual": "alcremie-caramelswirl-ribbon",
+        "nombreVisual": "Alcremie mezcla caramelo lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-caramelswirl-ribbon.gif"
     },
     {
         "clave": "alcremie-caramelswirl-star",
-        "nombreVisual": "alcremie-caramelswirl-star",
+        "nombreVisual": "Alcremie mezcla caramelo estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-caramelswirl-star.gif"
     },
     {
         "clave": "alcremie-caramelswirl",
-        "nombreVisual": "alcremie-caramelswirl",
+        "nombreVisual": "Alcremie mezcla caramelo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-caramelswirl.gif"
     },
     {
-        "clave": "alcremie-gmax",
-        "nombreVisual": "alcremie-gmax",
-        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-gmax.gif"
-    },
-    {
         "clave": "alcremie-lemon-cream-berry",
-        "nombreVisual": "alcremie-lemon-cream-berry",
+        "nombreVisual": "Alcremie crema de limon fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-lemon-cream-berry.gif"
     },
     {
         "clave": "alcremie-lemon-cream-clover",
-        "nombreVisual": "alcremie-lemon-cream-clover",
+        "nombreVisual": "Alcremie crema de limon trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-lemon-cream-clover.gif"
     },
     {
         "clave": "alcremie-lemon-cream-flower",
-        "nombreVisual": "alcremie-lemon-cream-flower",
+        "nombreVisual": "Alcremie crema de limon flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-lemon-cream-flower.gif"
     },
     {
         "clave": "alcremie-lemon-cream-love",
-        "nombreVisual": "alcremie-lemon-cream-love",
+        "nombreVisual": "Alcremie crema de limon corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-lemon-cream-love.gif"
     },
     {
         "clave": "alcremie-lemon-cream-ribbon",
-        "nombreVisual": "alcremie-lemon-cream-ribbon",
+        "nombreVisual": "Alcremie crema de limon lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-lemon-cream-ribbon.gif"
     },
     {
         "clave": "alcremie-lemon-cream-star",
-        "nombreVisual": "alcremie-lemon-cream-star",
+        "nombreVisual": "Alcremie crema de limon estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-lemon-cream-star.gif"
     },
     {
         "clave": "alcremie-lemoncream-berry",
-        "nombreVisual": "alcremie-lemoncream-berry",
+        "nombreVisual": "Alcremie crema de limon fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-lemoncream-berry.gif"
     },
     {
         "clave": "alcremie-lemoncream-clover",
-        "nombreVisual": "alcremie-lemoncream-clover",
+        "nombreVisual": "Alcremie crema de limon trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-lemoncream-clover.gif"
     },
     {
         "clave": "alcremie-lemoncream-flower",
-        "nombreVisual": "alcremie-lemoncream-flower",
+        "nombreVisual": "Alcremie crema de limon flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-lemoncream-flower.gif"
     },
     {
         "clave": "alcremie-lemoncream-love",
-        "nombreVisual": "alcremie-lemoncream-love",
+        "nombreVisual": "Alcremie crema de limon corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-lemoncream-love.gif"
     },
     {
         "clave": "alcremie-lemoncream-ribbon",
-        "nombreVisual": "alcremie-lemoncream-ribbon",
+        "nombreVisual": "Alcremie crema de limon lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-lemoncream-ribbon.gif"
     },
     {
         "clave": "alcremie-lemoncream-star",
-        "nombreVisual": "alcremie-lemoncream-star",
+        "nombreVisual": "Alcremie crema de limon estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-lemoncream-star.gif"
     },
     {
         "clave": "alcremie-lemoncream",
-        "nombreVisual": "alcremie-lemoncream",
+        "nombreVisual": "Alcremie crema de limon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-lemoncream.gif"
     },
     {
         "clave": "alcremie-matcha-cream-berry",
-        "nombreVisual": "alcremie-matcha-cream-berry",
+        "nombreVisual": "Alcremie crema de te fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-matcha-cream-berry.gif"
     },
     {
         "clave": "alcremie-matcha-cream-clover",
-        "nombreVisual": "alcremie-matcha-cream-clover",
+        "nombreVisual": "Alcremie crema de te trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-matcha-cream-clover.gif"
     },
     {
         "clave": "alcremie-matcha-cream-flower",
-        "nombreVisual": "alcremie-matcha-cream-flower",
+        "nombreVisual": "Alcremie crema de te flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-matcha-cream-flower.gif"
     },
     {
         "clave": "alcremie-matcha-cream-love",
-        "nombreVisual": "alcremie-matcha-cream-love",
+        "nombreVisual": "Alcremie crema de te corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-matcha-cream-love.gif"
     },
     {
         "clave": "alcremie-matcha-cream-ribbon",
-        "nombreVisual": "alcremie-matcha-cream-ribbon",
+        "nombreVisual": "Alcremie crema de te lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-matcha-cream-ribbon.gif"
     },
     {
         "clave": "alcremie-matcha-cream-star",
-        "nombreVisual": "alcremie-matcha-cream-star",
+        "nombreVisual": "Alcremie crema de te estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-matcha-cream-star.gif"
     },
     {
         "clave": "alcremie-matchacream-berry",
-        "nombreVisual": "alcremie-matchacream-berry",
+        "nombreVisual": "Alcremie crema de te fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-matchacream-berry.gif"
     },
     {
         "clave": "alcremie-matchacream-clover",
-        "nombreVisual": "alcremie-matchacream-clover",
+        "nombreVisual": "Alcremie crema de te trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-matchacream-clover.gif"
     },
     {
         "clave": "alcremie-matchacream-flower",
-        "nombreVisual": "alcremie-matchacream-flower",
+        "nombreVisual": "Alcremie crema de te flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-matchacream-flower.gif"
     },
     {
         "clave": "alcremie-matchacream-love",
-        "nombreVisual": "alcremie-matchacream-love",
+        "nombreVisual": "Alcremie crema de te corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-matchacream-love.gif"
     },
     {
         "clave": "alcremie-matchacream-ribbon",
-        "nombreVisual": "alcremie-matchacream-ribbon",
+        "nombreVisual": "Alcremie crema de te lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-matchacream-ribbon.gif"
     },
     {
         "clave": "alcremie-matchacream-star",
-        "nombreVisual": "alcremie-matchacream-star",
+        "nombreVisual": "Alcremie crema de te estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-matchacream-star.gif"
     },
     {
         "clave": "alcremie-matchacream",
-        "nombreVisual": "alcremie-matchacream",
+        "nombreVisual": "Alcremie crema de te",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-matchacream.gif"
     },
     {
         "clave": "alcremie-mint-cream-berry",
-        "nombreVisual": "alcremie-mint-cream-berry",
+        "nombreVisual": "Alcremie crema de menta fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-mint-cream-berry.gif"
     },
     {
         "clave": "alcremie-mint-cream-clover",
-        "nombreVisual": "alcremie-mint-cream-clover",
+        "nombreVisual": "Alcremie crema de menta trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-mint-cream-clover.gif"
     },
     {
         "clave": "alcremie-mint-cream-flower",
-        "nombreVisual": "alcremie-mint-cream-flower",
+        "nombreVisual": "Alcremie crema de menta flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-mint-cream-flower.gif"
     },
     {
         "clave": "alcremie-mint-cream-love",
-        "nombreVisual": "alcremie-mint-cream-love",
+        "nombreVisual": "Alcremie crema de menta corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-mint-cream-love.gif"
     },
     {
         "clave": "alcremie-mint-cream-ribbon",
-        "nombreVisual": "alcremie-mint-cream-ribbon",
+        "nombreVisual": "Alcremie crema de menta lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-mint-cream-ribbon.gif"
     },
     {
         "clave": "alcremie-mint-cream-star",
-        "nombreVisual": "alcremie-mint-cream-star",
+        "nombreVisual": "Alcremie crema de menta estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-mint-cream-star.gif"
     },
     {
         "clave": "alcremie-mintcream-berry",
-        "nombreVisual": "alcremie-mintcream-berry",
+        "nombreVisual": "Alcremie crema de menta fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-mintcream-berry.gif"
     },
     {
         "clave": "alcremie-mintcream-clover",
-        "nombreVisual": "alcremie-mintcream-clover",
+        "nombreVisual": "Alcremie crema de menta trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-mintcream-clover.gif"
     },
     {
         "clave": "alcremie-mintcream-flower",
-        "nombreVisual": "alcremie-mintcream-flower",
+        "nombreVisual": "Alcremie crema de menta flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-mintcream-flower.gif"
     },
     {
         "clave": "alcremie-mintcream-love",
-        "nombreVisual": "alcremie-mintcream-love",
+        "nombreVisual": "Alcremie crema de menta corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-mintcream-love.gif"
     },
     {
         "clave": "alcremie-mintcream-ribbon",
-        "nombreVisual": "alcremie-mintcream-ribbon",
+        "nombreVisual": "Alcremie crema de menta lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-mintcream-ribbon.gif"
     },
     {
         "clave": "alcremie-mintcream-star",
-        "nombreVisual": "alcremie-mintcream-star",
+        "nombreVisual": "Alcremie crema de menta estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-mintcream-star.gif"
     },
     {
         "clave": "alcremie-mintcream",
-        "nombreVisual": "alcremie-mintcream",
+        "nombreVisual": "Alcremie crema de menta",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-mintcream.gif"
     },
     {
         "clave": "alcremie-rainbow-swirl-berry",
-        "nombreVisual": "alcremie-rainbow-swirl-berry",
+        "nombreVisual": "Alcremie tres sabores fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rainbow-swirl-berry.gif"
     },
     {
         "clave": "alcremie-rainbow-swirl-clover",
-        "nombreVisual": "alcremie-rainbow-swirl-clover",
+        "nombreVisual": "Alcremie tres sabores trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rainbow-swirl-clover.gif"
     },
     {
         "clave": "alcremie-rainbow-swirl-flower",
-        "nombreVisual": "alcremie-rainbow-swirl-flower",
+        "nombreVisual": "Alcremie tres sabores flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rainbow-swirl-flower.gif"
     },
     {
         "clave": "alcremie-rainbow-swirl-love",
-        "nombreVisual": "alcremie-rainbow-swirl-love",
+        "nombreVisual": "Alcremie tres sabores corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rainbow-swirl-love.gif"
     },
     {
         "clave": "alcremie-rainbow-swirl-ribbon",
-        "nombreVisual": "alcremie-rainbow-swirl-ribbon",
+        "nombreVisual": "Alcremie tres sabores lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rainbow-swirl-ribbon.gif"
     },
     {
         "clave": "alcremie-rainbow-swirl-star",
-        "nombreVisual": "alcremie-rainbow-swirl-star",
+        "nombreVisual": "Alcremie tres sabores estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rainbow-swirl-star.gif"
     },
     {
         "clave": "alcremie-rainbowswirl-berry",
-        "nombreVisual": "alcremie-rainbowswirl-berry",
+        "nombreVisual": "Alcremie tres sabores fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rainbowswirl-berry.gif"
     },
     {
         "clave": "alcremie-rainbowswirl-clover",
-        "nombreVisual": "alcremie-rainbowswirl-clover",
+        "nombreVisual": "Alcremie tres sabores trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rainbowswirl-clover.gif"
     },
     {
         "clave": "alcremie-rainbowswirl-flower",
-        "nombreVisual": "alcremie-rainbowswirl-flower",
+        "nombreVisual": "Alcremie tres sabores flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rainbowswirl-flower.gif"
     },
     {
         "clave": "alcremie-rainbowswirl-love",
-        "nombreVisual": "alcremie-rainbowswirl-love",
+        "nombreVisual": "Alcremie tres sabores corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rainbowswirl-love.gif"
     },
     {
         "clave": "alcremie-rainbowswirl-ribbon",
-        "nombreVisual": "alcremie-rainbowswirl-ribbon",
+        "nombreVisual": "Alcremie tres sabores lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rainbowswirl-ribbon.gif"
     },
     {
         "clave": "alcremie-rainbowswirl-star",
-        "nombreVisual": "alcremie-rainbowswirl-star",
+        "nombreVisual": "Alcremie tres sabores estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rainbowswirl-star.gif"
     },
     {
         "clave": "alcremie-rainbowswirl",
-        "nombreVisual": "alcremie-rainbowswirl",
+        "nombreVisual": "Alcremie tres sabores",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rainbowswirl.gif"
     },
     {
         "clave": "alcremie-ruby-cream-berry",
-        "nombreVisual": "alcremie-ruby-cream-berry",
+        "nombreVisual": "Alcremie crema rosa fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-ruby-cream-berry.gif"
     },
     {
         "clave": "alcremie-ruby-cream-clover",
-        "nombreVisual": "alcremie-ruby-cream-clover",
+        "nombreVisual": "Alcremie crema rosa trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-ruby-cream-clover.gif"
     },
     {
         "clave": "alcremie-ruby-cream-flower",
-        "nombreVisual": "alcremie-ruby-cream-flower",
+        "nombreVisual": "Alcremie crema rosa flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-ruby-cream-flower.gif"
     },
     {
         "clave": "alcremie-ruby-cream-love",
-        "nombreVisual": "alcremie-ruby-cream-love",
+        "nombreVisual": "Alcremie crema rosa corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-ruby-cream-love.gif"
     },
     {
         "clave": "alcremie-ruby-cream-ribbon",
-        "nombreVisual": "alcremie-ruby-cream-ribbon",
+        "nombreVisual": "Alcremie crema rosa lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-ruby-cream-ribbon.gif"
     },
     {
         "clave": "alcremie-ruby-cream-star",
-        "nombreVisual": "alcremie-ruby-cream-star",
+        "nombreVisual": "Alcremie crema rosa estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-ruby-cream-star.gif"
     },
     {
         "clave": "alcremie-ruby-swirl-berry",
-        "nombreVisual": "alcremie-ruby-swirl-berry",
+        "nombreVisual": "Alcremie mezcla rosa fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-ruby-swirl-berry.gif"
     },
     {
         "clave": "alcremie-ruby-swirl-clover",
-        "nombreVisual": "alcremie-ruby-swirl-clover",
+        "nombreVisual": "Alcremie mezcla rosa trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-ruby-swirl-clover.gif"
     },
     {
         "clave": "alcremie-ruby-swirl-flower",
-        "nombreVisual": "alcremie-ruby-swirl-flower",
+        "nombreVisual": "Alcremie mezcla rosa flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-ruby-swirl-flower.gif"
     },
     {
         "clave": "alcremie-ruby-swirl-love",
-        "nombreVisual": "alcremie-ruby-swirl-love",
+        "nombreVisual": "Alcremie mezcla rosa corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-ruby-swirl-love.gif"
     },
     {
         "clave": "alcremie-ruby-swirl-ribbon",
-        "nombreVisual": "alcremie-ruby-swirl-ribbon",
+        "nombreVisual": "Alcremie mezcla rosa lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-ruby-swirl-ribbon.gif"
     },
     {
         "clave": "alcremie-ruby-swirl-star",
-        "nombreVisual": "alcremie-ruby-swirl-star",
+        "nombreVisual": "Alcremie mezcla rosa estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-ruby-swirl-star.gif"
     },
     {
         "clave": "alcremie-rubycream-berry",
-        "nombreVisual": "alcremie-rubycream-berry",
+        "nombreVisual": "Alcremie crema rosa fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rubycream-berry.gif"
     },
     {
         "clave": "alcremie-rubycream-clover",
-        "nombreVisual": "alcremie-rubycream-clover",
+        "nombreVisual": "Alcremie crema rosa trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rubycream-clover.gif"
     },
     {
         "clave": "alcremie-rubycream-flower",
-        "nombreVisual": "alcremie-rubycream-flower",
+        "nombreVisual": "Alcremie crema rosa flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rubycream-flower.gif"
     },
     {
         "clave": "alcremie-rubycream-love",
-        "nombreVisual": "alcremie-rubycream-love",
+        "nombreVisual": "Alcremie crema rosa corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rubycream-love.gif"
     },
     {
         "clave": "alcremie-rubycream-ribbon",
-        "nombreVisual": "alcremie-rubycream-ribbon",
+        "nombreVisual": "Alcremie crema rosa lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rubycream-ribbon.gif"
     },
     {
         "clave": "alcremie-rubycream-star",
-        "nombreVisual": "alcremie-rubycream-star",
+        "nombreVisual": "Alcremie crema rosa estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rubycream-star.gif"
     },
     {
         "clave": "alcremie-rubycream",
-        "nombreVisual": "alcremie-rubycream",
+        "nombreVisual": "Alcremie crema rosa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rubycream.gif"
     },
     {
         "clave": "alcremie-rubyswirl-berry",
-        "nombreVisual": "alcremie-rubyswirl-berry",
+        "nombreVisual": "Alcremie mezcla rosa fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rubyswirl-berry.gif"
     },
     {
         "clave": "alcremie-rubyswirl-clover",
-        "nombreVisual": "alcremie-rubyswirl-clover",
+        "nombreVisual": "Alcremie mezcla rosa trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rubyswirl-clover.gif"
     },
     {
         "clave": "alcremie-rubyswirl-flower",
-        "nombreVisual": "alcremie-rubyswirl-flower",
+        "nombreVisual": "Alcremie mezcla rosa flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rubyswirl-flower.gif"
     },
     {
         "clave": "alcremie-rubyswirl-love",
-        "nombreVisual": "alcremie-rubyswirl-love",
+        "nombreVisual": "Alcremie mezcla rosa corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rubyswirl-love.gif"
     },
     {
         "clave": "alcremie-rubyswirl-ribbon",
-        "nombreVisual": "alcremie-rubyswirl-ribbon",
+        "nombreVisual": "Alcremie mezcla rosa lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rubyswirl-ribbon.gif"
     },
     {
         "clave": "alcremie-rubyswirl-star",
-        "nombreVisual": "alcremie-rubyswirl-star",
+        "nombreVisual": "Alcremie mezcla rosa estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rubyswirl-star.gif"
     },
     {
         "clave": "alcremie-rubyswirl",
-        "nombreVisual": "alcremie-rubyswirl",
+        "nombreVisual": "Alcremie mezcla rosa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-rubyswirl.gif"
     },
     {
         "clave": "alcremie-salted-cream-berry",
-        "nombreVisual": "alcremie-salted-cream-berry",
+        "nombreVisual": "Alcremie crema salada fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-salted-cream-berry.gif"
     },
     {
         "clave": "alcremie-salted-cream-clover",
-        "nombreVisual": "alcremie-salted-cream-clover",
+        "nombreVisual": "Alcremie crema salada trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-salted-cream-clover.gif"
     },
     {
         "clave": "alcremie-salted-cream-flower",
-        "nombreVisual": "alcremie-salted-cream-flower",
+        "nombreVisual": "Alcremie crema salada flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-salted-cream-flower.gif"
     },
     {
         "clave": "alcremie-salted-cream-love",
-        "nombreVisual": "alcremie-salted-cream-love",
+        "nombreVisual": "Alcremie crema salada corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-salted-cream-love.gif"
     },
     {
         "clave": "alcremie-salted-cream-ribbon",
-        "nombreVisual": "alcremie-salted-cream-ribbon",
+        "nombreVisual": "Alcremie crema salada lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-salted-cream-ribbon.gif"
     },
     {
         "clave": "alcremie-salted-cream-star",
-        "nombreVisual": "alcremie-salted-cream-star",
+        "nombreVisual": "Alcremie crema salada estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-salted-cream-star.gif"
     },
     {
         "clave": "alcremie-saltedcream-berry",
-        "nombreVisual": "alcremie-saltedcream-berry",
+        "nombreVisual": "Alcremie crema salada fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-saltedcream-berry.gif"
     },
     {
         "clave": "alcremie-saltedcream-clover",
-        "nombreVisual": "alcremie-saltedcream-clover",
+        "nombreVisual": "Alcremie crema salada trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-saltedcream-clover.gif"
     },
     {
         "clave": "alcremie-saltedcream-flower",
-        "nombreVisual": "alcremie-saltedcream-flower",
+        "nombreVisual": "Alcremie crema salada flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-saltedcream-flower.gif"
     },
     {
         "clave": "alcremie-saltedcream-love",
-        "nombreVisual": "alcremie-saltedcream-love",
+        "nombreVisual": "Alcremie crema salada corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-saltedcream-love.gif"
     },
     {
         "clave": "alcremie-saltedcream-ribbon",
-        "nombreVisual": "alcremie-saltedcream-ribbon",
+        "nombreVisual": "Alcremie crema salada lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-saltedcream-ribbon.gif"
     },
     {
         "clave": "alcremie-saltedcream-star",
-        "nombreVisual": "alcremie-saltedcream-star",
+        "nombreVisual": "Alcremie crema salada estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-saltedcream-star.gif"
     },
     {
         "clave": "alcremie-saltedcream",
-        "nombreVisual": "alcremie-saltedcream",
+        "nombreVisual": "Alcremie crema salada",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-saltedcream.gif"
     },
     {
         "clave": "alcremie-vanilla-cream-berry",
-        "nombreVisual": "alcremie-vanilla-cream-berry",
+        "nombreVisual": "Alcremie crema de vainilla fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-vanilla-cream-berry.gif"
     },
     {
         "clave": "alcremie-vanilla-cream-clover",
-        "nombreVisual": "alcremie-vanilla-cream-clover",
+        "nombreVisual": "Alcremie crema de vainilla trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-vanilla-cream-clover.gif"
     },
     {
         "clave": "alcremie-vanilla-cream-flower",
-        "nombreVisual": "alcremie-vanilla-cream-flower",
+        "nombreVisual": "Alcremie crema de vainilla flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-vanilla-cream-flower.gif"
     },
     {
         "clave": "alcremie-vanilla-cream-love",
-        "nombreVisual": "alcremie-vanilla-cream-love",
+        "nombreVisual": "Alcremie crema de vainilla corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-vanilla-cream-love.gif"
     },
     {
         "clave": "alcremie-vanilla-cream-ribbon",
-        "nombreVisual": "alcremie-vanilla-cream-ribbon",
+        "nombreVisual": "Alcremie crema de vainilla lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-vanilla-cream-ribbon.gif"
     },
     {
         "clave": "alcremie-vanilla-cream-star",
-        "nombreVisual": "alcremie-vanilla-cream-star",
+        "nombreVisual": "Alcremie crema de vainilla estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-vanilla-cream-star.gif"
     },
     {
         "clave": "alcremie-vanillacream-berry",
-        "nombreVisual": "alcremie-vanillacream-berry",
+        "nombreVisual": "Alcremie crema de vainilla fresa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-vanillacream-berry.gif"
     },
     {
         "clave": "alcremie-vanillacream-clover",
-        "nombreVisual": "alcremie-vanillacream-clover",
+        "nombreVisual": "Alcremie crema de vainilla trebol",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-vanillacream-clover.gif"
     },
     {
         "clave": "alcremie-vanillacream-flower",
-        "nombreVisual": "alcremie-vanillacream-flower",
+        "nombreVisual": "Alcremie crema de vainilla flor",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-vanillacream-flower.gif"
     },
     {
         "clave": "alcremie-vanillacream-love",
-        "nombreVisual": "alcremie-vanillacream-love",
+        "nombreVisual": "Alcremie crema de vainilla corazon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-vanillacream-love.gif"
     },
     {
         "clave": "alcremie-vanillacream-ribbon",
-        "nombreVisual": "alcremie-vanillacream-ribbon",
+        "nombreVisual": "Alcremie crema de vainilla lazo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-vanillacream-ribbon.gif"
     },
     {
         "clave": "alcremie-vanillacream-star",
-        "nombreVisual": "alcremie-vanillacream-star",
+        "nombreVisual": "Alcremie crema de vainilla estrella",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-vanillacream-star.gif"
     },
     {
         "clave": "deoxys-attack",
-        "nombreVisual": "deoxys-attack",
+        "nombreVisual": "Deoxys (forma ataque)",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/deoxys-attack.gif"
     },
     {
         "clave": "deoxys-defense",
-        "nombreVisual": "deoxys-defense",
+        "nombreVisual": "Deoxys (forma defensa)",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/deoxys-defense.gif"
     },
     {
         "clave": "deoxys-speed",
-        "nombreVisual": "deoxys-speed",
+        "nombreVisual": "Deoxys (forma velocidad)",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/deoxys-speed.gif"
     },
     {
         "clave": "dudunsparce-threesegment",
-        "nombreVisual": "dudunsparce-threesegment",
+        "nombreVisual": "Dudunsparce trinodular",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/dudunsparce-threesegment.gif"
     },
     {
         "clave": "minior-blue",
-        "nombreVisual": "minior-blue",
+        "nombreVisual": "Minior nucleo azul",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/minior-blue.gif"
     },
     {
         "clave": "minior-green",
-        "nombreVisual": "minior-green",
+        "nombreVisual": "Minior nucleo verde",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/minior-green.gif"
     },
     {
         "clave": "minior-indigo",
-        "nombreVisual": "minior-indigo",
+        "nombreVisual": "Minior nucleo añil",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/minior-indigo.gif"
     },
     {
         "clave": "minior-meteor",
-        "nombreVisual": "minior-meteor",
+        "nombreVisual": "Minior meteorito",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/minior-meteor.gif"
     },
     {
         "clave": "minior-orange",
-        "nombreVisual": "minior-orange",
+        "nombreVisual": "Minior nucleo naranja",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/minior-orange.gif"
     },
     {
         "clave": "minior-violet",
-        "nombreVisual": "minior-violet",
+        "nombreVisual": "Minior nucleo violeta",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/minior-violet.gif"
     },
     {
         "clave": "minior-yellow",
-        "nombreVisual": "minior-yellow",
+        "nombreVisual": "Minior nucleo amarillo",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/minior-yellow.gif"
     },
     {
         "clave": "morpeko-hangry",
-        "nombreVisual": "morpeko-hangry",
+        "nombreVisual": "Morpeko (forma voraz)",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/morpeko-hangry.gif"
+    },
+    {
+        "clave": "pikachu-alola",
+        "nombreVisual": "pikachu-alola",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/pikachu-alola.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/pikachu-alolacap.gif"
+    },
+    {
+        "clave": "pikachu-hoenn",
+        "nombreVisual": "pikachu-hoenn",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/pikachu-hoenn.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/pikachu-hoenncap.gif"
+    },
+    {
+        "clave": "pikachu-kalos",
+        "nombreVisual": "pikachu-kalos",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/pikachu-kalos.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/pikachu-kaloscap.gif"
+    },
+    {
+        "clave": "pikachu-sinnoh",
+        "nombreVisual": "pikachu-sinnoh",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/pikachu-sinnoh.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/pikachu-sinnohcap.gif"
+    },
+    {
+        "clave": "pikachu-unova",
+        "nombreVisual": "pikachu-unova",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/pikachu-unova.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/pikachu-unovacap.gif"
+    },
+    {
+        "clave": "pikachu-cosplay",
+        "nombreVisual": "Pikachu Coqueta",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/pikachu-cosplay.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/pikachu-cosplay.gif"
+    },
+    {
+        "clave": "pikachu-belle",
+        "nombreVisual": "Pikachu Aristocrata",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/pikachu-belle.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/pikachu-belle.gif"
+    },
+    {
+        "clave": "pikachu-libre",
+        "nombreVisual": "Pikachu Enmascarada",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/pikachu-libre.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/pikachu-libre.gif"
+    },
+    {
+        "clave": "pikachu-phd",
+        "nombreVisual": "Pikachu Erudita",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/pikachu-phd.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/pikachu-phd.gif"
+    },
+    {
+        "clave": "pikachu-pop-star",
+        "nombreVisual": "Pikachu Superstar",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/pikachu-popstar.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/pikachu-popstar.gif"
+    },
+    {
+        "clave": "pikachu-rockstar",
+        "nombreVisual": "Pikachu Roquera",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/pikachu-rockstar.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/pikachu-rockstar.gif"
     },
     {
         "clave": "unown-b",
@@ -786,115 +847,107 @@
     },
     {
         "clave": "vivillon-archipelago",
-        "nombreVisual": "vivillon-archipelago",
+        "nombreVisual": "Vivillon  isleño",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-archipelago.gif"
     },
     {
         "clave": "vivillon-continental",
-        "nombreVisual": "vivillon-continental",
+        "nombreVisual": "Vivillon  continental",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-continental.gif"
     },
     {
         "clave": "vivillon-elegant",
-        "nombreVisual": "vivillon-elegant",
+        "nombreVisual": "Vivillon  oriental",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-elegant.gif"
     },
     {
         "clave": "vivillon-fancy",
-        "nombreVisual": "vivillon-fancy",
+        "nombreVisual": "Vivillon  fantasia",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-fancy.gif"
     },
     {
         "clave": "vivillon-garden",
-        "nombreVisual": "vivillon-garden",
+        "nombreVisual": "Vivillon  vergel",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-garden.gif"
     },
     {
         "clave": "vivillon-highplains",
-        "nombreVisual": "vivillon-highplains",
+        "nombreVisual": "Vivillon  estepa",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-highplains.gif"
     },
     {
         "clave": "vivillon-icysnow",
-        "nombreVisual": "vivillon-icysnow",
+        "nombreVisual": "Vivillon  polar",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-icysnow.gif"
     },
     {
         "clave": "vivillon-jungle",
-        "nombreVisual": "vivillon-jungle",
+        "nombreVisual": "Vivillon  jungla",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-jungle.gif"
     },
     {
         "clave": "vivillon-marine",
-        "nombreVisual": "vivillon-marine",
+        "nombreVisual": "Vivillon  marino",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-marine.gif"
     },
     {
         "clave": "vivillon-modern",
-        "nombreVisual": "vivillon-modern",
+        "nombreVisual": "Vivillon  moderno",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-modern.gif"
     },
     {
         "clave": "vivillon-monsoon",
-        "nombreVisual": "vivillon-monsoon",
+        "nombreVisual": "Vivillon  monzon",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-monsoon.gif"
     },
     {
         "clave": "vivillon-ocean",
-        "nombreVisual": "vivillon-ocean",
+        "nombreVisual": "Vivillon  oceano",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-ocean.gif"
     },
     {
         "clave": "vivillon-pokeball",
-        "nombreVisual": "vivillon-pokeball",
+        "nombreVisual": "Vivillon  pokeball",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-pokeball.gif"
     },
     {
         "clave": "vivillon-polar",
-        "nombreVisual": "vivillon-polar",
+        "nombreVisual": "Vivillon  polar",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-polar.gif"
     },
     {
         "clave": "vivillon-river",
-        "nombreVisual": "vivillon-river",
+        "nombreVisual": "Vivillon  oasis",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-river.gif"
     },
     {
         "clave": "vivillon-sandstorm",
-        "nombreVisual": "vivillon-sandstorm",
+        "nombreVisual": "Vivillon  desierto",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-sandstorm.gif"
     },
     {
         "clave": "vivillon-savanna",
-        "nombreVisual": "vivillon-savanna",
+        "nombreVisual": "Vivillon  pantano",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-savanna.gif"
     },
     {
         "clave": "vivillon-sun",
-        "nombreVisual": "vivillon-sun",
+        "nombreVisual": "Vivillon  solar",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-sun.gif"
     },
     {
         "clave": "vivillon-tundra",
-        "nombreVisual": "vivillon-tundra",
+        "nombreVisual": "Vivillon  tundra",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-tundra.gif"
     },
     {
         "clave": "tatsugiri-droopy",
-        "nombreVisual": "tatsugiri-droopy",
+        "nombreVisual": "Tatsugiri (forma languida)",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/tatsugiri-droopy.gif"
     },
     {
         "clave": "tatsugiri-stretchy",
-        "nombreVisual": "tatsugiri-stretchy",
+        "nombreVisual": "Tatsugiri (forma recta)",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/tatsugiri-stretchy.gif"
-    },
-    {
-        "clave": "pikachu-alola",
-        "nombreVisual": "Pikachu (Alola)",
-        "url": {
-            "normal": "https://play.pokemonshowdown.com/sprites/ani/pikachu-alola.gif",
-            "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/pikachu-alolacap.gif"
-        }
     }
 ]
