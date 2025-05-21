@@ -600,6 +600,26 @@
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/dudunsparce-threesegment.gif"
     },
     {
+        "clave": "flabebe-blue",
+        "nombreVisual": "Flabebe azul",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/flabebe-blue.gif"
+    },
+    {
+        "clave": "flabebe-orange",
+        "nombreVisual": "Flabebe naranja",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/flabebe-orange.gif"
+    },
+    {
+        "clave": "flabebe-white",
+        "nombreVisual": "Flabebe blanca",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/flabebe-white.gif"
+    },
+    {
+        "clave": "flabebe-yellow",
+        "nombreVisual": "Flabebe amarilla",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/flabebe-yellow.gif"
+    },
+    {
         "clave": "floette-blue",
         "nombreVisual": "Floette azul",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/floette-blue.gif"
@@ -620,6 +640,11 @@
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/floette-yellow.gif"
     },
     {
+        "clave": "floette-eternal",
+        "nombreVisual": "Floette eternal",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/floette-eternal.gif"
+    },
+    {
         "clave": "florges-blue",
         "nombreVisual": "Florges azul",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/florges-blue.gif"
@@ -638,11 +663,6 @@
         "clave": "florges-yellow",
         "nombreVisual": "Florges amarilla",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/florges-yellow.gif"
-    },
-    {
-        "clave": "floette-eternal",
-        "nombreVisual": "Floette eternal",
-        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/floette-eternal.gif"
     },
     {
         "clave": "furfrou-dandy",
