@@ -816,6 +816,24 @@
         "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/pikachu-rockstar.gif"
     },
     {
+        "clave": "sawsbuck-autumn",
+        "nombreVisual": "Sawsbuck (otoño)",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/sawsbuck-autumn.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/sawsbuck-autumn.gif"
+    },
+    {
+        "clave": "sawsbuck-summer",
+        "nombreVisual": "Sawsbuck (verano)",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/sawsbuck-summer.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/sawsbuck-summer.gif"
+    },
+    {
+        "clave": "sawsbuck-winter",
+        "nombreVisual": "Sawsbuck (invierno)",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/sawsbuck-winter.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/sawsbuck-winter.gif"
+    },
+    {
         "clave": "unown-b",
         "nombreVisual": "unown-b",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/unown-b.gif"
