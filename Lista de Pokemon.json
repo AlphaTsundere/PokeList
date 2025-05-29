@@ -2652,7 +2652,15 @@
         "Tipo": "Fuego"
     },
     {
+        "Nombre": "Darmanitan Zen",
+        "Tipo": "Fuego\/Psiquico"
+    },
+    {
         "Nombre": "Darmanitan Galar",
+        "Tipo": "Hielo"
+    },
+    {
+        "Nombre": "Darmanitan Galarzen",
         "Tipo": "Hielo\/Fuego"
     },
     {
