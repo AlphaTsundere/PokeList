@@ -4676,6 +4676,18 @@
         "Tipo": "Planta"
     },
     {
+        "Nombre": "Ogerpon Fuente",
+        "Tipo": "Planta\/Agua"
+    },
+    {
+        "Nombre": "Ogerpon Horno",
+        "Tipo": "Planta\/Fuego"
+    },
+    {
+        "Nombre": "Ogerpon Cimiento",
+        "Tipo": "Planta\/Roca"
+    },
+    {
         "Nombre": "Archaludon",
         "Tipo": "Acero\/Dragon"
     },
