@@ -1,5 +1,10 @@
 [
     {
+        "clave": "aegislash-blade",
+        "nombreVisual": "Aegislash (forma filo)",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/aegislash-blade.gif"
+    },
+    {
         "clave": "alcremie-caramel-swirl-berry",
         "nombreVisual": "Alcremie mezcla caramelo fruto",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-caramel-swirl-berry.gif"
@@ -580,6 +585,31 @@
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/alcremie-vanillacream-star.gif"
     },
     {
+        "clave": "basculin-bluestriped",
+        "nombreVisual": "Basculin raya azul",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/basculin-bluestriped.gif"
+    },
+    {
+        "clave": "burmy-sandy",
+        "nombreVisual": "Burmy (arena)",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/burmy-sandy.gif"
+    },
+    {
+        "clave": "burmy-trash",
+        "nombreVisual": "Burmy (basura)",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/burmy-trash.gif"
+    },
+    {
+        "clave": "cherrim-sunshine",
+        "nombreVisual": "Cherrim (forma soleada)",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/cherrim-sunshine.gif"
+    },
+    {
+        "clave": "deoxys-attack",
+        "nombreVisual": "Deoxys (forma ataque)",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/deoxys-attack.gif"
+    },
+    {
         "clave": "deoxys-attack",
         "nombreVisual": "Deoxys (forma ataque)",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/deoxys-attack.gif"
@@ -598,6 +628,11 @@
         "clave": "dudunsparce-threesegment",
         "nombreVisual": "Dudunsparce trinodular",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/dudunsparce-threesegment.gif"
+    },
+    {
+        "clave": "eiscue-noice",
+        "nombreVisual": "Eiscue deshielo",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/eiscue-noice.gif"
     },
     {
         "clave": "flabebe-blue",
@@ -710,6 +745,11 @@
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/furfrou-star.gif"
     },
     {
+        "clave": "mimikyu-busted",
+        "nombreVisual": "Mimikyu (forma descubierta)",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/mimikyu-busted.gif"
+    },
+    {
         "clave": "minior-blue",
         "nombreVisual": "Minior nucleo azul",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/minior-blue.gif"
@@ -748,6 +788,11 @@
         "clave": "morpeko-hangry",
         "nombreVisual": "Morpeko (forma voraz)",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/morpeko-hangry.gif"
+    },
+    {
+        "clave": "palafin-hero",
+        "nombreVisual": "Palafin (forma heroica)",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/palafin-hero.gif"
     },
     {
         "clave": "pikachu-alola",
@@ -816,6 +861,24 @@
         "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/pikachu-rockstar.gif"
     },
     {
+        "clave": "deerling-autumn",
+        "nombreVisual": "Deerling (otoño)",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/deerling-autumn.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/deerling-autumn.gif"
+    },
+    {
+        "clave": "deerling-summer",
+        "nombreVisual": "Deerling (verano)",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/deerling-summer.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/deerling-summer.gif"
+    },
+    {
+        "clave": "deerling-winter",
+        "nombreVisual": "Deerling (invierno)",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/deerling-winter.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/deerling-winter.gif"
+    },
+    {
         "clave": "sawsbuck-autumn",
         "nombreVisual": "Sawsbuck (otoño)",
         "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/sawsbuck-autumn.gif",
@@ -832,6 +895,42 @@
         "nombreVisual": "Sawsbuck (invierno)",
         "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/sawsbuck-winter.gif",
         "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/sawsbuck-winter.gif"
+    },
+    {
+        "clave": "shellos-east",
+        "nombreVisual": "Shellos (este)",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/shellos-east.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/shellos-east.gif"
+    },
+    {
+        "clave": "gastrodon-east",
+        "nombreVisual": "Gastrodon (este)",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/gastrodon-east.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/gastrodon-east.gif"
+    },
+    {
+        "clave": "tornadus-therian",
+        "nombreVisual": "Tornadus (forma totem)",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/tornadus-therian.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/tornadus-therian.gif"
+    },
+    {
+        "clave": "thundurus-therian",
+        "nombreVisual": "Thundurus (forma totem)",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/thundurus-therian.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/thundurus-therian.gif"
+    },
+    {
+        "clave": "landorus-therian",
+        "nombreVisual": "Landorus (forma totem)",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/landorus-therian.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/landorus-therian.gif"
+    },
+    {
+        "clave": "enamorus-therian",
+        "nombreVisual": "Enamorus (forma totem)",
+        "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/enamorus-therian.gif",
+        "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/enamorus-therian.gif"
     },
     {
         "clave": "unown-b",
@@ -1077,5 +1176,20 @@
         "clave": "tatsugiri-stretchy",
         "nombreVisual": "Tatsugiri (forma recta)",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/tatsugiri-stretchy.gif"
+    },
+    {
+        "clave": "wishiwashi-school",
+        "nombreVisual": "Wishiwashi (forma banco)",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/wishiwashi-school.gif"
+    },
+    {
+        "clave": "zygarde-10",
+        "nombreVisual": "Zygarde al 10%",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/zygarde-10.gif"
+    },
+    {
+        "clave": "zygarde-complete",
+        "nombreVisual": "Zygarde completo",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/zygarde-complete.gif"
     }
 ]
