@@ -745,6 +745,12 @@
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/furfrou-star.gif"
     },
     {
+        "clave": "gimmighoul-andante",
+        "nombreVisual": "Gimmighoul andante",
+        "url.normal": "https://images2.imgbox.com/a6/03/jZFvfJ54_o.gif",
+        "url.shiny": "https://images2.imgbox.com/a0/55/BcvCfDUq_o.gif"
+    },
+    {
         "clave": "mimikyu-busted",
         "nombreVisual": "Mimikyu (forma descubierta)",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/mimikyu-busted.gif"
