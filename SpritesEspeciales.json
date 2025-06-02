@@ -751,6 +751,16 @@
         "url.shiny": "https://images2.imgbox.com/a0/55/BcvCfDUq_o.gif"
     },
     {
+        "clave": "lycanroc-dusk",
+        "nombreVisual": "Lycanroc (forma crepuscular)",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/lycanroc-dusk.gif"
+    },
+    {
+        "clave": "lycanroc-midnight",
+        "nombreVisual": "Lycanroc (forma nocturna)",
+        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/lycanroc-midnight.gif"
+    },
+    {
         "clave": "mimikyu-busted",
         "nombreVisual": "Mimikyu (forma descubierta)",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/mimikyu-busted.gif"
