@@ -1,62 +1,62 @@
 [
- {
-  "Categoría": "Generales",
-  "Frase": "-5 PV por huida fallida",
-  "Nombre": "Huida"
- },
- {
-  "Categoría": "Generales",
-  "Frase": "-5 PV por captura fallida",
-  "Nombre": "Captura Fallo"
- },
- {
-  "Categoría": "Consumibles",
-  "Frase": "+5 por Menta Ataque",
-  "Nombre": "Menta Ataque"
- },
- {
-  "Categoría": "Consumibles",
-  "Frase": "+10 por Menta Ataque X",
-  "Nombre": "Menta Ataque X"
- },
- {
-  "Categoría": "Consumibles",
-  "Frase": "-5 al daño enemigo por Menta Defensa",
-  "Nombre": "Menta Defensa"
- },
- {
-  "Categoría": "Consumibles",
-  "Frase": "-10 al daño enemigo por Menta Defensa X",
-  "Nombre": "Menta Defensa X"
- },
- {
-  "Categoría": "Consumibles",
-  "Frase": "(PV antes) +10 PV por Curaflor = PV nuevo",
-  "Nombre": "Curaflor"
- },
- {
-  "Categoría": "Consumibles",
-  "Frase": "(PV antes) +30 PV por Curaflor Super = PV nuevo",
-  "Nombre": "Curaflor Super"
- },
- {
-  "Categoría": "Consumibles",
-  "Frase": "(PV antes) +50 PV por Curaflor Hiper = PV nuevo",
-  "Nombre": "Curaflor Hiper"
- },
- {
-  "Categoría": "Consumibles",
-  "Frase": "(PV antes) +  Curaflor Max = PV maximos",
-  "Nombre": "Curaflor Max"
- },
- {
-  "Categoría": "Consumibles",
-  "Frase": "(PV antes) +  Leche Moo-Moo = PV maximos",
-  "Nombre": "Leche Moo-Moo"
- },
- {
-  "Categoría": "Consumibles",
-  "Frase": "(PokeDebilitado) + Frostminze = Pokemon PV maximos",
-  "Nombre": "Frostminze"
- }
+    {
+        "Categoría": "Generales",
+        "Frase": "-5 PV por huida fallida",
+        "Nombre": "Huida"
+    },
+    {
+        "Categoría": "Generales",
+        "Frase": "-5 PV por captura fallida",
+        "Nombre": "Captura Fallo"
+    },
+    {
+        "Categoría": "Consumibles",
+        "Frase": "+5 por Menta Ataque",
+        "Nombre": "Menta Ataque"
+    },
+    {
+        "Categoría": "Consumibles",
+        "Frase": "+10 por Menta Ataque X",
+        "Nombre": "Menta Ataque X"
+    },
+    {
+        "Categoría": "Consumibles",
+        "Frase": "-5 al daño enemigo por Menta Defensa",
+        "Nombre": "Menta Defensa"
+    },
+    {
+        "Categoría": "Consumibles",
+        "Frase": "-10 al daño enemigo por Menta Defensa X",
+        "Nombre": "Menta Defensa X"
+    },
+    {
+        "Categoría": "Consumibles",
+        "Frase": "(PV antes) + 10 PV por Curaflor = PV nuevo",
+        "Nombre": "Curaflor"
+    },
+    {
+        "Categoría": "Consumibles",
+        "Frase": "(PV antes) + 30 PV por Curaflor Super = PV nuevo",
+        "Nombre": "Curaflor Super"
+    },
+    {
+        "Categoría": "Consumibles",
+        "Frase": "(PV antes) + 50 PV por Curaflor Hiper = PV nuevo",
+        "Nombre": "Curaflor Hiper"
+    },
+    {
+        "Categoría": "Consumibles",
+        "Frase": "(PV antes) +  Curaflor Max = PV maximos",
+        "Nombre": "Curaflor Max"
+    },
+    {
+        "Categoría": "Consumibles",
+        "Frase": "(PV antes) +  Leche Moo-Moo = PV maximos",
+        "Nombre": "Leche Moo-Moo"
+    },
+    {
+        "Categoría": "Consumibles",
+        "Frase": "(PokeDebilitado) + Frostminze = Pokemon PV maximos",
+        "Nombre": "Frostminze"
+    }
 ]
