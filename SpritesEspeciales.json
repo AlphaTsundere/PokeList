@@ -761,6 +761,12 @@
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/lycanroc-midnight.gif"
     },
     {
+        "clave": "magearna-original",
+        "nombreVisual": "Magearna color vetusto",
+        "url.normal": "https://play.pokemonshowdown.com/sprites/ani/magearna-original.gif",
+        "url.shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/magearna-original.gif"
+    },
+    {
         "clave": "mimikyu-busted",
         "nombreVisual": "Mimikyu (forma descubierta)",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/mimikyu-busted.gif"
