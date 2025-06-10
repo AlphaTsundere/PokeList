@@ -10,6 +10,11 @@
         "Nombre": "Captura Fallo"
     },
     {
+        "Categoría": "Generales",
+        "Frase": "Pokemon [XX PV] > Pokemon [XX PV] [Cambio]",
+        "Nombre": "Intercambio Pokemon"
+    },
+    {
         "Categoría": "Consumibles",
         "Frase": "+5 por Menta Ataque",
         "Nombre": "Menta Ataque"
