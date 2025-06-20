@@ -1,0 +1,1208 @@
+[
+ {
+  "Nombre del Item": "Curaflor",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/a3\/38\/PKCbCy2t_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/a3\/38\/PKCbCy2t_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Curaflor Super",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/0b\/6b\/tVpSxu68_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/0b\/6b\/tVpSxu68_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Curaflor Hiper",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/b6\/3c\/CoGzCHWc_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/b6\/3c\/CoGzCHWc_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Curaflor Max",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/f6\/f0\/1s6XzFF5_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/f6\/f0\/1s6XzFF5_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Menta Ataque",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mint\/attack.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mint\/attack.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Menta Defensa",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mint\/defense.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mint\/defense.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Incienso",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/incense\/sea.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/incense\/sea.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Miel",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/other-item\/honey.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/other-item\/honey.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Repesal",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/valuable-item\/shoal-salt.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/valuable-item\/shoal-salt.png[\/img]"
+ },
+ {
+  "Nombre del Item": "PokéMuñeca",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/other-item\/poke-doll.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/other-item\/poke-doll.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Pokélito",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/8b\/b6\/gHOFWtcq_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/8b\/b6\/gHOFWtcq_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Pluma Calor",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/70\/e8\/YWdQONzl_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/70\/e8\/YWdQONzl_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Leche Moo-Moo",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/medicine\/moomoo-milk.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/medicine\/moomoo-milk.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Miel Batida Deluxe",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/c5\/b7\/AVb25ZNQ_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/c5\/b7\/AVb25ZNQ_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Menta Ataque X",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/c3\/7e\/ucOzDk4j_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/c3\/7e\/ucOzDk4j_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Menta Defensa X",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/38\/7b\/FgYpXdYm_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/38\/7b\/FgYpXdYm_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Frostminze",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/ff\/aa\/QipkNB16_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/ff\/aa\/QipkNB16_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Repelente",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/other-item\/repel.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/other-item\/repel.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Repelente Super",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/other-item\/super-repel.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/other-item\/super-repel.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Repelente Max",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/other-item\/max-repel.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/other-item\/max-repel.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Eneco Cola",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/other-item\/fluffy-tail.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/other-item\/fluffy-tail.png[\/img]"
+ },
+ {
+  "Nombre del Item": "PokePedigree",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/endorsement.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/endorsement.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Guia Regional",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/adventure-guide.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/adventure-guide.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Guia Regional [Edición Limitada]",
+  "Tipo del Item": "Consumibles",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/rule-book.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/rule-book.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Acero",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/steel.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/steel.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Agua",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/water.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/water.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Bicho",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/bug.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/bug.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Dragon",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/dragon.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/dragon.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Electrica",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/electric.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/electric.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Fantasma",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/ghost.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/ghost.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Fuego",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/fire.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/fire.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Hada",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/fairy.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/fairy.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Hielo",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/ice.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/ice.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Lucha",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/fighting.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/fighting.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Normal",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/normal.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/normal.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Planta",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/grass.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/grass.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Psiquica",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/psychic.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/psychic.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Roca",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/rock.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/rock.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Siniestra",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/dark.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/dark.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Tierra",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/ground.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/ground.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Veneno",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/poison.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/poison.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Voladora",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/flying.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/gem\/flying.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Abomasnowita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/abomasite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/abomasite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Absolita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/absolite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/absolite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Aerodactylita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/aerodactylite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/aerodactylite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Aggronita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/aggronite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/aggronite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Alakazamita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/alakazite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/alakazite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Altarianita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/altarianite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/altarianite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Ampharosita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/ampharosite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/ampharosite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Audinita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/audinite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/audinite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Banettita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/banettite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/banettite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Beedrillita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/beedrillite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/beedrillite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Blastoisita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/blastoisinite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/blastoisinite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Blazikenita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/blazikenite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/blazikenite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Camperuptita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/cameruptite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/cameruptite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Charizardita X",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/charizardite-x.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/charizardite-x.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Charizardita Y",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/charizardite-y.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/charizardite-y.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Diancita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/diancite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/diancite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Galladita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/galladite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/galladite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Garchompita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/garchompite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/garchompite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gardevoirita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/gardevoirite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/gardevoirite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gengarita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/gengarite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/gengarite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Glalita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/glalitite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/glalitite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gyaradosita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/gyaradosite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/gyaradosite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Heracrossita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/heracronite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/heracronite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Houndoomita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/houndoominite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/houndoominite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Kangaskhanita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/kangaskhanite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/kangaskhanite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Latiasita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/latiasite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/latiasite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Latiosita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/latiosite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/latiosite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Lopunnita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/lopunnite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/lopunnite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Lucarita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/lucarionite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/lucarionite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Manectricita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/manectite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/manectite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Mawilita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/mawilite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/mawilite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Medichamita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/medichamite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/medichamite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Metagrossita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/metagrossite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/metagrossite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Mewtwoita X",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/mewtwonite-x.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/mewtwonite-x.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Mewtwoita Y",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/mewtwonite-y.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/mewtwonite-y.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Pidgeotita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/pidgeotite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/pidgeotite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Pinsirita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/pinsirite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/pinsirite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Sableynita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/sablenite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/sablenite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Salamencita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/salamencite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/salamencite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Sceptilita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/sceptilite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/sceptilite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Scizorita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/scizorite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/scizorite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Sharpedonita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/sharpedonite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/sharpedonite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Slowbronita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/slowbronite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/slowbronite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Steelixita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/steelixite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/steelixite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Swampertita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/swampertite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/swampertite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Tyranitarita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/tyranitarite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/tyranitarite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Venusaurita",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/venusaurite.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/venusaurite.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Normal",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/normalterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/normalterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Fuego",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/fireterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/fireterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Agua",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/waterterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/waterterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Electrico",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/electricterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/electricterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Planta",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/grassterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/grassterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Hielo",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/iceterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/iceterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Lucha",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/fightingterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/fightingterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Veneno",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/poisonterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/poisonterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Tierra",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/groundterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/groundterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Volador",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/flyingterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/flyingterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Psiquico",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/psychicterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/psychicterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Bicho",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/bugterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/bugterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Roca",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/rockterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/rockterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Fantasma",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/ghostterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/ghostterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Dragon",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/dragonterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/dragonterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Siniestro",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/darkterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/darkterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Acero",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/steelterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/steelterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Teralito Hada",
+  "Tipo del Item": "Equipables",
+  "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/fairyterashard.png",
+  "Imagen para Inventario": "[img(32px,32px)]https:\/\/www.serebii.net\/itemdex\/sprites\/fairyterashard.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Key Stone",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/key-stone.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/key-stone.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Tera Orb",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/07\/c0\/XMaXf52h_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/07\/c0\/XMaXf52h_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Moneda Amuleto",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/hold-item\/amulet-coin.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/hold-item\/amulet-coin.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Gema Alparius",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/f2\/29\/aYKKKgZU_o.gif",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/f2\/29\/aYKKKgZU_o.gif[\/img]"
+ },
+ {
+  "Nombre del Item": "Fama",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/38\/7b\/YoSLPLFx_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/38\/7b\/YoSLPLFx_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Artesania",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/9b\/44\/1vMN7MTT_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/9b\/44\/1vMN7MTT_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Ecologia",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/88\/e7\/u3EgC9QQ_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/88\/e7\/u3EgC9QQ_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Crianza",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/c9\/9d\/WbON4F1m_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/c9\/9d\/WbON4F1m_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Evolucion",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/c4\/4b\/gsH9mKjU_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/c4\/4b\/gsH9mKjU_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Monedas",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/d3\/3d\/va69z4D9_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/d3\/3d\/va69z4D9_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Municion",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/1e\/58\/FidMSoWz_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/1e\/58\/FidMSoWz_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Papeleo",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/86\/a7\/Kl5DwY40_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/86\/a7\/Kl5DwY40_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "PokeData",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/9f\/42\/jPzLH4IY_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/9f\/42\/jPzLH4IY_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Tesis",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/79\/ae\/agRv3Afx_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/79\/ae\/agRv3Afx_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Certificado de Legendario",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/04\/0d\/a8oGLzry_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/04\/0d\/a8oGLzry_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Prisma Azul",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/hold-item\/blue-orb.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/hold-item\/blue-orb.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Prisma Rojo",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/hold-item\/red-orb.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/hold-item\/red-orb.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Prisma Verde",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/bf\/d5\/or2PLeoZ_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/bf\/d5\/or2PLeoZ_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Punta ADN",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/dna-splicers.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/dna-splicers.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Necrosol",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/n-solarizer.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/n-solarizer.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Necroluna",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/n-lunarizer.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/n-lunarizer.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Riendas Union",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/13\/41\/hwbuTT1Z_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/13\/41\/hwbuTT1Z_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Espada Oxidada",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/e0\/71\/HvhUspVL_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/e0\/71\/HvhUspVL_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Escudo Oxidado",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/7a\/d0\/GbD5VXy1_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/7a\/d0\/GbD5VXy1_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Vasija Castigo",
+  "Tipo del Item": "Especiales",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/26\/2b\/5XRKEiX4_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/26\/2b\/5XRKEiX4_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Piedra Agua",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/water-stone.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/water-stone.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Piedra Fuego",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/fire-stone.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/fire-stone.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Piedra Hoja",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/leaf-stone.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/leaf-stone.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Piedra Hielo",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/ice-stone.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/ice-stone.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Piedra Trueno",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/thunder-stone.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/thunder-stone.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Piedra Lunar",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/moon-stone.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/moon-stone.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Piedra Solar",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/sun-stone.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/sun-stone.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Piedra Noche",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/dusk-stone.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/dusk-stone.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Piedra Alba",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/dawn-stone.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/dawn-stone.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Piedra Dia",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/shiny-stone.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/shiny-stone.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Escama Dragon",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/dragon-scale.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/dragon-scale.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Revestimiento Metalico",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/metal-coat.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/metal-coat.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Roca del Rey",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/kings-rock.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/kings-rock.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Mejora",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/up-grade.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/up-grade.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Disco Extraño",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/dubious-disc.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/dubious-disc.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Diente Marino",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/deep-sea-tooth.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/deep-sea-tooth.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Escama Marina",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/deep-sea-scale.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/deep-sea-scale.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Electrizador",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/electirizer.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/electirizer.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Magmatizador",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/magmarizer.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/magmarizer.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Tela Terrible",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/reaper-cloth.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/reaper-cloth.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Colmillo Agudo",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/razor-fang.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/razor-fang.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Garra Afilada",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/razor-claw.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/razor-claw.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Escama Bella",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/prism-scale.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/prism-scale.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Piedra Oval",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/oval-stone.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/oval-stone.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Dulce de Nata",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/whipped-dream.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/whipped-dream.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Saquito Fragante",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/sachet.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/sachet.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Mineral Negro",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/d0\/fd\/QnMHtwHP_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/d0\/fd\/QnMHtwHP_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Manzana Acida",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/tart-apple.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/tart-apple.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Manzana Dulce",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/sweet-apple.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/sweet-apple.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Manzana Melosa",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/f6\/d7\/QlAQFYlf_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/f6\/d7\/QlAQFYlf_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Tetera Rota",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/chipped-pot.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/chipped-pot.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Tetera Agrietada",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/cracked-pot.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/cracked-pot.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Cuenco Exquisito",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/fc\/b9\/GTKFMWy0_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/fc\/b9\/GTKFMWy0_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Cuenco Mediocre",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/90\/cf\/TtNIr6CO_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/90\/cf\/TtNIr6CO_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Confite",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/sig.grumpybumpers.com\/host\/AlpariusConfite.gif",
+  "Imagen para Inventario": "[img]https:\/\/sig.grumpybumpers.com\/host\/AlpariusConfite.gif[\/img]"
+ },
+ {
+  "Nombre del Item": "Brazal Galanuez",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/galarica-cuff.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/galarica-cuff.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Corona Galanuez",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/galarica-wreath.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/galarica-wreath.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Bloque de Turba",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/eb\/8f\/rcArIA6A_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/eb\/8f\/rcArIA6A_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Cordon Union",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/a3\/d9\/2sAdEnZl_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/a3\/d9\/2sAdEnZl_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Distintivo de Lider",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/00\/dc\/E3EiyN4r_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/00\/dc\/E3EiyN4r_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Armadura Auspiciosa",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/ff\/14\/Kv8FUka9_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/ff\/14\/Kv8FUka9_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Armadura Maldita",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/c2\/01\/AZitp8rb_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/c2\/01\/AZitp8rb_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Moneda Gimmighoul",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/be\/69\/bK8iv8PK_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/be\/69\/bK8iv8PK_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Manuscrito Sombras",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/05\/f2\/OXLbj78u_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/05\/f2\/OXLbj78u_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Manuscrito Aguas",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/ef\/bc\/yrZbyX7k_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/ef\/bc\/yrZbyX7k_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Caramelo S",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/exp-candy\/xs.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/exp-candy\/xs.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Caramelo M",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/exp-candy\/m.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/exp-candy\/m.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Caramelo XL",
+  "Tipo del Item": "Evolutivos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/exp-candy\/xl.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/exp-candy\/xl.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Huevo (Evento)",
+  "Tipo del Item": "Huevos",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/f9\/20\/NKhRdyyY_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/f9\/20\/NKhRdyyY_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Huevo",
+  "Tipo del Item": "Huevos",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/mystery-egg.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/mystery-egg.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Pokeball",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/poke.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/poke.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Superball",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/great.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/great.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Ultraball",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/ultra.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/ultra.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Amorball",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/love.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/love.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Nidoball",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/nest.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/nest.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Mallaball",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/net.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/net.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Ocasoball",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/dusk.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/dusk.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Levelball",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/level.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/level.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Lujoball",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/luxury.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/luxury.png[\/img]"
+ },
+ {
+  "Nombre del Item": "PokeballX",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/71\/4d\/Ag4YUsGl_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/71\/4d\/Ag4YUsGl_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "SuperballX",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/74\/49\/dB5eoMBR_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/74\/49\/dB5eoMBR_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "UltraballX",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/fd\/b8\/hahsi0JB_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/fd\/b8\/hahsi0JB_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "AmorballX",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/88\/47\/UZ9FhGdj_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/88\/47\/UZ9FhGdj_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "NidoballX",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/77\/50\/arRKPJmy_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/77\/50\/arRKPJmy_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "MallaballX",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/0c\/38\/dyLOyx6Q_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/0c\/38\/dyLOyx6Q_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "OcasoballX",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/ec\/7c\/ul0IjkNo_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/ec\/7c\/ul0IjkNo_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "LevelballX",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/13\/73\/yFZVqI7H_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/13\/73\/yFZVqI7H_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "LujoballX",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/images2.imgbox.com\/41\/e5\/AqGY5Oa0_o.png",
+  "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/41\/e5\/AqGY5Oa0_o.png[\/img]"
+ },
+ {
+  "Nombre del Item": "Alpariball",
+  "Tipo del Item": "Pokeballs",
+  "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/premier.png",
+  "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/ball\/premier.png[\/img]"
+ }
+]
