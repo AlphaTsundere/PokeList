@@ -792,6 +792,12 @@
         "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/26\/2b\/5XRKEiX4_o.png[\/img]"
     },
     {
+        "Nombre del Item": "Objeto Evolutivo",
+        "Tipo del Item": "Evolutivos",
+        "Link Imagen": "https://sig.grumpybumpers.com/host/AlpariusObjeto.gif",
+        "Imagen para Inventario": "[img]https://sig.grumpybumpers.com/host/AlpariusObjeto.gif[/img]"
+    },
+    {
         "Nombre del Item": "Piedra Agua",
         "Tipo del Item": "Evolutivos",
         "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/water-stone.png",
