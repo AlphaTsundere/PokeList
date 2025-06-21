@@ -1,226 +1,226 @@
 [
-  {
-    "Premio": "1",
-    "Nivel": "1",
-    "Nombre del ítem": "Pokeball",
-    "Cantidad": "5",
-    "Nota": ""
-  },
-  {
-    "Premio": "1",
-    "Nivel": "1",
-    "Nombre del ítem": "AVISO  DINERO",
-    "Cantidad": "0",
-    "Nota": "Dar dinero"
-  },
-  {
-    "Premio": "2",
-    "Nivel": "10",
-    "Nombre del ítem": "Superball",
-    "Cantidad": "4",
-    "Nota": ""
-  },
-  {
-    "Premio": "2",
-    "Nivel": "10",
-    "Nombre del ítem": "Curaflor",
-    "Cantidad": "2",
-    "Nota": ""
-  },
-  {
-    "Premio": "2",
-    "Nivel": "10",
-    "Nombre del ítem": "Caramelo S",
-    "Cantidad": "1",
-    "Nota": ""
-  },
-  {
-    "Premio": "3",
-    "Nivel": "15",
-    "Nombre del ítem": "Amorball",
-    "Cantidad": "1",
-    "Nota": ""
-  },
-  {
-    "Premio": "3",
-    "Nivel": "15",
-    "Nombre del ítem": "Nidoball",
-    "Cantidad": "1",
-    "Nota": ""
-  },
-  {
-    "Premio": "3",
-    "Nivel": "15",
-    "Nombre del ítem": "Levelball",
-    "Cantidad": "1",
-    "Nota": ""
-  },
-  {
-    "Premio": "3",
-    "Nivel": "15",
-    "Nombre del ítem": "Lujoball",
-    "Cantidad": "1",
-    "Nota": ""
-  },
-  {
-    "Premio": "4",
-    "Nivel": "20",
-    "Nombre del ítem": "Ultraball",
-    "Cantidad": "4",
-    "Nota": ""
-  },
-  {
-    "Premio": "4",
-    "Nivel": "20",
-    "Nombre del ítem": "Curaflor Super",
-    "Cantidad": "2",
-    "Nota": ""
-  },
-  {
-    "Premio": "5",
-    "Nivel": "30",
-    "Nombre del ítem": "Incienso",
-    "Cantidad": "2",
-    "Nota": ""
-  },
-  {
-    "Premio": "5",
-    "Nivel": "30",
-    "Nombre del ítem": "Menta Ataque",
-    "Cantidad": "5",
-    "Nota": ""
-  },
-  {
-    "Premio": "5",
-    "Nivel": "30",
-    "Nombre del ítem": "Caramelo M",
-    "Cantidad": "1",
-    "Nota": ""
-  },
-  {
-    "Premio": "6",
-    "Nivel": "35",
-    "Nombre del ítem": "Miel",
-    "Cantidad": "2",
-    "Nota": ""
-  },
-  {
-    "Premio": "6",
-    "Nivel": "35",
-    "Nombre del ítem": "Menta Defensa",
-    "Cantidad": "5",
-    "Nota": ""
-  },
-  {
-    "Premio": "6",
-    "Nivel": "35",
-    "Nombre del ítem": "Caramelo M",
-    "Cantidad": "1",
-    "Nota": ""
-  },
-  {
-    "Premio": "7",
-    "Nivel": "40",
-    "Nombre del ítem": "Pluma Calor",
-    "Cantidad": "2",
-    "Nota": ""
-  },
-  {
-    "Premio": "7",
-    "Nivel": "40",
-    "Nombre del ítem": "Repesal",
-    "Cantidad": "3",
-    "Nota": ""
-  },
-  {
-    "Premio": "8",
-    "Nivel": "50",
-    "Nombre del ítem": "Pokeball",
-    "Cantidad": "10",
-    "Nota": ""
-  },
-  {
-    "Premio": "8",
-    "Nivel": "50",
-    "Nombre del ítem": "Objeto Evolutivo",
-    "Cantidad": "1",
-    "Nota": ""
-  },
-  {
-    "Premio": "9",
-    "Nivel": "60",
-    "Nombre del ítem": "Levelball",
-    "Cantidad": "2",
-    "Nota": ""
-  },
-  {
-    "Premio": "9",
-    "Nivel": "60",
-    "Nombre del ítem": "Lujoball",
-    "Cantidad": "2",
-    "Nota": ""
-  },
-  {
-    "Premio": "9",
-    "Nivel": "60",
-    "Nombre del ítem": "Curaflor Hiper",
-    "Cantidad": "1",
-    "Nota": ""
-  },
-  {
-    "Premio": "10",
-    "Nivel": "70",
-    "Nombre del ítem": "Curaflor Max",
-    "Cantidad": "5",
-    "Nota": ""
-  },
-  {
-    "Premio": "10",
-    "Nivel": "70",
-    "Nombre del ítem": "PokéMuñeca",
-    "Cantidad": "2",
-    "Nota": ""
-  },
-  {
-    "Premio": "11",
-    "Nivel": "80",
-    "Nombre del ítem": "Miel",
-    "Cantidad": "5",
-    "Nota": ""
-  },
-  {
-    "Premio": "11",
-    "Nivel": "80",
-    "Nombre del ítem": "Ultraball",
-    "Cantidad": "5",
-    "Nota": ""
-  },
-  {
-    "Premio": "12",
-    "Nivel": "90",
-    "Nombre del ítem": "Caramelo XL",
-    "Cantidad": "2",
-    "Nota": ""
-  },
-  {
-    "Premio": "12",
-    "Nivel": "90",
-    "Nombre del ítem": "Caramelo M",
-    "Cantidad": "2",
-    "Nota": ""
-  },
-  {
-    "Premio": "12",
-    "Nivel": "90",
-    "Nombre del ítem": "Caramelo S",
-    "Cantidad": "1",
-    "Nota": ""
-  },
-  {
-    "Premio": "13",
-    "Nivel": "100",
-    "Nombre del ítem": "AVISO",
-    "Cantidad": "0",
-    "Nota": "Usuario llegó a 100, ver Excel"
-  }
+    {
+        "Premio": "1",
+        "Nivel": "1",
+        "Nombre del ítem": "Pokeball",
+        "Cantidad": "5",
+        "Nota": ""
+    },
+    {
+        "Premio": "1",
+        "Nivel": "1",
+        "Nombre del ítem": "AVISO  DINERO",
+        "Cantidad": "0",
+        "Nota": "Dar dinero"
+    },
+    {
+        "Premio": "2",
+        "Nivel": "10",
+        "Nombre del ítem": "Superball",
+        "Cantidad": "4",
+        "Nota": ""
+    },
+    {
+        "Premio": "2",
+        "Nivel": "10",
+        "Nombre del ítem": "Curaflor",
+        "Cantidad": "2",
+        "Nota": ""
+    },
+    {
+        "Premio": "2",
+        "Nivel": "10",
+        "Nombre del ítem": "Caramelo S",
+        "Cantidad": "1",
+        "Nota": ""
+    },
+    {
+        "Premio": "3",
+        "Nivel": "15",
+        "Nombre del ítem": "Amorball",
+        "Cantidad": "1",
+        "Nota": ""
+    },
+    {
+        "Premio": "3",
+        "Nivel": "15",
+        "Nombre del ítem": "Nidoball",
+        "Cantidad": "1",
+        "Nota": ""
+    },
+    {
+        "Premio": "3",
+        "Nivel": "15",
+        "Nombre del ítem": "Levelball",
+        "Cantidad": "1",
+        "Nota": ""
+    },
+    {
+        "Premio": "3",
+        "Nivel": "15",
+        "Nombre del ítem": "Lujoball",
+        "Cantidad": "1",
+        "Nota": ""
+    },
+    {
+        "Premio": "4",
+        "Nivel": "20",
+        "Nombre del ítem": "Ultraball",
+        "Cantidad": "4",
+        "Nota": ""
+    },
+    {
+        "Premio": "4",
+        "Nivel": "20",
+        "Nombre del ítem": "Curaflor Super",
+        "Cantidad": "2",
+        "Nota": ""
+    },
+    {
+        "Premio": "5",
+        "Nivel": "30",
+        "Nombre del ítem": "Incienso",
+        "Cantidad": "2",
+        "Nota": ""
+    },
+    {
+        "Premio": "5",
+        "Nivel": "30",
+        "Nombre del ítem": "Menta Ataque",
+        "Cantidad": "5",
+        "Nota": ""
+    },
+    {
+        "Premio": "5",
+        "Nivel": "30",
+        "Nombre del ítem": "Caramelo M",
+        "Cantidad": "1",
+        "Nota": ""
+    },
+    {
+        "Premio": "6",
+        "Nivel": "35",
+        "Nombre del ítem": "Miel",
+        "Cantidad": "2",
+        "Nota": ""
+    },
+    {
+        "Premio": "6",
+        "Nivel": "35",
+        "Nombre del ítem": "Menta Defensa",
+        "Cantidad": "5",
+        "Nota": ""
+    },
+    {
+        "Premio": "6",
+        "Nivel": "35",
+        "Nombre del ítem": "Caramelo M",
+        "Cantidad": "1",
+        "Nota": ""
+    },
+    {
+        "Premio": "7",
+        "Nivel": "40",
+        "Nombre del ítem": "Pluma Calor",
+        "Cantidad": "2",
+        "Nota": ""
+    },
+    {
+        "Premio": "7",
+        "Nivel": "40",
+        "Nombre del ítem": "Repesal",
+        "Cantidad": "3",
+        "Nota": ""
+    },
+    {
+        "Premio": "8",
+        "Nivel": "50",
+        "Nombre del ítem": "Pokeball",
+        "Cantidad": "10",
+        "Nota": ""
+    },
+    {
+        "Premio": "8",
+        "Nivel": "50",
+        "Nombre del ítem": "Objeto Evolutivo",
+        "Cantidad": "1",
+        "Nota": ""
+    },
+    {
+        "Premio": "9",
+        "Nivel": "60",
+        "Nombre del ítem": "Levelball",
+        "Cantidad": "2",
+        "Nota": ""
+    },
+    {
+        "Premio": "9",
+        "Nivel": "60",
+        "Nombre del ítem": "Lujoball",
+        "Cantidad": "2",
+        "Nota": ""
+    },
+    {
+        "Premio": "9",
+        "Nivel": "60",
+        "Nombre del ítem": "Curaflor Hiper",
+        "Cantidad": "1",
+        "Nota": ""
+    },
+    {
+        "Premio": "10",
+        "Nivel": "70",
+        "Nombre del ítem": "Curaflor Max",
+        "Cantidad": "5",
+        "Nota": ""
+    },
+    {
+        "Premio": "10",
+        "Nivel": "70",
+        "Nombre del ítem": "PokéMuñeca",
+        "Cantidad": "2",
+        "Nota": ""
+    },
+    {
+        "Premio": "11",
+        "Nivel": "80",
+        "Nombre del ítem": "Miel",
+        "Cantidad": "5",
+        "Nota": ""
+    },
+    {
+        "Premio": "11",
+        "Nivel": "80",
+        "Nombre del ítem": "Ultraball",
+        "Cantidad": "5",
+        "Nota": ""
+    },
+    {
+        "Premio": "12",
+        "Nivel": "90",
+        "Nombre del ítem": "Caramelo XL",
+        "Cantidad": "2",
+        "Nota": ""
+    },
+    {
+        "Premio": "12",
+        "Nivel": "90",
+        "Nombre del ítem": "Caramelo M",
+        "Cantidad": "2",
+        "Nota": ""
+    },
+    {
+        "Premio": "12",
+        "Nivel": "90",
+        "Nombre del ítem": "Caramelo S",
+        "Cantidad": "1",
+        "Nota": ""
+    },
+    {
+        "Premio": "13",
+        "Nivel": "100",
+        "Nombre del ítem": "AVISO",
+        "Cantidad": "0",
+        "Nota": "Usuario llegó a 100, ver Excel"
+    }
 ]
