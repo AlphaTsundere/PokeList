@@ -795,7 +795,7 @@
         "Nombre del Item": "Objeto Evolutivo",
         "Tipo del Item": "Evolutivos",
         "Link Imagen": "https://sig.grumpybumpers.com/host/AlpariusObjeto.gif",
-        "Imagen para Inventario": "[img]https://sig.grumpybumpers.com/host/AlpariusObjeto.gif[/img]"
+        "Imagen para Inventario": "[img(32px,32px)]https://sig.grumpybumpers.com/host/AlpariusObjeto.gif[\/img]"
     },
     {
         "Nombre del Item": "Piedra Agua",
