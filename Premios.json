@@ -219,6 +219,8 @@
     {
         "Premio": "13",
         "Nivel": "100",
+        "Nombre del ítem": "",
+        "Cantidad": "0",
         "Nota": "Usuario llegó a 100, ver Excel"
     }
 ]
