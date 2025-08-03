@@ -900,6 +900,12 @@
         "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/deep-sea-scale.png[\/img]"
     },
     {
+        "Nombre del Item": "Protector",
+        "Tipo del Item": "Evolutivos",
+        "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/protector.png",
+        "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/protector.png[\/img]"
+    },
+    {
         "Nombre del Item": "Electrizador",
         "Tipo del Item": "Evolutivos",
         "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/electirizer.png",
