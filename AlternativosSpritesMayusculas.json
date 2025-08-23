@@ -1,12 +1,4 @@
 {
-    "fidough": {
-        "normal": "https://images2.imgbox.com/ad/18/LFcDFTWL_o.gif",
-        "shiny": "https://images2.imgbox.com/38/0d/R9uvZAHd_o.gif"
-    },
-    "dachsbun": {
-        "normal": "https://images2.imgbox.com/1d/30/neQmm0Wy_o.gif",
-        "shiny": "https://images2.imgbox.com/31/91/WpLVXMTa_o.gif"
-    },
     "squawkabilly-azul": {
         "normal": "https://play.pokemonshowdown.com/sprites/ani/squawkabilly-blue.gif",
         "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/squawkabilly-blue.gif"
@@ -22,74 +14,6 @@
     "squawkabilly-amarillo": {
         "normal": "https://play.pokemonshowdown.com/sprites/ani/squawkabilly-yellow.gif",
         "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/squawkabilly-yellow.gif"
-    },
-    "Nacli": {
-        "normal": "https://images2.imgbox.com/23/c0/5gJbftg3_o.gif",
-        "shiny": "https://images2.imgbox.com/5f/2d/pETp5e5F_o.gif"
-    },
-    "naclstack": {
-        "normal": "https://images2.imgbox.com/9d/49/qi8SJ7ZR_o.gif",
-        "shiny": "https://images2.imgbox.com/71/aa/zkOle6S9_o.gif"
-    },
-    "garganacl": {
-        "normal": "https://images2.imgbox.com/ff/fe/tVBDlItP_o.gif",
-        "shiny": "https://images2.imgbox.com/5f/7b/4liLOW1a_o.gif"
-    },
-    "charcadet": {
-        "normal": "https://images2.imgbox.com/37/37/MIgjmtIY_o.gif",
-        "shiny": "https://images2.imgbox.com/8b/eb/lZ7tdRUW_o.gif"
-    },
-    "armarouge": {
-        "normal": "https://images2.imgbox.com/e9/eb/93an7KgY_o.gif",
-        "shiny": "https://images2.imgbox.com/bc/2f/1TFDqg5Y_o.gif"
-    },
-    "ceruledge": {
-        "normal": "https://images2.imgbox.com/97/54/xMxhk7Ls_o.gif",
-        "shiny": "https://images2.imgbox.com/ed/ff/Jax4ngyA_o.gif"
-    },
-    "wattrel": {
-        "normal": "https://images2.imgbox.com/86/f9/Sn74GfB4_o.gif",
-        "shiny": "https://images2.imgbox.com/48/cd/SdNpoJpB_o.gif"
-    },
-    "kilowattrel": {
-        "normal": "https://images2.imgbox.com/80/23/JRkjSpfI_o.gif",
-        "shiny": "https://images2.imgbox.com/06/dc/b9M2sAYl_o.gif"
-    },
-    "maschiff": {
-        "normal": "https://images2.imgbox.com/d1/27/v9H8CLzD_o.gif",
-        "shiny": "https://images2.imgbox.com/a7/9e/ogbuWyRt_o.gif"
-    },
-    "mabosstiff": {
-        "normal": "https://images2.imgbox.com/a8/7d/wvu3ktqF_o.gif",
-        "shiny": "https://images2.imgbox.com/2b/87/PbyuZFpG_o.gif"
-    },
-    "shroodle": {
-        "normal": "https://images2.imgbox.com/1b/a0/6AjB3N7l_o.gif",
-        "shiny": "https://images2.imgbox.com/d2/1d/pPqwNdLO_o.gif"
-    },
-    "grafaiai": {
-        "normal": "https://images2.imgbox.com/d6/e4/5n2Z95QQ_o.gif",
-        "shiny": "https://images2.imgbox.com/3b/14/phbS3f2Z_o.gif"
-    },
-    "bramblin": {
-        "normal": "https://images2.imgbox.com/41/f0/tkbsYL9h_o.gif",
-        "shiny": "https://images2.imgbox.com/41/f0/tkbsYL9h_o.gif"
-    },
-    "brambleghast": {
-        "normal": "https://images2.imgbox.com/d6/66/Ykk8pnBx_o.gif",
-        "shiny": "https://images2.imgbox.com/f9/83/dGh8kInX_o.gif"
-    },
-    "toedscool": {
-        "normal": "https://images2.imgbox.com/2d/26/ef2a2wYg_o.gif",
-        "shiny": "https://images2.imgbox.com/11/fb/gXMAAFsI_o.gif"
-    },
-    "toedscruel": {
-        "normal": "https://images2.imgbox.com/49/8c/rQp61pqy_o.gif",
-        "shiny": "https://images2.imgbox.com/f3/6a/JVJWpOxx_o.gif"
-    },
-    "klawf": {
-        "normal": "https://images2.imgbox.com/25/a9/931DKUi2_o.gif",
-        "shiny": "https://images2.imgbox.com/e1/b0/6g8YVDpD_o.gif"
     },
     "capsakid": {
         "normal": "https://images2.imgbox.com/79/39/rATtq46u_o.gif",
@@ -111,22 +35,6 @@
         "normal": "https://images2.imgbox.com/f3/e0/pB3oljDw_o.gif",
         "shiny": "https://images2.imgbox.com/5f/e4/XH8YR9su_o.gif"
     },
-    "bombirdier": {
-        "normal": "https://images2.imgbox.com/41/8e/KZWyToAO_o.gif",
-        "shiny": "https://images2.imgbox.com/78/8d/79NFoHKr_o.gif"
-    },
-    "cyclizar": {
-        "normal": "https://play.pokemonshowdown.com/sprites/ani/cyclizar.gif",
-        "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/cyclizar.gif"
-    },
-    "glimmet": {
-        "normal": "https://images2.imgbox.com/7e/20/aVr1F6kh_o.gif",
-        "shiny": "https://images2.imgbox.com/80/32/wOwNCLuo_o.gif"
-    },
-    "glimmora": {
-        "normal": "https://images2.imgbox.com/77/f5/ILLyGyq2_o.gif",
-        "shiny": "https://images2.imgbox.com/e5/a6/zWKoJ8KD_o.gif"
-    },
     "greavard": {
         "normal": "https://images2.imgbox.com/63/a9/OZk2LrIL_o.gif",
         "shiny": "https://images2.imgbox.com/f8/4f/XzpXxmmo_o.gif"
@@ -146,10 +54,6 @@
     "dudunsparce-trinodular": {
         "normal": "https://images2.imgbox.com/38/94/AWfvGWwU_o.gif",
         "shiny": "https://images2.imgbox.com/ef/10/lQcLOhQ4_o.gif"
-    },
-    "kingambit": {
-        "normal": "https://images2.imgbox.com/4f/ce/AleCevEk_o.gif",
-        "shiny": "https://images2.imgbox.com/ba/6f/Fmp11eJf_o.gif"
     },
     "colmilargo": {
         "normal": "https://images2.imgbox.com/e4/b1/g32Du4uq_o.gif",
@@ -190,18 +94,6 @@
     "ferropuas": {
         "normal": "https://images2.imgbox.com/e9/7b/WnaL5HAd_o.gif",
         "shiny": "https://images2.imgbox.com/25/40/n9ptX2q9_o.gif"
-    },
-    "frigibax": {
-        "normal": "https://images2.imgbox.com/2b/8e/zFktCRkb_o.gif",
-        "shiny": "https://images2.imgbox.com/76/f6/8ZDowuQX_o.gif"
-    },
-    "arctibax": {
-        "normal": "https://images2.imgbox.com/13/f9/hNU7PgAN_o.gif",
-        "shiny": "https://images2.imgbox.com/e5/80/ArDLYUbk_o.gif"
-    },
-    "baxcalibur": {
-        "normal": "https://images2.imgbox.com/40/9e/UEqi8Kp3_o.gif",
-        "shiny": "https://images2.imgbox.com/99/72/OrqbVlr8_o.gif"
     },
     "gimmighoul": {
         "normal": "https://images2.imgbox.com/a4/41/whvl2gmJ_o.gif",
@@ -248,16 +140,16 @@
         "shiny": "https://images2.imgbox.com/de/0d/BMC6nd4G_o.gif"
     },
     "tauros-paldea": {
-        "normal": "https://images2.imgbox.com/15/dd/90b6R6AC_o.gif",
-        "shiny": "https://images2.imgbox.com/70/29/FpfVHOmM_o.gif"
+        "normal": "https://play.pokemonshowdown.com/sprites/ani/tauros-paldeacombat.gif",
+        "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/tauros-paldeacombat.gif"
     },
     "tauros-paldea-ardiente": {
-        "normal": "https://images2.imgbox.com/18/da/8p7cIiny_o.gif",
-        "shiny": "https://images2.imgbox.com/83/55/q0Wtcoxl_o.gif"
+        "normal": "https://play.pokemonshowdown.com/sprites/ani/tauros-paldeablaze.gif",
+        "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/tauros-paldeablaze.gif"
     },
     "tauros-paldea-acuatico": {
-        "normal": "https://images2.imgbox.com/8f/fa/ujGvHwN2_o.gif",
-        "shiny": "https://images2.imgbox.com/a6/0c/4BS5MzJg_o.gif"
+        "normal": "https://play.pokemonshowdown.com/sprites/ani/tauros-paldeaaqua.gif",
+        "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/tauros-paldeaaqua.gif"
     },
     "ferromole": {
         "normal": "https://images2.imgbox.com/a0/e4/oHPSkip9_o.gif",
@@ -270,26 +162,6 @@
     "ferrotesta": {
         "normal": "https://images2.imgbox.com/68/3d/FF6V8X9t_o.gif",
         "shiny": "https://images2.imgbox.com/61/17/Mv2peNSS_o.gif"
-    },
-    "dipplin": {
-        "normal": "https://images2.imgbox.com/44/43/c1ZpCeeU_o.gif",
-        "shiny": "https://images2.imgbox.com/dd/5a/ZqdgQEd4_o.gif"
-    },
-    "hydrapple": {
-        "normal": "https://images2.imgbox.com/c7/c4/ySDotooF_o.gif",
-        "shiny": "https://images2.imgbox.com/46/78/tYD27OOm_o.gif"
-    },
-    "sinistcha": {
-        "normal": "https://images2.imgbox.com/f6/46/N4hxkb70_o.gif",
-        "shiny": "https://images2.imgbox.com/50/0c/ALMCiQbc_o.gif"
-    },
-    "poltchageist": {
-        "normal": "https://images2.imgbox.com/94/59/lmp05UxI_o.gif",
-        "shiny": "https://images2.imgbox.com/be/aa/zUPh4mN3_o.gif"
-    },
-    "archaludon": {
-        "normal": "https://images2.imgbox.com/e2/9e/GzCvMJOP_o.gif",
-        "shiny": "https://images2.imgbox.com/cb/1a/ToSJJ4nD_o.gif"
     },
     "ondulagua": {
         "normal": "https://images2.imgbox.com/f1/a4/ViP4Z15m_o.gif",
