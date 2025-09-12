@@ -1,3 +1,10 @@
+// Logger silencioso en producción
+const DEBUG = false;  // ponelo true cuando quieras ver mensajes
+const log   = DEBUG ? console.log.bind(console)   : () => {};
+const warn  = DEBUG ? console.warn.bind(console)  : () => {};
+const error = DEBUG ? console.error.bind(console) : () => {};
+
+
 // AlpariusPelea.js (fuente)
 (function (h) {
   'use strict';
@@ -266,7 +273,7 @@ async function cargarFrasesEspeciales(callback) {
     log('✅ Frases especiales cargadas correctamente');
     if (callback) callback();
   } catch (error) {
-    console.error('❌ Error al cargar frases especiales:', error);
+    error('❌ Error al cargar frases especiales:', error);
   }
 }
 
@@ -290,7 +297,7 @@ async function cargarSpritesAlternativos(callback) {
     log("✅ Sprites alternativos cargados correctamente");
     if (callback) callback();
   } catch (error) {
-    console.error("❌ Error al cargar sprites alternativos:", error);
+    error("❌ Error al cargar sprites alternativos:", error);
   }
 }
 
@@ -325,7 +332,7 @@ async function cargarSpritesEspeciales(callback) {
 
     if (callback) callback();
   } catch (error) {
-    console.error("❌ Error al cargar sprites especiales:", error);
+    error("❌ Error al cargar sprites especiales:", error);
   }
 }
 
@@ -694,7 +701,7 @@ selects.forEach((id, index) => {
 
 
   } catch (error) {
-    console.error('Error al cargar el archivo JSON:', error);
+    error('Error al cargar el archivo JSON:', error);
   }
 }
 
