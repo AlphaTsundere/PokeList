@@ -1,14 +1,14 @@
+// AlpariusPelea.js  (no minificado)
+(function (h) {
+  'use strict';
+  h = (h || '').toLowerCase();
 
+  // admite con/sin www
+  const OK = h === 'pokemon-alparius.foroactivo.com' || h === 'www.pokemon-alparius.foroactivo.com';
+  if (!OK) return;               // ← no uses throw; solo salí silenciosamente
 
-(function(h){
-  h = (h||'').toLowerCase();
-  if (h !== 'pokemon-alparius.foroactivo.com') {
-    console.warn('[pk-combate] bloqueado por dominio:', h);
-return;  }
-})(location.hostname);
-
-
-// --- CONFIGURACIÓN INICIAL ---
+  try {
+   // --- CONFIGURACIÓN INICIAL ---
 
 
 // ---Dropdown insertar frases actualizacion ---
@@ -661,7 +661,29 @@ if (amistadExtraCheck) {
 });
 
 
-    
+      
+// Después de agregar los listeners
+const preseleccionados = ['Bulbasaur', 'Charmander', 'Squirtle', 'Pikachu'];
+
+selects.forEach((id, index) => {
+  const num = index + 1;
+  const valorGuardado = localStorage.getItem(`${id}_seleccionado`);
+  const select = document.getElementById(id);
+  const tipoField = document.getElementById('tipo' + num);
+
+  if (valorGuardado) {
+    select.value = valorGuardado;
+    tipoField.value = tiposPokemon[valorGuardado] || "Desconocido";
+  } else {
+    const porDefecto = preseleccionados[index];
+    select.value = porDefecto;
+    tipoField.value = tiposPokemon[porDefecto] || "Desconocido";
+    localStorage.setItem(`${id}_seleccionado`, porDefecto);
+  }
+
+  actualizarMiniatura(num);
+});
+
       
     // Preselección de Pokémon por defecto
   //  const preseleccionados = ['Bulbasaur', 'Charmander', 'Squirtle', 'Pikachu'];
@@ -673,28 +695,6 @@ if (amistadExtraCheck) {
      // actualizarMiniatura(num);
    // });
 
-     const preseleccionados = ['Bulbasaur', 'Charmander', 'Squirtle', 'Pikachu'];
-
-    selects.forEach((id, index) => {
-      const num = index + 1;
-      const valorGuardado = localStorage.getItem(`${id}_seleccionado`);
-      const select = document.getElementById(id);
-      const tipoField = document.getElementById('tipo' + num);
-
-      if (valorGuardado) {
-        select.value = valorGuardado;
-        tipoField.value = tiposPokemon[valorGuardado] || "Desconocido";
-      } else {
-        const porDefecto = preseleccionados[index];
-        select.value = porDefecto;
-        tipoField.value = tiposPokemon[porDefecto] || "Desconocido";
-        localStorage.setItem(`${id}_seleccionado`, porDefecto);
-      }
-
-      actualizarMiniatura(num);
-    });
-
-    
 
   } catch (error) {
     console.error('Error al cargar el archivo JSON:', error);
@@ -2034,10 +2034,8 @@ const ballB = document.getElementById(`ball${b}`)?.value;
 
 
 const ballAtexto = (ballA && ballA !== "ninguna")
-  ? `<b><i>Se usa ${formatearBall(ballA)}  <img src="${pokeballs[ballA]?.imagen}" style="height: 25px; vertical-align: middle; border: 1px solid white; border-radius: 10px;">  </i></b>\n\n`
+  ? `<b><i>Se usa ${formatearBall(ballA)} \u00A0<img src="${rutasBall[ballA]}" style="height: 25px; vertical-align: middle; border: 1px solid white; border-radius: 10px;">\u00A0 </i></b>\n\n`
   : "";
-
-
 const capturadoCheck = document.getElementById(`capturado${b}`);
 const estaCapturado = capturadoCheck?.checked;
 
@@ -2113,3 +2111,9 @@ if (b === 2 || b === 4) {
 
      
 }
+
+  } catch (e) {
+    // en prod, silencio total para no “pintar” la consola
+    // (si estás depurando, podés loguear temporalmente)
+  }
+})(location.hostname);
