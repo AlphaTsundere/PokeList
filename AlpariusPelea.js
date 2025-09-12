@@ -1,0 +1,2103 @@
+// --- CONFIGURACIÓN INICIAL ---
+
+
+// ---Dropdown insertar frases actualizacion ---
+function regenerarDropdownIndividual(dropdown) {
+  const frasesEspecialesGrupos = {};
+  const frasesPersonalizadas = JSON.parse(localStorage.getItem('frasesPersonalizadas') || '[]');
+
+  // Guardar todos los optgroup salvo "Personalizadas"
+  Array.from(dropdown.children).forEach(child => {
+    if (child.tagName === 'OPTGROUP' && child.label !== 'Personalizadas') {
+      frasesEspecialesGrupos[child.label] = child.cloneNode(true);
+    }
+  });
+
+  // Limpiar por completo el dropdown
+  dropdown.innerHTML = '';
+
+  // Insertar la opción por defecto
+  const optDefault = document.createElement('option');
+  optDefault.value = '';
+  optDefault.textContent = 'Insertar frase';
+  dropdown.appendChild(optDefault);
+
+  // Insertar todos los grupos especiales (excepto Personalizadas)
+  Object.values(frasesEspecialesGrupos).forEach(grupo => {
+    dropdown.appendChild(grupo);
+  });
+
+  // Insertar grupo Personalizadas, aunque esté vacío
+  const grupoPers = document.createElement('optgroup');
+  grupoPers.label = 'Personalizadas';
+  frasesPersonalizadas.forEach(frase => {
+    const opt = document.createElement('option');
+    opt.value = frase;
+    opt.textContent = frase;
+    grupoPers.appendChild(opt);
+  });
+  dropdown.appendChild(grupoPers);
+
+  // Reset selección
+  dropdown.selectedIndex = 0;
+}
+
+
+  
+// --- NOMBRES VISUALES PERSONALIZADOS ---
+const aliasVisual = {
+  "Necrozma Dawnwings": "Necrozma Alas de Alba",
+  "Necrozma Duskmane": "Necrozma Melena Crepuscular",
+  "Meloetta": "Meloetta (Forma lírica)",
+  "Meloetta Pirouette": "Meloetta (Forma danza)",
+  "Shaymin": "Shaymin (Forma tierra)",
+  "Shaymin Sky": "Shaymin (Forma cielo)",
+  "Silvally Bug": "Silvally (Bicho)",
+  "Silvally Dark": "Silvally (Siniestro)",
+  "Silvally Dragon": "Silvally (Dragon)",
+  "Silvally Electric": "Silvally (Electrico)",
+  "Silvally Fairy": "Silvally (Hada)",
+  "Silvally Fighting": "Silvally (Lucha)",
+  "Silvally Fire": "Silvally (Fuego)",
+  "Silvally Flying": "Silvally (Volador)",
+  "Silvally Ghost": "Silvally (Fantasma)",
+  "Silvally Grass": "Silvally (Planta)",
+  "Silvally Ground": "Silvally (Tierra)",
+  "Silvally Ice": "Silvally (Hielo)",
+  "Silvally Poison": "Silvally (Veneno)",
+  "Silvally Psychic": "Silvally (Psiquico)",
+  "Silvally Rock": "Silvally (Roca)",
+  "Silvally Steel": "Silvally (Acero)",
+  "Silvally Water": "Silvally (Agua)",
+  "Urshifu": "Urshifu (Estilo brusco)",
+  "Urshifu Rapidstrike": "Urshifu (Estilo fluido)",
+  "Oricorio": "Oricorio (apasionado)",
+  "Oricorio pompom": "Oricorio (animado)",
+  "Oricorio pau": "Oricorio (placido)",
+  "Oricorio sensu": "Oricorio (refinado)",
+  // Agregá más si querés
+};
+
+const pokeballs = {
+  Pokeball: {
+    nombre: "Pokeball",
+    imagen: "https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/poke.png"
+  },
+  Superball: {
+    nombre: "Superball",
+    imagen: "https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/great.png"
+  },
+  Ultraball: {
+    nombre: "Ultraball",
+    imagen: "https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/ultra.png"
+  },
+  Amorball: {
+    nombre: "Amorball",
+    imagen: "https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/love.png"
+  },
+  Nidoball: {
+    nombre: "Nidoball",
+    imagen: "https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/nest.png"
+  },
+  Mallaball: {
+    nombre: "Mallaball",
+    imagen: "https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/net.png"
+  },
+  Ocasoball: {
+    nombre: "Ocasoball",
+    imagen: "https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/dusk.png"
+  },
+  Levelball: {
+    nombre: "Levelball",
+    imagen: "https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/level.png"
+  },
+  Lujoball: {
+    nombre: "Lujoball",
+    imagen: "https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/luxury.png"
+  },
+  PokeballX: {
+    nombre: "PokeballX",
+    imagen: "https://images2.imgbox.com/71/4d/Ag4YUsGl_o.png"
+  },
+  SuperballX: {
+    nombre: "SuperballX",
+    imagen: "https://images2.imgbox.com/74/49/dB5eoMBR_o.png"
+  },
+  UltraballX: {
+    nombre: "UltraballX",
+    imagen: "https://images2.imgbox.com/fd/b8/hahsi0JB_o.png"
+  },
+  AmorballX: {
+    nombre: "AmorballX",
+    imagen: "https://images2.imgbox.com/88/47/UZ9FhGdj_o.png"
+  },
+  NidoballX: {
+    nombre: "NidoballX",
+    imagen: "https://images2.imgbox.com/77/50/arRKPJmy_o.png"
+  },
+  MallaballX: {
+    nombre: "MallaballX",
+    imagen: "https://images2.imgbox.com/0c/38/dyLOyx6Q_o.png"
+  },
+  OcasoballX: {
+    nombre: "OcasoballX",
+    imagen: "https://images2.imgbox.com/ec/7c/ul0IjkNo_o.png"
+  },
+  LevelballX: {
+    nombre: "LevelballX",
+    imagen: "https://images2.imgbox.com/13/73/yFZVqI7H_o.png"
+  },
+  LujoballX: {
+    nombre: "LujoballX",
+    imagen: "https://images2.imgbox.com/41/e5/AqGY5Oa0_o.png"
+  },
+  Alpariball: {
+    nombre: "Alpariball",
+    imagen: "https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/premier.png"
+  },
+  Masterball: {
+    nombre: "Masterball",
+    imagen: "https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/master.png"
+  }
+};
+
+
+const ICONO = 'https://raw.githubusercontent.com/msikma/pokesprite/master/items/ball/poke.png';
+const TITULO = 'Insertar Batalla Pokémon';
+
+
+// --- ESPERA HASTA QUE SCEDITOR CARGUE ---
+                                                
+function waitForSCEditor(callback) {
+  const checkInterval = setInterval(() => {
+    const editorReady = document.querySelector('.sceditor-toolbar');
+    const textareaReady = document.getElementById('text_editor_textarea');
+    if (editorReady && textareaReady) {
+      clearInterval(checkInterval);
+      callback();
+    }
+  }, 300);
+}
+
+  // --- Arrastrar modal ---
+function hacerModalArrastrable() {
+  const modal = document.getElementById("pokemonModal");
+  const header = document.getElementById("modalHeader");
+  if (!modal || !header) return;
+
+  let offsetX = 0, offsetY = 0, isDragging = false;
+
+header.onmousedown = (e) => {
+  isDragging = true;
+  offsetX = e.clientX - modal.offsetLeft;
+  offsetY = e.clientY - modal.offsetTop;
+  document.body.style.userSelect = "none";
+
+  // ???? IMPORTANTE: quitar transform al iniciar arrastre
+  modal.style.transform = 'none';
+};
+
+
+  document.onmouseup = () => {
+    if (isDragging) {
+      isDragging = false;
+      document.body.style.userSelect = "";
+      localStorage.setItem('modalPosX', modal.style.left);
+      localStorage.setItem('modalPosY', modal.style.top);
+    }
+  };
+
+  document.onmousemove = (e) => {
+    if (!isDragging) return;
+
+    let newLeft = e.clientX - offsetX;
+    let newTop = e.clientY - offsetY;
+
+    const maxLeft = window.innerWidth - modal.offsetWidth;
+    const maxTop = window.innerHeight - modal.offsetHeight;
+
+    newLeft = Math.max(0, Math.min(newLeft, maxLeft));
+    newTop = Math.max(0, Math.min(newTop, maxTop));
+
+    modal.style.left = `${newLeft}px`;
+    modal.style.top = `${newTop}px`;
+    modal.style.right = 'auto';
+  };
+
+  // ✅ CORREGIR si ya está fuera del área visible
+  window.addEventListener('load', () => {
+    const posX = parseInt(localStorage.getItem('modalPosX') || '0', 10);
+    const posY = parseInt(localStorage.getItem('modalPosY') || '0', 10);
+
+    const boundedX = Math.max(0, Math.min(posX, window.innerWidth - modal.offsetWidth));
+    const boundedY = Math.max(0, Math.min(posY, window.innerHeight - modal.offsetHeight));
+
+    modal.style.left = `${boundedX}px`;
+    modal.style.top = `${boundedY}px`;
+  });
+}
+
+
+
+  // --- CARGAR Frases especiales ---
+  
+  let frasesEspeciales = {};
+
+async function cargarFrasesEspeciales(callback) {
+  try {
+    const response = await fetch('https://raw.githubusercontent.com/AlphaTsundere/PokeList/main/Frases%20especiales.json');
+    const data = await response.json();
+
+    // Agrupar frases por categoría
+    frasesEspeciales = data.reduce((acc, item) => {
+      const cat = item.Categoría || 'Sin categoría';
+      if (!acc[cat]) acc[cat] = [];
+      acc[cat].push(item.Frase);
+      return acc;
+    }, {});
+
+    console.log('✅ Frases especiales cargadas correctamente');
+    if (callback) callback();
+  } catch (error) {
+    console.error('❌ Error al cargar frases especiales:', error);
+  }
+}
+
+      
+// --- CARGAR SPRITES ALTERNATIVOS ---
+let spritesAlternativos = {};
+let spritesCargados = false;
+let tiposPokemon = {}; // <<<<----- AGREGALO ACÁ
+
+
+async function cargarSpritesAlternativos(callback) {
+  try {
+    const response = await fetch("https://raw.githubusercontent.com/AlphaTsundere/PokeList/main/AlternativosSpritesMayusculas.json");
+    const data = await response.json();
+    const normalizado = {};
+    for (const key in data) {
+      normalizado[key.toLowerCase()] = data[key];
+    }
+    spritesAlternativos = normalizado;
+    spritesCargados = true;
+    console.log("✅ Sprites alternativos cargados correctamente");
+    if (callback) callback();
+  } catch (error) {
+    console.error("❌ Error al cargar sprites alternativos:", error);
+  }
+}
+
+      
+async function cargarSpritesEspeciales(callback) {
+  try {
+    const response = await fetch("https://raw.githubusercontent.com/AlphaTsundere/PokeList/main/SpritesEspeciales.json");
+    const data = await response.json();
+
+    const dict = {};
+    data.forEach(entry => {
+      let normal = '';
+      let shiny = '';
+
+      if (typeof entry.url === 'string') {
+        normal = entry.url;
+        shiny = entry.url.replace('/sprites/ani/', '/sprites/ani-shiny/');
+      } else if (entry["url.normal"] || entry["url.shiny"]) {
+  normal = entry["url.normal"] || '';
+  shiny = entry["url.shiny"] || '';
+}
+      
+      dict[entry.clave] = {
+        nombreVisual: entry.nombreVisual || entry.clave,
+        normal,
+        shiny
+      };
+    });
+
+    spritesEspeciales = dict;
+    console.log("✅ Sprites especiales cargados correctamente");
+
+    if (callback) callback();
+  } catch (error) {
+    console.error("❌ Error al cargar sprites especiales:", error);
+  }
+}
+
+
+
+
+// --- CARGAR POKÉMON DESDE JSON ---
+async function cargarPokemon() {
+  try {
+    const response = await fetch('https://raw.githubusercontent.com/AlphaTsundere/PokeList/main/Lista%20de%20Pokemon.json');
+    const data = await response.json();
+tiposPokemon = {};
+    const selects = ['pk1', 'pk2', 'pk3', 'pk4'];
+
+    data.forEach(pokemon => {
+      const nombre = pokemon.Nombre;
+      const tipos = pokemon.Tipo;
+      tiposPokemon[nombre] = tipos;
+
+      selects.forEach(id => {
+        const select = document.getElementById(id);
+        const option = document.createElement('option');
+        option.value = nombre;
+option.textContent = aliasVisual[nombre] || nombre;
+        select.appendChild(option);
+      // Restaurar selección previa si existe
+const guardado = localStorage.getItem(`${id}_seleccionado`);
+if (guardado === nombre) {
+  option.selected = true;
+}
+
+      });
+    });
+
+selects.forEach((id, index) => {
+  const num = index + 1;
+  const select = document.getElementById(id);
+  const tipoField = document.getElementById('tipo' + num);
+
+      const bono = localStorage.getItem(`bono${num}`);
+if (bono) document.getElementById(`bono${num}`).value = bono;
+
+     const capturado = localStorage.getItem(`capturado${num}`);
+if (capturado === 'true') {
+  document.getElementById(`capturado${num}`).checked = true;
+} else {
+  const preview = document.getElementById(`ballPreview${num}`);
+  const nombreBall = document.getElementById(`nombreBallPreview${num}`);
+  if (preview) preview.style.display = "none";
+  if (nombreBall) nombreBall.style.display = "none";
+}
+
+
+
+      
+  // Evento: cambio de Pokémon
+select.addEventListener('change', function () {
+  tipoField.value = tiposPokemon[this.value] || "Desconocido";
+  localStorage.setItem(`${id}_seleccionado`, this.value);
+
+// Si el Pokémon es legendario, sublegendario o ultraente, poner género en "nada"
+const generoSelect = document.getElementById(`genero${num}`);
+if (generoSelect) {
+  if (esSinGeneroObligatorio(this.value)) {
+    // Guarda preferencia actual (si es macho/hembra) para restaurarla luego
+    const actual = generoSelect.value;
+    if (actual === 'macho' || actual === 'hembra') {
+      localStorage.setItem(`generoPreferido${num}`, actual);
+    }
+    // Fuerza sin género para legendarios / sublegendarios / ultraentes
+    generoSelect.value = 'nada';
+    localStorage.setItem(`genero${num}`, 'nada');
+  } else {
+    // Si venías de "nada" y ahora no debe serlo, recupera preferencia o usa "macho"
+    const preferido = localStorage.getItem(`generoPreferido${num}`) || 'macho';
+    if (generoSelect.value === 'nada') {
+      generoSelect.value = preferido;
+    }
+    localStorage.setItem(`genero${num}`, generoSelect.value);
+  }
+}
+
+
+  // ???? Limpia manualmente el bono si cambia el Pokémon
+  document.getElementById(`bono${num}`).value = '';
+
+      // Reiniciar sprite especial al cambiar de Pokémon
+const spriteSelect = document.getElementById(`spriteEspecial${num}`);
+if (spriteSelect) {
+  spriteSelect.value = '';
+  localStorage.setItem(`spriteEspecial${num}`, '');
+}
+
+      
+  actualizarMiniatura(num);
+
+  const rivalNum = (num === 1) ? 2 : (num === 2) ? 1 : (num === 3) ? 4 : (num === 4) ? 3 : null;
+  if (rivalNum) actualizarMiniatura(rivalNum);
+      if (rivalNum) document.getElementById(`tipo${rivalNum}`).value = tiposPokemon[document.getElementById(`pk${rivalNum}`).value.trim()] || "Desconocido";
+
+});
+
+
+  document.getElementById(`spriteEspecial${num}`).addEventListener('change', function () {
+  localStorage.setItem(`spriteEspecial${num}`, this.value);
+  actualizarMiniatura(num);
+});
+
+  
+
+  // Evento: cambio de género
+document.getElementById(`genero${num}`).addEventListener('change', function () {
+  localStorage.setItem(`genero${num}`, this.value);
+  if (this.value === 'macho' || this.value === 'hembra') {
+    localStorage.setItem(`generoPreferido${num}`, this.value);
+  }
+  actualizarMiniatura(num);
+});
+
+
+  // Evento: cambio de shiny
+  document.getElementById(`shiny${num}`).addEventListener('change', function () {
+    localStorage.setItem(`shiny${num}`, this.value);
+    actualizarMiniatura(num);
+  });
+
+  // Evento: cambio de vida actual
+  document.getElementById(`vida${num}`).addEventListener('input', function () {
+    localStorage.setItem(`vida${num}`, this.value);
+  });
+
+  // Evento: cambio de vida total
+  document.getElementById(`vida${num}max`).addEventListener('input', function () {
+    localStorage.setItem(`vida${num}max`, this.value);
+  });
+      
+      // Si el campo queda vacío al salir del input, lo reestablece a 0
+document.getElementById(`vida${num}`).addEventListener('blur', function () {
+  if (this.value === '' || isNaN(this.value)) {
+    this.value = 0;
+    localStorage.setItem(`vida${num}`, 0);
+  }
+});
+
+document.getElementById(`vida${num}max`).addEventListener('blur', function () {
+  if (this.value === '' || isNaN(this.value)) {
+    this.value = 0;
+    localStorage.setItem(`vida${num}max`, 0);
+  }
+});
+
+      document.getElementById(`bono${num}`).addEventListener('input', function () {
+  localStorage.setItem(`bono${num}`, this.value);
+});
+
+// === Notas mentales (solo para 2 y 4) ===
+if (num === 2 || num === 4) {
+  const notasEl = document.getElementById(`notas${num}`);
+  if (notasEl) {
+    // restaurar
+    const guardadoNotas = localStorage.getItem(`notas${num}`);
+    if (guardadoNotas !== null) notasEl.value = guardadoNotas;
+
+    // guardar en cada cambio
+    notasEl.addEventListener('input', function () {
+      localStorage.setItem(`notas${num}`, this.value);
+    });
+  }
+}
+
+
+      if (num === 2 || num === 4) {
+  const ballSelect = document.getElementById(`ball${num}`);
+ballSelect.value = "ninguna";
+localStorage.setItem(`ball${num}`, "ninguna");
+
+// Si estaba marcado "capturado", mostrar la última ball usada
+if (localStorage.getItem(`capturado${num}`) === "true") {
+  actualizarBallDesdeCaptura(num);
+} else {
+  actualizarBallPreview(num);
+}
+
+
+  ballSelect.addEventListener('change', function () {
+    localStorage.setItem(`ball${num}`, this.value);
+    actualizarBallPreview(num);
+  });
+}
+
+
+  // Restaurar valores guardados
+  const guardadoNombre = localStorage.getItem(`${id}_seleccionado`);
+  if (guardadoNombre) {
+    select.value = guardadoNombre;
+    tipoField.value = tiposPokemon[guardadoNombre] || "Desconocido";
+  }
+
+  const genero = localStorage.getItem(`genero${num}`);
+  if (genero) document.getElementById(`genero${num}`).value = genero;
+
+{
+  const nombreActual = document.getElementById(`pk${num}`).value;
+  const generoSelect = document.getElementById(`genero${num}`);
+  if (!esSinGeneroObligatorio(nombreActual) && generoSelect.value === 'nada') {
+    const preferido = localStorage.getItem(`generoPreferido${num}`) || 'macho';
+    generoSelect.value = preferido;
+    localStorage.setItem(`genero${num}`, preferido);
+  }
+}
+
+
+  const shiny = localStorage.getItem(`shiny${num}`);
+  if (shiny) document.getElementById(`shiny${num}`).value = shiny;
+
+const spriteEspecial = localStorage.getItem(`spriteEspecial${num}`);
+if (spriteEspecial !== null) {
+  document.getElementById(`spriteEspecial${num}`).value = spriteEspecial;
+}
+
+
+  const vida = localStorage.getItem(`vida${num}`);
+  if (vida) document.getElementById(`vida${num}`).value = vida;
+
+  const vidaMax = localStorage.getItem(`vida${num}max`);
+  if (vidaMax) document.getElementById(`vida${num}max`).value = vidaMax;
+
+  actualizarMiniatura(num);
+      
+if (num === 1 || num === 3) {
+  const stage1El = document.getElementById(`stage1_${num}`);
+  const stage2El = document.getElementById(`stage2_${num}`);
+  const exp1 = document.getElementById(`exp1_${num}`);
+  const exp2 = document.getElementById(`exp2_${num}`);
+
+  const stage1 = localStorage.getItem(`stage1_${num}`);
+  const stage2 = localStorage.getItem(`stage2_${num}`);
+      
+const amistad = localStorage.getItem(`amistad_${num}`);
+const amistadDropdown = document.getElementById(`amistad_${num}`);
+const amistadExtraCheck = document.getElementById(`amistadExtra_${num}`);
+
+if (amistad !== null) {
+  let val = amistad === 'ninguna' ? 0 : parseInt(amistad, 10);
+  if (val > 0) {
+    amistadDropdown.value = val.toString();
+  } else {
+    amistadDropdown.value = 'ninguna';
+  }
+}
+  
+  if (num === 1 || num === 3) {
+  const teracristal = document.getElementById(`teracristal${num}`);
+  const teratipo = document.getElementById(`teratipo${num}`);
+
+teracristal.addEventListener('change', () => {
+  localStorage.setItem(`teracristal${num}`, teracristal.checked);
+  actualizarMiniatura(num);
+
+  // ???? Forzar actualización del rival
+  const rivalNum = (num === 1) ? 2 : (num === 2) ? 1 : (num === 3) ? 4 : (num === 4) ? 3 : null;
+  if (rivalNum) actualizarMiniatura(rivalNum);
+});
+
+
+teratipo.addEventListener('change', () => {
+  localStorage.setItem(`teratipo${num}`, teratipo.value);
+  actualizarMiniatura(num);
+
+  // ???? Forzar actualización del rival
+  const rivalNum = (num === 1) ? 2 : (num === 2) ? 1 : (num === 3) ? 4 : (num === 4) ? 3 : null;
+  if (rivalNum) actualizarMiniatura(rivalNum);
+});
+
+
+  // Restaurar valores previos
+  teracristal.checked = localStorage.getItem(`teracristal${num}`) === 'true';
+  teratipo.value = localStorage.getItem(`teratipo${num}`) || "";
+}
+
+const comentarioExtra = localStorage.getItem(`comentarioExtra${num}`);
+if (comentarioExtra) document.getElementById(`comentarioExtra${num}`).value = comentarioExtra;
+
+document.getElementById(`comentarioExtra${num}`).addEventListener('input', function () {
+  localStorage.setItem(`comentarioExtra${num}`, this.value);
+});
+
+
+
+// Al cargar, siempre desmarcar el checkbox (reset visual)
+if (amistadExtraCheck) {
+  amistadExtraCheck.checked = false;
+}
+
+
+  document.getElementById(`amistad_${num}`).addEventListener('change', function () {
+    localStorage.setItem(`amistad_${num}`, this.value);
+  });
+
+
+  // Aplicar stage1
+  if (stage1) {
+    let val = stage1 === 'ninguna' ? 0 : parseInt(stage1, 10);
+    if (exp1?.checked && val < 3) val += 1;
+    stage1El.value = val === 0 ? 'ninguna' : val.toString();
+  }
+
+  // Aplicar stage2
+  if (stage2) {
+    let val = stage2 === 'ninguna' ? 0 : parseInt(stage2, 10);
+    if (exp2?.checked && val < 4) val += 1;
+    stage2El.value = val === 0 ? 'ninguna' : val.toString();
+  }
+
+  // Guardar nuevos valores si el usuario cambia
+  stage1El.addEventListener('change', function () {
+    localStorage.setItem(`stage1_${num}`, this.value);
+  });
+
+  stage2El.addEventListener('change', function () {
+    localStorage.setItem(`stage2_${num}`, this.value);
+  });
+}
+
+
+
+
+     
+
+});
+
+
+      
+// Después de agregar los listeners
+const preseleccionados = ['Bulbasaur', 'Charmander', 'Squirtle', 'Pikachu'];
+
+selects.forEach((id, index) => {
+  const num = index + 1;
+  const valorGuardado = localStorage.getItem(`${id}_seleccionado`);
+  const select = document.getElementById(id);
+  const tipoField = document.getElementById('tipo' + num);
+
+  if (valorGuardado) {
+    select.value = valorGuardado;
+    tipoField.value = tiposPokemon[valorGuardado] || "Desconocido";
+  } else {
+    const porDefecto = preseleccionados[index];
+    select.value = porDefecto;
+    tipoField.value = tiposPokemon[porDefecto] || "Desconocido";
+    localStorage.setItem(`${id}_seleccionado`, porDefecto);
+  }
+
+  actualizarMiniatura(num);
+});
+
+      
+    // Preselección de Pokémon por defecto
+  //  const preseleccionados = ['Bulbasaur', 'Charmander', 'Squirtle', 'Pikachu'];
+
+//    preseleccionados.forEach((nombre, i) => {
+  //    const num = i + 1;
+    //  document.getElementById(`pk${num}`).value = nombre;
+      //document.getElementById(`tipo${num}`).value = tiposPokemon[nombre] || "Desconocido";
+     // actualizarMiniatura(num);
+   // });
+
+
+  } catch (error) {
+    console.error('Error al cargar el archivo JSON:', error);
+  }
+}
+
+// --- NOMBRES CON SUFIJO -F ---
+const pokemonConSufijoF = ['Abomasnow', 'Meowstic', 'Aipom', 'Ambipom', 'Basculegion', 'Beautifly', 'Bibarel', 'Blaziken', 'Buizel', 'Cacturne',
+'Camerupt', 'Colossoil', 'Combee', 'Combusken', 'Croagunk', 'Donphan', 'Dustox', 'Finneon', 'Floatzel', 'Frillish', 'Gabite', 'Garchomp', 'Gible', 'Gligar', 'Golbat', 'Gulpin',
+'Heracross', 'Hippopotas', 'Hippowdon', 'Houndoom', 'Indeedee', 'Jellicent', 'Kerfluffle', 'Kitsunoh', 'Kricketot','Kricketune', 'Ledian', 'Ledyba', 'Ludicolo', 'Lumineon',
+'Luxio', 'Luxray', 'Magikarp', 'Mamoswine', 'Medicham', 'Meganium', 'Milotic', 'Murkrow', 'Nidoran', 'Numel', 'Octillery', 'Oinkologne', 'Pachirisu', 'Pikachu', 'Piloswine',
+'Politoed', 'Protowatt', 'Pyroar', 'Quagsire', 'Raticate', 'Rattata', 'Relicanth', 'Rhydon', 'Rhyperior', 'Roselia', 'Scizor', 'Scyther', 'Shiftry', 'Shinx', 'Sneasel',
+'Sneasel hisui', 'Snover', 'Staraptor', 'Starly', 'Steelix', 'Sudowoodoo', 'Swalot', 'Tangrowth', 'Torchic', 'Toxicroak', 'Unfezant', 'Ursaring', 'Voodoom', 'Weavile',
+'Wobbuffet', 'Wooper', 'Xatu', 'Zubat'];
+
+// --- PROCESAR NOMBRE ---
+function procesarNombre(nombre) {
+  nombre = nombre.toLowerCase().replace('♀', 'f').replace('♂', 'm').replace(/'/g, '');
+  const especiales = {
+    'mr. mime': 'mrmime',
+    'mr mime': 'mrmime',
+    'mime jr.': 'mimejr',
+    'mime jr': 'mimejr',
+    'mr. mime galar': 'mrmime-galar',
+    'mr. rime': 'mrrime',
+    'ho-oh': 'hooh',
+    'jangmo-o': 'jangmoo',
+    'hakamo-o': 'hakamoo',
+    'kommo-o': 'kommoo',
+  'flabébé': 'flabebe',
+  };
+  return especiales[nombre] || nombre.replaceAll(' ', '-');
+}
+  
+// --- NUEVA TABLA DE EFECTIVIDADES --- //
+const tablaTipos = {
+  Acero:     { Hada: 2, Hielo: 2, Roca: 2, Agua: 0.5, Electrico: 0.5, Acero: 0.5, Fuego: 0.5 },
+  Agua:      { Fuego: 2, Tierra: 2, Roca: 2, Agua: 0.5, Planta: 0.5, Dragon: 0.5 },
+  Bicho:     { Planta: 2, Psiquico: 2, Siniestro: 2, Fuego: 0.5, Lucha: 0.5, Veneno: 0.5, Volador: 0.5, Fantasma: 0.5, Acero: 0.5, Hada: 0.5 },
+  Dragon:    { Dragon: 2, Acero: 0.5, Hada: 0 },
+  Electrico: { Agua: 2, Volador: 2, Electrico: 0.5, Planta: 0.5, Dragon: 0.5, Tierra: 0 },
+  Fantasma:  { Fantasma: 2, Psiquico: 2, Siniestro: 0.5, Normal: 0 },
+  Fuego:     { Planta: 2, Hielo: 2, Bicho: 2, Acero: 2, Agua: 0.5, Roca: 0.5, Dragon: 0.5 },
+  Hada:      { Dragon: 2, Lucha: 2, Siniestro: 2, Fuego: 0.5, Veneno: 0.5, Acero: 0.5 },
+  Hielo:     { Dragon: 2, Planta: 2, Tierra: 2, Volador: 2, Fuego: 0.5, Agua: 0.5, Acero: 0.5 },
+  Lucha:     { Normal: 2, Hielo: 2, Roca: 2, Siniestro: 2, Acero: 2, Veneno: 0.5, Volador: 0.5, Psiquico: 0.5, Bicho: 0.5, Hada: 0.5, Fantasma: 0 },
+  Planta:    { Agua: 2, Tierra: 2, Roca: 2, Fuego: 0.5, Planta: 0.5, Veneno: 0.5, Volador: 0.5, Bicho: 0.5, Dragon: 0.5, Acero: 0.5 },
+  Psiquico:  { Lucha: 2, Veneno: 2, Psiquico: 0.5, Acero: 0.5, Siniestro: 0 },
+  Roca:      { Fuego: 2, Hielo: 2, Volador: 2, Bicho: 2, Lucha: 0.5, Tierra: 0.5, Acero: 0.5 },
+  Siniestro: { Fantasma: 2, Psiquico: 2, Lucha: 0.5, Siniestro: 0.5, Hada: 0.5 },
+  Tierra:    { Fuego: 2, Electrico: 2, Veneno: 2, Roca: 2, Acero: 2, Planta: 0.5, Bicho: 0.5, Volador: 0 },
+  Veneno:    { Planta: 2, Hada: 2, Veneno: 0.5, Tierra: 0.5, Roca: 0.5, Fantasma: 0.5, Acero: 0 },
+  Volador:   { Planta: 2, Lucha: 2, Bicho: 2, Electrico: 0.5, Roca: 0.5, Acero: 0.5 }
+};
+
+
+const legendariosMayores = [
+  "Mewtwo", "Mewtwo MegaX", "Mewtwo MegaY", "Mew", "Lugia", "Hooh", "Kyogre", "Kyogre Primal", "Groudon", "Groudon Primal", "Rayquaza", "Rayquaza Mega", "Dialga", 
+  "Palkia", "Giratina", "Reshiram",  "Zekrom", "Kyurem","Kyurem Black", "Kyurem White", "Xerneas", 
+  "Yveltal", "Zygarde", "Cosmog", "Cosmoem", "Solgaleo", "Lunala", "Necrozma", "Necrozma Dawnwings", "Necrozma Duskmane","Necrozma Ultra",
+  "Zacian", "Zacian Crowned", "Zamazenta", "Zamazenta Crowned", 
+  "Eternatus", "Calyrex", "Calyrex Ice", "Calyrex Shadow", "Koraidon", "Miraidon", "Terapagos", "Hoopa Unbound",
+];
+
+const sublegendarios = [
+  "Articuno", "Zapdos", "Moltres", "Raikou", "Entei", "Suicune",
+  "Regirock", "Regice", "Registeel", "Regigigas", "Latias", "Latios", "Heatran", "Cresselia",
+  "Uxie", "Mesprit", "Azelf", "Cobalion", "Terrakion", "Virizion", "Tornadus", "Thundurus", "Landorus", "Typenull", "Silvally", "Silvally Bug", "Silvally Dark",
+  "Silvally Dragon", "Silvally Electric", "Silvally Fairy", "Silvally Fighting",
+  "Silvally Fire", "Silvally Flying", "Silvally Ghost",
+  "Silvally Grass","Silvally Ground","Silvally Ice",
+  "Silvally Poison","Silvally Psychic",
+  "Silvally Rock","Silvally Steel", "Silvally Water", "TapuKoko", "TapuLele", 
+  "TapuBulu", "TapuFini", "Kubfu", "Urshifu", "Urshifu Rapidstrike", "Glastrier", "Spectrier", "Regieleki", 
+  "Regidrago", "Enamorus", "Articuno Galar", "Zapdos Galar", "Moltres Galar", "Ogerpon", "Wo-Chien", "Chien-Pao", "Ting-Lu", "Chi-Yu", "Okidogi", "Munkidori", "Fezandipiti", "Pecharunt", "Meloetta", "Meloetta Pirouette", "Celebi", "Jirachi", "Deoxys", "Phione", "Manaphy", "Darkrai", "Shaymin", "Shaymin Sky", "Victini", "Genesect", "Keldeo", "Diancie", "Hoopa", "Volcanion", "Magearna", "Marshadow", "Zeraora", "Meltan", "Melmetal",
+];
+
+const ultraentes = [
+  "Nihilego", "Buzzwole", "Pheromosa", "Xurkitree", "Celesteela",
+  "Kartana", "Guzzlord", "Poipole", "Naganadel", "Stakataka", "Blacephalon"
+];
+
+const pokemonFusionados = [
+"Kyurem Black", "Kyurem White", "Necrozma Dawnwings", "Necrozma Duskmane", 
+  "Calyrex Ice", "Calyrex Shadow"
+];
+
+
+let spritesEspeciales = {}; // se llenará luego con fetch
+
+
+function esSinGeneroObligatorio(nombre) {
+  return legendariosMayores.includes(nombre)
+      || sublegendarios.includes(nombre)
+      || ultraentes.includes(nombre);
+}
+
+
+// --- CÁLCULO REAL DE EFECTIVIDAD ENTRE TIPOS --- //
+function calcularVentajaTexto(misTipos, tiposRival) {
+  let mejorMultiplicador = 1;
+
+  for (const tipoPropio of misTipos) {
+    const multiplicador = calcularEfectividad(tipoPropio, tiposRival);
+    mejorMultiplicador = Math.max(mejorMultiplicador, multiplicador);
+  }
+
+  if (mejorMultiplicador >= 4) return '+10';
+  if (mejorMultiplicador >= 2) return '+5';
+  return 'Ninguna';
+}
+
+// --- CÁLCULO REAL DE EFECTIVIDAD ENTRE TIPOS --- //
+function calcularEfectividad(att, defs) {
+  let mult = 1;
+  defs.forEach(def => {
+    if (tablaTipos[att]?.[def] !== undefined) {
+      mult *= tablaTipos[att][def];
+    } else {
+      mult *= 1; // Si no hay efectividad especial, es x1
+    }
+  });
+  return mult;
+}
+
+
+
+
+  
+
+// --- CÁLCULO DE DAÑO ENTRE TIPOS DE LA NUEVA LÓGICA --- //
+function getVentaja(tipoAtacante, tipoDefensor) {
+  const efectividadesSimplificadas = {
+    Acero: { Hada: 5, Hielo: 5, Roca: 5 },
+    Agua: { Fuego: 5, Roca: 5, Tierra: 5 },
+    Bicho: { Planta: 5, Psiquico: 5, Siniestro: 5 },
+    Dragon: { Dragon: 5 },
+    Electrico: { Agua: 5, Volador: 5 },
+    Fantasma: { Fantasma: 5, Psiquico: 5 },
+    Fuego: { Acero: 5, Bicho: 5, Hielo: 5, Planta: 5 },
+    Hada: { Dragon: 5, Lucha: 5, Siniestro: 5 },
+    Hielo: { Dragon: 5, Planta: 5, Tierra: 5, Volador: 5 },
+    Lucha: { Acero: 5, Hielo: 5, Normal: 5, Roca: 5, Siniestro: 5 },
+    Planta: { Agua: 5, Roca: 5, Tierra: 5 },
+    Psiquico: { Lucha: 5, Veneno: 5 },
+    Roca: { Bicho: 5, Fuego: 5, Hielo: 5, Volador: 5 },
+    Siniestro: { Fantasma: 5, Psiquico: 5 },
+    Tierra: { Acero: 5, Electrico: 5, Fuego: 5, Roca: 5, Veneno: 5 },
+    Veneno: { Hada: 5, Planta: 5 },
+    Volador: { Bicho: 5, Lucha: 5, Planta: 5 }
+  };
+
+  if (efectividadesSimplificadas[tipoAtacante]?.[tipoDefensor]) {
+    return efectividadesSimplificadas[tipoAtacante][tipoDefensor];
+  }
+  return 0;
+}
+
+
+function poblarSelectoresDeSpritesEspeciales() {
+  const selects = [1, 2, 3, 4].map(i => document.getElementById(`spriteEspecial${i}`));
+
+  selects.forEach((select, index) => {
+    if (!select) return;
+
+    const opcionNinguno = document.createElement("option");
+    opcionNinguno.value = "";
+    opcionNinguno.textContent = "Ninguno";
+    select.appendChild(opcionNinguno);
+
+for (const clave in spritesEspeciales) {
+  const option = document.createElement("option");
+  option.value = clave;
+  option.textContent = spritesEspeciales[clave].nombreVisual || clave;
+  select.appendChild(option);
+}
+
+
+    // ✅ Restaurar valor guardado DESPUÉS de poblar opciones
+    const num = index + 1;
+    const spriteEspecial = localStorage.getItem(`spriteEspecial${num}`);
+    if (spriteEspecial !== null) {
+      select.value = spriteEspecial;
+    }
+  });
+}
+
+
+
+    
+
+
+  // --- Fallback estándar si no hay sprite especial ---
+function obtenerRutaShiny(nombre, shiny, genero, i) {
+  const spriteSeleccionado = document.getElementById(`spriteEspecial${i}`)?.value;
+
+  if (spriteSeleccionado && spritesEspeciales[spriteSeleccionado]) {
+    const rutas = spritesEspeciales[spriteSeleccionado];
+
+    if (typeof rutas === 'string') {
+      // Compatibilidad con entradas antiguas
+      return shiny === 'si'
+        ? rutas.replace('/sprites/ani/', '/sprites/ani-shiny/')
+        : rutas;
+    }
+
+    // Estructura nueva con .normal y .shiny
+    return shiny === 'si' ? rutas.shiny : rutas.normal;
+  }
+
+  // --- Fallback estándar si no hay sprite especial ---
+  const nombreProcesado = procesarNombre(nombre);
+  if (spritesCargados && spritesAlternativos[nombreProcesado]) {
+    return shiny === 'si'
+      ? spritesAlternativos[nombreProcesado].shiny
+      : spritesAlternativos[nombreProcesado].normal;
+  }
+
+  const nombreFinal = (pokemonConSufijoF.includes(nombre) && genero === 'hembra')
+    ? `${nombreProcesado}-f`
+    : nombreProcesado;
+
+  const baseUrl = "https://play.pokemonshowdown.com/sprites/ani";
+  return shiny === 'si'
+    ? `${baseUrl}-shiny/${nombreFinal}.gif`
+    : `${baseUrl}/${nombreFinal}.gif`;
+}
+
+
+
+function esMegaEvolucion(nombre) {
+  const nombreLower = nombre.toLowerCase();
+  return (
+    nombreLower.includes('mega ') || 
+    nombreLower.endsWith(' mega') || 
+    nombreLower.includes('megax') ||
+    nombreLower.includes('megay')
+  );
+}
+
+
+// --- ACTUALIZAR MINIATURA ---
+function actualizarMiniatura(i) {
+  const nombre = document.getElementById(`pk${i}`).value.trim();
+  const shiny = document.getElementById(`shiny${i}`).value;
+  const genero = document.getElementById(`genero${i}`).value;
+const ruta = obtenerRutaShiny(nombre, shiny, genero, i);
+  document.getElementById(`preview${i}`).src = ruta;
+
+let miTipo = tiposPokemon[nombre] || "Desconocido";
+const teracristal = document.getElementById(`teracristal${i}`);
+const teratipo = document.getElementById(`teratipo${i}`)?.value;
+
+if (teracristal?.checked && teratipo) {
+  miTipo = teratipo;
+}
+  const tipoField = document.getElementById(`tipo${i}`);
+  const ventajaField = document.getElementById(`ventaja${i}`);
+  const bonoField = document.getElementById(`bono${i}`);
+
+  let rival;
+  if (i === 1) rival = 2;
+  else if (i === 2) rival = 1;
+  else if (i === 3) rival = 4;
+  else if (i === 4) rival = 3;
+  const nombreRival = document.getElementById(`pk${rival}`)?.value.trim();
+
+
+let tiposRival = [];
+if (nombreRival) {
+  const teracristalRival = document.getElementById(`teracristal${rival}`);
+  const teratipoRival = document.getElementById(`teratipo${rival}`)?.value;
+  if (teracristalRival?.checked && teratipoRival) {
+    tiposRival = [teratipoRival];
+  } else if (tiposPokemon[nombreRival]) {
+tiposRival = tiposPokemon[nombreRival].split('/').map(x => x.trim().charAt(0).toUpperCase() + x.trim().slice(1).toLowerCase());
+  }
+}
+
+
+
+const misTipos = miTipo.split('/').map(x => x.trim().charAt(0).toUpperCase() + x.trim().slice(1).toLowerCase());
+  const ventajaTexto = tiposRival.length ? calcularVentajaTexto(misTipos, tiposRival) : '';
+
+  tipoField.value = miTipo;
+  ventajaField.value = ventajaTexto || 'Ninguna';
+
+  if (ventajaTexto === '+5' || ventajaTexto === '+10') {
+    ventajaField.style.backgroundColor = '#8ffcce';
+    ventajaField.style.color = '#155724';
+  } else {
+    ventajaField.style.backgroundColor = '';
+    ventajaField.style.color = '';
+  }
+
+  // --- AQUÍ FALTABAN ESTAS VARIABLES ---
+  const esMega = esMegaEvolucion(nombre);
+  const nombreNormalizado = nombre.trim();
+ let bonos = [];
+let bonoVentaja = '';
+
+if (ventajaTexto === '+5') {
+  bonoVentaja = '+5 por ventaja de tipo';
+} else if (ventajaTexto === '+10') {
+  bonoVentaja = '+10 por ventaja de tipo';
+}
+
+if (legendariosMayores.includes(nombreNormalizado)) {
+  bonos.push('+10 por Legendario');
+} else if (sublegendarios.includes(nombreNormalizado)) {
+  bonos.push('+5 por Sublegendario');
+} else if (ultraentes.includes(nombreNormalizado)) {
+  bonos.push('+5 por Ultraente');
+}
+
+if (nombreNormalizado === "Kyogre Primal" || nombreNormalizado === "Groudon Primal") {
+  bonos.push('+10 por Primigenio');
+}
+
+if (nombreNormalizado === "Zacian Crowned" || nombreNormalizado === "Zamazenta Crowned") {
+  bonos.push('+10 por Versión Suprema');
+}
+
+if (pokemonFusionados.includes(nombreNormalizado)) {
+  bonos.push('+5 por Fusión');
+  bonos.push('-5 al daño recibido por Fusión');
+}
+
+if (esMega) {
+  bonos.push('+10 por MegaEvolución');
+}
+  
+  if (teracristal?.checked && teratipo) {
+  bonos.push('+5 por Teracristal');
+  bonos.push('-5 al daño recibido por Tera');
+}
+
+
+// Ahora agregamos primero el bono de ventaja si existe
+if (bonoVentaja) {
+  bonos.unshift(bonoVentaja); // lo agrega al principio
+}
+  
+// GUARDAR texto previo que el usuario escribió manualmente
+const etiquetasAuto = [
+  'ventaja de tipo',
+  'Legendario',
+  'Sublegendario',
+  'Ultraente',
+  'MegaEvolución',
+  'Primigenio',
+  'Versión Suprema',
+  'Fusión',
+  'Teracristal',
+  'al daño recibido por Tera'
+];
+
+const lineasPrevias = bonoField.value.split('\n');
+const nuevosBonosSet = new Set(bonos); // los actuales generados
+
+
+// 1. Filtrar solo las líneas manuales (no automáticas)
+const lineasManuales = lineasPrevias.filter(linea => {
+  return !etiquetasAuto.some(et => linea.toLowerCase().includes(et.toLowerCase()));
+});
+
+// 2. Combinar: primero manuales, luego automáticos nuevos
+const resultadoFinal = [
+  ...lineasManuales,
+  ...[...nuevosBonosSet] // lo que aún no fue escrito
+];
+
+
+
+
+// Limpieza final
+// Limpieza final
+const limpio = resultadoFinal
+  .map(l => l.trimEnd())
+  .filter(l => l !== '');
+
+bonoField.value = limpio.join('\n');
+localStorage.setItem(`bono${i}`, bonoField.value); // ✅ Esto guarda los cambios
+
+
+
+
+
+}  // --- CIERRE DE actualizarMiniatura ---
+
+
+
+
+function guardarCaptura(i) {
+  const check = document.getElementById(`capturado${i}`);
+  localStorage.setItem(`capturado${i}`, check.checked);
+}
+    
+function formatearBall(ballKey) {
+  return pokeballs[ballKey]?.nombre || 'Pokéball';
+}
+
+function actualizarBallPreview(i) {
+  const ball = document.getElementById(`ball${i}`).value;
+  const preview = document.getElementById(`ballPreview${i}`);
+  const nombreBall = document.getElementById(`nombreBallPreview${i}`);
+  const capturadoCheck = document.getElementById(`capturado${i}`);
+
+  if (ball === "ninguna") {
+    preview.style.display = "none";
+    nombreBall.style.display = "none";
+  } else {
+preview.src = pokeballs[ball]?.imagen || pokeballs.Pokeball.imagen;
+    preview.style.display = "inline-block";
+
+    if (capturadoCheck?.checked) {
+      nombreBall.textContent = formatearBall(ball);
+      nombreBall.style.display = "block";
+    } else {
+      nombreBall.style.display = "none";
+    }
+  }
+
+  if (capturadoCheck?.checked && ball !== "ninguna") {
+    localStorage.setItem(`lastBallUsed${i}`, ball);
+  }
+}
+
+  function intercambiarPokemon13() {
+  const ids = [
+    'pk', 'tipo', 'vida', 'vida_max', 'genero', 'shiny', 'bono',
+    'stage1_', 'stage2_', 'amistad_', 'teracristal', 'teratipo',
+    'exp1_', 'exp2_', 'amistadExtra_'
+  ];
+
+  ids.forEach(campo => {
+    let id1, id3;
+
+    if (campo === 'vida_max') {
+      id1 = 'vida1max';
+      id3 = 'vida3max';
+    } else {
+      id1 = campo.includes('_') ? campo + '1' : campo + '1';
+      id3 = campo.includes('_') ? campo + '3' : campo + '3';
+    }
+
+    const el1 = document.getElementById(id1);
+    const el3 = document.getElementById(id3);
+    if (!el1 || !el3) return;
+
+    if (el1.type === 'checkbox') {
+      const tmp = el1.checked;
+      el1.checked = el3.checked;
+      el3.checked = tmp;
+    } else {
+      const tmp = el1.value;
+      el1.value = el3.value;
+      el3.value = tmp;
+    }
+
+    // Actualizar localStorage
+    const val1 = localStorage.getItem(id1);
+    const val3 = localStorage.getItem(id3);
+    localStorage.setItem(id1, val3);
+    localStorage.setItem(id3, val1);
+  });
+
+  // Actualizar tipo visible
+  ['pk1', 'pk3'].forEach(id => {
+    const num = parseInt(id.replace('pk', ''), 10);
+    const select = document.getElementById(id);
+    const tipo = document.getElementById(`tipo${num}`);
+    tipo.value = tiposPokemon[select.value] || "Desconocido";
+    localStorage.setItem(`${id}_seleccionado`, select.value);
+  });
+    
+// Intercambiar comentarioExtra1 y comentarioExtra3
+const comentario1 = document.getElementById('comentarioExtra1');
+const comentario3 = document.getElementById('comentarioExtra3');
+
+if (comentario1 && comentario3) {
+  const tmp = comentario1.value;
+  comentario1.value = comentario3.value;
+  comentario3.value = tmp;
+
+  // Actualizar en localStorage
+  const val1 = localStorage.getItem('comentarioExtra1');
+  const val3 = localStorage.getItem('comentarioExtra3');
+  localStorage.setItem('comentarioExtra1', val3);
+  localStorage.setItem('comentarioExtra3', val1);
+}
+
+// Intercambiar spriteEspecial1 y spriteEspecial3
+const sprite1 = document.getElementById('spriteEspecial1');
+const sprite3 = document.getElementById('spriteEspecial3');
+
+if (sprite1 && sprite3) {
+  const tmp = sprite1.value;
+  sprite1.value = sprite3.value;
+  sprite3.value = tmp;
+
+  // Actualizar localStorage
+  const val1 = localStorage.getItem('spriteEspecial1');
+  const val3 = localStorage.getItem('spriteEspecial3');
+  localStorage.setItem('spriteEspecial1', val3);
+  localStorage.setItem('spriteEspecial3', val1);
+}
+
+
+  // Recalcular bonificaciones
+  [1, 2, 3, 4].forEach(i => actualizarMiniatura(i));
+  localStorage.setItem('intercambio_13', 'true');
+}
+
+
+function actualizarBallDesdeCaptura(i) {
+  const check = document.getElementById(`capturado${i}`);
+  const preview = document.getElementById(`ballPreview${i}`);
+  const nombreBall = document.getElementById(`nombreBallPreview${i}`);
+  const dropdown = document.getElementById(`ball${i}`);
+  const selectedBall = dropdown.value;
+  const ultimaBall = localStorage.getItem(`lastBallUsed${i}`);
+
+  if (check.checked) {
+    if (selectedBall && selectedBall !== "ninguna") {
+      localStorage.setItem(`lastBallUsed${i}`, selectedBall);
+      preview.src = pokeballs[selectedBall]?.imagen || pokeballs.Pokeball.imagen;
+      nombreBall.textContent = formatearBall(selectedBall);
+    } else if (ultimaBall && pokeballs[ultimaBall]) {
+      preview.src = pokeballs[ultimaBall]?.imagen || pokeballs.Pokeball.imagen;
+      nombreBall.textContent = formatearBall(ultimaBall);
+    }
+
+    preview.style.display = "inline-block";
+    nombreBall.style.display = "block";
+  } else {
+    preview.style.display = "none";
+    nombreBall.style.display = "none";
+  }
+}
+
+    // --- FraseCustom ---
+
+function mostrarModalFrase(dropdown) {
+  let modal = document.createElement('div');
+  modal.id = 'modalFraseCustom';
+  modal.innerHTML = `
+    <div id="fondoFraseModal" style="position:fixed;top:0;left:0;width:100%;height:100%;
+        background:rgba(0,0,0,0.5);display:flex;justify-content:center;align-items:center;z-index:9999;">
+    <div style="background:white;padding:20px;border-radius:8px;min-width:300px; color: black;">
+        <h3>Agregar nueva frase</h3>
+        <input type="text" id="inputFraseNueva" style="width:100%;margin-bottom:10px;">
+        <div style="text-align:right;">
+          <button id="cancelarFraseBtn">Cancelar</button>
+          <button onclick="guardarFrasePersonalizada()">Agregar</button>
+        </div>
+      </div>
+    </div>
+  `;
+
+  document.body.appendChild(modal);
+
+  // ✅ Agregamos el event listener correctamente
+  document.getElementById('cancelarFraseBtn').addEventListener('click', () => {
+    modal.remove(); // cierra el popup
+  });
+
+
+document.addEventListener('keydown', function cerrarModalConEsc(e) {
+  if (e.key === 'Escape') {
+    modal.remove();
+    document.removeEventListener('keydown', cerrarModalConEsc);
+  } else if (e.key === 'Enter') {
+    e.preventDefault(); // Evita que el form haga cosas raras
+    guardarFrasePersonalizada(); // ???? Tu función ya definida
+    document.removeEventListener('keydown', cerrarModalConEsc);
+  }
+});
+
+
+}
+
+ 
+
+
+function guardarFrasePersonalizada() {
+  const input = document.getElementById('inputFraseNueva');
+  const nueva = input.value.trim();
+  if (!nueva) return;
+
+  const guardadas = JSON.parse(localStorage.getItem('frasesPersonalizadas') || '[]');
+  if (!guardadas.includes(nueva)) {
+    guardadas.push(nueva);
+    localStorage.setItem('frasesPersonalizadas', JSON.stringify(guardadas));
+
+    // Añadir a todos los dropdowns existentes
+    document.querySelectorAll('select').forEach(select => {
+      if (select.options[0]?.textContent === 'Insertar frase') {
+        const opt = document.createElement('option');
+        opt.value = nueva;
+        opt.textContent = nueva;
+        select.appendChild(opt);
+      }
+    });
+  }
+
+  document.getElementById('modalFraseCustom')?.remove();
+}
+
+    
+// --- INTERFAZ ---
+waitForSCEditor(() => {
+  const toolbar = document.querySelector('.sceditor-toolbar');
+
+  if (!document.getElementById('pokeButton')) {
+    const group = document.createElement('div');
+    group.className = 'sceditor-group';
+    toolbar.appendChild(group);
+
+    const btn = document.createElement('a');
+    btn.id = 'pokeButton';
+    btn.className = 'sceditor-button';
+    btn.style.background = `url(${ICONO}) no-repeat center center`;
+    btn.style.backgroundSize = '20px';
+    btn.title = TITULO;
+    group.appendChild(btn);
+
+    const modalHTML = `
+ <div id="pokemonModal" style="
+  color: black;
+  display: none;
+  width: 750px;
+  position: fixed;
+  top: 25%;
+  left: 65%;
+  transform: translate(-30%, -50%);
+  background: white;
+  border: 2px solid #555;
+  z-index: 9999;
+  height: 95vh;
+  flex-direction: column;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+">
+
+  <div id="modalHeader" style="
+  background-color: #ddd;
+  padding: 8px;
+  cursor: move;
+  font-weight: bold;
+  text-align: center;
+  user-select: none;
+">Arrastrar</div>
+
+  <div id="pokemonModalContent" style="overflow-y: auto; padding: 20px; padding-bottom: 10px; flex: 1 1 auto; min-height: 0; box-sizing: border-box;">
+
+    <!-- Aquí va todo tu contenido actual de cajas de combate -->
+${[1, 3].map(grupoInicio => {
+  const combatiente = grupoInicio === 1 ? 'Combatientes 1' : 'Combatientes 2';
+  const bgColor = grupoInicio === 1 ? '#e6ffe6' : '#e6f2ff';
+  return `
+    ${[0, 1].map(offset => {
+      const i = grupoInicio + offset;
+      return `
+  <div style="margin-top: -5px; display:flex; align-items:flex-start; margin-bottom:5px; background-color:${bgColor}; padding:10px; border-radius:6px;">
+        <div style="flex:1;">
+          <label>Nombre Pokémon ${i}: <select id="pk${i}" onchange="actualizarMiniatura(${i})"></select></label>
+                         <br>
+  <label style="margin-left: 10px;">
+  Sprite Especial:
+  <select id="spriteEspecial${i}" onchange="actualizarMiniatura(${i})">
+    <!-- Agrega más sprites especiales aquí -->
+  </select>
+</label>
+<br><br>
+         <div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 10px; align-items: center;">
+  <label>Tipo Pokémon ${i}: <input id="tipo${i}" type="text" readonly style="width: 120px;"></label>
+  <label>Ventaja ${i}: <input id="ventaja${i}" type="text" readonly style="width: 60px;"></label>
+  ${i === 1 || i === 3 ? `
+    <label style="display: flex; align-items: center; gap: 4px;">
+      <input type="checkbox" id="teracristal${i}">Teracristal
+    </label>
+<label style="margin-left: -5px;">
+      TeraTipo:
+      <select id="teratipo${i}">
+        <option value="">Ninguno</option>
+        <option value="Acero">Acero</option>
+        <option value="Agua">Agua</option>
+        <option value="Bicho">Bicho</option>
+        <option value="Dragon">Dragon</option>
+        <option value="Electrico">Electrico</option>
+        <option value="Fantasma">Fantasma</option>
+        <option value="Fuego">Fuego</option>
+        <option value="Hada">Hada</option>
+        <option value="Hielo">Hielo</option>
+        <option value="Lucha">Lucha</option>
+        <option value="Planta">Planta</option>
+        <option value="Psiquico">Psiquico</option>
+        <option value="Roca">Roca</option>
+        <option value="Siniestro">Siniestro</option>
+        <option value="Tierra">Tierra</option>
+        <option value="Veneno">Veneno</option>
+        <option value="Volador">Volador</option>
+      </select>
+    </label>
+  ` : ''}
+</div>
+</div>
+<br><br>
+          <label>Vida Pokémon ${i}:  <input id="vida${i}" type="number" value="50" min="0"></label> /
+          <label>Total:  <input id="vida${i}max" type="number" value="50" min="0"></label><br><br>
+                         <div style="display:flex; gap:10px; width: 10px;">
+  <label>Género ${i}:  
+    <select id="genero${i}" onchange="actualizarMiniatura(${i})">
+      <option value="macho">Macho</option>
+      <option value="hembra">Hembra</option>
+      <option value="nada">Sin Género</option>
+    </select>
+  </label>
+  <label>Shiny ${i}:  
+    <select id="shiny${i}" onchange="actualizarMiniatura(${i})">
+      <option value="no">No</option>
+      <option value="si">Sí</option>
+    </select>
+  </label>
+             ${i === 1 || i === 3 ? `
+ <label>Stg.\u00A01 a 2 EXP:  
+  <select id="stage1_${i}">
+    <option value="ninguna">Ninguna</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+  </select>
+  <label><input type="checkbox" id="exp1_${i}" /> +1 EXP</label>
+</label>
+ <label>Stg.\u00A02 a 3 EXP:  
+  <select id="stage2_${i}">
+    <option value="ninguna">Ninguna</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+    <option value="3">3</option>
+    <option value="4">4</option>
+  </select>
+  <label><input type="checkbox" id="exp2_${i}" /> +1 EXP</label>
+</label>
+<label>Amistad:  
+  <select id="amistad_${i}">
+    <option value="ninguna">Ninguna</option>
+    <option value="1">1</option>
+    <option value="2">2</option>
+  </select>
+  <label><input type="checkbox" id="amistadExtra_${i}" /> +1 Amistad</label>
+</label>
+                            
+` : ''}
+
+             ${i === 2 || i === 4 ? `
+  <label>Ball usada:
+    <select id="ball${i}" onchange="actualizarBallPreview(${i})">
+                          <option value="ninguna" selected>Ninguna</option>
+      <option value="Pokeball">Pokeball</option>
+      <option value="Superball">Superball</option>
+      <option value="Ultraball">Ultraball</option>
+      <option value="Amorball">Amorball</option>
+      <option value="Nidoball">Nidoball</option>
+      <option value="Mallaball">Mallaball</option>
+      <option value="Ocasoball">Ocasoball</option>
+      <option value="Levelball">Levelball</option>
+      <option value="Lujoball">Lujoball</option>
+      <option value="PokeballX">PokeballX</option>
+      <option value="SuperballX">SuperballX</option>
+      <option value="UltraballX">UltraballX</option>
+      <option value="AmorballX">AmorballX</option>
+      <option value="NidoballX">NidoballX</option>
+      <option value="MallaballX">MallaballX</option>
+      <option value="OcasoballX">OcasoballX</option>
+      <option value="LevelballX">LevelballX</option>
+      <option value="LujoballX">LujoballX</option>
+      <option value="Alpariball">Alpariball</option>
+      <option value="Masterball">Masterball</option>
+    </select>
+  </label>
+             <label style="margin-left:10px;">
+  Capturado: 
+<input type="checkbox" id="capturado${i}" onchange="guardarCaptura(${i}); actualizarBallDesdeCaptura(${i});">
+</label>
+             <img id="ballPreview${i}" src="${ICONO}" style="height: 100%; vertical-align:middle; margin-left:5px; margin-top:-5px;">
+             <div id="nombreBallPreview${i}" style="font-size:10px; margin-top:2px;"></div><br><br>
+` : ''}
+
+</div><br>
+
+<div style="display:flex; gap:16px; align-items:flex-start; width:100%;">
+
+<label style="flex:2; min-width:0;">Bonificacion/Penalizacion Pokémon ${i}:<br>
+  <textarea id="bono${i}" style="width: 100%; height: 60px; resize: vertical; overflow-y: auto;"></textarea>
+</label>
+
+
+  ${i === 2 || i === 4 ? `
+<label style="flex:1; min-width:220px;">Notas mentales:<br>
+  <textarea id="notas${i}" style="width: 100%; height: 102px; resize: vertical; overflow-y: auto;" placeholder="Escribe aquí tus notas (exp, items, capturas, etc.)"></textarea>
+</label>
+
+  ` : ''}
+
+  <br><br>
+
+            
+                         
+                         ${i === 1 || i === 3 ? `
+<label>Comentario extra Pokémon ${i}:<br>
+  <textarea id="comentarioExtra${i}" style="width: 125%; height: 60px; resize: vertical; overflow-y: auto;"></textarea>
+</label><br><br>
+` : ''}
+
+
+       </div> </div>
+     <div style="width:100px; text-align:center; margin-left:-35px;">
+  <img id="preview${i}" src="" style="max-height:80px;" alt="Preview Sprite">
+             <div style="font-size:12px; border-radius: 5px; background-color: ${i === 1 || i === 3 ? '#228b2238' : '#b222224f'};  margin-top:4px; color: ${i === 1 || i === 3 ? '#228B22' : '#B22222'};">
+    ${i === 1 || i === 3 ? 'Tu Pokémon' : 'Rival'}
+  </div>
+             
+
+</div>
+      </div>
+      <hr style="border: 0; border-top: 2px solid black; margin: 5px 0;">
+      `;
+    }).join('')}
+  `;
+}).join('')}
+
+       </div>
+  <div style="text-align: center; padding-top: 5px; border-top: 1px solid #ccc; background: #f9f9f9;">
+    <button id="insertBattle">Insertar Combate 1</button>
+    <button id="insertBattle2">Insertar Combate 2</button>
+    <button id="insertBothBattles">Insertar Combate 1 + 2</button>
+      <button onclick="intercambiarPokemon13()">  <i class="fas fa-exchange-alt"></i></button>
+    <button onclick="document.getElementById('pokemonModal').style.display='none'">Cancelar</button>
+  </div>
+</div>
+
+      </div>`;
+
+function insertarBarraFormato(idTextarea) {
+  const textarea = document.getElementById(idTextarea);
+  if (!textarea) return;
+
+  const contenedorLabel = textarea.closest('label');
+  if (!contenedorLabel) return;
+
+  const barra = document.createElement('div');
+  barra.className = 'formato-barra';
+
+  // --- BOTONES DE FORMATO ---
+  const botones = [
+    { label: 'B', tag: 'b', clase: 'bold' },
+    { label: 'I', tag: 'i', clase: 'italic' },
+    { label: 'U', tag: 'u', clase: 'underline' },
+    { label: 'S', tag: 's', clase: 'strike' }
+  ];
+
+  botones.forEach(btn => {
+    const boton = document.createElement('button');
+    boton.textContent = btn.label;
+    boton.className = `formato-boton ${btn.clase}`;
+    boton.addEventListener('click', (e) => {
+      e.preventDefault();
+      const tag = btn.tag;
+      const tagApertura = `[${tag}]`;
+      const tagCierre = `[/${tag}]`;
+      const start = textarea.selectionStart;
+      const end = textarea.selectionEnd;
+      const selectedText = textarea.value.substring(start, end);
+
+      if (selectedText) {
+        const formatted = tagApertura + selectedText + tagCierre;
+        textarea.setRangeText(formatted, start, end, 'end');
+      } else {
+        const insertText = tagApertura + tagCierre;
+        textarea.setRangeText(insertText, start, start, 'end');
+      }
+
+      textarea.focus();
+      localStorage.setItem(textarea.id, textarea.value);
+    });
+    barra.appendChild(boton);
+  });
+
+  // --- DROPDOWN ---
+     
+    // --- DROPDOWN ---
+// ... (crear dropdown como ya lo haces)
+
+const dropdown = document.createElement('select');
+dropdown.style.marginLeft = '10px';
+dropdown.style.width = '10px';
+dropdown.style.height = '29px';
+dropdown.style.marginTop = '5px';
+dropdown.style.borderRadius = '4px';
+dropdown.innerHTML = `<option value="">Insertar frase</option>`;
+
+// Grupos de frases
+const frasesPorCategoria = {
+  ...frasesEspeciales,
+  "Personalizadas": JSON.parse(localStorage.getItem('frasesPersonalizadas') || '[]')
+};
+
+// Agrega las frases en grupos
+for (const categoria in frasesPorCategoria) {
+  const grupo = document.createElement('optgroup');
+  grupo.label = categoria;
+
+  frasesPorCategoria[categoria].forEach(frase => {
+    const opt = document.createElement('option');
+    opt.value = frase;
+    opt.textContent = frase;
+    grupo.appendChild(opt);
+  });
+
+  dropdown.appendChild(grupo);
+}
+
+
+  // --- ELIMINAR ---
+  const btnEliminar = document.createElement('button');
+  btnEliminar.textContent = 'x';
+  btnEliminar.style.marginLeft = '5px';
+  btnEliminar.disabled = true;
+      btnEliminar.title = "Eliminar frase personalizada";
+
+  dropdown.addEventListener('change', function () {
+    if (this.value) {
+      const insert = `[b]${this.value}[/b]\n`;
+      textarea.value = insert + textarea.value;
+      textarea.focus();
+      localStorage.setItem(textarea.id, textarea.value);
+    }
+
+    const seleccion = this.value;
+    const guardadas = JSON.parse(localStorage.getItem('frasesPersonalizadas') || '[]');
+    btnEliminar.disabled = !guardadas.includes(seleccion);
+  });
+
+btnEliminar.addEventListener('click', () => {
+  const seleccionada = dropdown.value;
+  if (!seleccionada) return;
+
+  const guardadas = JSON.parse(localStorage.getItem('frasesPersonalizadas') || '[]');
+  const nuevas = guardadas.filter(f => f !== seleccionada);
+  localStorage.setItem('frasesPersonalizadas', JSON.stringify(nuevas));
+
+  regenerarDropdownIndividual(dropdown); // ✅ seguro, directo, limpio
+
+  btnEliminar.disabled = true;
+    
+    // También eliminar la frase del textarea si está presente al principio
+const textarea = dropdown.closest('label')?.querySelector('textarea');
+if (textarea && textarea.value.startsWith(`[b]${seleccionada}[/b]`)) {
+  const resto = textarea.value.replace(`[b]${seleccionada}[/b]\n`, '');
+  textarea.value = resto;
+  localStorage.setItem(textarea.id, resto);
+}
+
+    
+});
+
+
+
+  // --- BOTÓN "+" para abrir modal ---
+  const btnAbrirModal = document.createElement('button');
+  btnAbrirModal.textContent = '+';
+  btnAbrirModal.style.marginLeft = '5px';
+  btnAbrirModal.title = "Agregar nueva frase personalizada";
+
+  btnAbrirModal.addEventListener('click', () => {
+    mostrarModalFrase(dropdown);
+  });
+
+  barra.appendChild(dropdown);
+  barra.appendChild(btnAbrirModal);
+  barra.appendChild(btnEliminar);
+
+  contenedorLabel.insertBefore(barra, textarea);
+}
+
+
+
+
+
+
+  
+    document.body.insertAdjacentHTML('beforeend', modalHTML);
+actualizarBallPreview(2);
+actualizarBallPreview(4);
+cargarFrasesEspeciales(() => {
+  insertarBarraFormato('bono1');
+  insertarBarraFormato('bono2');
+  insertarBarraFormato('bono3');
+  insertarBarraFormato('bono4');
+  insertarBarraFormato('comentarioExtra1');
+  insertarBarraFormato('comentarioExtra3');
+});
+
+    // Restaurar posición previa del modal
+const modal = document.getElementById('pokemonModal');
+const posX = localStorage.getItem('modalPosX');
+const posY = localStorage.getItem('modalPosY');
+if (modal && posX && posY) {
+  modal.style.left = posX;
+  modal.style.top = posY;
+  modal.style.transform = 'none'; // ???? Importante
+}
+
+    hacerModalArrastrable();
+
+  
+const style = document.createElement('style');
+style.textContent = `
+
+  .formato-barra {
+    background: transparent;
+    margin-bottom: 4px;
+    display: flex;
+    justify-content: flex-start;
+  }
+
+  .formato-boton {
+    font-size: 10px;
+    width: 20px;
+    height: auto;
+    padding: 0;
+    line-height: 1;
+    border: 1px solid #aaa;
+    background: #eee;
+    cursor: pointer;
+    border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  line-height: 1;
+  }
+
+  .formato-boton.bold { font-weight: bold; }
+  .formato-boton.italic { font-style: italic; }
+  .formato-boton.underline { text-decoration: underline; }
+  .formato-boton.strike { text-decoration: line-through; }
+
+                                        .ti-combate {
+  font-weight: bold;
+  font-size: 14px;
+  padding: 4px 10px;
+  border-radius: 8px;
+  display: inline-block;
+  letter-spacing: 1px;
+  border: 2px solid;
+}
+
+.ti-combate-1 {
+  color: #228B22;           /* Verde */
+  border-color: #228B22;
+  background-color: #e6ffe6;
+}
+
+.ti-combate-2 {
+  color: #1e4e8c;           /* Azul */
+  border-color: #1e4e8c;
+  background-color: #e6f2ff;
+}
+                                        
+                  #ballPreview2,
+#ballPreview4 {
+
+}
+
+
+#pokemonModal label {
+    color: black !important;
+  }
+
+  #insertBattle,
+  #insertBattle2,
+  #insertBothBattles,
+  #pokemonModal button:not(#insertBattle):not(#insertBattle2):not(#insertBothBattles) {
+    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+    will-change: background-color, box-shadow;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 6px 12px;
+    margin: 5px;
+    border-radius: 5px;
+    border: 1px solid;
+  }
+
+  #pokemonModalContent {
+    overflow-y: auto;
+    padding: 20px;
+    flex: 1 1 auto;
+    box-sizing: border-box;
+    min-height: 0;
+    max-height: 90%;
+    height: 100%;
+  }
+
+  #pokemonModalContent::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  #pokemonModalContent::-webkit-scrollbar-thumb {
+    background-color: #aaa;
+    border-radius: 10px;
+  }
+
+  #pokemonModalContent textarea {
+  min-height: 60px;
+  max-height: 200px;
+  height: 60px;
+  resize: none; /* ???? Bloquea redimensionamiento manual que causa reflow */
+  width: 100%;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+  #pokemonModalContent img {
+    width: auto;
+    height: auto;
+}
+
+
+  #insertBattle {
+    background-color: #e6ffe6;
+    color: #228B22;
+    border-color: #228B22;
+  }
+
+  #insertBattle2 {
+    background-color: #e6f2ff;
+    color: #1e4e8c;
+    border-color: #1e4e8c;
+  }
+
+  #insertBothBattles {
+    background: linear-gradient(to right, #e6ffe6, #e6f2ff);
+    color: #1e4e8c;
+    border-color: #1e4e8c;
+  }
+
+  #pokemonModal button:not(#insertBattle):not(#insertBattle2):not(#insertBothBattles) {
+    background-color: #f5f5f5;
+    color: #333;
+    border-color: #888;
+  }
+
+  #insertBattle:hover,
+  #insertBattle2:hover,
+  #insertBothBattles:hover,
+  #pokemonModal button:not(#insertBattle):not(#insertBattle2):not(#insertBothBattles):hover {
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+  }
+`;
+document.head.appendChild(style);
+
+
+
+
+cargarPokemon();
+cargarSpritesAlternativos(() => {
+  cargarSpritesEspeciales(() => {
+    poblarSelectoresDeSpritesEspeciales(); // <<<<<< LLÁMALA AQUÍ
+    [1, 2, 3, 4].forEach(i => actualizarMiniatura(i));
+  });
+});
+
+
+
+btn.addEventListener('click', () => {
+  const modal = document.getElementById('pokemonModal');
+
+  // Mostrar el modal primero para que tenga tamaño
+  modal.style.display = 'block';
+
+  // Recuperar posición anterior
+  const posX = parseInt(localStorage.getItem('modalPosX') || '', 10);
+  const posY = parseInt(localStorage.getItem('modalPosY') || '', 10);
+
+  const maxLeft = window.innerWidth - modal.offsetWidth;
+  const maxTop = window.innerHeight - modal.offsetHeight;
+
+  if (!isNaN(posX) && !isNaN(posY)) {
+    // Posición guardada con límites
+    modal.style.left = `${Math.max(0, Math.min(posX, maxLeft))}px`;
+    modal.style.top = `${Math.max(0, Math.min(posY, maxTop))}px`;
+  } else {
+    // Posición inicial segura
+    modal.style.left = '100px';
+    modal.style.top = '100px';
+  }
+
+  // Quitar transform para evitar deformaciones
+  modal.style.transform = 'none';
+
+  // Limpiar estado visual
+  [2, 4].forEach(i => {
+    const check = document.getElementById(`capturado${i}`);
+    const ballPreview = document.getElementById(`ballPreview${i}`);
+    const nombreBall = document.getElementById(`nombreBallPreview${i}`);
+    const ballDropdown = document.getElementById(`ball${i}`);
+
+    if (check) {
+      check.checked = false;
+      localStorage.setItem(`capturado${i}`, false);
+    }
+
+    if (ballPreview) ballPreview.style.display = 'none';
+    if (nombreBall) nombreBall.style.display = 'none';
+    if (ballDropdown) ballDropdown.value = "ninguna";
+  });
+});
+
+
+
+
+    document.getElementById('insertBattle').addEventListener('click', () => insertarCombate(1, 2, 1));
+    document.getElementById('insertBattle2').addEventListener('click', () => insertarCombate(3, 4, 2));
+document.getElementById('insertBothBattles').addEventListener('click', () => {
+  insertarCombate(1, 2, 1);
+  insertarCombate(3, 4, 2);
+});
+
+  }
+});
+
+(function () {
+  const msg = "SPAlJan – NoC";
+  if (typeof console !== 'undefined') console.log("%c" + msg, "color:green;font-size:13px;");
+})();
+
+// --- INSERTAR COMBATE ---
+function insertarCombate(a, b, numCombate) {
+  const nombreA = document.getElementById(`pk${a}`).value.trim();
+  const tipoA = document.getElementById(`tipo${a}`).value.trim();
+  const vidaA = document.getElementById(`vida${a}`).value;
+  const vidaAmax = document.getElementById(`vida${a}max`).value;
+  const generoA = document.getElementById(`genero${a}`).value;
+  const shinyA = document.getElementById(`shiny${a}`).value;
+const bonoA = document.getElementById(`bono${a}`).value.trim();
+  const comentarioExtraA = document.getElementById(`comentarioExtra${a}`)?.value.trim() || '';
+
+
+let amistadTexto = '';
+let amistadExtraTexto = '';
+const amistadSelect = document.getElementById(`amistad_${a}`);
+const amistadExtraCheck = document.getElementById(`amistadExtra_${a}`);
+
+let val = amistadSelect.value === 'ninguna' ? 0 : parseInt(amistadSelect.value, 10);
+
+if (amistadExtraCheck.checked && val < 2) {
+  val += 1;
+  localStorage.setItem(`amistad_${a}`, val.toString()); // guardamos el nuevo valor
+  amistadExtraTexto = `<span style="color:violet;">+1 de Amistad</span>`;
+  // NO tocamos ni el dropdown visual ni el checkbox aquí
+}
+
+
+amistadTexto = val > 0
+  ? (amistadExtraTexto ? `<span style="color:violet;">[Amistad ${val}/2]</span>` : `[Amistad ${val}/2]`)
+  : '';
+
+
+// ???? Pegás acá el bloque
+if (a === 1 || a === 3) {
+  const stage1El = document.getElementById(`stage1_${a}`);
+  const exp1El = document.getElementById(`exp1_${a}`);
+  if (exp1El.checked) {
+    let val = stage1El.value === 'ninguna' ? 0 : parseInt(stage1El.value, 10);
+    if (val < 3) {
+      val += 1;
+      localStorage.setItem(`stage1_${a}`, val.toString());
+    }
+  }
+  
+  const stage2El = document.getElementById(`stage2_${a}`);
+  const exp2El = document.getElementById(`exp2_${a}`);
+  if (exp2El.checked) {
+    let val = stage2El.value === 'ninguna' ? 0 : parseInt(stage2El.value, 10);
+    if (val < 4) {
+      val += 1;
+      localStorage.setItem(`stage2_${a}`, val.toString());
+    }
+  }
+}
+
+let expBonoTexto = '';
+if (a === 1 || a === 3) {
+  const usarExp1 = document.getElementById(`exp1_${a}`).checked;
+  const usarExp2 = document.getElementById(`exp2_${a}`).checked;
+  if (usarExp1 || usarExp2) {
+expBonoTexto = '<span style="color:orange;">+1 de EXP</span>';
+  }
+}
+
+let expTextoA = '';
+if (a === 1 || a === 3) {
+  let stage1 = document.getElementById(`stage1_${a}`).value;
+  let stage2 = document.getElementById(`stage2_${a}`).value;
+  const usarExp1 = document.getElementById(`exp1_${a}`).checked;
+  const usarExp2 = document.getElementById(`exp2_${a}`).checked;
+
+  let texto1 = '';
+  if (stage1 !== 'ninguna') {
+    let val1 = parseInt(stage1, 10);
+    let valFinal = usarExp1 ? Math.min(val1 + 1, 3) : val1;
+    texto1 = usarExp1 ? `<span style="color:orange;">[EXP ${valFinal}/3]</span>` : `[EXP ${valFinal}/3]`;
+  } else if (usarExp1) {
+    texto1 = `<span style="color:orange;">[EXP 1/3]</span>`;
+  }
+  expTextoA += texto1 + ' ';
+
+  let texto2 = '';
+  if (stage2 !== 'ninguna') {
+    let val2 = parseInt(stage2, 10);
+    let valFinal = usarExp2 ? Math.min(val2 + 1, 4) : val2;
+    texto2 = usarExp2 ? `<span style="color:orange;">[EXP ${valFinal}/4]</span>` : `[EXP ${valFinal}/4]`;
+  } else if (usarExp2) {
+    texto2 = `<span style="color:orange;">[EXP 1/4]</span>`;
+  }
+  expTextoA += texto2 + ' ';
+
+}
+
+
+
+
+const ballA = document.getElementById(`ball${a}`)?.value;
+const ballB = document.getElementById(`ball${b}`)?.value;
+
+
+const ballAtexto = (ballA && ballA !== "ninguna")
+  ? `<b><i>Se usa ${formatearBall(ballA)} \u00A0<img src="${rutasBall[ballA]}" style="height: 25px; vertical-align: middle; border: 1px solid white; border-radius: 10px;">\u00A0 </i></b>\n\n`
+  : "";
+const capturadoCheck = document.getElementById(`capturado${b}`);
+const estaCapturado = capturadoCheck?.checked;
+
+const numeroRival = b === 2 ? 1 : 2;
+const nombreRivalOriginal = document.getElementById(`pk${b}`).value.trim();
+const nombreRivalVisible = aliasVisual[nombreRivalOriginal] || nombreRivalOriginal;
+
+
+const ballBtexto = (!estaCapturado && ballB && ballB !== "ninguna")
+  ? `<b><i>Se usa ${formatearBall(ballB)} \u00A0<img src="${pokeballs[ballB]?.imagen}" style="height: 25px; vertical-align: middle; border: 1px solid white; border-radius: 10px;">\u00A0en ${nombreRivalVisible}</i></b>\n\n`
+  : "";
+
+
+
+
+
+  
+  const nombreB = document.getElementById(`pk${b}`).value.trim();
+  const tipoB = document.getElementById(`tipo${b}`).value.trim();
+  const vidaB = document.getElementById(`vida${b}`).value;
+  const vidaBmax = document.getElementById(`vida${b}max`).value;
+  const generoB = document.getElementById(`genero${b}`).value;
+  const shinyB = document.getElementById(`shiny${b}`).value;
+  const bonoB = document.getElementById(`bono${b}`).value.trim();
+
+  const nombreAVisible = aliasVisual[nombreA] || nombreA;
+  const nombreBVisible = aliasVisual[nombreB] || nombreB;
+  
+const saltoInicial = numCombate === 2 ? '\n\n' : '';
+const code = `${saltoInicial}<center><div class="ti-combate ti-combate-${numCombate}">------------------------------------\u00A0COMBATE ${numCombate}\u00A0------------------------------------</div><br>\n
+<div class="titulotipos">${nombreAVisible}\u00A0(${tipoA})\u00A0VS\u00A0${nombreBVisible}\u00A0(${tipoB})</div>\n\n   ${comentarioExtraA ? `${comentarioExtraA}\n\n` : ''}
+  ${ballAtexto}${ballBtexto}
+${(bonoA || expBonoTexto || amistadExtraTexto) ? `<span class="tupoke">${nombreAVisible}</span>\n ${[expBonoTexto, amistadExtraTexto, bonoA].filter(Boolean).join('\n')}\n\n` : ''}
+${bonoB ? `<span class="rival">${nombreBVisible} \u00A0(Rival)</span>  
+\n ${bonoB}\n\n` : ''}
+<div class="battlex">
+  <div><div class="cspace br"><div id="pokebattle" class="pokeboxbattle flip">\n
+  <img src="${obtenerRutaShiny(nombreA, shinyA, generoA, a)}"/></div></div>\n
+<progress value="${vidaA}" max="${vidaAmax}"></progress>\n
+${vidaA}/${vidaAmax}${[expTextoA.trim(), amistadTexto.trim()].filter(Boolean).length > 0 ? ' ' + [expTextoA.trim(), amistadTexto.trim()].filter(Boolean).join(' ') : ''}
+    \n<div class="${generoA}">${nombreAVisible}</div>:${tipoA.replace('/', '::')}:
+  \n\n</div> <div class="battlevs">VS</div> \n\n
+  <div><div class="cspace br"><div id="pokebattle" class="pokeboxbattle">\n
+    ${document.getElementById(`capturado${b}`)?.checked
+  ? `<div style='font-size:22px;'>:${formatearBall(estaCapturado && ballB && ballB !== "ninguna" ? ballB : localStorage.getItem(`lastBallUsed${b}`))}:</div>`
+  : `<img src="${obtenerRutaShiny(nombreB, shinyB, generoB, b)}"/>`}</div></div>\n
+    <progress value="${vidaB}" max="${vidaBmax}"></progress>\n
+    ${vidaB}/${vidaBmax}\n
+    <div class="${generoB}">${nombreBVisible} \u00A0(${estaCapturado ? 'capturado' : 'rival'})</div>:${tipoB.replace('/', '::')}:
+ \n\n </div>
+</div></center><style>.content img{max-width:100%;}</style>`;
+
+  const instance = $('#text_editor_textarea').sceditor('instance');
+  if (instance) {
+    instance.insert(code);
+  } else {
+    document.getElementById('text_editor_textarea').value += code;
+  }
+     
+     // Reiniciar visualmente la ball seleccionada para el rival (pk2 o pk4) después de insertar el combate
+// Guardar en "última ball usada" si corresponde (NO reiniciar)
+if (b === 2 || b === 4) {
+  const ballSelect = document.getElementById(`ball${b}`);
+  const ballActual = ballSelect.value;
+
+  if (ballActual && ballActual !== "ninguna") {
+    localStorage.setItem(`lastBallUsed${b}`, ballActual);
+  }
+
+  // No se reinicia el valor ni visualmente ni en localStorage aquí
+}
+
+
+     
+}
