@@ -1,14 +1,11 @@
-// AlpariusPelea.js  (no minificado)
+// AlpariusPelea.js (fuente)
 (function (h) {
   'use strict';
   h = (h || '').toLowerCase();
-
-  // admite con/sin www
-  const OK = h === 'pokemon-alparius.foroactivo.com' || h === 'www.pokemon-alparius.foroactivo.com';
-  if (!OK) return;               // ← no uses throw; solo salí silenciosamente
+  if (h !== 'pokemon-alparius.foroactivo.com' && h !== 'www.pokemon-alparius.foroactivo.com') return;
 
   try {
-   // --- CONFIGURACIÓN INICIAL ---
+// --- CONFIGURACIÓN INICIAL ---
 
 
 // ---Dropdown insertar frases actualizacion ---
@@ -266,7 +263,7 @@ async function cargarFrasesEspeciales(callback) {
       return acc;
     }, {});
 
-    console.log('✅ Frases especiales cargadas correctamente');
+    log('✅ Frases especiales cargadas correctamente');
     if (callback) callback();
   } catch (error) {
     console.error('❌ Error al cargar frases especiales:', error);
@@ -290,7 +287,7 @@ async function cargarSpritesAlternativos(callback) {
     }
     spritesAlternativos = normalizado;
     spritesCargados = true;
-    console.log("✅ Sprites alternativos cargados correctamente");
+    log("✅ Sprites alternativos cargados correctamente");
     if (callback) callback();
   } catch (error) {
     console.error("❌ Error al cargar sprites alternativos:", error);
@@ -324,7 +321,7 @@ async function cargarSpritesEspeciales(callback) {
     });
 
     spritesEspeciales = dict;
-    console.log("✅ Sprites especiales cargados correctamente");
+    log("✅ Sprites especiales cargados correctamente");
 
     if (callback) callback();
   } catch (error) {
@@ -2111,9 +2108,7 @@ if (b === 2 || b === 4) {
 
      
 }
-
   } catch (e) {
-    // en prod, silencio total para no “pintar” la consola
-    // (si estás depurando, podés loguear temporalmente)
+    // silencio en producción
   }
 })(location.hostname);
