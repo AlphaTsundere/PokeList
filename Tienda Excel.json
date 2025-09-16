@@ -1092,16 +1092,16 @@
         "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/exp-candy\/xl.png[\/img]"
     },
     {
-        "Nombre del Item": "Huevo (Evento)",
-        "Tipo del Item": "Huevos",
-        "Link Imagen": "https:\/\/images2.imgbox.com\/f9\/20\/NKhRdyyY_o.png",
-        "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/f9\/20\/NKhRdyyY_o.png[\/img]"
-    },
-    {
         "Nombre del Item": "Huevo",
         "Tipo del Item": "Huevos",
         "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/mystery-egg.png",
         "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/key-item\/mystery-egg.png[\/img]"
+    },
+    {
+        "Nombre del Item": "Huevo (Evento)",
+        "Tipo del Item": "Huevos",
+        "Link Imagen": "https:\/\/images2.imgbox.com\/f9\/20\/NKhRdyyY_o.png",
+        "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/f9\/20\/NKhRdyyY_o.png[\/img]"
     },
     {
         "Nombre del Item": "Pokeball",
