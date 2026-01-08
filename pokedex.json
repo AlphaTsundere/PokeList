@@ -1,0 +1,6326 @@
+[
+  {
+    "pokemon": "Latiosita",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Mewtwoita X",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Squirtle",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Charmander",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Bulbasaur",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Totodile",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Cyndaquil",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Chikorita",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Mudkip",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Torchic",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Treecko",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Piplup",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Chimchar",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Turtwig",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Oshawott",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Tepig",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Snivy",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Froakie",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Fennekin",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Chespin",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Popplio",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Litten",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Rowlet",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Sobble",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Scorbunny",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Grookey",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Quaxly",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Fuecoco",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Sprigatito",
+    "place": "Ruta 1",
+    "zone": "Edelweiss",
+    "category": "Iniciales"
+  },
+  {
+    "pokemon": "Teralito Normal",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Buneary",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Bunnelby",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Bouffalant",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Delcatty",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Diggersby",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Dubwool",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Farfecht'd",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Furfrou",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Glameow",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Greedent",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Herdier",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Lechonk",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Lillipup",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Lopunnita",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Lopunny",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Furret",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Linoone",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Maushold",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Tandemaus",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Miltank",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Meowth",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Oinkologne",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Persian",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Purugly",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Raticate",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Rattata",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Sentret",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Skitty",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Skwovet",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Stoutland",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Tauros",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Wigglytuff",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Wooloo",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Yungoos",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Zigzagoon",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Minccino",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Cinccino",
+    "place": "Granja Edelweisshof",
+    "zone": "Edelweiss",
+    "category": "Normal"
+  },
+  {
+    "pokemon": "Aipom",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Ambipom",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Audinita",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Audino",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Bewear",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Bibarel",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Bidoof",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Azurill",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Blissey",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Castform",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Chansey",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Sawsbuck",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Deerling",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Ditto",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Doduo",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Dodrio",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Drampa",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Dudunsparce",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Dunsparce",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Eevee",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Exploud",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Farigiraf",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Girafarig",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Furret",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Gumshoos",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Happiny",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Kangaskhanita",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Kangaskhan",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Kecleon",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Komala",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Lickilicky",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Lickitung",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Loudred",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Munchlax",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Oranguru",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Patrat",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Porygon",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Porygon2",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "PorygonZ",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Slaking",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Slakoth",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Smeargle",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Snorlax",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Spinda",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Stantler",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Stufful",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Teddiursa",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Ursaring",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Vigoroth",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Watchog",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Whismur",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Wyrdeer",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Zangoose",
+    "place": "Ruta 2",
+    "zone": "Asterndorf",
+    "category": "Normal/Volador"
+  },
+  {
+    "pokemon": "Teralito Volador",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Braviary",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Chatot",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Fearow",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Fletchling",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Hoothoot",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Noctowl",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Pidgeotita",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Pidgeot",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Pidgeotto",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Pidgey",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Pidove",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Pikipek",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Rufflet",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Spearow",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Squawkabilly",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Staraptor",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Staravia",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Starly",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Swablu",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Swellow",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Taillow",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Toucannon",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Tranquill",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Trumbeak",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Unfezant",
+    "place": "Santuario Natural",
+    "zone": "Asterndorf",
+    "category": "Volador"
+  },
+  {
+    "pokemon": "Scizorita",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Scizor",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Mewtwoita Y",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Bombirdier",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Corviknight",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Corvisquire",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Cramorant",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Flamigo",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Noibat",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Rookidee",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Beautifly",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Butterfree",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Reptalada",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Golisopod",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Clobbopus",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Grapploct",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Wimpod",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Masquerain",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Mothim",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Ninjask",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Scyther",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Vivillon",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Yanma",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Yanmega",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Volcarona",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Venomoth",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Venonat",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Vikavolt",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Surskit",
+    "place": "Ruta 3",
+    "zone": "Fliederheim",
+    "category": "Volador/Bicho"
+  },
+  {
+    "pokemon": "Teralito Bicho",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Ariados",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Beedrillita",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Beedrill",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Blipbug",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Burmy",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Caterpie",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Cascoon",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Charjabug",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Combee",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Dottler",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Dustox",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Galvantula",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Grubbin",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Heracrossita",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Heracross",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Illumise",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Joltik",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Kakuna",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Karrablast",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Kricketot",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Kricketune",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Larvesta",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Leavanny",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Metapod",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Nincada",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Nymble",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Pineco",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Pinsirita",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Pinsir",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Cutiefly",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Ledian",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Ledyba",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Ribombee",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Scatterbug",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Sewaddle",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Shelmet",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Shuckle",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Silcoon",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Spewpa",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Spinarak",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Volbeat",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Vespiquen",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Weedle",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Wurmple",
+    "place": "Apiario",
+    "zone": "Fliederheim",
+    "category": "Bicho"
+  },
+  {
+    "pokemon": "Accelgor",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Crustle",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Dwebble",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Durant",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Escavalier",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Forretress",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Kleavor",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Lokix",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Orbeetle",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Paras",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Parasect",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Rabsca",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Rellor",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Scolipede",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Shedinja",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Spidops",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Swadloon",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Tarountula",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Venipede",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Whirlipede",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Wormadam Tronco Planta",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Bellossom",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Bellsprout",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Bounsweet",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Budew",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Cherubi",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Cherrim",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Carnivine",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Cottonee",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Eldegoss",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Fomantis",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Furioseta",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Gossifleur",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Hoppip",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Jumpluff",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Ivysaur",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Leafeon",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Lurantis",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Lilligant",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Oddish",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Petilil",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Roselia",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Roserade",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Seedot",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Nuzleaf",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Shiftry",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Skiploom",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Sunflora",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Sunkern",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Weepinbell",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Victreebell",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Whimsicott",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Tsareena",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Steenee",
+    "place": "Ruta 4",
+    "zone": "Sonnenberg",
+    "category": "Bicho/Planta"
+  },
+  {
+    "pokemon": "Teralito Planta",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Applin",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Appletun",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Amoonguss",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Arboliva",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Cacnea",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Cacturne",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Capsakid",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Dipplin",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Dolliv",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Exeggcute",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Exeggutor Alola",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Exeggutor Alola",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Ferroseed",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Ferrothorn",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Flapple",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Foongus",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Gloom",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Grotle",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Grovyle",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Hydrapple",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Lilligant Hisui",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Maractus",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Morelull",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Meganium",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Pansage",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Quilladin",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Rillaboom",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Sceptilita",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Sceptile",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Scovillain",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Serperior",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Servine",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Shiinotic",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Shroomish",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Simisage",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Smoliv",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Tangela",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Tangrowth",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Thwackey",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Torterra",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Tropius",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Venusaurita",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Venusaur",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Vileplume",
+    "place": "Jardin Botanico",
+    "zone": "Sonnenberg",
+    "category": "Planta"
+  },
+  {
+    "pokemon": "Brambleghast",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Bramblin",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Bayleef",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Breloom",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Chesnaught",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Dartrix",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Decidueye Hisui",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Decidueye",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Ferroverdor",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Floragato",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Gogoat",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Meowscarada",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Skiddo",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Cubone",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Donphan",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Flygon",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Gligar",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Gliscor",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Krokorok",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Krookodile",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Marowak",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Phanpy",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Sandaconda",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Sandile",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Sandshrew",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Sandslash",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Silicobra",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Toedscool",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Toedscruel",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Trapinch",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Vibrava",
+    "place": "Ruta 5",
+    "zone": "Mohnstadt",
+    "category": "Planta/Tierra"
+  },
+  {
+    "pokemon": "Teralito Tierra",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Wormadam Tronco Arena",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Baltoy",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Claydol",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Colmilargo",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Diglett",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Drilbur",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Dugtrio",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Excadrill",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Golett",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Golurk",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Hippopotas",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Hippowdon",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Mudbray",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Mudsdale",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Rhydon",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Rhyhorn",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Rhyperior",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Runerigus",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Ursaluna",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Yamask Galar",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Electrode Hisui",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Voltorb Hisui",
+    "place": "Zona Arqueologica",
+    "zone": "Mohnstadt",
+    "category": "Tierra"
+  },
+  {
+    "pokemon": "Diglett Alola",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Dugtrio Alola",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Ferrodada",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Stunfisk Galar",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Stunfisk",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Blitzle",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Boltund",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Dracozolt",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Electrike",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Flaaffy",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Heliolisk",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Helioptile",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Jolteon",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Luxio",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Luxray",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Manectricita",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Manectric",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Mareep",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Minun",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Morpeko",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Oricorio",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Pachirisu",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Pawmi",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Pawmo",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Pawmot",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Pichu",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Plusle",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Shinx",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Tadbulb",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Bellibot",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Togedemaru",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Tynamo",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Yamper",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Zebstrika",
+    "place": "Ruta 6",
+    "zone": "Lichtenstadt",
+    "category": "Tierra/Electrico"
+  },
+  {
+    "pokemon": "Teralito Electrico",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Ampharosita",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Ampharos",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Dedenne",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Eelektrik",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Eelektross",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Electabuzz",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Electivire",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Electrode",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Elekid",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Magnemite",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Magneton",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Magnezone",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Pikachu",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Raichu Alola",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Raichu",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Rotom Forma Calor",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Rotom Forma Corte",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Rotom Forma Frio",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Rotom Forma Lavado",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Rotom Forma Ventilador",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Rotom",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Voltorb",
+    "place": "Zona Industrial",
+    "zone": "Lichtenstadt",
+    "category": "Electrico"
+  },
+  {
+    "pokemon": "Pelarena",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Electrofuria",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Emolga",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Kilowattrel",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Wattrel",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Aerodactylita",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Aerodactyl",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Anorith",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Archen",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Archeops",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Armaldo",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Barbaracle",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Bastiodon",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Binacle",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Bonsly",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Cradily",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Cranidos",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Ferropuas",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Glimmet",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Glimmora",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Kabuto",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Kabutops",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Klawf",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Larvitar",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Lileep",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Lycanroc",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Omanyte",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Omastar",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Pupitar",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Rampardos",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Rockruff",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Shieldon",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Sudowoodo",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Tyranitarita",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Tyranitar",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Tyrantrum",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Tyrunt",
+    "place": "Ruta 7",
+    "zone": "Salzberg",
+    "category": "Electrico/Roca"
+  },
+  {
+    "pokemon": "Teralito Roca",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Boldore",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Diancita",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Carbink",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Carkol",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Coalossal",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Garganacl",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Geodude",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Gigalith",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Golem",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Graveler",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Nacli",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Naclstack",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Nosepass",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Onix",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Probopass",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Roggenrola",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Rolycoly",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Stonjourner",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Golem Alola",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Graveler Alola",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Geodude Alola",
+    "place": "Mina de Sal",
+    "zone": "Salzberg",
+    "category": "Roca"
+  },
+  {
+    "pokemon": "Lunatone",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Minior",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Solrock",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Beheeyem",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Braviary Hisui",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Drowzee",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Duosion",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Elgyem",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Espathra",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Espeon",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Espurr",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Flittle",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Grumpig",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Hypno",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Indeedee",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Meowstic",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Mime Jr.",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Mr. Mime",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Munna",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Musharna",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Natu",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Oricorio",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Ponyta Galar",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Rapidash Galar",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Reuniclus",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Sigilyph",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Solosis",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Spoink",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Xatu",
+    "place": "Ruta 8",
+    "zone": "Graffenstein",
+    "category": "Roca/Psiquico"
+  },
+  {
+    "pokemon": "Teralito Psiquico",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Abra",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Kadabra",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Alakazamita",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Alakazam",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Chimecho",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Chingling",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Gardevoirita",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Gardevoir",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Gothita",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Gothitelle",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Gothorita",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Hatenna",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Hatterene",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Hattrem",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Kirlia",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Ralts",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Slowpoke Galar",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Swoobat",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Unown",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Woobat",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Wobbuffet",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Wynaut",
+    "place": "Cueva Kristall",
+    "zone": "Graffenstein",
+    "category": "Psiquico"
+  },
+  {
+    "pokemon": "Abomasnowita",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Abomasnow",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Snover",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Beartic",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Castform",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Cetitan",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Cetoddle",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Cubchoo",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Darmanitan Galar",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Darmanitan Galar Daruma",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Darumaka Galar",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Delibird",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Ferrosaco",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Frosmoth",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Glaceon",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Jynx",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Mr. Mime Galar",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Mr. Rime",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Sealeo",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Smoochum",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Snom",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Spheal",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Walrein",
+    "place": "Ruta 9",
+    "zone": "Eisblumental",
+    "category": "Psiquico/Hielo"
+  },
+  {
+    "pokemon": "Teralito Hielo",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Arctozolt",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Amaura",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Aurorus",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Avalugg Hisui",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Avalugg",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Bergmite",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Cryogonal",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Froslass",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Glalita",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Glalie",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Mamoswine",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Piloswine",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Snorunt",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Swinub",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Vanillite",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Vanillish",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Vanilluxe",
+    "place": "Cumbre de Montañas",
+    "zone": "Eisblumental",
+    "category": "Hielo"
+  },
+  {
+    "pokemon": "Eiscue",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Ninetales Alola",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Vulpix Alola",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Sandshrew Alola",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Sandslash Alola",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Crabominable",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Crabrawler",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Ferropalmas",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Hawlucha",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Mankey",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Medichamita",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Medicham",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Meditite",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Mienfoo",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Mienshao",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Tauros Paldea Agua",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Tauros Paldea Fuego",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Tauros Paldea Lucha",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Throh",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Sawk",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Hariyama",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Makuhita",
+    "place": "Ruta 10",
+    "zone": "Kampfstadt",
+    "category": "Hielo/Lucha"
+  },
+  {
+    "pokemon": "Teralito Lucha",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Passimian",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Annihilape",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Conkeldurr",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Falinks",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Farfetch'd Galar",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Machamp",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Gurdurr",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Hitmonchan",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Hitmonlee",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Hitmontop",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Machoke",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Machop",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Primeape",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Sirfetch'd",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Tyrogue",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Timburr",
+    "place": "Area Militar",
+    "zone": "Kampfstadt",
+    "category": "Lucha"
+  },
+  {
+    "pokemon": "Lucarita",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Lucario",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Riolu",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Sneasel Hisui",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Sneasler",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Arbok",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Clodsire",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Croagunk",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Ekans",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Grafaiai",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Gulpin",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Nidoking",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Nidoqueen",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Nidoran Hembra",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Nidoran Macho",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Nidorino",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Nidorina",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Salandit",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Salazzle",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Seviper",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Shroodle",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Slowbro Galar",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Slowking Galar",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Swalot",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Toxicroak",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Wooper Paldea",
+    "place": "Ruta 11",
+    "zone": "Giftenstadt",
+    "category": "Lucha/Veneno"
+  },
+  {
+    "pokemon": "Teralito Veneno",
+    "place": "Zona Null",
+    "zone": "Giftenstadt",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Toxel",
+    "place": "Zona Null",
+    "zone": "Giftenstadt",
+    "category": "Veneno"
+  },
+  {
+    "pokemon": "Toxtricity",
+    "place": "Zona Null",
+    "zone": "Giftenstadt",
+    "category": "Veneno"
+  },
+  {
+    "pokemon": "Crobat",
+    "place": "Zona Null",
+    "zone": "Giftenstadt",
+    "category": "Veneno"
+  },
+  {
+    "pokemon": "Golbat",
+    "place": "Zona Null",
+    "zone": "Giftenstadt",
+    "category": "Veneno"
+  },
+  {
+    "pokemon": "Zubat",
+    "place": "Zona Null",
+    "zone": "Giftenstadt",
+    "category": "Veneno"
+  },
+  {
+    "pokemon": "Garbodor",
+    "place": "Zona Null",
+    "zone": "Giftenstadt",
+    "category": "Veneno"
+  },
+  {
+    "pokemon": "Grimer Alola",
+    "place": "Zona Null",
+    "zone": "Giftenstadt",
+    "category": "Veneno"
+  },
+  {
+    "pokemon": "Grimer",
+    "place": "Zona Null",
+    "zone": "Giftenstadt",
+    "category": "Veneno"
+  },
+  {
+    "pokemon": "Koffing",
+    "place": "Zona Null",
+    "zone": "Giftenstadt",
+    "category": "Veneno"
+  },
+  {
+    "pokemon": "Muk",
+    "place": "Zona Null",
+    "zone": "Giftenstadt",
+    "category": "Veneno"
+  },
+  {
+    "pokemon": "Muk Alola",
+    "place": "Zona Null",
+    "zone": "Giftenstadt",
+    "category": "Veneno"
+  },
+  {
+    "pokemon": "Trubbish",
+    "place": "Zona Null",
+    "zone": "Giftenstadt",
+    "category": "Veneno"
+  },
+  {
+    "pokemon": "Weezing Galar",
+    "place": "Zona Null",
+    "zone": "Giftenstadt",
+    "category": "Veneno"
+  },
+  {
+    "pokemon": "Weezing",
+    "place": "Zona Null",
+    "zone": "Giftenstadt",
+    "category": "Veneno"
+  },
+  {
+    "pokemon": "Drapion",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Skorupi",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Skuntank",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Stunky",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Absolita",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Absol",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Honchkrow",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Houndoomita",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Houndoom",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Houndour",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Inkay",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Liepard",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Linoone Galar",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Mabosstiff",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Malamar",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Mandibuzz",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Maschiff",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Meoth Alola",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Mightyena",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Murkrow",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Overqwil",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Qwilfish Hisui",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Purrloin",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Poochyena",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Persian Alola",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Raticate Alola",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Rattata Alola",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Vullaby",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Zigzagoon Galar",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Umbreon",
+    "place": "Ruta 12",
+    "zone": "Schwarzhausen",
+    "category": "Veneno/Siniestro"
+  },
+  {
+    "pokemon": "Teralito Siniestro",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Bisharp",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Siniestro"
+  },
+  {
+    "pokemon": "Grimmsnarl",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Siniestro"
+  },
+  {
+    "pokemon": "Impidimp",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Siniestro"
+  },
+  {
+    "pokemon": "Kingambit",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Siniestro"
+  },
+  {
+    "pokemon": "Morgrem",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Siniestro"
+  },
+  {
+    "pokemon": "Nickit",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Siniestro"
+  },
+  {
+    "pokemon": "Pangoro",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Siniestro"
+  },
+  {
+    "pokemon": "Pancham",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Siniestro"
+  },
+  {
+    "pokemon": "Obstagoon",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Siniestro"
+  },
+  {
+    "pokemon": "Pawniard",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Siniestro"
+  },
+  {
+    "pokemon": "Scrafty",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Siniestro"
+  },
+  {
+    "pokemon": "Scraggy",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Siniestro"
+  },
+  {
+    "pokemon": "Thievul",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Siniestro"
+  },
+  {
+    "pokemon": "Zoroark",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Siniestro"
+  },
+  {
+    "pokemon": "Zorua",
+    "place": "Zona Rot",
+    "zone": "Schwarzhausen",
+    "category": "Siniestro"
+  },
+  {
+    "pokemon": "Sneasel",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Weavile",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Ferrocuello",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Sableyita",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Sableye",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Duskull",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Dusclops",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Dusknoir",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Gastly",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Gengarita",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Gengar",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Haunter",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Drifloon",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Drifblim",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Mimikyu",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Misdreavus",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Mismagius",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Phantump",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Trevenant",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Pumpkaboo",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Gourgeist",
+    "place": "Ruta 13",
+    "zone": "Lilienheim",
+    "category": "Siniestro/Fantasma"
+  },
+  {
+    "pokemon": "Teralito Fantasma",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Zorua Hisui",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Zoroark Hisui",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Poltchageist",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Sinistcha",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Banettita",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Banette",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Chandelure",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Cofagrigus",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Greavard",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Houndstone",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Lampent",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Litwick",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Melenaleteo",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Polteageist",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Shuppet",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Sinistea",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Spiritomb",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Yamask",
+    "place": "Cementerio",
+    "zone": "Lilienheim",
+    "category": "Fantasma"
+  },
+  {
+    "pokemon": "Corsola Galar",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Cursola",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Dhelmise",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Gimmighoul",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Oricorio",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Palossand",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Sandygast",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Araquanid",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Azumarill",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Basculegion",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Basculin",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Carracosta",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Castform",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Chewtle",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Dewpider",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Corphish",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Crawdaunt",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Drednaw",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Ducklett",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Frillish",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Gastrodon",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Jellicent",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Greninja",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Golduck",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Inteleon",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Kingler",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Krabby",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Marill",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Palpitoad",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Panpour",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Psyduck",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Quagsire",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Seismitoad",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Simipour",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Samurott Hisui",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Tirtouga",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Wooper",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Shellos",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Swanna",
+    "place": "Ruta 14",
+    "zone": "Geisterhafen",
+    "category": "Fantasma/Agua"
+  },
+  {
+    "pokemon": "Teralito Agua",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Pincurchin",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Skrelp",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Mareanie",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Dragalge",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Toxapex",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Alomomola",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Arctovish",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Arrokuda",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Barboach",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Barraskewda",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Brionne",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Bruxish",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Carvanha",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Chinchou",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Clamperl",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Clauncher",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Clawitzer",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Cloyster",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Corsola",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Dewgong",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Dewott",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Dondozo",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Empoleon",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Feebas",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Finizen",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Finneon",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Goldeen",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Gorebyss",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Gyaradosita",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Gyarados",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Horsea",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Huntail",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Kingdra",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Lanturn",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Lapras",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Lumineon",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Luvdisc",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Magikarp",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Mantine",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Mantyke",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Milotic",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Octillery",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Pelipper",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Primarina",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Pyukumuku",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Qwilfish",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Relicanth",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Remoraid",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Samurott",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Seadra",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Seaking",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Seel",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Sharpedonita",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Sharpedo",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Shellder",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Starmie",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Staryu",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Tentacool",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Tentacruel",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Veluza",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Wailmer",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Wailord",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Whiscash",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Wiglett",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Wingull",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Wishiwashi",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Wugtrio",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Palafin",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Prinplup",
+    "place": "Puerto",
+    "zone": "Geisterhafen",
+    "category": "Agua"
+  },
+  {
+    "pokemon": "Blastoisita",
+    "place": "Ruta 15",
+    "zone": "Geisterhafen",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Blastoise",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Buizel",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Croconaw",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Dracovish",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Drizzile",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Feraligatr",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Floatzle",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Frogadier",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Lombre",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Lotad",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Ludicolo",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Marshtomp",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Politoed",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Poliwag",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Poliwhirl",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Poliwrath",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Quaquaval",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Quaxwell",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Slowbroita",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Slowbro",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Slowking",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Slowpoke",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Swampertita",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Swampert",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Tympole",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Vaporeon",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Wartortle",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Arcanine",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Braixen",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Castform",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Cinderace",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Centiskorch",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Darmanitan Daruma",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Darmanitan",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Darumaka",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Delphox",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Emboar",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Ferropolilla",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Growlithe",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Infernape",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Litleo",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Monferno",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Ninetales",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Pyroar",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Pignite",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Raboot",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Sizzlipede",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Torracat",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Typhlosion",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Vulpix",
+    "place": "Ruta 15",
+    "zone": "Hitzenberg",
+    "category": "Agua/Fuego"
+  },
+  {
+    "pokemon": "Teralito Fuego",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Arcanine Hisui",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Blazikenita",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Blaziken",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Cameruptita",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Camerupt",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Combusken",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Crocalor",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Flareon",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Growlithe Hisui",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Heatmor",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Incineroar",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Magby",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Magcargo",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Magmar",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Magmortar",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Marowak Alola",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Numel",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Pansear",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Quilava",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Simisear",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Slugma",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Skeledirge",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Torkoal",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Typhlosion Hisui",
+    "place": "Aguas Termales",
+    "zone": "Hitzenberg",
+    "category": "Fuego"
+  },
+  {
+    "pokemon": "Armarouge",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Ceruledge",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Charcadet",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Charizardita Y",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Charizard",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Charmeleon",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Flamariete",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Fletchinder",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Oricorio",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Ponyta",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Rapidash",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Talonflame",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Turtonator",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Axew",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Bagon",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Cyclizar",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Fraxure",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Gabite",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Garchompita",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Garchomp",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Gible",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Shelgon",
+    "place": "Ruta 16",
+    "zone": "Drachenmaul",
+    "category": "Fuego/Dragon"
+  },
+  {
+    "pokemon": "Charizardita X",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Teralito Dragon",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Deino",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Zweilous",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Hydreigon",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Altariaita",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Altaria",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Bramaluna",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Dragapult",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Dragonair",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Dragonite",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Drakloak",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Dratini",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Dreepy",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Goodra",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Goomy",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Hakamo-o",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Haxorus",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Jangmo-o",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Kommo-o",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Sliggoo",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Salamancita",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Salamence",
+    "place": "Drachentempel",
+    "zone": "Drachenmaul",
+    "category": "Dragon"
+  },
+  {
+    "pokemon": "Latiasita",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Ondulagua",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Dragon/Hada"
+  },
+  {
+    "pokemon": "Noivern",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Dragon/Hada"
+  },
+  {
+    "pokemon": "Arctibax",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Dragon/Hada"
+  },
+  {
+    "pokemon": "Baxcalibur",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Dragon/Hada"
+  },
+  {
+    "pokemon": "Druddigon",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Dragon/Hada"
+  },
+  {
+    "pokemon": "Frigibax",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Dragon/Hada"
+  },
+  {
+    "pokemon": "Tatsugiri",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Dragon/Hada"
+  },
+  {
+    "pokemon": "Igglybuff",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Dragon/Hada"
+  },
+  {
+    "pokemon": "Jigglypuff",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Dragon/Hada"
+  },
+  {
+    "pokemon": "Clefairy",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Dragon/Hada"
+  },
+  {
+    "pokemon": "Clefable",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Dragon/Hada"
+  },
+  {
+    "pokemon": "Cleffa",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Dragon/Hada"
+  },
+  {
+    "pokemon": "Galladita",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Gallade",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Dragon/Hada"
+  },
+  {
+    "pokemon": "Ferropaladin",
+    "place": "Ruta 17",
+    "zone": "Zaubertal",
+    "category": "Dragon/Hada"
+  },
+  {
+    "pokemon": "Teralito Hada",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Aromatisse",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Hada"
+  },
+  {
+    "pokemon": "Colagrito",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Hada"
+  },
+  {
+    "pokemon": "Comfey",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Hada"
+  },
+  {
+    "pokemon": "Dachsbun",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Hada"
+  },
+  {
+    "pokemon": "Fidough",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Hada"
+  },
+  {
+    "pokemon": "Flabebe",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Hada"
+  },
+  {
+    "pokemon": "Floette",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Hada"
+  },
+  {
+    "pokemon": "Florges",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Hada"
+  },
+  {
+    "pokemon": "Granbull",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Hada"
+  },
+  {
+    "pokemon": "Snubbull",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Hada"
+  },
+  {
+    "pokemon": "Spritzee",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Hada"
+  },
+  {
+    "pokemon": "Sylveon",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Hada"
+  },
+  {
+    "pokemon": "Togekiss",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Hada"
+  },
+  {
+    "pokemon": "Togepi",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Hada"
+  },
+  {
+    "pokemon": "Togetic",
+    "place": "Blumenfeld",
+    "zone": "Zaubertal",
+    "category": "Hada"
+  },
+  {
+    "pokemon": "Alcremie",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Milcery",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Slurpuff",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Swirlix",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Tinkatink",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Tinkaton",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Tinkatuff",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Aggronita",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Aggron",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Aron",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Beldum",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Bronzor",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Copperajah",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Cufant",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Ferrotesta",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Goodra Hisui",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Lairon",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Mawilita",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Mawile",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Orthworm",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Metang",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Perrserker",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Sliggoo Hisui",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Steelixita",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Steelix",
+    "place": "Ruta 18",
+    "zone": "Retterstadt",
+    "category": "Hada/Acero"
+  },
+  {
+    "pokemon": "Teralito Acero",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Teralito"
+  },
+  {
+    "pokemon": "Aegislash",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Archaludon",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Bronzong",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Doublade",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Duraludon",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Gholdengo",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Honedge",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Klang",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Klefki",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Klink",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Klinklang",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Meowth Galar",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Metagrossita",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Megapiedra"
+  },
+  {
+    "pokemon": "Metagross",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Revavroom",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Skarmory",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Varoom",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  },
+  {
+    "pokemon": "Wormadam Tronco Basura",
+    "place": "Aeropuerto",
+    "zone": "Retterstadt",
+    "category": "Acero"
+  }
+]
