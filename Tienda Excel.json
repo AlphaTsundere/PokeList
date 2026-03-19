@@ -792,6 +792,12 @@
         "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/26\/2b\/5XRKEiX4_o.png[\/img]"
     },
     {
+    "Nombre del Item": "Pokelixier",
+    "Tipo del Item": "Especiales",
+    "Link Imagen": "https:\/\/images2.imgbox.com\/bf\/6a\/ULYpH1g0_o.png",
+    "Imagen para Inventario": "[img]https:\/\/images2.imgbox.com\/bf\/6a\/ULYpH1g0_o.png[\/img]"
+},
+    {
         "Nombre del Item": "Objeto Evolutivo",
         "Tipo del Item": "Evolutivos",
         "Link Imagen": "https://sig.grumpybumpers.com/host/AlpariusObjeto.gif",
