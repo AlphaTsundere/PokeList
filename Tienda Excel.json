@@ -534,6 +534,60 @@
         "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/mega-stone\/venusaurite.png[\/img]"
     },
     {
+    "Nombre del Item": "Emboarita",
+    "Tipo del Item": "Equipables",
+    "Link Imagen": "https://images2.imgbox.com/d4/bf/0R73ufwz_o.png",
+    "Imagen para Inventario": "[img]https://images2.imgbox.com/d4/bf/0R73ufwz_o.png[/img]"
+},
+{
+    "Nombre del Item": "Dragonitita",
+    "Tipo del Item": "Equipables",
+    "Link Imagen": "https://images2.imgbox.com/20/79/dYHTpaF0_o.png",
+    "Imagen para Inventario": "[img]https://images2.imgbox.com/20/79/dYHTpaF0_o.png[/img]"
+},
+{
+    "Nombre del Item": "Clefablita",
+    "Tipo del Item": "Equipables",
+    "Link Imagen": "https://images2.imgbox.com/d9/fc/MDHdbGmI_o.png",
+    "Imagen para Inventario": "[img]https://images2.imgbox.com/d9/fc/MDHdbGmI_o.png[/img]"
+},
+{
+    "Nombre del Item": "Feraligatrita",
+    "Tipo del Item": "Equipables",
+    "Link Imagen": "https://images2.imgbox.com/49/d1/rzAVUw0W_o.png",
+    "Imagen para Inventario": "[img]https://images2.imgbox.com/49/d1/rzAVUw0W_o.png[/img]"
+},
+{
+    "Nombre del Item": "Froslassita",
+    "Tipo del Item": "Equipables",
+    "Link Imagen": "https://images2.imgbox.com/7a/45/UjvCf2fM_o.png",
+    "Imagen para Inventario": "[img]https://images2.imgbox.com/7a/45/UjvCf2fM_o.png[/img]"
+},
+{
+    "Nombre del Item": "Meganiumita",
+    "Tipo del Item": "Equipables",
+    "Link Imagen": "https://images2.imgbox.com/9a/50/DoGv8f4Z_o.png",
+    "Imagen para Inventario": "[img]https://images2.imgbox.com/9a/50/DoGv8f4Z_o.png[/img]"
+},
+{
+    "Nombre del Item": "Skarmorita",
+    "Tipo del Item": "Equipables",
+    "Link Imagen": "https://images2.imgbox.com/58/3d/MtD0yEoZ_o.png",
+    "Imagen para Inventario": "[img]https://images2.imgbox.com/58/3d/MtD0yEoZ_o.png[/img]"
+},
+{
+    "Nombre del Item": "Starmita",
+    "Tipo del Item": "Equipables",
+    "Link Imagen": "https://images2.imgbox.com/ad/35/7DhRfkaC_o.png",
+    "Imagen para Inventario": "[img]https://images2.imgbox.com/ad/35/7DhRfkaC_o.png[/img]"
+},
+{
+    "Nombre del Item": "Victreebelita",
+    "Tipo del Item": "Equipables",
+    "Link Imagen": "https://images2.imgbox.com/cf/9d/0R9rd8YS_o.png",
+    "Imagen para Inventario": "[img]https://images2.imgbox.com/cf/9d/0R9rd8YS_o.png[/img]"
+},
+    {
         "Nombre del Item": "Teralito Normal",
         "Tipo del Item": "Equipables",
         "Link Imagen": "https:\/\/www.serebii.net\/itemdex\/sprites\/normalterashard.png",
