@@ -187,6 +187,10 @@
         "Nombre": "Clefable",
         "Tipo": "Hada"
     },
+        {
+        "Nombre": "Clefable Mega",
+        "Tipo": "Hada\/Volador"
+    },
     {
         "Nombre": "Vulpix",
         "Tipo": "Fuego"
@@ -365,6 +369,10 @@
     },
     {
         "Nombre": "Victreebel",
+        "Tipo": "Planta\/Veneno"
+    },
+        {
+        "Nombre": "Victreebel Mega",
         "Tipo": "Planta\/Veneno"
     },
     {
@@ -639,6 +647,10 @@
         "Nombre": "Starmie",
         "Tipo": "Agua\/Psiquico"
     },
+        {
+        "Nombre": "Starmie Mega",
+        "Tipo": "Agua\/Psiquico"
+    },
     {
         "Nombre": "Mr. Mime",
         "Tipo": "Psiquico\/Hada"
@@ -791,6 +803,10 @@
         "Nombre": "Dragonite",
         "Tipo": "Dragon\/Volador"
     },
+     {
+        "Nombre": "Dragonite Mega",
+        "Tipo": "Dragon\/Volador"
+    },
     {
         "Nombre": "Mewtwo",
         "Tipo": "Psiquico"
@@ -819,6 +835,10 @@
         "Nombre": "Meganium",
         "Tipo": "Planta"
     },
+        {
+        "Nombre": "Meganium Mega",
+        "Tipo": "Planta\/Hada"
+    },
     {
         "Nombre": "Cyndaquil",
         "Tipo": "Fuego"
@@ -846,6 +866,10 @@
     {
         "Nombre": "Feraligatr",
         "Tipo": "Agua"
+    },
+     {
+        "Nombre": "Feraligatr Mega",
+        "Tipo": "Agua\/Dragon"
     },
     {
         "Nombre": "Sentret",
@@ -1149,6 +1173,10 @@
     },
     {
         "Nombre": "Skarmory",
+        "Tipo": "Acero\/Volador"
+    },
+        {
+        "Nombre": "Skarmory Mega",
         "Tipo": "Acero\/Volador"
     },
     {
@@ -2299,6 +2327,10 @@
         "Nombre": "Froslass",
         "Tipo": "Hielo\/Fantasma"
     },
+        {
+        "Nombre": "Froslass Mega",
+        "Tipo": "Hielo\/Fantasma"
+    },
     {
         "Nombre": "Rotom",
         "Tipo": "Electrico\/Fantasma"
@@ -2409,6 +2441,10 @@
     },
     {
         "Nombre": "Emboar",
+        "Tipo": "Fuego\/Lucha"
+    },
+        {
+        "Nombre": "Emboar Mega",
         "Tipo": "Fuego\/Lucha"
     },
     {
