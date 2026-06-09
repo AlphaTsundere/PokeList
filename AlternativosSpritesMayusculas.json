@@ -354,5 +354,11 @@
     "código-cero": {
         "normal": "https://play.pokemonshowdown.com/sprites/ani/typenull.gif",
         "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/typenull.gif"
-    }
+    },
+
+  "clefable-mega": {
+  "normal": "https://images2.imgbox.com/ad/a8/S7yxh2Gi_o.gif",
+  "shiny": "https://images2.imgbox.com/f8/e5/oOk....gif"
+}
+  
 }
