@@ -359,6 +359,39 @@
   "clefable-mega": {
   "normal": "https://images2.imgbox.com/ad/a8/S7yxh2Gi_o.gif",
   "shiny": "https://images2.imgbox.com/f8/e5/oOk....gif"
+},
+
+  "dragonite-mega": {
+  "normal": "https://images2.imgbox.com/42/6e/XFeIE1e0_o.gif",
+  "shiny": "https://images2.imgbox.com/47/1d/QTTyKZ5H_o.gif"
+},
+"emboar-mega": {
+  "normal": "https://images2.imgbox.com/41/a9/uCMGlyPg_o.gif",
+  "shiny": "https://images2.imgbox.com/f8/89/6b8qEofM_o.gif"
+},
+"feraligatr-mega": {
+  "normal": "https://images2.imgbox.com/43/48/WZIrYW4T_o.gif",
+  "shiny": "https://images2.imgbox.com/98/cf/YmdsFh9x_o.gif"
+},
+"froslass-mega": {
+  "normal": "https://images2.imgbox.com/bf/f2/ogGLqVAR_o.gif",
+  "shiny": "https://images2.imgbox.com/31/d3/JeSXFEX2_o.gif"
+},
+"meganium-mega": {
+  "normal": "https://images2.imgbox.com/83/50/UVJeWPQc_o.gif",
+  "shiny": "https://images2.imgbox.com/10/8a/RmnEq500_o.gif"
+},
+"skarmory-mega": {
+  "normal": "https://images2.imgbox.com/9f/ef/0AlGGtg6_o.gif",
+  "shiny": "https://images2.imgbox.com/c4/53/mitvIX0x_o.gif"
+},
+"starmie-mega": {
+  "normal": "https://images2.imgbox.com/1e/3a/ucJWpVfC_o.gif",
+  "shiny": "https://images2.imgbox.com/b3/7c/paNyYuZs_o.gif"
+},
+"victreebel-mega": {
+  "normal": "https://images2.imgbox.com/71/14/Yu5xDUQ9_o.gif",
+  "shiny": "https://images2.imgbox.com/cf/7c/kJYDtkJf_o.gif"
 }
   
 }
