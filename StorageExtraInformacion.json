@@ -1,6 +1,7 @@
 [
   {
     "Pokemon": "Bulbasaur",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -10,6 +11,7 @@
   },
   {
     "Pokemon": "Ivysaur",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -19,6 +21,7 @@
   },
   {
     "Pokemon": "Venusaur",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -28,6 +31,7 @@
   },
   {
     "Pokemon": "Charmander",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "1",
@@ -37,6 +41,7 @@
   },
   {
     "Pokemon": "Charmeleon",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "1",
@@ -46,6 +51,7 @@
   },
   {
     "Pokemon": "Charizard",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -55,6 +61,7 @@
   },
   {
     "Pokemon": "Squirtle",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -64,6 +71,7 @@
   },
   {
     "Pokemon": "Wartortle",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -73,6 +81,7 @@
   },
   {
     "Pokemon": "Blastoise",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -82,6 +91,7 @@
   },
   {
     "Pokemon": "Caterpie",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "1",
@@ -91,6 +101,7 @@
   },
   {
     "Pokemon": "Metapod",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "1",
@@ -100,6 +111,7 @@
   },
   {
     "Pokemon": "Butterfree",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -109,6 +121,7 @@
   },
   {
     "Pokemon": "Weedle",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -118,6 +131,7 @@
   },
   {
     "Pokemon": "Kakuna",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -127,6 +141,7 @@
   },
   {
     "Pokemon": "Beedrill",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -136,6 +151,7 @@
   },
   {
     "Pokemon": "Pidgey",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -145,6 +161,7 @@
   },
   {
     "Pokemon": "Pidgeotto",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -154,6 +171,7 @@
   },
   {
     "Pokemon": "Pidgeot",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -163,6 +181,7 @@
   },
   {
     "Pokemon": "Rattata",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "1",
@@ -172,6 +191,7 @@
   },
   {
     "Pokemon": "Rattata Alola",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Normal",
     "Gen": "7",
@@ -181,6 +201,7 @@
   },
   {
     "Pokemon": "Raticate",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "1",
@@ -190,6 +211,7 @@
   },
   {
     "Pokemon": "Raticate Alola",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Normal",
     "Gen": "7",
@@ -199,6 +221,7 @@
   },
   {
     "Pokemon": "Spearow",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -208,6 +231,7 @@
   },
   {
     "Pokemon": "Fearow",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -217,6 +241,7 @@
   },
   {
     "Pokemon": "Ekans",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "1",
@@ -226,6 +251,7 @@
   },
   {
     "Pokemon": "Arbok",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "1",
@@ -235,6 +261,7 @@
   },
   {
     "Pokemon": "Pikachu",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "1",
@@ -244,6 +271,7 @@
   },
   {
     "Pokemon": "Raichu",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "1",
@@ -253,6 +281,7 @@
   },
   {
     "Pokemon": "Raichu Alola",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Psiquico",
     "Gen": "7",
@@ -262,6 +291,7 @@
   },
   {
     "Pokemon": "Sandshrew",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "1",
@@ -271,6 +301,7 @@
   },
   {
     "Pokemon": "Sandshrew Alola",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Acero",
     "Gen": "7",
@@ -280,6 +311,7 @@
   },
   {
     "Pokemon": "Sandslash",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "1",
@@ -289,6 +321,7 @@
   },
   {
     "Pokemon": "Sandslash Alola",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Acero",
     "Gen": "7",
@@ -298,6 +331,7 @@
   },
   {
     "Pokemon": "Nidoran♀",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "1",
@@ -307,6 +341,7 @@
   },
   {
     "Pokemon": "Nidorina",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "1",
@@ -316,6 +351,7 @@
   },
   {
     "Pokemon": "Nidoqueen",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Tierra",
     "Gen": "1",
@@ -325,6 +361,7 @@
   },
   {
     "Pokemon": "Nidoran♂",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "1",
@@ -334,6 +371,7 @@
   },
   {
     "Pokemon": "Nidorino",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "1",
@@ -343,6 +381,7 @@
   },
   {
     "Pokemon": "Nidoking",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Tierra",
     "Gen": "1",
@@ -352,6 +391,7 @@
   },
   {
     "Pokemon": "Clefairy",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "1",
@@ -361,6 +401,7 @@
   },
   {
     "Pokemon": "Clefable",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "1",
@@ -370,6 +411,7 @@
   },
   {
     "Pokemon": "Vulpix",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "1",
@@ -379,6 +421,7 @@
   },
   {
     "Pokemon": "Vulpix Alola",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "7",
@@ -388,6 +431,7 @@
   },
   {
     "Pokemon": "Ninetales",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "1",
@@ -397,6 +441,7 @@
   },
   {
     "Pokemon": "Ninetales Alola",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Hada",
     "Gen": "7",
@@ -406,6 +451,7 @@
   },
   {
     "Pokemon": "Jigglypuff",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Hada",
     "Gen": "1",
@@ -415,6 +461,7 @@
   },
   {
     "Pokemon": "Wigglytuff",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Hada",
     "Gen": "1",
@@ -424,6 +471,7 @@
   },
   {
     "Pokemon": "Zubat",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -433,6 +481,7 @@
   },
   {
     "Pokemon": "Golbat",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -442,6 +491,7 @@
   },
   {
     "Pokemon": "Oddish",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -451,6 +501,7 @@
   },
   {
     "Pokemon": "Gloom",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -460,6 +511,7 @@
   },
   {
     "Pokemon": "Vileplume",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -469,6 +521,7 @@
   },
   {
     "Pokemon": "Paras",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Planta",
     "Gen": "1",
@@ -478,6 +531,7 @@
   },
   {
     "Pokemon": "Parasect",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Planta",
     "Gen": "1",
@@ -487,6 +541,7 @@
   },
   {
     "Pokemon": "Venonat",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -496,6 +551,7 @@
   },
   {
     "Pokemon": "Venomoth",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -505,6 +561,7 @@
   },
   {
     "Pokemon": "Diglett",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "1",
@@ -514,6 +571,7 @@
   },
   {
     "Pokemon": "Diglett Alola",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Acero",
     "Gen": "7",
@@ -523,6 +581,7 @@
   },
   {
     "Pokemon": "Dugtrio",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "1",
@@ -532,6 +591,7 @@
   },
   {
     "Pokemon": "Dugtrio Alola",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Acero",
     "Gen": "7",
@@ -541,6 +601,7 @@
   },
   {
     "Pokemon": "Meowth",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "1",
@@ -550,6 +611,7 @@
   },
   {
     "Pokemon": "Meowth Alola",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "",
     "Gen": "7",
@@ -559,6 +621,7 @@
   },
   {
     "Pokemon": "Meowth Galar",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "",
     "Gen": "8",
@@ -568,6 +631,7 @@
   },
   {
     "Pokemon": "Persian",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "1",
@@ -577,6 +641,7 @@
   },
   {
     "Pokemon": "Persian Alola",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "",
     "Gen": "7",
@@ -586,6 +651,7 @@
   },
   {
     "Pokemon": "Psyduck",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -595,6 +661,7 @@
   },
   {
     "Pokemon": "Golduck",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -604,6 +671,7 @@
   },
   {
     "Pokemon": "Mankey",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "1",
@@ -613,6 +681,7 @@
   },
   {
     "Pokemon": "Primeape",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "1",
@@ -622,6 +691,7 @@
   },
   {
     "Pokemon": "Growlithe",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "1",
@@ -631,6 +701,7 @@
   },
   {
     "Pokemon": "Growlithe Hisui",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Roca",
     "Gen": "8",
@@ -640,6 +711,7 @@
   },
   {
     "Pokemon": "Arcanine",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "1",
@@ -649,6 +721,7 @@
   },
   {
     "Pokemon": "Arcanine Hisui",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Roca",
     "Gen": "8",
@@ -658,6 +731,7 @@
   },
   {
     "Pokemon": "Poliwag",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -667,6 +741,7 @@
   },
   {
     "Pokemon": "Poliwhirl",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -676,6 +751,7 @@
   },
   {
     "Pokemon": "Poliwrath",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Lucha",
     "Gen": "1",
@@ -685,6 +761,7 @@
   },
   {
     "Pokemon": "Abra",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "1",
@@ -694,6 +771,7 @@
   },
   {
     "Pokemon": "Kadabra",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "1",
@@ -703,6 +781,7 @@
   },
   {
     "Pokemon": "Alakazam",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "1",
@@ -712,6 +791,7 @@
   },
   {
     "Pokemon": "Machop",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "1",
@@ -721,6 +801,7 @@
   },
   {
     "Pokemon": "Machoke",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "1",
@@ -730,6 +811,7 @@
   },
   {
     "Pokemon": "Machamp",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "1",
@@ -739,6 +821,7 @@
   },
   {
     "Pokemon": "Bellsprout",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -748,6 +831,7 @@
   },
   {
     "Pokemon": "Weepinbell",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -757,6 +841,7 @@
   },
   {
     "Pokemon": "Victreebel",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -766,6 +851,7 @@
   },
   {
     "Pokemon": "Tentacool",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -775,6 +861,7 @@
   },
   {
     "Pokemon": "Tentacruel",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -784,6 +871,7 @@
   },
   {
     "Pokemon": "Geodude",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Tierra",
     "Gen": "1",
@@ -793,6 +881,7 @@
   },
   {
     "Pokemon": "Geodude Alola",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Electrico",
     "Gen": "7",
@@ -802,6 +891,7 @@
   },
   {
     "Pokemon": "Graveler",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Tierra",
     "Gen": "1",
@@ -811,6 +901,7 @@
   },
   {
     "Pokemon": "Graveler Alola",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Electrico",
     "Gen": "7",
@@ -820,6 +911,7 @@
   },
   {
     "Pokemon": "Golem",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Tierra",
     "Gen": "1",
@@ -829,6 +921,7 @@
   },
   {
     "Pokemon": "Golem Alola",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Electrico",
     "Gen": "7",
@@ -838,6 +931,7 @@
   },
   {
     "Pokemon": "Ponyta",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "1",
@@ -847,6 +941,7 @@
   },
   {
     "Pokemon": "Ponyta Galar",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "8",
@@ -856,6 +951,7 @@
   },
   {
     "Pokemon": "Rapidash",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "1",
@@ -865,6 +961,7 @@
   },
   {
     "Pokemon": "Rapidash Galar",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Hada",
     "Gen": "8",
@@ -874,6 +971,7 @@
   },
   {
     "Pokemon": "Slowpoke",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Psiquico",
     "Gen": "1",
@@ -883,6 +981,7 @@
   },
   {
     "Pokemon": "Slowpoke Galar",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "8",
@@ -892,6 +991,7 @@
   },
   {
     "Pokemon": "Slowbro",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Psiquico",
     "Gen": "1",
@@ -901,6 +1001,7 @@
   },
   {
     "Pokemon": "Slowbro Galar",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Psiquico",
     "Gen": "8",
@@ -910,6 +1011,7 @@
   },
   {
     "Pokemon": "Magnemite",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Acero",
     "Gen": "1",
@@ -919,6 +1021,7 @@
   },
   {
     "Pokemon": "Magneton",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Acero",
     "Gen": "1",
@@ -928,6 +1031,7 @@
   },
   {
     "Pokemon": "Farfetch'd",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -937,6 +1041,7 @@
   },
   {
     "Pokemon": "Farfetch'd Galar",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "8",
@@ -946,6 +1051,7 @@
   },
   {
     "Pokemon": "Doduo",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -955,6 +1061,7 @@
   },
   {
     "Pokemon": "Dodrio",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -964,6 +1071,7 @@
   },
   {
     "Pokemon": "Seel",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -973,6 +1081,7 @@
   },
   {
     "Pokemon": "Dewgong",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Hielo",
     "Gen": "1",
@@ -982,6 +1091,7 @@
   },
   {
     "Pokemon": "Grimer",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "1",
@@ -991,6 +1101,7 @@
   },
   {
     "Pokemon": "Grimer Alola",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Siniestro",
     "Gen": "7",
@@ -1000,6 +1111,7 @@
   },
   {
     "Pokemon": "Muk",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "1",
@@ -1009,6 +1121,7 @@
   },
   {
     "Pokemon": "Muk Alola",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Siniestro",
     "Gen": "7",
@@ -1018,6 +1131,7 @@
   },
   {
     "Pokemon": "Shellder",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -1027,6 +1141,7 @@
   },
   {
     "Pokemon": "Cloyster",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Hielo",
     "Gen": "1",
@@ -1036,6 +1151,7 @@
   },
   {
     "Pokemon": "Gastly",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -1045,6 +1161,7 @@
   },
   {
     "Pokemon": "Haunter",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -1054,6 +1171,7 @@
   },
   {
     "Pokemon": "Gengar",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Veneno",
     "Gen": "1",
@@ -1063,6 +1181,7 @@
   },
   {
     "Pokemon": "Onix",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Tierra",
     "Gen": "1",
@@ -1072,6 +1191,7 @@
   },
   {
     "Pokemon": "Drowzee",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "1",
@@ -1081,6 +1201,7 @@
   },
   {
     "Pokemon": "Hypno",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "1",
@@ -1090,6 +1211,7 @@
   },
   {
     "Pokemon": "Krabby",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -1099,6 +1221,7 @@
   },
   {
     "Pokemon": "Kingler",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -1108,6 +1231,7 @@
   },
   {
     "Pokemon": "Voltorb",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "1",
@@ -1117,6 +1241,7 @@
   },
   {
     "Pokemon": "Voltorb Hisui",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Planta",
     "Gen": "8",
@@ -1126,6 +1251,7 @@
   },
   {
     "Pokemon": "Electrode",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "1",
@@ -1135,6 +1261,7 @@
   },
   {
     "Pokemon": "Electrode Hisui",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Planta",
     "Gen": "8",
@@ -1144,6 +1271,7 @@
   },
   {
     "Pokemon": "Exeggcute",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Psiquico",
     "Gen": "1",
@@ -1153,6 +1281,7 @@
   },
   {
     "Pokemon": "Exeggutor",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Psiquico",
     "Gen": "1",
@@ -1162,6 +1291,7 @@
   },
   {
     "Pokemon": "Exeggutor Alola",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Dragon",
     "Gen": "7",
@@ -1171,6 +1301,7 @@
   },
   {
     "Pokemon": "Cubone",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "1",
@@ -1180,6 +1311,7 @@
   },
   {
     "Pokemon": "Marowak",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "1",
@@ -1189,6 +1321,7 @@
   },
   {
     "Pokemon": "Marowak Alola",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Fantasma",
     "Gen": "7",
@@ -1198,6 +1331,7 @@
   },
   {
     "Pokemon": "Hitmonlee",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "1",
@@ -1207,6 +1341,7 @@
   },
   {
     "Pokemon": "Hitmonchan",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "1",
@@ -1216,6 +1351,7 @@
   },
   {
     "Pokemon": "Lickitung",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "1",
@@ -1225,6 +1361,7 @@
   },
   {
     "Pokemon": "Koffing",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "1",
@@ -1234,6 +1371,7 @@
   },
   {
     "Pokemon": "Weezing",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "1",
@@ -1243,6 +1381,7 @@
   },
   {
     "Pokemon": "Weezing Galar",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Hada",
     "Gen": "8",
@@ -1252,6 +1391,7 @@
   },
   {
     "Pokemon": "Rhyhorn",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Roca",
     "Gen": "1",
@@ -1261,6 +1401,7 @@
   },
   {
     "Pokemon": "Rhydon",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Roca",
     "Gen": "1",
@@ -1270,6 +1411,7 @@
   },
   {
     "Pokemon": "Chansey",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "1",
@@ -1279,6 +1421,7 @@
   },
   {
     "Pokemon": "Tangela",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "1",
@@ -1288,6 +1431,7 @@
   },
   {
     "Pokemon": "Kangaskhan",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "1",
@@ -1297,6 +1441,7 @@
   },
   {
     "Pokemon": "Horsea",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -1306,6 +1451,7 @@
   },
   {
     "Pokemon": "Seadra",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -1315,6 +1461,7 @@
   },
   {
     "Pokemon": "Goldeen",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -1324,6 +1471,7 @@
   },
   {
     "Pokemon": "Seaking",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -1333,6 +1481,7 @@
   },
   {
     "Pokemon": "Staryu",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -1342,6 +1491,7 @@
   },
   {
     "Pokemon": "Starmie",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Psiquico",
     "Gen": "1",
@@ -1351,6 +1501,7 @@
   },
   {
     "Pokemon": "Mr. Mime",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Hada",
     "Gen": "1",
@@ -1360,6 +1511,7 @@
   },
   {
     "Pokemon": "Mr. Mime Galar",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Psiquico",
     "Gen": "8",
@@ -1369,6 +1521,7 @@
   },
   {
     "Pokemon": "Scyther",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -1378,6 +1531,7 @@
   },
   {
     "Pokemon": "Jynx",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Psiquico",
     "Gen": "1",
@@ -1387,6 +1541,7 @@
   },
   {
     "Pokemon": "Electabuzz",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "1",
@@ -1396,6 +1551,7 @@
   },
   {
     "Pokemon": "Magmar",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "1",
@@ -1405,6 +1561,7 @@
   },
   {
     "Pokemon": "Pinsir",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "1",
@@ -1414,6 +1571,7 @@
   },
   {
     "Pokemon": "Tauros",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "1",
@@ -1423,6 +1581,7 @@
   },
   {
     "Pokemon": "Tauros Paldea Variedad Combatiente",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "9",
@@ -1432,6 +1591,7 @@
   },
   {
     "Pokemon": "Tauros Paldea Variedad Ardiente",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Fuego",
     "Gen": "9",
@@ -1441,6 +1601,7 @@
   },
   {
     "Pokemon": "Tauros Paldea Variedad Acuatica",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Agua",
     "Gen": "9",
@@ -1450,6 +1611,7 @@
   },
   {
     "Pokemon": "Magikarp",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -1459,6 +1621,7 @@
   },
   {
     "Pokemon": "Gyarados",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -1468,6 +1631,7 @@
   },
   {
     "Pokemon": "Lapras",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Hielo",
     "Gen": "1",
@@ -1477,6 +1641,7 @@
   },
   {
     "Pokemon": "Ditto",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "1",
@@ -1486,6 +1651,7 @@
   },
   {
     "Pokemon": "Eevee",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "1",
@@ -1495,6 +1661,7 @@
   },
   {
     "Pokemon": "Vaporeon",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "1",
@@ -1504,6 +1671,7 @@
   },
   {
     "Pokemon": "Jolteon",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "1",
@@ -1513,6 +1681,7 @@
   },
   {
     "Pokemon": "Flareon",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "1",
@@ -1522,6 +1691,7 @@
   },
   {
     "Pokemon": "Porygon",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "1",
@@ -1531,6 +1701,7 @@
   },
   {
     "Pokemon": "Omanyte",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Agua",
     "Gen": "1",
@@ -1540,6 +1711,7 @@
   },
   {
     "Pokemon": "Omastar",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Agua",
     "Gen": "1",
@@ -1549,6 +1721,7 @@
   },
   {
     "Pokemon": "Kabuto",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Agua",
     "Gen": "1",
@@ -1558,6 +1731,7 @@
   },
   {
     "Pokemon": "Kabutops",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Agua",
     "Gen": "1",
@@ -1567,6 +1741,7 @@
   },
   {
     "Pokemon": "Aerodactyl",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -1576,6 +1751,7 @@
   },
   {
     "Pokemon": "Snorlax",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "1",
@@ -1585,6 +1761,7 @@
   },
   {
     "Pokemon": "Articuno",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -1594,6 +1771,7 @@
   },
   {
     "Pokemon": "Articuno Galar",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Volador",
     "Gen": "8",
@@ -1603,6 +1781,7 @@
   },
   {
     "Pokemon": "Zapdos",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -1612,6 +1791,7 @@
   },
   {
     "Pokemon": "Zapdos Galar",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Volador",
     "Gen": "8",
@@ -1621,6 +1801,7 @@
   },
   {
     "Pokemon": "Moltres",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -1630,6 +1811,7 @@
   },
   {
     "Pokemon": "Moltres Galar",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Volador",
     "Gen": "8",
@@ -1639,6 +1821,7 @@
   },
   {
     "Pokemon": "Dratini",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "",
     "Gen": "1",
@@ -1648,6 +1831,7 @@
   },
   {
     "Pokemon": "Dragonair",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "",
     "Gen": "1",
@@ -1657,6 +1841,7 @@
   },
   {
     "Pokemon": "Dragonite",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Volador",
     "Gen": "1",
@@ -1666,6 +1851,7 @@
   },
   {
     "Pokemon": "Mewtwo",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "1",
@@ -1675,6 +1861,7 @@
   },
   {
     "Pokemon": "Mew",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "1",
@@ -1684,6 +1871,7 @@
   },
   {
     "Pokemon": "Chikorita",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "2",
@@ -1693,6 +1881,7 @@
   },
   {
     "Pokemon": "Bayleef",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "2",
@@ -1702,6 +1891,7 @@
   },
   {
     "Pokemon": "Meganium",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "2",
@@ -1711,6 +1901,7 @@
   },
   {
     "Pokemon": "Cyndaquil",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "2",
@@ -1720,6 +1911,7 @@
   },
   {
     "Pokemon": "Quilava",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "2",
@@ -1729,6 +1921,7 @@
   },
   {
     "Pokemon": "Typhlosion",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "2",
@@ -1738,6 +1931,7 @@
   },
   {
     "Pokemon": "Typhlosion Hisui",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Fantasma",
     "Gen": "8",
@@ -1747,6 +1941,7 @@
   },
   {
     "Pokemon": "Totodile",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "2",
@@ -1756,6 +1951,7 @@
   },
   {
     "Pokemon": "Croconaw",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "2",
@@ -1765,6 +1961,7 @@
   },
   {
     "Pokemon": "Feraligatr",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "2",
@@ -1774,6 +1971,7 @@
   },
   {
     "Pokemon": "Sentret",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "2",
@@ -1783,6 +1981,7 @@
   },
   {
     "Pokemon": "Furret",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "2",
@@ -1792,6 +1991,7 @@
   },
   {
     "Pokemon": "Hoothoot",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -1801,6 +2001,7 @@
   },
   {
     "Pokemon": "Noctowl",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -1810,6 +2011,7 @@
   },
   {
     "Pokemon": "Ledyba",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -1819,6 +2021,7 @@
   },
   {
     "Pokemon": "Ledian",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -1828,6 +2031,7 @@
   },
   {
     "Pokemon": "Spinarak",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Veneno",
     "Gen": "2",
@@ -1837,6 +2041,7 @@
   },
   {
     "Pokemon": "Ariados",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Veneno",
     "Gen": "2",
@@ -1846,6 +2051,7 @@
   },
   {
     "Pokemon": "Crobat",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -1855,6 +2061,7 @@
   },
   {
     "Pokemon": "Chinchou",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Electrico",
     "Gen": "2",
@@ -1864,6 +2071,7 @@
   },
   {
     "Pokemon": "Lanturn",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Electrico",
     "Gen": "2",
@@ -1873,6 +2081,7 @@
   },
   {
     "Pokemon": "Pichu",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "2",
@@ -1882,6 +2091,7 @@
   },
   {
     "Pokemon": "Cleffa",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "2",
@@ -1891,6 +2101,7 @@
   },
   {
     "Pokemon": "Igglybuff",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Hada",
     "Gen": "2",
@@ -1900,6 +2111,7 @@
   },
   {
     "Pokemon": "Togepi",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "2",
@@ -1909,6 +2121,7 @@
   },
   {
     "Pokemon": "Togetic",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -1918,6 +2131,7 @@
   },
   {
     "Pokemon": "Natu",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -1927,6 +2141,7 @@
   },
   {
     "Pokemon": "Xatu",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -1936,6 +2151,7 @@
   },
   {
     "Pokemon": "Mareep",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "2",
@@ -1945,6 +2161,7 @@
   },
   {
     "Pokemon": "Flaaffy",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "2",
@@ -1954,6 +2171,7 @@
   },
   {
     "Pokemon": "Ampharos",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "2",
@@ -1963,6 +2181,7 @@
   },
   {
     "Pokemon": "Bellossom",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "2",
@@ -1972,6 +2191,7 @@
   },
   {
     "Pokemon": "Marill",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Hada",
     "Gen": "2",
@@ -1981,6 +2201,7 @@
   },
   {
     "Pokemon": "Azumarill",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Hada",
     "Gen": "2",
@@ -1990,6 +2211,7 @@
   },
   {
     "Pokemon": "Sudowoodo",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "2",
@@ -1999,6 +2221,7 @@
   },
   {
     "Pokemon": "Politoed",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "2",
@@ -2008,6 +2231,7 @@
   },
   {
     "Pokemon": "Hoppip",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -2017,6 +2241,7 @@
   },
   {
     "Pokemon": "Skiploom",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -2026,6 +2251,7 @@
   },
   {
     "Pokemon": "Jumpluff",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -2035,6 +2261,7 @@
   },
   {
     "Pokemon": "Aipom",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "2",
@@ -2044,6 +2271,7 @@
   },
   {
     "Pokemon": "Sunkern",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "2",
@@ -2053,6 +2281,7 @@
   },
   {
     "Pokemon": "Sunflora",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "2",
@@ -2062,6 +2291,7 @@
   },
   {
     "Pokemon": "Yanma",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -2071,6 +2301,7 @@
   },
   {
     "Pokemon": "Wooper",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Tierra",
     "Gen": "2",
@@ -2080,6 +2311,7 @@
   },
   {
     "Pokemon": "Wooper Paldea",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Tierra",
     "Gen": "9",
@@ -2089,6 +2321,7 @@
   },
   {
     "Pokemon": "Quagsire",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Tierra",
     "Gen": "2",
@@ -2098,6 +2331,7 @@
   },
   {
     "Pokemon": "Espeon",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "2",
@@ -2107,6 +2341,7 @@
   },
   {
     "Pokemon": "Umbreon",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "",
     "Gen": "2",
@@ -2116,6 +2351,7 @@
   },
   {
     "Pokemon": "Murkrow",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -2125,6 +2361,7 @@
   },
   {
     "Pokemon": "Slowking",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Psiquico",
     "Gen": "2",
@@ -2134,6 +2371,7 @@
   },
   {
     "Pokemon": "Slowking Galar",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Psiquico",
     "Gen": "8",
@@ -2143,6 +2381,7 @@
   },
   {
     "Pokemon": "Misdreavus",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "2",
@@ -2152,6 +2391,7 @@
   },
   {
     "Pokemon": "Unown",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "2",
@@ -2161,6 +2401,7 @@
   },
   {
     "Pokemon": "Wobbuffet",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "2",
@@ -2170,6 +2411,7 @@
   },
   {
     "Pokemon": "Girafarig",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Psiquico",
     "Gen": "2",
@@ -2179,6 +2421,7 @@
   },
   {
     "Pokemon": "Pineco",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "2",
@@ -2188,6 +2431,7 @@
   },
   {
     "Pokemon": "Forretress",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Acero",
     "Gen": "2",
@@ -2197,6 +2441,7 @@
   },
   {
     "Pokemon": "Dunsparce",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "2",
@@ -2206,6 +2451,7 @@
   },
   {
     "Pokemon": "Gligar",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -2215,6 +2461,7 @@
   },
   {
     "Pokemon": "Steelix",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Tierra",
     "Gen": "2",
@@ -2224,6 +2471,7 @@
   },
   {
     "Pokemon": "Snubbull",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "2",
@@ -2233,6 +2481,7 @@
   },
   {
     "Pokemon": "Granbull",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "2",
@@ -2242,6 +2491,7 @@
   },
   {
     "Pokemon": "Qwilfish",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Veneno",
     "Gen": "2",
@@ -2251,6 +2501,7 @@
   },
   {
     "Pokemon": "Qwilfish Hisui",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Veneno",
     "Gen": "8",
@@ -2260,6 +2511,7 @@
   },
   {
     "Pokemon": "Scizor",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Acero",
     "Gen": "2",
@@ -2269,6 +2521,7 @@
   },
   {
     "Pokemon": "Shuckle",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Roca",
     "Gen": "2",
@@ -2278,6 +2531,7 @@
   },
   {
     "Pokemon": "Heracross",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Lucha",
     "Gen": "2",
@@ -2287,6 +2541,7 @@
   },
   {
     "Pokemon": "Sneasel",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Hielo",
     "Gen": "2",
@@ -2296,6 +2551,7 @@
   },
   {
     "Pokemon": "Sneasel Hisui",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Lucha",
     "Gen": "8",
@@ -2305,6 +2561,7 @@
   },
   {
     "Pokemon": "Teddiursa",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "2",
@@ -2314,6 +2571,7 @@
   },
   {
     "Pokemon": "Ursaring",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "2",
@@ -2323,6 +2581,7 @@
   },
   {
     "Pokemon": "Slugma",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "2",
@@ -2332,6 +2591,7 @@
   },
   {
     "Pokemon": "Magcargo",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Roca",
     "Gen": "2",
@@ -2341,6 +2601,7 @@
   },
   {
     "Pokemon": "Swinub",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Tierra",
     "Gen": "2",
@@ -2350,6 +2611,7 @@
   },
   {
     "Pokemon": "Piloswine",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Tierra",
     "Gen": "2",
@@ -2359,6 +2621,7 @@
   },
   {
     "Pokemon": "Corsola",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Roca",
     "Gen": "2",
@@ -2368,6 +2631,7 @@
   },
   {
     "Pokemon": "Corsola Galar",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "8",
@@ -2377,6 +2641,7 @@
   },
   {
     "Pokemon": "Remoraid",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "2",
@@ -2386,6 +2651,7 @@
   },
   {
     "Pokemon": "Octillery",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "2",
@@ -2395,6 +2661,7 @@
   },
   {
     "Pokemon": "Delibird",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -2404,6 +2671,7 @@
   },
   {
     "Pokemon": "Mantine",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -2413,6 +2681,7 @@
   },
   {
     "Pokemon": "Skarmory",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -2422,6 +2691,7 @@
   },
   {
     "Pokemon": "Houndour",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Fuego",
     "Gen": "2",
@@ -2431,6 +2701,7 @@
   },
   {
     "Pokemon": "Houndoom",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Fuego",
     "Gen": "2",
@@ -2440,6 +2711,7 @@
   },
   {
     "Pokemon": "Kingdra",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Dragon",
     "Gen": "2",
@@ -2449,6 +2721,7 @@
   },
   {
     "Pokemon": "Phanpy",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "2",
@@ -2458,6 +2731,7 @@
   },
   {
     "Pokemon": "Donphan",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "2",
@@ -2467,6 +2741,7 @@
   },
   {
     "Pokemon": "Porygon2",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "2",
@@ -2476,6 +2751,7 @@
   },
   {
     "Pokemon": "Stantler",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "2",
@@ -2485,6 +2761,7 @@
   },
   {
     "Pokemon": "Smeargle",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "2",
@@ -2494,6 +2771,7 @@
   },
   {
     "Pokemon": "Tyrogue",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "2",
@@ -2503,6 +2781,7 @@
   },
   {
     "Pokemon": "Hitmontop",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "2",
@@ -2512,6 +2791,7 @@
   },
   {
     "Pokemon": "Smoochum",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Psiquico",
     "Gen": "2",
@@ -2521,6 +2801,7 @@
   },
   {
     "Pokemon": "Elekid",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "2",
@@ -2530,6 +2811,7 @@
   },
   {
     "Pokemon": "Magby",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "2",
@@ -2539,6 +2821,7 @@
   },
   {
     "Pokemon": "Miltank",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "2",
@@ -2548,6 +2831,7 @@
   },
   {
     "Pokemon": "Blissey",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "2",
@@ -2557,6 +2841,7 @@
   },
   {
     "Pokemon": "Raikou",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "2",
@@ -2566,6 +2851,7 @@
   },
   {
     "Pokemon": "Entei",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "2",
@@ -2575,6 +2861,7 @@
   },
   {
     "Pokemon": "Suicune",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "2",
@@ -2584,6 +2871,7 @@
   },
   {
     "Pokemon": "Larvitar",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Tierra",
     "Gen": "2",
@@ -2593,6 +2881,7 @@
   },
   {
     "Pokemon": "Pupitar",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Tierra",
     "Gen": "2",
@@ -2602,6 +2891,7 @@
   },
   {
     "Pokemon": "Tyranitar",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Siniestro",
     "Gen": "2",
@@ -2611,6 +2901,7 @@
   },
   {
     "Pokemon": "Lugia",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -2620,6 +2911,7 @@
   },
   {
     "Pokemon": "Ho-Oh",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Volador",
     "Gen": "2",
@@ -2629,6 +2921,7 @@
   },
   {
     "Pokemon": "Celebi",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Planta",
     "Gen": "2",
@@ -2638,6 +2931,7 @@
   },
   {
     "Pokemon": "Treecko",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "3",
@@ -2647,6 +2941,7 @@
   },
   {
     "Pokemon": "Grovyle",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "3",
@@ -2656,6 +2951,7 @@
   },
   {
     "Pokemon": "Sceptile",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "3",
@@ -2665,6 +2961,7 @@
   },
   {
     "Pokemon": "Torchic",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "3",
@@ -2674,6 +2971,7 @@
   },
   {
     "Pokemon": "Combusken",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Lucha",
     "Gen": "3",
@@ -2683,6 +2981,7 @@
   },
   {
     "Pokemon": "Blaziken",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Lucha",
     "Gen": "3",
@@ -2692,6 +2991,7 @@
   },
   {
     "Pokemon": "Mudkip",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "3",
@@ -2701,6 +3001,7 @@
   },
   {
     "Pokemon": "Marshtomp",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Tierra",
     "Gen": "3",
@@ -2710,6 +3011,7 @@
   },
   {
     "Pokemon": "Swampert",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Tierra",
     "Gen": "3",
@@ -2719,6 +3021,7 @@
   },
   {
     "Pokemon": "Poochyena",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "",
     "Gen": "3",
@@ -2728,6 +3031,7 @@
   },
   {
     "Pokemon": "Mightyena",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "",
     "Gen": "3",
@@ -2737,6 +3041,7 @@
   },
   {
     "Pokemon": "Zigzagoon",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "3",
@@ -2746,6 +3051,7 @@
   },
   {
     "Pokemon": "Linoone",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "3",
@@ -2755,6 +3061,7 @@
   },
   {
     "Pokemon": "Wurmple",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "3",
@@ -2764,6 +3071,7 @@
   },
   {
     "Pokemon": "Silcoon",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "3",
@@ -2773,6 +3081,7 @@
   },
   {
     "Pokemon": "Beautifly",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Volador",
     "Gen": "3",
@@ -2782,6 +3091,7 @@
   },
   {
     "Pokemon": "Cascoon",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "3",
@@ -2791,6 +3101,7 @@
   },
   {
     "Pokemon": "Dustox",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Veneno",
     "Gen": "3",
@@ -2800,6 +3111,7 @@
   },
   {
     "Pokemon": "Lotad",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Planta",
     "Gen": "3",
@@ -2809,6 +3121,7 @@
   },
   {
     "Pokemon": "Lombre",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Planta",
     "Gen": "3",
@@ -2818,6 +3131,7 @@
   },
   {
     "Pokemon": "Ludicolo",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Planta",
     "Gen": "3",
@@ -2827,6 +3141,7 @@
   },
   {
     "Pokemon": "Seedot",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "3",
@@ -2836,6 +3151,7 @@
   },
   {
     "Pokemon": "Zigzagoon Galar",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Normal",
     "Gen": "8",
@@ -2845,6 +3161,7 @@
   },
   {
     "Pokemon": "Nuzleaf",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Siniestro",
     "Gen": "3",
@@ -2854,6 +3171,7 @@
   },
   {
     "Pokemon": "Linoone Galar",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Normal",
     "Gen": "8",
@@ -2863,6 +3181,7 @@
   },
   {
     "Pokemon": "Shiftry",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Siniestro",
     "Gen": "3",
@@ -2872,6 +3191,7 @@
   },
   {
     "Pokemon": "Taillow",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "3",
@@ -2881,6 +3201,7 @@
   },
   {
     "Pokemon": "Swellow",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "3",
@@ -2890,6 +3211,7 @@
   },
   {
     "Pokemon": "Wingull",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Volador",
     "Gen": "3",
@@ -2899,6 +3221,7 @@
   },
   {
     "Pokemon": "Pelipper",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Volador",
     "Gen": "3",
@@ -2908,6 +3231,7 @@
   },
   {
     "Pokemon": "Ralts",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Hada",
     "Gen": "3",
@@ -2917,6 +3241,7 @@
   },
   {
     "Pokemon": "Kirlia",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Hada",
     "Gen": "3",
@@ -2926,6 +3251,7 @@
   },
   {
     "Pokemon": "Gardevoir",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Hada",
     "Gen": "3",
@@ -2935,6 +3261,7 @@
   },
   {
     "Pokemon": "Surskit",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Agua",
     "Gen": "3",
@@ -2944,6 +3271,7 @@
   },
   {
     "Pokemon": "Masquerain",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Volador",
     "Gen": "3",
@@ -2953,6 +3281,7 @@
   },
   {
     "Pokemon": "Shroomish",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "3",
@@ -2962,6 +3291,7 @@
   },
   {
     "Pokemon": "Breloom",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Lucha",
     "Gen": "3",
@@ -2971,6 +3301,7 @@
   },
   {
     "Pokemon": "Slakoth",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "3",
@@ -2980,6 +3311,7 @@
   },
   {
     "Pokemon": "Vigoroth",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "3",
@@ -2989,6 +3321,7 @@
   },
   {
     "Pokemon": "Slaking",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "3",
@@ -2998,6 +3331,7 @@
   },
   {
     "Pokemon": "Nincada",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Tierra",
     "Gen": "3",
@@ -3007,6 +3341,7 @@
   },
   {
     "Pokemon": "Ninjask",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Volador",
     "Gen": "3",
@@ -3016,6 +3351,7 @@
   },
   {
     "Pokemon": "Shedinja",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Fantasma",
     "Gen": "3",
@@ -3025,6 +3361,7 @@
   },
   {
     "Pokemon": "Whismur",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "3",
@@ -3034,6 +3371,7 @@
   },
   {
     "Pokemon": "Loudred",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "3",
@@ -3043,6 +3381,7 @@
   },
   {
     "Pokemon": "Exploud",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "3",
@@ -3052,6 +3391,7 @@
   },
   {
     "Pokemon": "Makuhita",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "3",
@@ -3061,6 +3401,7 @@
   },
   {
     "Pokemon": "Hariyama",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "3",
@@ -3070,6 +3411,7 @@
   },
   {
     "Pokemon": "Azurill",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Hada",
     "Gen": "3",
@@ -3079,6 +3421,7 @@
   },
   {
     "Pokemon": "Nosepass",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "3",
@@ -3088,6 +3431,7 @@
   },
   {
     "Pokemon": "Skitty",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "3",
@@ -3097,6 +3441,7 @@
   },
   {
     "Pokemon": "Delcatty",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "3",
@@ -3106,6 +3451,7 @@
   },
   {
     "Pokemon": "Sableye",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Fantasma",
     "Gen": "3",
@@ -3115,6 +3461,7 @@
   },
   {
     "Pokemon": "Mawile",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Hada",
     "Gen": "3",
@@ -3124,6 +3471,7 @@
   },
   {
     "Pokemon": "Aron",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Roca",
     "Gen": "3",
@@ -3133,6 +3481,7 @@
   },
   {
     "Pokemon": "Lairon",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Roca",
     "Gen": "3",
@@ -3142,6 +3491,7 @@
   },
   {
     "Pokemon": "Aggron",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Roca",
     "Gen": "3",
@@ -3151,6 +3501,7 @@
   },
   {
     "Pokemon": "Meditite",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Psiquico",
     "Gen": "3",
@@ -3160,6 +3511,7 @@
   },
   {
     "Pokemon": "Medicham",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Psiquico",
     "Gen": "3",
@@ -3169,6 +3521,7 @@
   },
   {
     "Pokemon": "Electrike",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "3",
@@ -3178,6 +3531,7 @@
   },
   {
     "Pokemon": "Manectric",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "3",
@@ -3187,6 +3541,7 @@
   },
   {
     "Pokemon": "Plusle",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "3",
@@ -3196,6 +3551,7 @@
   },
   {
     "Pokemon": "Minun",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "3",
@@ -3205,6 +3561,7 @@
   },
   {
     "Pokemon": "Volbeat",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "3",
@@ -3214,6 +3571,7 @@
   },
   {
     "Pokemon": "Illumise",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "3",
@@ -3223,6 +3581,7 @@
   },
   {
     "Pokemon": "Roselia",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Veneno",
     "Gen": "3",
@@ -3232,6 +3591,7 @@
   },
   {
     "Pokemon": "Gulpin",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "3",
@@ -3241,6 +3601,7 @@
   },
   {
     "Pokemon": "Swalot",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "3",
@@ -3250,6 +3611,7 @@
   },
   {
     "Pokemon": "Carvanha",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Siniestro",
     "Gen": "3",
@@ -3259,6 +3621,7 @@
   },
   {
     "Pokemon": "Sharpedo",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Siniestro",
     "Gen": "3",
@@ -3268,6 +3631,7 @@
   },
   {
     "Pokemon": "Wailmer",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "3",
@@ -3277,6 +3641,7 @@
   },
   {
     "Pokemon": "Wailord",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "3",
@@ -3286,6 +3651,7 @@
   },
   {
     "Pokemon": "Numel",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Tierra",
     "Gen": "3",
@@ -3295,6 +3661,7 @@
   },
   {
     "Pokemon": "Camerupt",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Tierra",
     "Gen": "3",
@@ -3304,6 +3671,7 @@
   },
   {
     "Pokemon": "Torkoal",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "3",
@@ -3313,6 +3681,7 @@
   },
   {
     "Pokemon": "Spoink",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "3",
@@ -3322,6 +3691,7 @@
   },
   {
     "Pokemon": "Grumpig",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "3",
@@ -3331,6 +3701,7 @@
   },
   {
     "Pokemon": "Spinda",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "3",
@@ -3340,6 +3711,7 @@
   },
   {
     "Pokemon": "Trapinch",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "3",
@@ -3349,6 +3721,7 @@
   },
   {
     "Pokemon": "Vibrava",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Dragon",
     "Gen": "3",
@@ -3358,6 +3731,7 @@
   },
   {
     "Pokemon": "Flygon",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Dragon",
     "Gen": "3",
@@ -3367,6 +3741,7 @@
   },
   {
     "Pokemon": "Cacnea",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "3",
@@ -3376,6 +3751,7 @@
   },
   {
     "Pokemon": "Cacturne",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Siniestro",
     "Gen": "3",
@@ -3385,6 +3761,7 @@
   },
   {
     "Pokemon": "Swablu",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "3",
@@ -3394,6 +3771,7 @@
   },
   {
     "Pokemon": "Altaria",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Volador",
     "Gen": "3",
@@ -3403,6 +3781,7 @@
   },
   {
     "Pokemon": "Zangoose",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "3",
@@ -3412,6 +3791,7 @@
   },
   {
     "Pokemon": "Seviper",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "3",
@@ -3421,6 +3801,7 @@
   },
   {
     "Pokemon": "Lunatone",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Psiquico",
     "Gen": "3",
@@ -3430,6 +3811,7 @@
   },
   {
     "Pokemon": "Solrock",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Psiquico",
     "Gen": "3",
@@ -3439,6 +3821,7 @@
   },
   {
     "Pokemon": "Barboach",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Tierra",
     "Gen": "3",
@@ -3448,6 +3831,7 @@
   },
   {
     "Pokemon": "Whiscash",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Tierra",
     "Gen": "3",
@@ -3457,6 +3841,7 @@
   },
   {
     "Pokemon": "Corphish",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "3",
@@ -3466,6 +3851,7 @@
   },
   {
     "Pokemon": "Crawdaunt",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Siniestro",
     "Gen": "3",
@@ -3475,6 +3861,7 @@
   },
   {
     "Pokemon": "Baltoy",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Psiquico",
     "Gen": "3",
@@ -3484,6 +3871,7 @@
   },
   {
     "Pokemon": "Claydol",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Psiquico",
     "Gen": "3",
@@ -3493,6 +3881,7 @@
   },
   {
     "Pokemon": "Lileep",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Planta",
     "Gen": "3",
@@ -3502,6 +3891,7 @@
   },
   {
     "Pokemon": "Cradily",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Planta",
     "Gen": "3",
@@ -3511,6 +3901,7 @@
   },
   {
     "Pokemon": "Anorith",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Bicho",
     "Gen": "3",
@@ -3520,6 +3911,7 @@
   },
   {
     "Pokemon": "Armaldo",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Bicho",
     "Gen": "3",
@@ -3529,6 +3921,7 @@
   },
   {
     "Pokemon": "Feebas",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "3",
@@ -3538,6 +3931,7 @@
   },
   {
     "Pokemon": "Milotic",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "3",
@@ -3547,6 +3941,7 @@
   },
   {
     "Pokemon": "Castform",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "3",
@@ -3556,6 +3951,7 @@
   },
   {
     "Pokemon": "Kecleon",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "3",
@@ -3565,6 +3961,7 @@
   },
   {
     "Pokemon": "Shuppet",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "3",
@@ -3574,6 +3971,7 @@
   },
   {
     "Pokemon": "Banette",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "3",
@@ -3583,6 +3981,7 @@
   },
   {
     "Pokemon": "Duskull",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "3",
@@ -3592,6 +3991,7 @@
   },
   {
     "Pokemon": "Dusclops",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "3",
@@ -3601,6 +4001,7 @@
   },
   {
     "Pokemon": "Tropius",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Volador",
     "Gen": "3",
@@ -3610,6 +4011,7 @@
   },
   {
     "Pokemon": "Chimecho",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "3",
@@ -3619,6 +4021,7 @@
   },
   {
     "Pokemon": "Absol",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "",
     "Gen": "3",
@@ -3628,6 +4031,7 @@
   },
   {
     "Pokemon": "Wynaut",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "3",
@@ -3637,6 +4041,7 @@
   },
   {
     "Pokemon": "Snorunt",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "3",
@@ -3646,6 +4051,7 @@
   },
   {
     "Pokemon": "Glalie",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "3",
@@ -3655,6 +4061,7 @@
   },
   {
     "Pokemon": "Spheal",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Agua",
     "Gen": "3",
@@ -3664,6 +4071,7 @@
   },
   {
     "Pokemon": "Sealeo",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Agua",
     "Gen": "3",
@@ -3673,6 +4081,7 @@
   },
   {
     "Pokemon": "Walrein",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Agua",
     "Gen": "3",
@@ -3682,6 +4091,7 @@
   },
   {
     "Pokemon": "Clamperl",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "3",
@@ -3691,6 +4101,7 @@
   },
   {
     "Pokemon": "Huntail",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "3",
@@ -3700,6 +4111,7 @@
   },
   {
     "Pokemon": "Gorebyss",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "3",
@@ -3709,6 +4121,7 @@
   },
   {
     "Pokemon": "Relicanth",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Roca",
     "Gen": "3",
@@ -3718,6 +4131,7 @@
   },
   {
     "Pokemon": "Luvdisc",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "3",
@@ -3727,6 +4141,7 @@
   },
   {
     "Pokemon": "Bagon",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "",
     "Gen": "3",
@@ -3736,6 +4151,7 @@
   },
   {
     "Pokemon": "Shelgon",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "",
     "Gen": "3",
@@ -3745,6 +4161,7 @@
   },
   {
     "Pokemon": "Salamence",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Volador",
     "Gen": "3",
@@ -3754,6 +4171,7 @@
   },
   {
     "Pokemon": "Beldum",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Psiquico",
     "Gen": "3",
@@ -3763,6 +4181,7 @@
   },
   {
     "Pokemon": "Metang",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Psiquico",
     "Gen": "3",
@@ -3772,6 +4191,7 @@
   },
   {
     "Pokemon": "Metagross",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Psiquico",
     "Gen": "3",
@@ -3781,6 +4201,7 @@
   },
   {
     "Pokemon": "Regirock",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "3",
@@ -3790,6 +4211,7 @@
   },
   {
     "Pokemon": "Regice",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "3",
@@ -3799,6 +4221,7 @@
   },
   {
     "Pokemon": "Registeel",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "",
     "Gen": "3",
@@ -3808,6 +4231,7 @@
   },
   {
     "Pokemon": "Latias",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Psiquico",
     "Gen": "3",
@@ -3817,6 +4241,7 @@
   },
   {
     "Pokemon": "Latios",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Psiquico",
     "Gen": "3",
@@ -3826,6 +4251,7 @@
   },
   {
     "Pokemon": "Kyogre",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "3",
@@ -3835,6 +4261,7 @@
   },
   {
     "Pokemon": "Groudon",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "3",
@@ -3844,6 +4271,7 @@
   },
   {
     "Pokemon": "Rayquaza",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Volador",
     "Gen": "3",
@@ -3853,6 +4281,7 @@
   },
   {
     "Pokemon": "Jirachi",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Psiquico",
     "Gen": "3",
@@ -3862,6 +4291,7 @@
   },
   {
     "Pokemon": "Deoxys",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "3",
@@ -3871,6 +4301,7 @@
   },
   {
     "Pokemon": "Turtwig",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "4",
@@ -3880,6 +4311,7 @@
   },
   {
     "Pokemon": "Grotle",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "4",
@@ -3889,6 +4321,7 @@
   },
   {
     "Pokemon": "Torterra",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Tierra",
     "Gen": "4",
@@ -3898,6 +4331,7 @@
   },
   {
     "Pokemon": "Chimchar",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "4",
@@ -3907,6 +4341,7 @@
   },
   {
     "Pokemon": "Monferno",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Lucha",
     "Gen": "4",
@@ -3916,6 +4351,7 @@
   },
   {
     "Pokemon": "Infernape",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Lucha",
     "Gen": "4",
@@ -3925,6 +4361,7 @@
   },
   {
     "Pokemon": "Piplup",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "4",
@@ -3934,6 +4371,7 @@
   },
   {
     "Pokemon": "Prinplup",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "4",
@@ -3943,6 +4381,7 @@
   },
   {
     "Pokemon": "Empoleon",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Acero",
     "Gen": "4",
@@ -3952,6 +4391,7 @@
   },
   {
     "Pokemon": "Starly",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "4",
@@ -3961,6 +4401,7 @@
   },
   {
     "Pokemon": "Staravia",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "4",
@@ -3970,6 +4411,7 @@
   },
   {
     "Pokemon": "Staraptor",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "4",
@@ -3979,6 +4421,7 @@
   },
   {
     "Pokemon": "Bidoof",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "4",
@@ -3988,6 +4431,7 @@
   },
   {
     "Pokemon": "Bibarel",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Agua",
     "Gen": "4",
@@ -3997,6 +4441,7 @@
   },
   {
     "Pokemon": "Kricketot",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "4",
@@ -4006,6 +4451,7 @@
   },
   {
     "Pokemon": "Kricketune",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "4",
@@ -4015,6 +4461,7 @@
   },
   {
     "Pokemon": "Shinx",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "4",
@@ -4024,6 +4471,7 @@
   },
   {
     "Pokemon": "Luxio",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "4",
@@ -4033,6 +4481,7 @@
   },
   {
     "Pokemon": "Luxray",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "4",
@@ -4042,6 +4491,7 @@
   },
   {
     "Pokemon": "Budew",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Veneno",
     "Gen": "4",
@@ -4051,6 +4501,7 @@
   },
   {
     "Pokemon": "Roserade",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Veneno",
     "Gen": "4",
@@ -4060,6 +4511,7 @@
   },
   {
     "Pokemon": "Cranidos",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "4",
@@ -4069,6 +4521,7 @@
   },
   {
     "Pokemon": "Rampardos",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "4",
@@ -4078,6 +4531,7 @@
   },
   {
     "Pokemon": "Shieldon",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Acero",
     "Gen": "4",
@@ -4087,6 +4541,7 @@
   },
   {
     "Pokemon": "Bastiodon",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Acero",
     "Gen": "4",
@@ -4096,6 +4551,7 @@
   },
   {
     "Pokemon": "Burmy",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "4",
@@ -4105,6 +4561,7 @@
   },
   {
     "Pokemon": "Wormadam Tronco Planta",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Planta",
     "Gen": "4",
@@ -4114,6 +4571,7 @@
   },
   {
     "Pokemon": "Wormadam Tronco Arena",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Tierra",
     "Gen": "4",
@@ -4123,6 +4581,7 @@
   },
   {
     "Pokemon": "Wormadam Tronco Basura",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Acero",
     "Gen": "4",
@@ -4132,6 +4591,7 @@
   },
   {
     "Pokemon": "Mothim",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Volador",
     "Gen": "4",
@@ -4141,6 +4601,7 @@
   },
   {
     "Pokemon": "Combee",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Volador",
     "Gen": "4",
@@ -4150,6 +4611,7 @@
   },
   {
     "Pokemon": "Vespiquen",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Volador",
     "Gen": "4",
@@ -4159,6 +4621,7 @@
   },
   {
     "Pokemon": "Pachirisu",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "4",
@@ -4168,6 +4631,7 @@
   },
   {
     "Pokemon": "Buizel",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "4",
@@ -4177,6 +4641,7 @@
   },
   {
     "Pokemon": "Floatzel",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "4",
@@ -4186,6 +4651,7 @@
   },
   {
     "Pokemon": "Cherubi",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "4",
@@ -4195,6 +4661,7 @@
   },
   {
     "Pokemon": "Cherrim",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "4",
@@ -4204,6 +4671,7 @@
   },
   {
     "Pokemon": "Shellos",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "4",
@@ -4213,6 +4681,7 @@
   },
   {
     "Pokemon": "Gastrodon",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Tierra",
     "Gen": "4",
@@ -4222,6 +4691,7 @@
   },
   {
     "Pokemon": "Ambipom",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "4",
@@ -4231,6 +4701,7 @@
   },
   {
     "Pokemon": "Drifloon",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Volador",
     "Gen": "4",
@@ -4240,6 +4711,7 @@
   },
   {
     "Pokemon": "Drifblim",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Volador",
     "Gen": "4",
@@ -4249,6 +4721,7 @@
   },
   {
     "Pokemon": "Buneary",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "4",
@@ -4258,6 +4731,7 @@
   },
   {
     "Pokemon": "Lopunny",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "4",
@@ -4267,6 +4741,7 @@
   },
   {
     "Pokemon": "Mismagius",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "4",
@@ -4276,6 +4751,7 @@
   },
   {
     "Pokemon": "Honchkrow",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Volador",
     "Gen": "4",
@@ -4285,6 +4761,7 @@
   },
   {
     "Pokemon": "Glameow",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "4",
@@ -4294,6 +4771,7 @@
   },
   {
     "Pokemon": "Purugly",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "4",
@@ -4303,6 +4781,7 @@
   },
   {
     "Pokemon": "Chingling",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "4",
@@ -4312,6 +4791,7 @@
   },
   {
     "Pokemon": "Stunky",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Siniestro",
     "Gen": "4",
@@ -4321,6 +4801,7 @@
   },
   {
     "Pokemon": "Skuntank",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Siniestro",
     "Gen": "4",
@@ -4330,6 +4811,7 @@
   },
   {
     "Pokemon": "Bronzor",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Psiquico",
     "Gen": "4",
@@ -4339,6 +4821,7 @@
   },
   {
     "Pokemon": "Bronzong",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Psiquico",
     "Gen": "4",
@@ -4348,6 +4831,7 @@
   },
   {
     "Pokemon": "Bonsly",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "4",
@@ -4357,6 +4841,7 @@
   },
   {
     "Pokemon": "Mime Jr.",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Hada",
     "Gen": "4",
@@ -4366,6 +4851,7 @@
   },
   {
     "Pokemon": "Happiny",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "4",
@@ -4375,6 +4861,7 @@
   },
   {
     "Pokemon": "Chatot",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "4",
@@ -4384,6 +4871,7 @@
   },
   {
     "Pokemon": "Spiritomb",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Siniestro",
     "Gen": "4",
@@ -4393,6 +4881,7 @@
   },
   {
     "Pokemon": "Gible",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Tierra",
     "Gen": "4",
@@ -4402,6 +4891,7 @@
   },
   {
     "Pokemon": "Gabite",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Tierra",
     "Gen": "4",
@@ -4411,6 +4901,7 @@
   },
   {
     "Pokemon": "Garchomp",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Tierra",
     "Gen": "4",
@@ -4420,6 +4911,7 @@
   },
   {
     "Pokemon": "Munchlax",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "4",
@@ -4429,6 +4921,7 @@
   },
   {
     "Pokemon": "Riolu",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "4",
@@ -4438,6 +4931,7 @@
   },
   {
     "Pokemon": "Lucario",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Acero",
     "Gen": "4",
@@ -4447,6 +4941,7 @@
   },
   {
     "Pokemon": "Hippopotas",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "4",
@@ -4456,6 +4951,7 @@
   },
   {
     "Pokemon": "Hippowdon",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "4",
@@ -4465,6 +4961,7 @@
   },
   {
     "Pokemon": "Skorupi",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Bicho",
     "Gen": "4",
@@ -4474,6 +4971,7 @@
   },
   {
     "Pokemon": "Drapion",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Siniestro",
     "Gen": "4",
@@ -4483,6 +4981,7 @@
   },
   {
     "Pokemon": "Croagunk",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Lucha",
     "Gen": "4",
@@ -4492,6 +4991,7 @@
   },
   {
     "Pokemon": "Toxicroak",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Lucha",
     "Gen": "4",
@@ -4501,6 +5001,7 @@
   },
   {
     "Pokemon": "Carnivine",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "4",
@@ -4510,6 +5011,7 @@
   },
   {
     "Pokemon": "Finneon",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "4",
@@ -4519,6 +5021,7 @@
   },
   {
     "Pokemon": "Lumineon",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "4",
@@ -4528,6 +5031,7 @@
   },
   {
     "Pokemon": "Mantyke",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Volador",
     "Gen": "4",
@@ -4537,6 +5041,7 @@
   },
   {
     "Pokemon": "Snover",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Hielo",
     "Gen": "4",
@@ -4546,6 +5051,7 @@
   },
   {
     "Pokemon": "Abomasnow",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Hielo",
     "Gen": "4",
@@ -4555,6 +5061,7 @@
   },
   {
     "Pokemon": "Weavile",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Hielo",
     "Gen": "4",
@@ -4564,6 +5071,7 @@
   },
   {
     "Pokemon": "Magnezone",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Acero",
     "Gen": "4",
@@ -4573,6 +5081,7 @@
   },
   {
     "Pokemon": "Lickilicky",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "4",
@@ -4582,6 +5091,7 @@
   },
   {
     "Pokemon": "Rhyperior",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Roca",
     "Gen": "4",
@@ -4591,6 +5101,7 @@
   },
   {
     "Pokemon": "Tangrowth",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "4",
@@ -4600,6 +5111,7 @@
   },
   {
     "Pokemon": "Electivire",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "4",
@@ -4609,6 +5121,7 @@
   },
   {
     "Pokemon": "Magmortar",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "4",
@@ -4618,6 +5131,7 @@
   },
   {
     "Pokemon": "Togekiss",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "Volador",
     "Gen": "4",
@@ -4627,6 +5141,7 @@
   },
   {
     "Pokemon": "Yanmega",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Volador",
     "Gen": "4",
@@ -4636,6 +5151,7 @@
   },
   {
     "Pokemon": "Leafeon",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "4",
@@ -4645,6 +5161,7 @@
   },
   {
     "Pokemon": "Glaceon",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "4",
@@ -4654,6 +5171,7 @@
   },
   {
     "Pokemon": "Gliscor",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Volador",
     "Gen": "4",
@@ -4663,6 +5181,7 @@
   },
   {
     "Pokemon": "Mamoswine",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Tierra",
     "Gen": "4",
@@ -4672,6 +5191,7 @@
   },
   {
     "Pokemon": "Porygon-Z",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "4",
@@ -4681,6 +5201,7 @@
   },
   {
     "Pokemon": "Gallade",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Lucha",
     "Gen": "4",
@@ -4690,6 +5211,7 @@
   },
   {
     "Pokemon": "Probopass",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Acero",
     "Gen": "4",
@@ -4699,6 +5221,7 @@
   },
   {
     "Pokemon": "Dusknoir",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "4",
@@ -4708,6 +5231,7 @@
   },
   {
     "Pokemon": "Froslass",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Fantasma",
     "Gen": "4",
@@ -4717,6 +5241,7 @@
   },
   {
     "Pokemon": "Rotom",
+    "AliasSprite": "Rotom",
     "Tipo1": "Electrico",
     "Tipo2": "Fantasma",
     "Gen": "4",
@@ -4726,6 +5251,7 @@
   },
   {
     "Pokemon": "Rotom calor",
+    "AliasSprite": "rotom heat",
     "Tipo1": "Electrico",
     "Tipo2": "Fuego",
     "Gen": "4",
@@ -4735,6 +5261,7 @@
   },
   {
     "Pokemon": "Rotom lavado",
+    "AliasSprite": "rotom wash",
     "Tipo1": "Electrico",
     "Tipo2": "Agua",
     "Gen": "4",
@@ -4744,6 +5271,7 @@
   },
   {
     "Pokemon": "Rotom frio",
+    "AliasSprite": "rotom frost",
     "Tipo1": "Electrico",
     "Tipo2": "Hielo",
     "Gen": "4",
@@ -4753,6 +5281,7 @@
   },
   {
     "Pokemon": "Rotom ventilador",
+    "AliasSprite": "rotom fan",
     "Tipo1": "Electrico",
     "Tipo2": "Volador",
     "Gen": "4",
@@ -4762,6 +5291,7 @@
   },
   {
     "Pokemon": "Rotom corte",
+    "AliasSprite": "rotom mow",
     "Tipo1": "Electrico",
     "Tipo2": "Planta",
     "Gen": "4",
@@ -4771,6 +5301,7 @@
   },
   {
     "Pokemon": "Uxie",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "4",
@@ -4780,6 +5311,7 @@
   },
   {
     "Pokemon": "Mesprit",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "4",
@@ -4789,6 +5321,7 @@
   },
   {
     "Pokemon": "Azelf",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "4",
@@ -4798,6 +5331,7 @@
   },
   {
     "Pokemon": "Dialga",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Dragon",
     "Gen": "4",
@@ -4807,6 +5341,7 @@
   },
   {
     "Pokemon": "Dialga Origen",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Dragon",
     "Gen": "8",
@@ -4816,6 +5351,7 @@
   },
   {
     "Pokemon": "Palkia",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Dragon",
     "Gen": "4",
@@ -4825,6 +5361,7 @@
   },
   {
     "Pokemon": "Heatran",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Acero",
     "Gen": "4",
@@ -4834,6 +5371,7 @@
   },
   {
     "Pokemon": "Regigigas",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "4",
@@ -4843,6 +5381,7 @@
   },
   {
     "Pokemon": "Giratina",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Dragon",
     "Gen": "4",
@@ -4852,6 +5391,7 @@
   },
   {
     "Pokemon": "Cresselia",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "4",
@@ -4861,6 +5401,7 @@
   },
   {
     "Pokemon": "Phione",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "4",
@@ -4870,6 +5411,7 @@
   },
   {
     "Pokemon": "Manaphy",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "4",
@@ -4879,6 +5421,7 @@
   },
   {
     "Pokemon": "Darkrai",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "",
     "Gen": "4",
@@ -4888,6 +5431,7 @@
   },
   {
     "Pokemon": "Shaymin",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "4",
@@ -4897,6 +5441,7 @@
   },
   {
     "Pokemon": "Arceus",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "4",
@@ -4906,6 +5451,7 @@
   },
   {
     "Pokemon": "Victini",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Fuego",
     "Gen": "5",
@@ -4915,6 +5461,7 @@
   },
   {
     "Pokemon": "Snivy",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "5",
@@ -4924,6 +5471,7 @@
   },
   {
     "Pokemon": "Servine",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "5",
@@ -4933,6 +5481,7 @@
   },
   {
     "Pokemon": "Serperior",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "5",
@@ -4942,6 +5491,7 @@
   },
   {
     "Pokemon": "Tepig",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "5",
@@ -4951,6 +5501,7 @@
   },
   {
     "Pokemon": "Pignite",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Lucha",
     "Gen": "5",
@@ -4960,6 +5511,7 @@
   },
   {
     "Pokemon": "Emboar",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Lucha",
     "Gen": "5",
@@ -4969,6 +5521,7 @@
   },
   {
     "Pokemon": "Oshawott",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "5",
@@ -4978,6 +5531,7 @@
   },
   {
     "Pokemon": "Dewott",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "5",
@@ -4987,6 +5541,7 @@
   },
   {
     "Pokemon": "Samurott",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "5",
@@ -4996,6 +5551,7 @@
   },
   {
     "Pokemon": "Samurott Hisui",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Siniestro",
     "Gen": "8",
@@ -5005,6 +5561,7 @@
   },
   {
     "Pokemon": "Patrat",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "5",
@@ -5014,6 +5571,7 @@
   },
   {
     "Pokemon": "Watchog",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "5",
@@ -5023,6 +5581,7 @@
   },
   {
     "Pokemon": "Lillipup",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "5",
@@ -5032,6 +5591,7 @@
   },
   {
     "Pokemon": "Herdier",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "5",
@@ -5041,6 +5601,7 @@
   },
   {
     "Pokemon": "Stoutland",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "5",
@@ -5050,6 +5611,7 @@
   },
   {
     "Pokemon": "Purrloin",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "",
     "Gen": "5",
@@ -5059,6 +5621,7 @@
   },
   {
     "Pokemon": "Liepard",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "",
     "Gen": "5",
@@ -5068,6 +5631,7 @@
   },
   {
     "Pokemon": "Pansage",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "5",
@@ -5077,6 +5641,7 @@
   },
   {
     "Pokemon": "Simisage",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "5",
@@ -5086,6 +5651,7 @@
   },
   {
     "Pokemon": "Pansear",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "5",
@@ -5095,6 +5661,7 @@
   },
   {
     "Pokemon": "Simisear",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "5",
@@ -5104,6 +5671,7 @@
   },
   {
     "Pokemon": "Panpour",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "5",
@@ -5113,6 +5681,7 @@
   },
   {
     "Pokemon": "Simipour",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "5",
@@ -5122,6 +5691,7 @@
   },
   {
     "Pokemon": "Munna",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "5",
@@ -5131,6 +5701,7 @@
   },
   {
     "Pokemon": "Musharna",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "5",
@@ -5140,6 +5711,7 @@
   },
   {
     "Pokemon": "Pidove",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -5149,6 +5721,7 @@
   },
   {
     "Pokemon": "Tranquill",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -5158,6 +5731,7 @@
   },
   {
     "Pokemon": "Unfezant",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -5167,6 +5741,7 @@
   },
   {
     "Pokemon": "Blitzle",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "5",
@@ -5176,6 +5751,7 @@
   },
   {
     "Pokemon": "Zebstrika",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "5",
@@ -5185,6 +5761,7 @@
   },
   {
     "Pokemon": "Roggenrola",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "5",
@@ -5194,6 +5771,7 @@
   },
   {
     "Pokemon": "Boldore",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "5",
@@ -5203,6 +5781,7 @@
   },
   {
     "Pokemon": "Gigalith",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "5",
@@ -5212,6 +5791,7 @@
   },
   {
     "Pokemon": "Woobat",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -5221,6 +5801,7 @@
   },
   {
     "Pokemon": "Swoobat",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -5230,6 +5811,7 @@
   },
   {
     "Pokemon": "Drilbur",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "5",
@@ -5239,6 +5821,7 @@
   },
   {
     "Pokemon": "Excadrill",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Acero",
     "Gen": "5",
@@ -5248,6 +5831,7 @@
   },
   {
     "Pokemon": "Audino",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "5",
@@ -5257,6 +5841,7 @@
   },
   {
     "Pokemon": "Timburr",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "5",
@@ -5266,6 +5851,7 @@
   },
   {
     "Pokemon": "Gurdurr",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "5",
@@ -5275,6 +5861,7 @@
   },
   {
     "Pokemon": "Conkeldurr",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "5",
@@ -5284,6 +5871,7 @@
   },
   {
     "Pokemon": "Tympole",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "5",
@@ -5293,6 +5881,7 @@
   },
   {
     "Pokemon": "Palpitoad",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Tierra",
     "Gen": "5",
@@ -5302,6 +5891,7 @@
   },
   {
     "Pokemon": "Seismitoad",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Tierra",
     "Gen": "5",
@@ -5311,6 +5901,7 @@
   },
   {
     "Pokemon": "Throh",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "5",
@@ -5320,6 +5911,7 @@
   },
   {
     "Pokemon": "Sawk",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "5",
@@ -5329,6 +5921,7 @@
   },
   {
     "Pokemon": "Sewaddle",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Planta",
     "Gen": "5",
@@ -5338,6 +5931,7 @@
   },
   {
     "Pokemon": "Swadloon",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Planta",
     "Gen": "5",
@@ -5347,6 +5941,7 @@
   },
   {
     "Pokemon": "Leavanny",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Planta",
     "Gen": "5",
@@ -5356,6 +5951,7 @@
   },
   {
     "Pokemon": "Venipede",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Veneno",
     "Gen": "5",
@@ -5365,6 +5961,7 @@
   },
   {
     "Pokemon": "Whirlipede",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Veneno",
     "Gen": "5",
@@ -5374,6 +5971,7 @@
   },
   {
     "Pokemon": "Scolipede",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Veneno",
     "Gen": "5",
@@ -5383,6 +5981,7 @@
   },
   {
     "Pokemon": "Cottonee",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Hada",
     "Gen": "5",
@@ -5392,6 +5991,7 @@
   },
   {
     "Pokemon": "Whimsicott",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Hada",
     "Gen": "5",
@@ -5401,6 +6001,7 @@
   },
   {
     "Pokemon": "Petilil",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "5",
@@ -5410,6 +6011,7 @@
   },
   {
     "Pokemon": "Lilligant",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "5",
@@ -5419,6 +6021,7 @@
   },
   {
     "Pokemon": "Lilligant Hisui",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Lucha",
     "Gen": "8",
@@ -5428,6 +6031,7 @@
   },
   {
     "Pokemon": "Basculin",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "5",
@@ -5437,6 +6041,7 @@
   },
   {
     "Pokemon": "Basculin raya blanca",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "8",
@@ -5446,6 +6051,7 @@
   },
   {
     "Pokemon": "Sandile",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Siniestro",
     "Gen": "5",
@@ -5455,6 +6061,7 @@
   },
   {
     "Pokemon": "Krokorok",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Siniestro",
     "Gen": "5",
@@ -5464,6 +6071,7 @@
   },
   {
     "Pokemon": "Krookodile",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Siniestro",
     "Gen": "5",
@@ -5473,6 +6081,7 @@
   },
   {
     "Pokemon": "Darumaka",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "5",
@@ -5482,6 +6091,7 @@
   },
   {
     "Pokemon": "Darumaka Galar",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "8",
@@ -5491,6 +6101,7 @@
   },
   {
     "Pokemon": "Darmanitan",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "5",
@@ -5500,6 +6111,7 @@
   },
   {
     "Pokemon": "Darmanitan Zen",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Psiquico",
     "Gen": "5",
@@ -5509,6 +6121,7 @@
   },
   {
     "Pokemon": "Darmanitan Galar",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "8",
@@ -5518,6 +6131,7 @@
   },
   {
     "Pokemon": "Darmanitan Galarzen",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Psiquico",
     "Gen": "8",
@@ -5527,6 +6141,7 @@
   },
   {
     "Pokemon": "Maractus",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "5",
@@ -5536,6 +6151,7 @@
   },
   {
     "Pokemon": "Dwebble",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Roca",
     "Gen": "5",
@@ -5545,6 +6161,7 @@
   },
   {
     "Pokemon": "Crustle",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Roca",
     "Gen": "5",
@@ -5554,6 +6171,7 @@
   },
   {
     "Pokemon": "Scraggy",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Lucha",
     "Gen": "5",
@@ -5563,6 +6181,7 @@
   },
   {
     "Pokemon": "Scrafty",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Lucha",
     "Gen": "5",
@@ -5572,6 +6191,7 @@
   },
   {
     "Pokemon": "Sigilyph",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -5581,6 +6201,7 @@
   },
   {
     "Pokemon": "Yamask",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "5",
@@ -5590,6 +6211,7 @@
   },
   {
     "Pokemon": "Yamask Galar",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Fantasma",
     "Gen": "8",
@@ -5599,6 +6221,7 @@
   },
   {
     "Pokemon": "Cofagrigus",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "5",
@@ -5608,6 +6231,7 @@
   },
   {
     "Pokemon": "Tirtouga",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Roca",
     "Gen": "5",
@@ -5617,6 +6241,7 @@
   },
   {
     "Pokemon": "Carracosta",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Roca",
     "Gen": "5",
@@ -5626,6 +6251,7 @@
   },
   {
     "Pokemon": "Archen",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -5635,6 +6261,7 @@
   },
   {
     "Pokemon": "Archeops",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -5644,6 +6271,7 @@
   },
   {
     "Pokemon": "Trubbish",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "5",
@@ -5653,6 +6281,7 @@
   },
   {
     "Pokemon": "Garbodor",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "5",
@@ -5662,6 +6291,7 @@
   },
   {
     "Pokemon": "Zorua",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "",
     "Gen": "5",
@@ -5671,6 +6301,7 @@
   },
   {
     "Pokemon": "Zorua Hisui",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Fantasma",
     "Gen": "8",
@@ -5680,6 +6311,7 @@
   },
   {
     "Pokemon": "Zoroark",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "",
     "Gen": "5",
@@ -5689,6 +6321,7 @@
   },
   {
     "Pokemon": "Zoroark Hisui",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Fantasma",
     "Gen": "8",
@@ -5698,6 +6331,7 @@
   },
   {
     "Pokemon": "Minccino",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "5",
@@ -5707,6 +6341,7 @@
   },
   {
     "Pokemon": "Cinccino",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "5",
@@ -5716,6 +6351,7 @@
   },
   {
     "Pokemon": "Gothita",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "5",
@@ -5725,6 +6361,7 @@
   },
   {
     "Pokemon": "Gothorita",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "5",
@@ -5734,6 +6371,7 @@
   },
   {
     "Pokemon": "Gothitelle",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "5",
@@ -5743,6 +6381,7 @@
   },
   {
     "Pokemon": "Solosis",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "5",
@@ -5752,6 +6391,7 @@
   },
   {
     "Pokemon": "Duosion",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "5",
@@ -5761,6 +6401,7 @@
   },
   {
     "Pokemon": "Reuniclus",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "5",
@@ -5770,6 +6411,7 @@
   },
   {
     "Pokemon": "Ducklett",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -5779,6 +6421,7 @@
   },
   {
     "Pokemon": "Swanna",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -5788,6 +6431,7 @@
   },
   {
     "Pokemon": "Vanillite",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "5",
@@ -5797,6 +6441,7 @@
   },
   {
     "Pokemon": "Vanillish",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "5",
@@ -5806,6 +6451,7 @@
   },
   {
     "Pokemon": "Vanilluxe",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "5",
@@ -5815,6 +6461,7 @@
   },
   {
     "Pokemon": "Palkia Origen",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Dragon",
     "Gen": "8",
@@ -5824,6 +6471,7 @@
   },
   {
     "Pokemon": "Deerling",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Planta",
     "Gen": "5",
@@ -5833,6 +6481,7 @@
   },
   {
     "Pokemon": "Sawsbuck",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Planta",
     "Gen": "5",
@@ -5842,6 +6491,7 @@
   },
   {
     "Pokemon": "Emolga",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -5851,6 +6501,7 @@
   },
   {
     "Pokemon": "Karrablast",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "5",
@@ -5860,6 +6511,7 @@
   },
   {
     "Pokemon": "Escavalier",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Acero",
     "Gen": "5",
@@ -5869,6 +6521,7 @@
   },
   {
     "Pokemon": "Foongus",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Veneno",
     "Gen": "5",
@@ -5878,6 +6531,7 @@
   },
   {
     "Pokemon": "Amoonguss",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Veneno",
     "Gen": "5",
@@ -5887,6 +6541,7 @@
   },
   {
     "Pokemon": "Frillish",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Fantasma",
     "Gen": "5",
@@ -5896,6 +6551,7 @@
   },
   {
     "Pokemon": "Jellicent",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Fantasma",
     "Gen": "5",
@@ -5905,6 +6561,7 @@
   },
   {
     "Pokemon": "Alomomola",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "5",
@@ -5914,6 +6571,7 @@
   },
   {
     "Pokemon": "Joltik",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Electrico",
     "Gen": "5",
@@ -5923,6 +6581,7 @@
   },
   {
     "Pokemon": "Galvantula",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Electrico",
     "Gen": "5",
@@ -5932,6 +6591,7 @@
   },
   {
     "Pokemon": "Ferroseed",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Acero",
     "Gen": "5",
@@ -5941,6 +6601,7 @@
   },
   {
     "Pokemon": "Ferrothorn",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Acero",
     "Gen": "5",
@@ -5950,6 +6611,7 @@
   },
   {
     "Pokemon": "Klink",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "",
     "Gen": "5",
@@ -5959,6 +6621,7 @@
   },
   {
     "Pokemon": "Klang",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "",
     "Gen": "5",
@@ -5968,6 +6631,7 @@
   },
   {
     "Pokemon": "Klinklang",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "",
     "Gen": "5",
@@ -5977,6 +6641,7 @@
   },
   {
     "Pokemon": "Tynamo",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "5",
@@ -5986,6 +6651,7 @@
   },
   {
     "Pokemon": "Eelektrik",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "5",
@@ -5995,6 +6661,7 @@
   },
   {
     "Pokemon": "Eelektross",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "5",
@@ -6004,6 +6671,7 @@
   },
   {
     "Pokemon": "Elgyem",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "5",
@@ -6013,6 +6681,7 @@
   },
   {
     "Pokemon": "Beheeyem",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "5",
@@ -6022,6 +6691,7 @@
   },
   {
     "Pokemon": "Litwick",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Fuego",
     "Gen": "5",
@@ -6031,6 +6701,7 @@
   },
   {
     "Pokemon": "Lampent",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Fuego",
     "Gen": "5",
@@ -6040,6 +6711,7 @@
   },
   {
     "Pokemon": "Chandelure",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Fuego",
     "Gen": "5",
@@ -6049,6 +6721,7 @@
   },
   {
     "Pokemon": "Axew",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "",
     "Gen": "5",
@@ -6058,6 +6731,7 @@
   },
   {
     "Pokemon": "Fraxure",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "",
     "Gen": "5",
@@ -6067,6 +6741,7 @@
   },
   {
     "Pokemon": "Haxorus",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "",
     "Gen": "5",
@@ -6076,6 +6751,7 @@
   },
   {
     "Pokemon": "Cubchoo",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "5",
@@ -6085,6 +6761,7 @@
   },
   {
     "Pokemon": "Beartic",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "5",
@@ -6094,6 +6771,7 @@
   },
   {
     "Pokemon": "Cryogonal",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "5",
@@ -6103,6 +6781,7 @@
   },
   {
     "Pokemon": "Shelmet",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "5",
@@ -6112,6 +6791,7 @@
   },
   {
     "Pokemon": "Accelgor",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "5",
@@ -6121,6 +6801,7 @@
   },
   {
     "Pokemon": "Stunfisk",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Electrico",
     "Gen": "5",
@@ -6130,6 +6811,7 @@
   },
   {
     "Pokemon": "Stunfisk Galar",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Acero",
     "Gen": "8",
@@ -6139,6 +6821,7 @@
   },
   {
     "Pokemon": "Mienfoo",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "5",
@@ -6148,6 +6831,7 @@
   },
   {
     "Pokemon": "Mienshao",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "5",
@@ -6157,6 +6841,7 @@
   },
   {
     "Pokemon": "Druddigon",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "",
     "Gen": "5",
@@ -6166,6 +6851,7 @@
   },
   {
     "Pokemon": "Golett",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Fantasma",
     "Gen": "5",
@@ -6175,6 +6861,7 @@
   },
   {
     "Pokemon": "Golurk",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Fantasma",
     "Gen": "5",
@@ -6184,6 +6871,7 @@
   },
   {
     "Pokemon": "Pawniard",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Acero",
     "Gen": "5",
@@ -6193,6 +6881,7 @@
   },
   {
     "Pokemon": "Bisharp",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Acero",
     "Gen": "5",
@@ -6202,6 +6891,7 @@
   },
   {
     "Pokemon": "Bouffalant",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "5",
@@ -6211,6 +6901,7 @@
   },
   {
     "Pokemon": "Rufflet",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -6220,6 +6911,7 @@
   },
   {
     "Pokemon": "Braviary",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -6229,6 +6921,7 @@
   },
   {
     "Pokemon": "Braviary Hisui",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Volador",
     "Gen": "8",
@@ -6238,6 +6931,7 @@
   },
   {
     "Pokemon": "Vullaby",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -6247,6 +6941,7 @@
   },
   {
     "Pokemon": "Mandibuzz",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -6256,6 +6951,7 @@
   },
   {
     "Pokemon": "Heatmor",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "5",
@@ -6265,6 +6961,7 @@
   },
   {
     "Pokemon": "Durant",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Acero",
     "Gen": "5",
@@ -6274,6 +6971,7 @@
   },
   {
     "Pokemon": "Deino",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Dragon",
     "Gen": "5",
@@ -6283,6 +6981,7 @@
   },
   {
     "Pokemon": "Zweilous",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Dragon",
     "Gen": "5",
@@ -6292,6 +6991,7 @@
   },
   {
     "Pokemon": "Hydreigon",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Dragon",
     "Gen": "5",
@@ -6301,6 +7001,7 @@
   },
   {
     "Pokemon": "Larvesta",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Fuego",
     "Gen": "5",
@@ -6310,6 +7011,7 @@
   },
   {
     "Pokemon": "Volcarona",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Fuego",
     "Gen": "5",
@@ -6319,6 +7021,7 @@
   },
   {
     "Pokemon": "Cobalion",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Lucha",
     "Gen": "5",
@@ -6328,6 +7031,7 @@
   },
   {
     "Pokemon": "Terrakion",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Lucha",
     "Gen": "5",
@@ -6337,6 +7041,7 @@
   },
   {
     "Pokemon": "Virizion",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Lucha",
     "Gen": "5",
@@ -6346,6 +7051,7 @@
   },
   {
     "Pokemon": "Tornadus",
+    "AliasSprite": "",
     "Tipo1": "Volador",
     "Tipo2": "",
     "Gen": "5",
@@ -6355,6 +7061,7 @@
   },
   {
     "Pokemon": "Thundurus",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -6364,6 +7071,7 @@
   },
   {
     "Pokemon": "Reshiram",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Fuego",
     "Gen": "5",
@@ -6373,6 +7081,7 @@
   },
   {
     "Pokemon": "Zekrom",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Electrico",
     "Gen": "5",
@@ -6382,6 +7091,7 @@
   },
   {
     "Pokemon": "Landorus",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Volador",
     "Gen": "5",
@@ -6391,6 +7101,7 @@
   },
   {
     "Pokemon": "Kyurem",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Hielo",
     "Gen": "5",
@@ -6400,6 +7111,7 @@
   },
   {
     "Pokemon": "Keldeo",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Lucha",
     "Gen": "5",
@@ -6409,6 +7121,7 @@
   },
   {
     "Pokemon": "Meloetta",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Psiquico",
     "Gen": "5",
@@ -6418,6 +7131,7 @@
   },
   {
     "Pokemon": "Genesect",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Acero",
     "Gen": "5",
@@ -6427,6 +7141,7 @@
   },
   {
     "Pokemon": "Chespin",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "6",
@@ -6436,6 +7151,7 @@
   },
   {
     "Pokemon": "Quilladin",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "6",
@@ -6445,6 +7161,7 @@
   },
   {
     "Pokemon": "Chesnaught",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Lucha",
     "Gen": "6",
@@ -6454,6 +7171,7 @@
   },
   {
     "Pokemon": "Fennekin",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "6",
@@ -6463,6 +7181,7 @@
   },
   {
     "Pokemon": "Braixen",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "6",
@@ -6472,6 +7191,7 @@
   },
   {
     "Pokemon": "Delphox",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Psiquico",
     "Gen": "6",
@@ -6481,6 +7201,7 @@
   },
   {
     "Pokemon": "Froakie",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "6",
@@ -6490,6 +7211,7 @@
   },
   {
     "Pokemon": "Frogadier",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "6",
@@ -6499,6 +7221,7 @@
   },
   {
     "Pokemon": "Greninja",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Siniestro",
     "Gen": "6",
@@ -6508,6 +7231,7 @@
   },
   {
     "Pokemon": "Bunnelby",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "6",
@@ -6517,6 +7241,7 @@
   },
   {
     "Pokemon": "Diggersby",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Tierra",
     "Gen": "6",
@@ -6526,6 +7251,7 @@
   },
   {
     "Pokemon": "Fletchling",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "6",
@@ -6535,6 +7261,7 @@
   },
   {
     "Pokemon": "Fletchinder",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Volador",
     "Gen": "6",
@@ -6544,6 +7271,7 @@
   },
   {
     "Pokemon": "Talonflame",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Volador",
     "Gen": "6",
@@ -6553,6 +7281,7 @@
   },
   {
     "Pokemon": "Scatterbug",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "6",
@@ -6562,6 +7291,7 @@
   },
   {
     "Pokemon": "Spewpa",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "6",
@@ -6571,6 +7301,7 @@
   },
   {
     "Pokemon": "Vivillon",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Volador",
     "Gen": "6",
@@ -6580,6 +7311,7 @@
   },
   {
     "Pokemon": "Litleo",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Normal",
     "Gen": "6",
@@ -6589,6 +7321,7 @@
   },
   {
     "Pokemon": "Pyroar",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Normal",
     "Gen": "6",
@@ -6598,6 +7331,7 @@
   },
   {
     "Pokemon": "Flabébé",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "6",
@@ -6607,6 +7341,7 @@
   },
   {
     "Pokemon": "Floette",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "6",
@@ -6616,6 +7351,7 @@
   },
   {
     "Pokemon": "Florges",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "6",
@@ -6625,6 +7361,7 @@
   },
   {
     "Pokemon": "Skiddo",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "6",
@@ -6634,6 +7371,7 @@
   },
   {
     "Pokemon": "Gogoat",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "6",
@@ -6643,6 +7381,7 @@
   },
   {
     "Pokemon": "Pancham",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "6",
@@ -6652,6 +7391,7 @@
   },
   {
     "Pokemon": "Pangoro",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Siniestro",
     "Gen": "6",
@@ -6661,6 +7401,7 @@
   },
   {
     "Pokemon": "Furfrou",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "6",
@@ -6670,6 +7411,7 @@
   },
   {
     "Pokemon": "Espurr",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "6",
@@ -6679,6 +7421,7 @@
   },
   {
     "Pokemon": "Meowstic",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "6",
@@ -6688,6 +7431,7 @@
   },
   {
     "Pokemon": "Honedge",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Fantasma",
     "Gen": "6",
@@ -6697,6 +7441,7 @@
   },
   {
     "Pokemon": "Doublade",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Fantasma",
     "Gen": "6",
@@ -6706,6 +7451,7 @@
   },
   {
     "Pokemon": "Aegislash",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Fantasma",
     "Gen": "6",
@@ -6715,6 +7461,7 @@
   },
   {
     "Pokemon": "Spritzee",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "6",
@@ -6724,6 +7471,7 @@
   },
   {
     "Pokemon": "Aromatisse",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "6",
@@ -6733,6 +7481,7 @@
   },
   {
     "Pokemon": "Swirlix",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "6",
@@ -6742,6 +7491,7 @@
   },
   {
     "Pokemon": "Slurpuff",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "6",
@@ -6751,6 +7501,7 @@
   },
   {
     "Pokemon": "Inkay",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Psiquico",
     "Gen": "6",
@@ -6760,6 +7511,7 @@
   },
   {
     "Pokemon": "Malamar",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Psiquico",
     "Gen": "6",
@@ -6769,6 +7521,7 @@
   },
   {
     "Pokemon": "Binacle",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Agua",
     "Gen": "6",
@@ -6778,6 +7531,7 @@
   },
   {
     "Pokemon": "Barbaracle",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Agua",
     "Gen": "6",
@@ -6787,6 +7541,7 @@
   },
   {
     "Pokemon": "Skrelp",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Agua",
     "Gen": "6",
@@ -6796,6 +7551,7 @@
   },
   {
     "Pokemon": "Dragalge",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Dragon",
     "Gen": "6",
@@ -6805,6 +7561,7 @@
   },
   {
     "Pokemon": "Clauncher",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "6",
@@ -6814,6 +7571,7 @@
   },
   {
     "Pokemon": "Clawitzer",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "6",
@@ -6823,6 +7581,7 @@
   },
   {
     "Pokemon": "Helioptile",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Normal",
     "Gen": "6",
@@ -6832,6 +7591,7 @@
   },
   {
     "Pokemon": "Heliolisk",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Normal",
     "Gen": "6",
@@ -6841,6 +7601,7 @@
   },
   {
     "Pokemon": "Tyrunt",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Dragon",
     "Gen": "6",
@@ -6850,6 +7611,7 @@
   },
   {
     "Pokemon": "Tyrantrum",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Dragon",
     "Gen": "6",
@@ -6859,6 +7621,7 @@
   },
   {
     "Pokemon": "Amaura",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Hielo",
     "Gen": "6",
@@ -6868,6 +7631,7 @@
   },
   {
     "Pokemon": "Aurorus",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Hielo",
     "Gen": "6",
@@ -6877,6 +7641,7 @@
   },
   {
     "Pokemon": "Sylveon",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "6",
@@ -6886,6 +7651,7 @@
   },
   {
     "Pokemon": "Hawlucha",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Volador",
     "Gen": "6",
@@ -6895,6 +7661,7 @@
   },
   {
     "Pokemon": "Dedenne",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Hada",
     "Gen": "6",
@@ -6904,6 +7671,7 @@
   },
   {
     "Pokemon": "Carbink",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Hada",
     "Gen": "6",
@@ -6913,6 +7681,7 @@
   },
   {
     "Pokemon": "Goomy",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "",
     "Gen": "6",
@@ -6922,6 +7691,7 @@
   },
   {
     "Pokemon": "Sliggoo",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "",
     "Gen": "6",
@@ -6931,6 +7701,7 @@
   },
   {
     "Pokemon": "Sliggoo Hisui",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Acero",
     "Gen": "8",
@@ -6940,6 +7711,7 @@
   },
   {
     "Pokemon": "Goodra",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "",
     "Gen": "6",
@@ -6949,6 +7721,7 @@
   },
   {
     "Pokemon": "Goodra Hisui",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Acero",
     "Gen": "8",
@@ -6958,6 +7731,7 @@
   },
   {
     "Pokemon": "Klefki",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Hada",
     "Gen": "6",
@@ -6967,6 +7741,7 @@
   },
   {
     "Pokemon": "Phantump",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Planta",
     "Gen": "6",
@@ -6976,6 +7751,7 @@
   },
   {
     "Pokemon": "Trevenant",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Planta",
     "Gen": "6",
@@ -6985,6 +7761,7 @@
   },
   {
     "Pokemon": "Pumpkaboo",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Planta",
     "Gen": "6",
@@ -6994,6 +7771,7 @@
   },
   {
     "Pokemon": "Gourgeist",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Planta",
     "Gen": "6",
@@ -7003,6 +7781,7 @@
   },
   {
     "Pokemon": "Bergmite",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "6",
@@ -7012,6 +7791,7 @@
   },
   {
     "Pokemon": "Avalugg",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "6",
@@ -7021,6 +7801,7 @@
   },
   {
     "Pokemon": "Avalugg Hisui",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Roca",
     "Gen": "8",
@@ -7030,6 +7811,7 @@
   },
   {
     "Pokemon": "Noibat",
+    "AliasSprite": "",
     "Tipo1": "Volador",
     "Tipo2": "Dragon",
     "Gen": "6",
@@ -7039,6 +7821,7 @@
   },
   {
     "Pokemon": "Noivern",
+    "AliasSprite": "",
     "Tipo1": "Volador",
     "Tipo2": "Dragon",
     "Gen": "6",
@@ -7048,6 +7831,7 @@
   },
   {
     "Pokemon": "Xerneas",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "6",
@@ -7057,6 +7841,7 @@
   },
   {
     "Pokemon": "Yveltal",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Volador",
     "Gen": "6",
@@ -7066,6 +7851,7 @@
   },
   {
     "Pokemon": "Zygarde",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Tierra",
     "Gen": "6",
@@ -7075,6 +7861,7 @@
   },
   {
     "Pokemon": "Diancie",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Hada",
     "Gen": "6",
@@ -7084,6 +7871,7 @@
   },
   {
     "Pokemon": "Hoopa",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Fantasma",
     "Gen": "6",
@@ -7093,6 +7881,7 @@
   },
   {
     "Pokemon": "Volcanion",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Agua",
     "Gen": "6",
@@ -7102,6 +7891,7 @@
   },
   {
     "Pokemon": "Rowlet",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Volador",
     "Gen": "7",
@@ -7111,6 +7901,7 @@
   },
   {
     "Pokemon": "Dartrix",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Volador",
     "Gen": "7",
@@ -7120,6 +7911,7 @@
   },
   {
     "Pokemon": "Decidueye",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Fantasma",
     "Gen": "7",
@@ -7129,6 +7921,7 @@
   },
   {
     "Pokemon": "Decidueye Hisui",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Lucha",
     "Gen": "8",
@@ -7138,6 +7931,7 @@
   },
   {
     "Pokemon": "Litten",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "7",
@@ -7147,6 +7941,7 @@
   },
   {
     "Pokemon": "Torracat",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "7",
@@ -7156,6 +7951,7 @@
   },
   {
     "Pokemon": "Incineroar",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Siniestro",
     "Gen": "7",
@@ -7165,6 +7961,7 @@
   },
   {
     "Pokemon": "Popplio",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "7",
@@ -7174,6 +7971,7 @@
   },
   {
     "Pokemon": "Brionne",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "7",
@@ -7183,6 +7981,7 @@
   },
   {
     "Pokemon": "Primarina",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Hada",
     "Gen": "7",
@@ -7192,6 +7991,7 @@
   },
   {
     "Pokemon": "Pikipek",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "7",
@@ -7201,6 +8001,7 @@
   },
   {
     "Pokemon": "Trumbeak",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "7",
@@ -7210,6 +8011,7 @@
   },
   {
     "Pokemon": "Toucannon",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "7",
@@ -7219,6 +8021,7 @@
   },
   {
     "Pokemon": "Yungoos",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "7",
@@ -7228,6 +8031,7 @@
   },
   {
     "Pokemon": "Gumshoos",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "7",
@@ -7237,6 +8041,7 @@
   },
   {
     "Pokemon": "Grubbin",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "7",
@@ -7246,6 +8051,7 @@
   },
   {
     "Pokemon": "Charjabug",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Electrico",
     "Gen": "7",
@@ -7255,6 +8061,7 @@
   },
   {
     "Pokemon": "Vikavolt",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Electrico",
     "Gen": "7",
@@ -7264,6 +8071,7 @@
   },
   {
     "Pokemon": "Crabrawler",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "7",
@@ -7273,6 +8081,7 @@
   },
   {
     "Pokemon": "Crabominable",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Hielo",
     "Gen": "7",
@@ -7282,6 +8091,7 @@
   },
   {
     "Pokemon": "Oricorio Estilo Animado",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Volador",
     "Gen": "7",
@@ -7291,6 +8101,7 @@
   },
   {
     "Pokemon": "Oricorio Estilo Placido",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Volador",
     "Gen": "7",
@@ -7300,6 +8111,7 @@
   },
   {
     "Pokemon": "Oricorio Estilo Apasionado",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Volador",
     "Gen": "7",
@@ -7309,6 +8121,7 @@
   },
   {
     "Pokemon": "Oricorio Estilo Refinado",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Volador",
     "Gen": "7",
@@ -7318,6 +8131,7 @@
   },
   {
     "Pokemon": "Cutiefly",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Hada",
     "Gen": "7",
@@ -7327,6 +8141,7 @@
   },
   {
     "Pokemon": "Ribombee",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Hada",
     "Gen": "7",
@@ -7336,6 +8151,7 @@
   },
   {
     "Pokemon": "Rockruff",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "7",
@@ -7345,6 +8161,7 @@
   },
   {
     "Pokemon": "Lycanroc",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "7",
@@ -7354,6 +8171,7 @@
   },
   {
     "Pokemon": "Wishiwashi",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "7",
@@ -7363,6 +8181,7 @@
   },
   {
     "Pokemon": "Mareanie",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Agua",
     "Gen": "7",
@@ -7372,6 +8191,7 @@
   },
   {
     "Pokemon": "Toxapex",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Agua",
     "Gen": "7",
@@ -7381,6 +8201,7 @@
   },
   {
     "Pokemon": "Mudbray",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "7",
@@ -7390,6 +8211,7 @@
   },
   {
     "Pokemon": "Mudsdale",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "7",
@@ -7399,6 +8221,7 @@
   },
   {
     "Pokemon": "Dewpider",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Bicho",
     "Gen": "7",
@@ -7408,6 +8231,7 @@
   },
   {
     "Pokemon": "Araquanid",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Bicho",
     "Gen": "7",
@@ -7417,6 +8241,7 @@
   },
   {
     "Pokemon": "Fomantis",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "7",
@@ -7426,6 +8251,7 @@
   },
   {
     "Pokemon": "Lurantis",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "7",
@@ -7435,6 +8261,7 @@
   },
   {
     "Pokemon": "Morelull",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Hada",
     "Gen": "7",
@@ -7444,6 +8271,7 @@
   },
   {
     "Pokemon": "Shiinotic",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Hada",
     "Gen": "7",
@@ -7453,6 +8281,7 @@
   },
   {
     "Pokemon": "Salandit",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Fuego",
     "Gen": "7",
@@ -7462,6 +8291,7 @@
   },
   {
     "Pokemon": "Salazzle",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Fuego",
     "Gen": "7",
@@ -7471,6 +8301,7 @@
   },
   {
     "Pokemon": "Stufful",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Lucha",
     "Gen": "7",
@@ -7480,6 +8311,7 @@
   },
   {
     "Pokemon": "Bewear",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Lucha",
     "Gen": "7",
@@ -7489,6 +8321,7 @@
   },
   {
     "Pokemon": "Bounsweet",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "7",
@@ -7498,6 +8331,7 @@
   },
   {
     "Pokemon": "Steenee",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "7",
@@ -7507,6 +8341,7 @@
   },
   {
     "Pokemon": "Tsareena",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "7",
@@ -7516,6 +8351,7 @@
   },
   {
     "Pokemon": "Comfey",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "7",
@@ -7525,6 +8361,7 @@
   },
   {
     "Pokemon": "Oranguru",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Psiquico",
     "Gen": "7",
@@ -7534,6 +8371,7 @@
   },
   {
     "Pokemon": "Passimian",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "7",
@@ -7543,6 +8381,7 @@
   },
   {
     "Pokemon": "Wimpod",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Agua",
     "Gen": "7",
@@ -7552,6 +8391,7 @@
   },
   {
     "Pokemon": "Golisopod",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Agua",
     "Gen": "7",
@@ -7561,6 +8401,7 @@
   },
   {
     "Pokemon": "Sandygast",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Tierra",
     "Gen": "7",
@@ -7570,6 +8411,7 @@
   },
   {
     "Pokemon": "Palossand",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Tierra",
     "Gen": "7",
@@ -7579,6 +8421,7 @@
   },
   {
     "Pokemon": "Pyukumuku",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "7",
@@ -7588,6 +8431,7 @@
   },
   {
     "Pokemon": "Código Cero",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "7",
@@ -7597,6 +8441,7 @@
   },
   {
     "Pokemon": "Silvally",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "7",
@@ -7606,6 +8451,7 @@
   },
   {
     "Pokemon": "Minior",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Volador",
     "Gen": "7",
@@ -7615,6 +8461,7 @@
   },
   {
     "Pokemon": "Komala",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "7",
@@ -7624,6 +8471,7 @@
   },
   {
     "Pokemon": "Turtonator",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Dragon",
     "Gen": "7",
@@ -7633,6 +8481,7 @@
   },
   {
     "Pokemon": "Togedemaru",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Acero",
     "Gen": "7",
@@ -7642,6 +8491,7 @@
   },
   {
     "Pokemon": "Mimikyu",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Hada",
     "Gen": "7",
@@ -7651,6 +8501,7 @@
   },
   {
     "Pokemon": "Bruxish",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Psiquico",
     "Gen": "7",
@@ -7660,6 +8511,7 @@
   },
   {
     "Pokemon": "Drampa",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Dragon",
     "Gen": "7",
@@ -7669,6 +8521,7 @@
   },
   {
     "Pokemon": "Dhelmise",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Planta",
     "Gen": "7",
@@ -7678,6 +8531,7 @@
   },
   {
     "Pokemon": "Jangmo-o",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "",
     "Gen": "7",
@@ -7687,6 +8541,7 @@
   },
   {
     "Pokemon": "Hakamo-o",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Lucha",
     "Gen": "7",
@@ -7696,6 +8551,7 @@
   },
   {
     "Pokemon": "Kommo-o",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Lucha",
     "Gen": "7",
@@ -7705,6 +8561,7 @@
   },
   {
     "Pokemon": "Tapu Koko",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Hada",
     "Gen": "7",
@@ -7714,6 +8571,7 @@
   },
   {
     "Pokemon": "Tapu Lele",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Hada",
     "Gen": "7",
@@ -7723,6 +8581,7 @@
   },
   {
     "Pokemon": "Tapu Bulu",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Hada",
     "Gen": "7",
@@ -7732,6 +8591,7 @@
   },
   {
     "Pokemon": "Tapu Fini",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Hada",
     "Gen": "7",
@@ -7741,6 +8601,7 @@
   },
   {
     "Pokemon": "Cosmog",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "7",
@@ -7750,6 +8611,7 @@
   },
   {
     "Pokemon": "Cosmoem",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "7",
@@ -7759,6 +8621,7 @@
   },
   {
     "Pokemon": "Solgaleo",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Acero",
     "Gen": "7",
@@ -7768,6 +8631,7 @@
   },
   {
     "Pokemon": "Lunala",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Fantasma",
     "Gen": "7",
@@ -7777,6 +8641,7 @@
   },
   {
     "Pokemon": "Nihilego",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Veneno",
     "Gen": "7",
@@ -7786,6 +8651,7 @@
   },
   {
     "Pokemon": "Buzzwole",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Lucha",
     "Gen": "7",
@@ -7795,6 +8661,7 @@
   },
   {
     "Pokemon": "Pheromosa",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Lucha",
     "Gen": "7",
@@ -7804,6 +8671,7 @@
   },
   {
     "Pokemon": "Xurkitree",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "7",
@@ -7813,6 +8681,7 @@
   },
   {
     "Pokemon": "Celesteela",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Volador",
     "Gen": "7",
@@ -7822,6 +8691,7 @@
   },
   {
     "Pokemon": "Kartana",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Acero",
     "Gen": "7",
@@ -7831,6 +8701,7 @@
   },
   {
     "Pokemon": "Guzzlord",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Dragon",
     "Gen": "7",
@@ -7840,6 +8711,7 @@
   },
   {
     "Pokemon": "Necrozma",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "7",
@@ -7849,6 +8721,7 @@
   },
   {
     "Pokemon": "Magearna",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Hada",
     "Gen": "7",
@@ -7858,6 +8731,7 @@
   },
   {
     "Pokemon": "Marshadow",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Fantasma",
     "Gen": "7",
@@ -7867,6 +8741,7 @@
   },
   {
     "Pokemon": "Poipole",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "",
     "Gen": "7",
@@ -7876,6 +8751,7 @@
   },
   {
     "Pokemon": "Naganadel",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Dragon",
     "Gen": "7",
@@ -7885,6 +8761,7 @@
   },
   {
     "Pokemon": "Stakataka",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Acero",
     "Gen": "7",
@@ -7894,6 +8771,7 @@
   },
   {
     "Pokemon": "Blacephalon",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Fantasma",
     "Gen": "7",
@@ -7903,6 +8781,7 @@
   },
   {
     "Pokemon": "Zeraora",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "7",
@@ -7912,6 +8791,7 @@
   },
   {
     "Pokemon": "Meltan",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "",
     "Gen": "7",
@@ -7921,6 +8801,7 @@
   },
   {
     "Pokemon": "Melmetal",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "",
     "Gen": "7",
@@ -7930,6 +8811,7 @@
   },
   {
     "Pokemon": "Grookey",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "8",
@@ -7939,6 +8821,7 @@
   },
   {
     "Pokemon": "Thwackey",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "8",
@@ -7948,6 +8831,7 @@
   },
   {
     "Pokemon": "Rillaboom",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "8",
@@ -7957,6 +8841,7 @@
   },
   {
     "Pokemon": "Scorbunny",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "8",
@@ -7966,6 +8851,7 @@
   },
   {
     "Pokemon": "Raboot",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "8",
@@ -7975,6 +8861,7 @@
   },
   {
     "Pokemon": "Cinderace",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "8",
@@ -7984,6 +8871,7 @@
   },
   {
     "Pokemon": "Sobble",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "8",
@@ -7993,6 +8881,7 @@
   },
   {
     "Pokemon": "Drizzile",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "8",
@@ -8002,6 +8891,7 @@
   },
   {
     "Pokemon": "Inteleon",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "8",
@@ -8011,6 +8901,7 @@
   },
   {
     "Pokemon": "Skwovet",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "8",
@@ -8020,6 +8911,7 @@
   },
   {
     "Pokemon": "Greedent",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "8",
@@ -8029,6 +8921,7 @@
   },
   {
     "Pokemon": "Rookidee",
+    "AliasSprite": "",
     "Tipo1": "Volador",
     "Tipo2": "",
     "Gen": "8",
@@ -8038,6 +8931,7 @@
   },
   {
     "Pokemon": "Corvisquire",
+    "AliasSprite": "",
     "Tipo1": "Volador",
     "Tipo2": "",
     "Gen": "8",
@@ -8047,6 +8941,7 @@
   },
   {
     "Pokemon": "Corviknight",
+    "AliasSprite": "",
     "Tipo1": "Volador",
     "Tipo2": "Acero",
     "Gen": "8",
@@ -8056,6 +8951,7 @@
   },
   {
     "Pokemon": "Blipbug",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "8",
@@ -8065,6 +8961,7 @@
   },
   {
     "Pokemon": "Dottler",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Psiquico",
     "Gen": "8",
@@ -8074,6 +8971,7 @@
   },
   {
     "Pokemon": "Orbeetle",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Psiquico",
     "Gen": "8",
@@ -8083,6 +8981,7 @@
   },
   {
     "Pokemon": "Nickit",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "",
     "Gen": "8",
@@ -8092,6 +8991,7 @@
   },
   {
     "Pokemon": "Thievul",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "",
     "Gen": "8",
@@ -8101,6 +9001,7 @@
   },
   {
     "Pokemon": "Gossifleur",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "8",
@@ -8110,6 +9011,7 @@
   },
   {
     "Pokemon": "Eldegoss",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "8",
@@ -8119,6 +9021,7 @@
   },
   {
     "Pokemon": "Wooloo",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "8",
@@ -8128,6 +9031,7 @@
   },
   {
     "Pokemon": "Dubwool",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "8",
@@ -8137,6 +9041,7 @@
   },
   {
     "Pokemon": "Chewtle",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "8",
@@ -8146,6 +9051,7 @@
   },
   {
     "Pokemon": "Drednaw",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Roca",
     "Gen": "8",
@@ -8155,6 +9061,7 @@
   },
   {
     "Pokemon": "Yamper",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "8",
@@ -8164,6 +9071,7 @@
   },
   {
     "Pokemon": "Boltund",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "8",
@@ -8173,6 +9081,7 @@
   },
   {
     "Pokemon": "Rolycoly",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "8",
@@ -8182,6 +9091,7 @@
   },
   {
     "Pokemon": "Carkol",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Fuego",
     "Gen": "8",
@@ -8191,6 +9101,7 @@
   },
   {
     "Pokemon": "Coalossal",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Fuego",
     "Gen": "8",
@@ -8200,6 +9111,7 @@
   },
   {
     "Pokemon": "Applin",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Dragon",
     "Gen": "8",
@@ -8209,6 +9121,7 @@
   },
   {
     "Pokemon": "Flapple",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Dragon",
     "Gen": "8",
@@ -8218,6 +9131,7 @@
   },
   {
     "Pokemon": "Appletun",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Dragon",
     "Gen": "8",
@@ -8227,6 +9141,7 @@
   },
   {
     "Pokemon": "Silicobra",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "8",
@@ -8236,6 +9151,7 @@
   },
   {
     "Pokemon": "Sandaconda",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "",
     "Gen": "8",
@@ -8245,6 +9161,7 @@
   },
   {
     "Pokemon": "Cramorant",
+    "AliasSprite": "",
     "Tipo1": "Volador",
     "Tipo2": "Agua",
     "Gen": "8",
@@ -8254,6 +9171,7 @@
   },
   {
     "Pokemon": "Arrokuda",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "8",
@@ -8263,6 +9181,7 @@
   },
   {
     "Pokemon": "Barraskewda",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "8",
@@ -8272,6 +9191,7 @@
   },
   {
     "Pokemon": "Toxel",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Veneno",
     "Gen": "8",
@@ -8281,6 +9201,7 @@
   },
   {
     "Pokemon": "Toxtricity",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Veneno",
     "Gen": "8",
@@ -8290,6 +9211,7 @@
   },
   {
     "Pokemon": "Sizzlipede",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Bicho",
     "Gen": "8",
@@ -8299,6 +9221,7 @@
   },
   {
     "Pokemon": "Centiskorch",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Bicho",
     "Gen": "8",
@@ -8308,6 +9231,7 @@
   },
   {
     "Pokemon": "Clobbopus",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "8",
@@ -8317,6 +9241,7 @@
   },
   {
     "Pokemon": "Grapploct",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "8",
@@ -8326,6 +9251,7 @@
   },
   {
     "Pokemon": "Sinistea",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "8",
@@ -8335,6 +9261,7 @@
   },
   {
     "Pokemon": "Polteageist",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "8",
@@ -8344,6 +9271,7 @@
   },
   {
     "Pokemon": "Hatenna",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "8",
@@ -8353,6 +9281,7 @@
   },
   {
     "Pokemon": "Hattrem",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "8",
@@ -8362,6 +9291,7 @@
   },
   {
     "Pokemon": "Hatterene",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Hada",
     "Gen": "8",
@@ -8371,6 +9301,7 @@
   },
   {
     "Pokemon": "Impidimp",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Hada",
     "Gen": "8",
@@ -8380,6 +9311,7 @@
   },
   {
     "Pokemon": "Morgrem",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Hada",
     "Gen": "8",
@@ -8389,6 +9321,7 @@
   },
   {
     "Pokemon": "Grimmsnarl",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Hada",
     "Gen": "8",
@@ -8398,6 +9331,7 @@
   },
   {
     "Pokemon": "Obstagoon",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Normal",
     "Gen": "8",
@@ -8407,6 +9341,7 @@
   },
   {
     "Pokemon": "Perrserker",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "",
     "Gen": "8",
@@ -8416,6 +9351,7 @@
   },
   {
     "Pokemon": "Cursola",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "8",
@@ -8425,6 +9361,7 @@
   },
   {
     "Pokemon": "Sirfetch'd",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "8",
@@ -8434,6 +9371,7 @@
   },
   {
     "Pokemon": "Mr. Rime",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Psiquico",
     "Gen": "8",
@@ -8443,6 +9381,7 @@
   },
   {
     "Pokemon": "Runerigus",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Fantasma",
     "Gen": "8",
@@ -8452,6 +9391,7 @@
   },
   {
     "Pokemon": "Milcery",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "8",
@@ -8461,6 +9401,7 @@
   },
   {
     "Pokemon": "Alcremie",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "8",
@@ -8470,6 +9411,7 @@
   },
   {
     "Pokemon": "Falinks",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "8",
@@ -8479,6 +9421,7 @@
   },
   {
     "Pokemon": "Pincurchin",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "8",
@@ -8488,6 +9431,7 @@
   },
   {
     "Pokemon": "Snom",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Bicho",
     "Gen": "8",
@@ -8497,6 +9441,7 @@
   },
   {
     "Pokemon": "Frosmoth",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Bicho",
     "Gen": "8",
@@ -8506,6 +9451,7 @@
   },
   {
     "Pokemon": "Stonjourner",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "8",
@@ -8515,6 +9461,7 @@
   },
   {
     "Pokemon": "Eiscue",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "8",
@@ -8524,6 +9471,7 @@
   },
   {
     "Pokemon": "Indeedee",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Normal",
     "Gen": "8",
@@ -8533,6 +9481,7 @@
   },
   {
     "Pokemon": "Morpeko",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Siniestro",
     "Gen": "8",
@@ -8542,6 +9491,7 @@
   },
   {
     "Pokemon": "Cufant",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "",
     "Gen": "8",
@@ -8551,6 +9501,7 @@
   },
   {
     "Pokemon": "Copperajah",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "",
     "Gen": "8",
@@ -8560,6 +9511,7 @@
   },
   {
     "Pokemon": "Dracozolt",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Dragon",
     "Gen": "8",
@@ -8569,6 +9521,7 @@
   },
   {
     "Pokemon": "Arctozolt",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Hielo",
     "Gen": "8",
@@ -8578,6 +9531,7 @@
   },
   {
     "Pokemon": "Dracovish",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Dragon",
     "Gen": "8",
@@ -8587,6 +9541,7 @@
   },
   {
     "Pokemon": "Arctovish",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Hielo",
     "Gen": "8",
@@ -8596,6 +9551,7 @@
   },
   {
     "Pokemon": "Duraludon",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Dragon",
     "Gen": "8",
@@ -8605,6 +9561,7 @@
   },
   {
     "Pokemon": "Dreepy",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Fantasma",
     "Gen": "8",
@@ -8614,6 +9571,7 @@
   },
   {
     "Pokemon": "Drakloak",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Fantasma",
     "Gen": "8",
@@ -8623,6 +9581,7 @@
   },
   {
     "Pokemon": "Dragapult",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Fantasma",
     "Gen": "8",
@@ -8632,6 +9591,7 @@
   },
   {
     "Pokemon": "Zacian",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "8",
@@ -8641,6 +9601,7 @@
   },
   {
     "Pokemon": "Zacian espada suprema",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "Acero",
     "Gen": "8",
@@ -8650,6 +9611,7 @@
   },
   {
     "Pokemon": "Zamazenta",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "8",
@@ -8659,6 +9621,7 @@
   },
   {
     "Pokemon": "Zamazenta escudo supremo",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Acero",
     "Gen": "8",
@@ -8668,6 +9631,7 @@
   },
   {
     "Pokemon": "Eternatus",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Dragon",
     "Gen": "8",
@@ -8677,6 +9641,7 @@
   },
   {
     "Pokemon": "Kubfu",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "8",
@@ -8686,6 +9651,7 @@
   },
   {
     "Pokemon": "Urshifu Estilo Brusco",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Siniestro",
     "Gen": "8",
@@ -8695,6 +9661,7 @@
   },
   {
     "Pokemon": "Urshifu Estilo Fluido",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Agua",
     "Gen": "8",
@@ -8704,6 +9671,7 @@
   },
   {
     "Pokemon": "Zarude",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Planta",
     "Gen": "8",
@@ -8713,6 +9681,7 @@
   },
   {
     "Pokemon": "Regieleki",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "8",
@@ -8722,6 +9691,7 @@
   },
   {
     "Pokemon": "Regidrago",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "",
     "Gen": "8",
@@ -8731,6 +9701,7 @@
   },
   {
     "Pokemon": "Glastrier",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "8",
@@ -8740,6 +9711,7 @@
   },
   {
     "Pokemon": "Spectrier",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "8",
@@ -8749,6 +9721,7 @@
   },
   {
     "Pokemon": "Calyrex",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Planta ",
     "Gen": "8",
@@ -8758,6 +9731,7 @@
   },
   {
     "Pokemon": "Calyrex Jinete Glacial",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Hielo",
     "Gen": "8",
@@ -8767,6 +9741,7 @@
   },
   {
     "Pokemon": "Calyrex Jinete Espectral",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Fantasma",
     "Gen": "8",
@@ -8776,6 +9751,7 @@
   },
   {
     "Pokemon": "Wyrdeer",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Psiquico",
     "Gen": "8",
@@ -8785,6 +9761,7 @@
   },
   {
     "Pokemon": "Kleavor",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Roca",
     "Gen": "8",
@@ -8794,6 +9771,7 @@
   },
   {
     "Pokemon": "Ursaluna",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Normal",
     "Gen": "8",
@@ -8803,6 +9781,7 @@
   },
   {
     "Pokemon": "Basculegion",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Fantasma",
     "Gen": "8",
@@ -8812,6 +9791,7 @@
   },
   {
     "Pokemon": "Sneasler",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Veneno",
     "Gen": "8",
@@ -8821,6 +9801,7 @@
   },
   {
     "Pokemon": "Overqwil",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Veneno",
     "Gen": "8",
@@ -8830,6 +9811,7 @@
   },
   {
     "Pokemon": "Enamorus",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "Volador",
     "Gen": "8",
@@ -8839,6 +9821,7 @@
   },
   {
     "Pokemon": "Sprigatito",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "9",
@@ -8848,6 +9831,7 @@
   },
   {
     "Pokemon": "Floragato",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "9",
@@ -8857,6 +9841,7 @@
   },
   {
     "Pokemon": "Meowscarada",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Siniestro",
     "Gen": "9",
@@ -8866,6 +9851,7 @@
   },
   {
     "Pokemon": "Fuecoco",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "9",
@@ -8875,6 +9861,7 @@
   },
   {
     "Pokemon": "Crocalor",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "9",
@@ -8884,6 +9871,7 @@
   },
   {
     "Pokemon": "Skeledirge",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Fantasma",
     "Gen": "9",
@@ -8893,6 +9881,7 @@
   },
   {
     "Pokemon": "Quaxly",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "9",
@@ -8902,6 +9891,7 @@
   },
   {
     "Pokemon": "Quaxwell",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "9",
@@ -8911,6 +9901,7 @@
   },
   {
     "Pokemon": "Quaquaval",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Lucha",
     "Gen": "9",
@@ -8920,6 +9911,7 @@
   },
   {
     "Pokemon": "Lechonk",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "9",
@@ -8929,6 +9921,7 @@
   },
   {
     "Pokemon": "Oinkologne",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "9",
@@ -8938,6 +9931,7 @@
   },
   {
     "Pokemon": "Tarountula",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "9",
@@ -8947,6 +9941,7 @@
   },
   {
     "Pokemon": "Spidops",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "9",
@@ -8956,6 +9951,7 @@
   },
   {
     "Pokemon": "Nymble",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "9",
@@ -8965,6 +9961,7 @@
   },
   {
     "Pokemon": "Lokix",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Siniestro",
     "Gen": "9",
@@ -8974,6 +9971,7 @@
   },
   {
     "Pokemon": "Pawmi",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "9",
@@ -8983,6 +9981,7 @@
   },
   {
     "Pokemon": "Pawmo",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Lucha",
     "Gen": "9",
@@ -8992,6 +9991,7 @@
   },
   {
     "Pokemon": "Pawmot",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Lucha",
     "Gen": "9",
@@ -9001,6 +10001,7 @@
   },
   {
     "Pokemon": "Tandemaus",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "9",
@@ -9010,6 +10011,7 @@
   },
   {
     "Pokemon": "Maushold",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "9",
@@ -9019,6 +10021,7 @@
   },
   {
     "Pokemon": "Fidough",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "9",
@@ -9028,6 +10031,7 @@
   },
   {
     "Pokemon": "Dachsbun",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "",
     "Gen": "9",
@@ -9037,6 +10041,7 @@
   },
   {
     "Pokemon": "Smoliv",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Normal",
     "Gen": "9",
@@ -9046,6 +10051,7 @@
   },
   {
     "Pokemon": "Dolliv",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Normal",
     "Gen": "9",
@@ -9055,6 +10061,7 @@
   },
   {
     "Pokemon": "Arboliva",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Normal",
     "Gen": "9",
@@ -9064,6 +10071,7 @@
   },
   {
     "Pokemon": "Squawkabilly",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Volador",
     "Gen": "9",
@@ -9073,6 +10081,7 @@
   },
   {
     "Pokemon": "Nacli",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "9",
@@ -9082,6 +10091,7 @@
   },
   {
     "Pokemon": "Naclstack",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "9",
@@ -9091,6 +10101,7 @@
   },
   {
     "Pokemon": "Garganacl",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "9",
@@ -9100,6 +10111,7 @@
   },
   {
     "Pokemon": "Charcadet",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "",
     "Gen": "9",
@@ -9109,6 +10121,7 @@
   },
   {
     "Pokemon": "Armarouge",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Psiquico",
     "Gen": "9",
@@ -9118,6 +10131,7 @@
   },
   {
     "Pokemon": "Ceruledge",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Fantasma",
     "Gen": "9",
@@ -9127,6 +10141,7 @@
   },
   {
     "Pokemon": "Tadbulb",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "9",
@@ -9136,6 +10151,7 @@
   },
   {
     "Pokemon": "Bellibolt",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "",
     "Gen": "9",
@@ -9145,6 +10161,7 @@
   },
   {
     "Pokemon": "Wattrel",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Volador",
     "Gen": "9",
@@ -9154,6 +10171,7 @@
   },
   {
     "Pokemon": "Kilowattrel",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Volador",
     "Gen": "9",
@@ -9163,6 +10181,7 @@
   },
   {
     "Pokemon": "Maschiff",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "",
     "Gen": "9",
@@ -9172,6 +10191,7 @@
   },
   {
     "Pokemon": "Mabosstiff",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "",
     "Gen": "9",
@@ -9181,6 +10201,7 @@
   },
   {
     "Pokemon": "Shroodle",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Normal",
     "Gen": "9",
@@ -9190,6 +10211,7 @@
   },
   {
     "Pokemon": "Grafaiai",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Normal",
     "Gen": "9",
@@ -9199,6 +10221,7 @@
   },
   {
     "Pokemon": "Bramblin",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Fantasma",
     "Gen": "9",
@@ -9208,6 +10231,7 @@
   },
   {
     "Pokemon": "Brambleghast",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Fantasma",
     "Gen": "9",
@@ -9217,6 +10241,7 @@
   },
   {
     "Pokemon": "Toedscool",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Planta",
     "Gen": "9",
@@ -9226,6 +10251,7 @@
   },
   {
     "Pokemon": "Toedscruel",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Planta",
     "Gen": "9",
@@ -9235,6 +10261,7 @@
   },
   {
     "Pokemon": "Klawf",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "",
     "Gen": "9",
@@ -9244,6 +10271,7 @@
   },
   {
     "Pokemon": "Capsakid",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "9",
@@ -9253,6 +10281,7 @@
   },
   {
     "Pokemon": "Scovillain",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Fuego",
     "Gen": "9",
@@ -9262,6 +10291,7 @@
   },
   {
     "Pokemon": "Rellor",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "",
     "Gen": "9",
@@ -9271,6 +10301,7 @@
   },
   {
     "Pokemon": "Rabsca",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Psiquico",
     "Gen": "9",
@@ -9280,6 +10311,7 @@
   },
   {
     "Pokemon": "Flittle",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "9",
@@ -9289,6 +10321,7 @@
   },
   {
     "Pokemon": "Espathra",
+    "AliasSprite": "",
     "Tipo1": "Psiquico",
     "Tipo2": "",
     "Gen": "9",
@@ -9298,6 +10331,7 @@
   },
   {
     "Pokemon": "Tinkatink",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "Acero",
     "Gen": "9",
@@ -9307,6 +10341,7 @@
   },
   {
     "Pokemon": "Tinkatuff",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "Acero",
     "Gen": "9",
@@ -9316,6 +10351,7 @@
   },
   {
     "Pokemon": "Tinkaton",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "Acero",
     "Gen": "9",
@@ -9325,6 +10361,7 @@
   },
   {
     "Pokemon": "Wiglett",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "9",
@@ -9334,6 +10371,7 @@
   },
   {
     "Pokemon": "Wugtrio",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "9",
@@ -9343,6 +10381,7 @@
   },
   {
     "Pokemon": "Bombirdier",
+    "AliasSprite": "",
     "Tipo1": "Volador",
     "Tipo2": "Siniestro",
     "Gen": "9",
@@ -9352,6 +10391,7 @@
   },
   {
     "Pokemon": "Finizen",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "9",
@@ -9361,6 +10401,7 @@
   },
   {
     "Pokemon": "Palafin",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "9",
@@ -9370,6 +10411,7 @@
   },
   {
     "Pokemon": "Varoom",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Veneno",
     "Gen": "9",
@@ -9379,6 +10421,7 @@
   },
   {
     "Pokemon": "Revavroom",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Veneno",
     "Gen": "9",
@@ -9388,6 +10431,7 @@
   },
   {
     "Pokemon": "Cyclizar",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Normal",
     "Gen": "9",
@@ -9397,6 +10441,7 @@
   },
   {
     "Pokemon": "Orthworm",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "",
     "Gen": "9",
@@ -9406,6 +10451,7 @@
   },
   {
     "Pokemon": "Glimmet",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Veneno",
     "Gen": "9",
@@ -9415,6 +10461,7 @@
   },
   {
     "Pokemon": "Glimmora",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Veneno",
     "Gen": "9",
@@ -9424,6 +10471,7 @@
   },
   {
     "Pokemon": "Greavard",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "9",
@@ -9433,6 +10481,7 @@
   },
   {
     "Pokemon": "Houndstone",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "9",
@@ -9442,6 +10491,7 @@
   },
   {
     "Pokemon": "Flamigo",
+    "AliasSprite": "",
     "Tipo1": "Volador",
     "Tipo2": "Lucha",
     "Gen": "9",
@@ -9451,6 +10501,7 @@
   },
   {
     "Pokemon": "Cetoddle",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "9",
@@ -9460,6 +10511,7 @@
   },
   {
     "Pokemon": "Cetitan",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "",
     "Gen": "9",
@@ -9469,6 +10521,7 @@
   },
   {
     "Pokemon": "Veluza",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Psiquico",
     "Gen": "9",
@@ -9478,6 +10531,7 @@
   },
   {
     "Pokemon": "Dondozo",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "",
     "Gen": "9",
@@ -9487,6 +10541,7 @@
   },
   {
     "Pokemon": "Tatsugiri",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Agua",
     "Gen": "9",
@@ -9496,6 +10551,7 @@
   },
   {
     "Pokemon": "Annihilape",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Fantasma",
     "Gen": "9",
@@ -9505,6 +10561,7 @@
   },
   {
     "Pokemon": "Clodsire",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Tierra",
     "Gen": "9",
@@ -9514,6 +10571,7 @@
   },
   {
     "Pokemon": "Farigiraf",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "Psiquico",
     "Gen": "9",
@@ -9523,6 +10581,7 @@
   },
   {
     "Pokemon": "Dudunsparce",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "9",
@@ -9532,6 +10591,7 @@
   },
   {
     "Pokemon": "Kingambit",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Acero",
     "Gen": "9",
@@ -9541,6 +10601,7 @@
   },
   {
     "Pokemon": "Colmilargo",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Lucha",
     "Gen": "9",
@@ -9550,6 +10611,7 @@
   },
   {
     "Pokemon": "Colagrito",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "Psiquico",
     "Gen": "9",
@@ -9559,6 +10621,7 @@
   },
   {
     "Pokemon": "Furioseta",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Siniestro",
     "Gen": "9",
@@ -9568,6 +10631,7 @@
   },
   {
     "Pokemon": "Melenaleteo",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Hada",
     "Gen": "9",
@@ -9577,6 +10641,7 @@
   },
   {
     "Pokemon": "Reptalada",
+    "AliasSprite": "",
     "Tipo1": "Bicho",
     "Tipo2": "Lucha",
     "Gen": "9",
@@ -9586,6 +10651,7 @@
   },
   {
     "Pokemon": "Pelarena",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Tierra",
     "Gen": "9",
@@ -9595,6 +10661,7 @@
   },
   {
     "Pokemon": "Ferrodada",
+    "AliasSprite": "",
     "Tipo1": "Tierra",
     "Tipo2": "Acero",
     "Gen": "9",
@@ -9604,6 +10671,7 @@
   },
   {
     "Pokemon": "Ferrosaco",
+    "AliasSprite": "",
     "Tipo1": "Hielo",
     "Tipo2": "Agua",
     "Gen": "9",
@@ -9613,6 +10681,7 @@
   },
   {
     "Pokemon": "Ferropalmas",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Electrico",
     "Gen": "9",
@@ -9622,6 +10691,7 @@
   },
   {
     "Pokemon": "Ferrocuello",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Volador",
     "Gen": "9",
@@ -9631,6 +10701,7 @@
   },
   {
     "Pokemon": "Ferropolilla",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Veneno",
     "Gen": "9",
@@ -9640,6 +10711,7 @@
   },
   {
     "Pokemon": "Ferropúas",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Electrico",
     "Gen": "9",
@@ -9649,6 +10721,7 @@
   },
   {
     "Pokemon": "Frigibax",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Hielo",
     "Gen": "9",
@@ -9658,6 +10731,7 @@
   },
   {
     "Pokemon": "Arctibax",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Hielo",
     "Gen": "9",
@@ -9667,6 +10741,7 @@
   },
   {
     "Pokemon": "Baxcalibur",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Hielo",
     "Gen": "9",
@@ -9676,6 +10751,7 @@
   },
   {
     "Pokemon": "Gimmighoul",
+    "AliasSprite": "",
     "Tipo1": "Fantasma",
     "Tipo2": "",
     "Gen": "9",
@@ -9685,6 +10761,7 @@
   },
   {
     "Pokemon": "Gholdengo",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Fantasma",
     "Gen": "9",
@@ -9694,6 +10771,7 @@
   },
   {
     "Pokemon": "Wo-Chien",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Planta",
     "Gen": "9",
@@ -9703,6 +10781,7 @@
   },
   {
     "Pokemon": "Chien-Pao",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Hielo",
     "Gen": "9",
@@ -9712,6 +10791,7 @@
   },
   {
     "Pokemon": "Ting-Lu",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Tierra",
     "Gen": "9",
@@ -9721,6 +10801,7 @@
   },
   {
     "Pokemon": "Chi-Yu",
+    "AliasSprite": "",
     "Tipo1": "Siniestro",
     "Tipo2": "Fuego",
     "Gen": "9",
@@ -9730,6 +10811,7 @@
   },
   {
     "Pokemon": "Bramaluna",
+    "AliasSprite": "",
     "Tipo1": "Dragon",
     "Tipo2": "Siniestro",
     "Gen": "9",
@@ -9739,6 +10821,7 @@
   },
   {
     "Pokemon": "Ferropaladín",
+    "AliasSprite": "",
     "Tipo1": "Hada",
     "Tipo2": "Lucha",
     "Gen": "9",
@@ -9748,6 +10831,7 @@
   },
   {
     "Pokemon": "Koraidon",
+    "AliasSprite": "",
     "Tipo1": "Lucha",
     "Tipo2": "Dragon",
     "Gen": "9",
@@ -9757,6 +10841,7 @@
   },
   {
     "Pokemon": "Miraidon",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Dragon",
     "Gen": "9",
@@ -9766,6 +10851,7 @@
   },
   {
     "Pokemon": "Ondulagua",
+    "AliasSprite": "",
     "Tipo1": "Agua",
     "Tipo2": "Dragon",
     "Gen": "9",
@@ -9775,6 +10861,7 @@
   },
   {
     "Pokemon": "Ferroverdor",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Psiquico",
     "Gen": "9",
@@ -9784,6 +10871,7 @@
   },
   {
     "Pokemon": "Dipplin",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Dragon",
     "Gen": "9",
@@ -9793,6 +10881,7 @@
   },
   {
     "Pokemon": "Poltchageist",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Fantasma",
     "Gen": "9",
@@ -9802,6 +10891,7 @@
   },
   {
     "Pokemon": "Sinistcha",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Fantasma",
     "Gen": "9",
@@ -9811,6 +10901,7 @@
   },
   {
     "Pokemon": "Okidogi",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Lucha",
     "Gen": "9",
@@ -9820,6 +10911,7 @@
   },
   {
     "Pokemon": "Munkidori",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Psiquico",
     "Gen": "9",
@@ -9829,6 +10921,7 @@
   },
   {
     "Pokemon": "Fenzadipiti",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Hada",
     "Gen": "9",
@@ -9838,6 +10931,7 @@
   },
   {
     "Pokemon": "Ogerpon",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "",
     "Gen": "9",
@@ -9847,6 +10941,7 @@
   },
   {
     "Pokemon": "Archaludon",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Dragon",
     "Gen": "9",
@@ -9856,6 +10951,7 @@
   },
   {
     "Pokemon": "Hydrapple",
+    "AliasSprite": "",
     "Tipo1": "Planta",
     "Tipo2": "Dragon",
     "Gen": "9",
@@ -9865,6 +10961,7 @@
   },
   {
     "Pokemon": "Flamariete",
+    "AliasSprite": "",
     "Tipo1": "Fuego",
     "Tipo2": "Dragon",
     "Gen": "9",
@@ -9874,6 +10971,7 @@
   },
   {
     "Pokemon": "Electrofuria",
+    "AliasSprite": "",
     "Tipo1": "Electrico",
     "Tipo2": "Dragon",
     "Gen": "9",
@@ -9883,6 +10981,7 @@
   },
   {
     "Pokemon": "Ferromole",
+    "AliasSprite": "",
     "Tipo1": "Roca",
     "Tipo2": "Psiquico",
     "Gen": "9",
@@ -9892,6 +10991,7 @@
   },
   {
     "Pokemon": "Ferrotesta",
+    "AliasSprite": "",
     "Tipo1": "Acero",
     "Tipo2": "Psiquico",
     "Gen": "9",
@@ -9901,6 +11001,7 @@
   },
   {
     "Pokemon": "Terapagos",
+    "AliasSprite": "",
     "Tipo1": "Normal",
     "Tipo2": "",
     "Gen": "9",
@@ -9910,6 +11011,7 @@
   },
   {
     "Pokemon": "Pecharunt",
+    "AliasSprite": "",
     "Tipo1": "Veneno",
     "Tipo2": "Fantasma",
     "Gen": "9",
