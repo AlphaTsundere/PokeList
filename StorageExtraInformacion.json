@@ -1581,7 +1581,7 @@
   },
   {
     "Pokemon": "Tauros Paldea Variedad Combatiente",
-    "AliasNombre": "",
+    "AliasNombre": "Tauros Paldea",
     "Tipo1": "Lucha",
     "Tipo2": "",
     "Gen": "9",
@@ -1591,7 +1591,7 @@
   },
   {
     "Pokemon": "Tauros Paldea Variedad Ardiente",
-    "AliasNombre": "",
+    "AliasNombre": "Tauros Paldea Ardiente",
     "Tipo1": "Lucha",
     "Tipo2": "Fuego",
     "Gen": "9",
@@ -1601,7 +1601,7 @@
   },
   {
     "Pokemon": "Tauros Paldea Variedad Acuatica",
-    "AliasNombre": "",
+    "AliasNombre": "Tauros Paldea Acuatico",
     "Tipo1": "Lucha",
     "Tipo2": "Agua",
     "Gen": "9",
@@ -8090,7 +8090,7 @@
     "NrPokedex": "740"
   },
   {
-    "Pokemon": "Oricorio Estilo Animado",
+    "Pokemon": "Oricorio Animado",
     "AliasNombre": "",
     "Tipo1": "Electrico",
     "Tipo2": "Volador",
@@ -8100,7 +8100,7 @@
     "NrPokedex": "741"
   },
   {
-    "Pokemon": "Oricorio Estilo Placido",
+    "Pokemon": "Oricorio Placido",
     "AliasNombre": "",
     "Tipo1": "Psiquico",
     "Tipo2": "Volador",
@@ -8110,7 +8110,7 @@
     "NrPokedex": "741"
   },
   {
-    "Pokemon": "Oricorio Estilo Apasionado",
+    "Pokemon": "Oricorio Apasionado",
     "AliasNombre": "",
     "Tipo1": "Fuego",
     "Tipo2": "Volador",
@@ -8120,7 +8120,7 @@
     "NrPokedex": "741"
   },
   {
-    "Pokemon": "Oricorio Estilo Refinado",
+    "Pokemon": "Oricorio Refinado",
     "AliasNombre": "",
     "Tipo1": "Fantasma",
     "Tipo2": "Volador",
