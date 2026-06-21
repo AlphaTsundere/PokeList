@@ -22,10 +22,45 @@
     "normal": "https://images2.imgbox.com/a8/90/brQfwbRZ_o.gif",
     "shiny": "https://images2.imgbox.com/38/b5/iw4lxfyt_o.gif"
 },
+    "tinkaton": {
+    "normal": "https://images2.imgbox.com/02/7a/K0S9cWFp_o.gif",
+    "shiny": "https://images2.imgbox.com/91/86/x8zvXC9w_o.gif"
+},
+    "varoom": {
+    "normal": "https://images2.imgbox.com/5c/0d/6RvXkzuo_o.gif",
+    "shiny": "https://images2.imgbox.com/42/41/QIEptyNd_o.gif"
+},
+    "revavroom": {
+    "normal": "https://images2.imgbox.com/23/d6/zgyFHmZ5_o.gif",
+    "shiny": "https://images2.imgbox.com/5a/83/xzuZVhic_o.gif"
+},
+        "cyclizar": {
+    "normal": "https://images2.imgbox.com/b7/8e/KCbaZ2rC_o.gif",
+    "shiny": "https://images2.imgbox.com/8f/bf/VWQiUxDN_o.gif"
+},
+        "orthworm": {
+    "normal": "https://images2.imgbox.com/c0/a9/SbRVX7Ub_o.gif",
+    "shiny": "https://images2.imgbox.com/fc/9b/ehmGpfun_o.gif"
+},
+            "flamigo": {
+    "normal": "https://images2.imgbox.com/4c/9b/ccvJHRm8_o.gif",
+    "shiny": "https://images2.imgbox.com/4d/46/CnovJLoV_o.gif"
+},
 
-"tandemaus": {
-    "normal": "https://images2.imgbox.com/77/98/Vb9gduCm_o.gif",
-    "shiny": "https://images2.imgbox.com/fe/fa/bAM0stRM_o.gif"
+            "cetoddle": {
+    "normal": "https://images2.imgbox.com/73/8c/LqGtzBCt_o.gif",
+    "shiny": "https://images2.imgbox.com/4a/bd/j9OTrj0a_o.gif"
+},
+
+                "cetoddle": {
+    "normal": "https://images2.imgbox.com/73/8c/LqGtzBCt_o.gif",
+    "shiny": "https://images2.imgbox.com/4a/bd/j9OTrj0a_o.gif"
+},
+
+
+"cetitan": {
+    "normal": "https://images2.imgbox.com/99/4e/nFltEgWK_o.gif",
+    "shiny": "https://images2.imgbox.com/7f/75/2zT8rdwr_o.gif"
 },
 
 "maushold": {
