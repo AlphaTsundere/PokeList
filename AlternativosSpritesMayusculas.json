@@ -441,9 +441,17 @@
         "normal": "https://images2.imgbox.com/83/e1/u1aVfV5e_o.gif",
         "shiny": "https://images2.imgbox.com/db/41/ctt8WLPe_o.gif"
     },
+       "overqwil": {
+        "normal": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0904/Normal.png",
+        "shiny": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0904/0000/0001/Normal.png"
+    },
+       "ursaluna": {
+        "normal": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0901/Normal.png",
+        "shiny": "https://raw.githubusercontent.com/PMDCollab/SpriteCollab/master/portrait/0901/0000/0001/Normal.png"
+    },
     "qwilfish-hisui": {
-        "normal": "https://play.pokemonshowdown.com/sprites/ani/qwilfish-hisui.gif",
-        "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/qwilfish-hisui.gif"
+        "normal": "https://images2.imgbox.com/ef/84/7OQBhHmY_o.gif",
+        "shiny": "https://images2.imgbox.com/4d/c3/LqyqQufG_o.gif"
     },
     "código-cero": {
         "normal": "https://play.pokemonshowdown.com/sprites/ani/typenull.gif",
