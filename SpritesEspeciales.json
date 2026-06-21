@@ -1189,21 +1189,28 @@
         "nombreVisual": "Vivillon  tundra",
         "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/vivillon-tundra.gif"
     },
+
     {
         "clave": "tatsugiri-droopy",
         "nombreVisual": "Tatsugiri (forma languida)",
-        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/tatsugiri-droopy.gif"
+        "url.normal": "https://images2.imgbox.com/61/b1/hJEdrLCd_o.gif",
+        "url.shiny": "https://images2.imgbox.com/19/4b/yU2EqrYG_o.gif"
     },
+
     {
         "clave": "tatsugiri-stretchy",
         "nombreVisual": "Tatsugiri (forma recta)",
-        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/tatsugiri-stretchy.gif"
+        "url.normal": "https://images2.imgbox.com/a8/43/BPmp1PUQ_o.gif",
+        "url.shiny": "https://images2.imgbox.com/1c/10/AZxFuWYR_o.gif"
     },
+
     {
         "clave": "wishiwashi-school",
         "nombreVisual": "Wishiwashi (forma banco)",
-        "url": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/wishiwashi-school.gif"
+        "url.normal": "https://play.pokemonshowdown.com/sprites/ani/magearna-original.gif",
+        "url.shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/magearna-original.gif"
     },
+
     {
         "clave": "zygarde-10",
         "nombreVisual": "Zygarde al 10%",
