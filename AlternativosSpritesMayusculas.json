@@ -296,6 +296,10 @@
         "normal": "https://images2.imgbox.com/a6/03/jZFvfJ54_o.gif",
         "shiny": "https://images2.imgbox.com/a0/55/BcvCfDUq_o.gif"
     },
+        "gimmighoul": {
+        "normal": "https://images2.imgbox.com/a4/41/whvl2gmJ_o.gif",
+        "shiny": "https://images2.imgbox.com/3d/f7/c8IvpBUD_o.gif"
+    },
     "gholdengo": {
         "normal": "https://images2.imgbox.com/36/05/apD2yV1J_o.gif",
         "shiny": "https://images2.imgbox.com/19/e3/lTtSUriE_o.gif"
@@ -399,6 +403,18 @@
     "ogerpon": {
         "normal": "https://images2.imgbox.com/bc/e2/ryzkE3h0_o.gif",
         "shiny": "https://images2.imgbox.com/bc/e2/ryzkE3h0_o.gif"
+    },
+        "ogerpon-fuente": {
+        "normal": "https://images2.imgbox.com/6a/7b/J648sMAE_o.gif",
+        "shiny": "https://images2.imgbox.com/6a/7b/J648sMAE_o.gif"
+    },
+        "ogerpon-horno": {
+        "normal": "https://images2.imgbox.com/76/5a/tCAp1I3o_o.gif",
+        "shiny": "https://images2.imgbox.com/76/5a/tCAp1I3o_o.gif"
+    },
+        "ogerpon-cimiento": {
+        "normal": "https://images2.imgbox.com/44/f3/tLKS7Lzk_o.gif",
+        "shiny": "https://images2.imgbox.com/44/f3/tLKS7Lzk_o.gif"
     },
     "terapagos": {
         "normal": "https://images2.imgbox.com/56/f2/gW0tPzAa_o.gif",
