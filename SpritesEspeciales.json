@@ -766,6 +766,12 @@
         "url.normal": "https://play.pokemonshowdown.com/sprites/ani/magearna-original.gif",
         "url.shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/magearna-original.gif"
     },
+        {
+        "clave": "maushold-4",
+        "nombreVisual": "Maushold 4",
+        "url.normal": "https://images2.imgbox.com/a5/27/y1DSZOMJ_o.gif",
+        "url.shiny": "https://images2.imgbox.com/39/9f/ALkk6nWj_o.gif"
+    },
     {
         "clave": "mimikyu-busted",
         "nombreVisual": "Mimikyu (forma descubierta)",
@@ -930,6 +936,30 @@
         "url.normal": "https:\/\/play.pokemonshowdown.com\/sprites\/ani\/gastrodon-east.gif",
         "url.shiny": "https:\/\/play.pokemonshowdown.com\/sprites\/ani-shiny\/gastrodon-east.gif"
     },
+    {
+    "clave": "squawkabilly-blue",
+    "nombreVisual": "Squawkabilly Azul",
+    "url.normal": "https://images2.imgbox.com/9b/d6/am9CA3yW_o.gif",
+    "url.shiny": "https://images2.imgbox.com/37/64/KfAvMV44_o.gif"
+},
+{
+    "clave": "squawkabilly-green",
+    "nombreVisual": "Squawkabilly Verde",
+    "url.normal": "https://images2.imgbox.com/11/31/aAZ3fPBl_o.gif",
+    "url.shiny": "https://images2.imgbox.com/50/76/TBUejUQV_o.gif"
+},
+{
+    "clave": "squawkabilly-white",
+    "nombreVisual": "Squawkabilly Blanco",
+    "url.normal": "https://images2.imgbox.com/63/d9/PzkfPmYc_o.gif",
+    "url.shiny": "https://images2.imgbox.com/d0/26/p64YIOJB_o.gif"
+},
+{
+    "clave": "squawkabilly-yellow",
+    "nombreVisual": "Squawkabilly Amarillo",
+    "url.normal": "https://images2.imgbox.com/08/97/HanWL3mq_o.gif",
+    "url.shiny": "https://images2.imgbox.com/f6/2c/o7ZQ6fMZ_o.gif"
+},
     {
         "clave": "tornadus-therian",
         "nombreVisual": "Tornadus (forma totem)",
