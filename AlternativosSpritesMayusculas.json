@@ -1,4 +1,9 @@
 {
+   "wooper-paldea": {
+    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/194-paldea.gif",
+    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/194-paldea.gif"
+},
+   
    "fidough": {
     "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/926.gif",
     "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/926.gif"
