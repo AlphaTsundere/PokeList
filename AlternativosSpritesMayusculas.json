@@ -68,11 +68,6 @@
     "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/974.gif"
 },
 
-"cetoddle": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/974.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/974.gif"
-},
-
 "cetitan": {
     "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/975.gif",
     "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/975.gif"
@@ -245,11 +240,6 @@
     "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/962.gif"
 },
 
-"cyclizar": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/967.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/967.gif"
-},
-
 "glimmet": {
     "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/969.gif",
     "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/969.gif"
@@ -319,24 +309,21 @@
     "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/989.gif"
 },
     "ferrodada": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/990.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/990.gif"
-},
-
-"ferrocuello": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/991.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/991.gif"
-},
-
-"ferropolilla": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/994.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/994.gif"
-},
-
-"ferropuas": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/995.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/995.gif"
-},
+        "normal": "https://images2.imgbox.com/f8/a2/o313cjNS_o.gif",
+        "shiny": "https://images2.imgbox.com/7c/ec/xHiyutjw_o.gif"
+    },
+    "ferrocuello": {
+        "normal": "https://images2.imgbox.com/e9/0e/G7nNUBRX_o.gif",
+        "shiny": "https://images2.imgbox.com/fd/01/0KbSKTD8_o.gif"
+    },
+    "ferropolilla": {
+        "normal": "https://images2.imgbox.com/f8/c1/EskE9iSE_o.gif",
+        "shiny": "https://images2.imgbox.com/c6/38/oKIrT1lw_o.gif"
+    },
+    "ferropuas": {
+        "normal": "https://images2.imgbox.com/e9/7b/WnaL5HAd_o.gif",
+        "shiny": "https://images2.imgbox.com/25/40/n9ptX2q9_o.gif"
+    },
 
 "frigibax": {
     "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/996.gif",
@@ -397,20 +384,18 @@
     "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/1005.gif"
 },
 
-"ferropaladin": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/1006.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/1006.gif"
-},
-
-"ferrosaco": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/1007.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/1007.gif"
-},
-
-"ferropalmas": {
-    "normal": "https://images2.imgbox.com/90/cd/aGNTxD4H_o.gif",
-    "shiny": "https://images2.imgbox.com/de/0d/BMC6nd4G_o.gif"
-},
+    "ferropaladin": {
+        "normal": "https://images2.imgbox.com/da/7b/cDdpiygO_o.gif",
+        "shiny": "https://images2.imgbox.com/a3/6f/M6hxcuCB_o.gif"
+    },
+    "ferrosaco": {
+        "normal": "https://images2.imgbox.com/b6/7e/YzsFyclI_o.gif",
+        "shiny": "https://images2.imgbox.com/ff/c7/3MpcfNQ8_o.gif"
+    },
+    "ferropalmas": {
+        "normal": "https://images2.imgbox.com/90/cd/aGNTxD4H_o.gif",
+        "shiny": "https://images2.imgbox.com/de/0d/BMC6nd4G_o.gif"
+    },
   "tauros-paldea": {
     "normal": "https://images2.imgbox.com/15/dd/90b6R6AC_o.gif",
     "shiny": "https://images2.imgbox.com/70/29/FpfVHOmM_o.gif"
@@ -426,20 +411,19 @@
     "shiny": "https://images2.imgbox.com/a6/0c/4BS5MzJg_o.gif"
 },
 
-"ferromole": {
-    "normal": "https://images2.imgbox.com/a0/e4/oHPSkip9_o.gif",
-    "shiny": "https://images2.imgbox.com/de/b1/6ozXImAm_o.gif"
-},
-
-"ferroverdor": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/1009.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/1009.gif"
-},
-
-"ferrotesta": {
-    "normal": "https://images2.imgbox.com/68/3d/FF6V8X9t_o.gif",
-    "shiny": "https://images2.imgbox.com/61/17/Mv2peNSS_o.gif"
-},
+  "ferromole": {
+        "normal": "https://images2.imgbox.com/a0/e4/oHPSkip9_o.gif",
+        "shiny": "https://images2.imgbox.com/de/b1/6ozXImAm_o.gif"
+    },
+    "ferroverdor": {
+        "normal": "https://images2.imgbox.com/73/3c/sWtJYd3k_o.gif",
+        "shiny": "https://images2.imgbox.com/97/1e/5wwFHt8h_o.gif"
+    },
+   
+  "ferrotesta": {
+        "normal": "https://images2.imgbox.com/68/3d/FF6V8X9t_o.gif",
+        "shiny": "https://images2.imgbox.com/61/17/Mv2peNSS_o.gif"
+    },
 
 "dipplin": {
     "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/1011.gif",
