@@ -1223,15 +1223,15 @@
     {
         "clave": "tatsugiri-droopy",
         "nombreVisual": "Tatsugiri (forma languida)",
-        "url.normal": "https://images2.imgbox.com/61/b1/hJEdrLCd_o.gif",
-        "url.shiny": "https://images2.imgbox.com/19/4b/yU2EqrYG_o.gif"
+        "url.normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/978-droopy.gif",
+        "url.shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/978-droopy.gif"
     },
 
     {
         "clave": "tatsugiri-stretchy",
         "nombreVisual": "Tatsugiri (forma recta)",
-        "url.normal": "https://images2.imgbox.com/a8/43/BPmp1PUQ_o.gif",
-        "url.shiny": "https://images2.imgbox.com/1c/10/AZxFuWYR_o.gif"
+        "url.normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/978-stretchy.gif",
+        "url.shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/978-stretchy.gif"
     },
 
     {
