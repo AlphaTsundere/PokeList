@@ -73,6 +73,11 @@
     "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/975.gif"
 },
 
+   "tatsugiri": {
+    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/978.gif",
+    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/978.gif"
+},
+
 "tandemaus": {
     "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/924.gif",
     "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/924.gif"
