@@ -519,18 +519,6 @@
         "normal": "https://images2.imgbox.com/83/e1/u1aVfV5e_o.gif",
         "shiny": "https://images2.imgbox.com/db/41/ctt8WLPe_o.gif"
     },
-       "overqwil": {
-        "normal": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/904.gif",
-        "shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/shiny/904.gif"
-    },
-       "ursaluna": {
-        "normal": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/901.gif",
-        "shiny": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/shiny/901.gif"
-    },
-    "qwilfish-hisui": {
-        "normal": "https://images2.imgbox.com/ef/84/7OQBhHmY_o.gif",
-        "shiny": "https://images2.imgbox.com/4d/c3/LqyqQufG_o.gif"
-    },
     "código-cero": {
         "normal": "https://play.pokemonshowdown.com/sprites/ani/typenull.gif",
         "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/typenull.gif"
