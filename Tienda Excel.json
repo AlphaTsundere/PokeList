@@ -923,6 +923,14 @@
         "Link Imagen": "https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/dragon-scale.png",
         "Imagen para Inventario": "[img]https:\/\/raw.githubusercontent.com\/msikma\/pokesprite\/master\/items\/evo-item\/dragon-scale.png[\/img]"
     },
+
+  {
+        "Nombre del Item": "Metal Compuesto",
+        "Tipo del Item": "Evolutivos",
+        "Link Imagen": "https://raw.githubusercontent.com/PKAlparius/Dados/Inventario/Metal Compuesto.png",
+        "Imagen para Inventario": "[img]https://raw.githubusercontent.com/PKAlparius/Dados/Inventario/Metal Compuesto.png[\/img]"
+    },
+    
     {
         "Nombre del Item": "Revestimiento Metalico",
         "Tipo del Item": "Evolutivos",
