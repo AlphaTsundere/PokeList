@@ -1,33 +1,33 @@
 {   
   
    "squawkabilly-azul": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/931-blue.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/931-blue.gif"
+    "normal": "https://play.pokemonshowdown.com/sprites/ani/squawkabilly-blue.gif",
+    "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/squawkabilly-blue.gif"
 },
 
 "squawkabilly": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/931.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/931.gif"
+    "normal": "https://play.pokemonshowdown.com/sprites/ani/squawkabilly.gif",
+    "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/squawkabilly-blue.gif"
 },
 
 "squawkabilly-blanco": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/931-white.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/931-white.gif"
+    "normal": "https://play.pokemonshowdown.com/sprites/ani/squawkabilly-white.gif",
+    "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/squawkabilly-white.gif"
 },
 
 "squawkabilly-amarillo": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/931-yellow.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/931-yellow.gif"
+    "normal": "https://play.pokemonshowdown.com/sprites/ani/squawkabilly-yellow.gif",
+    "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/squawkabilly-yellow.gif"
 },
 
   "dudunsparce-binodular": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/982.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/982.gif"
+    "normal": "https://play.pokemonshowdown.com/sprites/ani/dudunsparce.gif",
+    "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/dudunsparce.gif"
 },
 
 "dudunsparce-trinodular": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/982-threesegment.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/982-threesegment.gif"
+    "normal": "https://play.pokemonshowdown.com/sprites/ani/dudunsparce-threesegment.gif",
+    "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/dudunsparce-threesegment.gif"
 },
 
     "ferrodada": {
@@ -49,22 +49,17 @@
 
 
 "gimmighoul-cofre": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/999.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/999.gif"
+    "normal": "https://play.pokemonshowdown.com/sprites/ani/gimmighoul.gif",
+    "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/gimmighoul.gif"
 },
    "gimmighoul-andante": {
-    "normal": "https://images2.imgbox.com/a6/03/jZFvfJ54_o.gif",
-    "shiny": "https://images2.imgbox.com/a0/55/BcvCfDUq_o.gif"
+    "normal": "https://play.pokemonshowdown.com/sprites/ani/gimmighoul-roaming.gif",
+    "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/gimmighoul-roaming.gif"
 },
 
 "gimmighoul": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/999.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/999.gif"
-},
-
-"gholdengo": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/1000.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/1000.gif"
+    "normal": "https://play.pokemonshowdown.com/sprites/ani/gimmighoul.gif",
+    "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/gimmighoul.gif"
 },
 
 "wo-chien": {
