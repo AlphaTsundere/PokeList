@@ -1,122 +1,5 @@
-{
-   "wooper-paldea": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/194-paldea.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/194-paldea.gif"
-},
-   
-   "fidough": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/926.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/926.gif"
-},
-
-"dachsbun": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/927.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/927.gif"
-},
-
-"pawmi": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/921.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/921.gif"
-},
-
-"pawmo": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/922.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/922.gif"
-},
-
-"pawmot": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/923.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/923.gif"
-},
-
-"tinkatink": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/957.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/957.gif"
-},
-
-"tinkatuff": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/958.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/958.gif"
-},
-
-"tinkaton": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/959.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/959.gif"
-},
-   "varoom": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/965.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/965.gif"
-},
-
-"revavroom": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/966.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/966.gif"
-},
-
-"cyclizar": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/967.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/967.gif"
-},
-
-"orthworm": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/968.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/968.gif"
-},
-
-"flamigo": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/973.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/973.gif"
-},
-
-"cetoddle": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/974.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/974.gif"
-},
-
-"cetitan": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/975.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/975.gif"
-},
-
-   "tatsugiri": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/978.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/978.gif"
-},
-
-"tandemaus": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/924.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/924.gif"
-},
-
-"maushold": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/925.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/925.gif"
-},
-
-"annihilape": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/979.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/979.gif"
-},
-
-"wooper_paldea": {
-  "normal": "https://images2.imgbox.com/e2/f5/L7SnPnoz_o.gif",
-    "shiny": "https://images2.imgbox.com/e8/9b/V86z8gQI_o.gif"
-},
-
-"clodsire": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/980.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/980.gif"
-},
-
-"tadbulb": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/938.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/938.gif"
-},
-
-"bellibolt": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/939.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/939.gif"
-},
+{   
+  
    "squawkabilly-azul": {
     "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/931-blue.gif",
     "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/931-blue.gif"
@@ -137,143 +20,6 @@
     "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/931-yellow.gif"
 },
 
-"Nacli": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/932.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/932.gif"
-},
-
-"naclstack": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/933.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/933.gif"
-},
-
-"garganacl": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/934.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/934.gif"
-},
-
-"charcadet": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/935.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/935.gif"
-},
-
-"armarouge": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/936.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/936.gif"
-},
-
-"ceruledge": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/937.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/937.gif"
-},
-
-"wattrel": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/940.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/940.gif"
-},
-
-"kilowattrel": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/941.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/941.gif"
-},
-   "maschiff": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/942.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/942.gif"
-},
-
-"mabosstiff": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/943.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/943.gif"
-},
-
-"shroodle": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/944.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/944.gif"
-},
-
-"grafaiai": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/945.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/945.gif"
-},
-
-"bramblin": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/946.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/946.gif"
-},
-
-"brambleghast": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/947.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/947.gif"
-},
-
-"toedscool": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/948.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/948.gif"
-},
-
-"toedscruel": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/949.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/949.gif"
-},
-  "klawf": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/950.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/950.gif"
-},
-
-"capsakid": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/951.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/951.gif"
-},
-
-"rellor": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/953.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/953.gif"
-},
-
-"rabsca": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/954.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/954.gif"
-},
-
-"flittle": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/955.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/955.gif"
-},
-
-"espathra": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/956.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/956.gif"
-},
-
-"bombirdier": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/962.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/962.gif"
-},
-
-"glimmet": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/969.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/969.gif"
-},
-
-"glimmora": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/970.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/970.gif"
-},
-
-"greavard": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/971.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/971.gif"
-},
-
-"houndstone": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/972.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/972.gif"
-},
-
-"farigiraf": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/981.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/981.gif"
-},
   "dudunsparce-binodular": {
     "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/982.gif",
     "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/982.gif"
@@ -284,40 +30,6 @@
     "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/982-threesegment.gif"
 },
 
-"kingambit": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/983.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/983.gif"
-},
-
-"colmilargo": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/984.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/984.gif"
-},
-
-"colagrito": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/985.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/985.gif"
-},
-
-"furioseta": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/986.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/986.gif"
-},
-
-"melenaleteo": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/987.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/987.gif"
-},
-
-"reptalada": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/988.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/988.gif"
-},
-
-"pelarena": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/989.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/989.gif"
-},
     "ferrodada": {
         "normal": "https://images2.imgbox.com/f8/a2/o313cjNS_o.gif",
         "shiny": "https://images2.imgbox.com/7c/ec/xHiyutjw_o.gif"
@@ -335,20 +47,6 @@
         "shiny": "https://images2.imgbox.com/25/40/n9ptX2q9_o.gif"
     },
 
-"frigibax": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/996.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/996.gif"
-},
-
-"arctibax": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/997.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/997.gif"
-},
-
-"baxcalibur": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/998.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/998.gif"
-},
 
 "gimmighoul-cofre": {
     "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/999.gif",
@@ -389,11 +87,6 @@
     "shiny": "https://images2.imgbox.com/9a/bc/NzO9XPkC_o.gif"
 },
 
-"bramaluna": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/1005.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/1005.gif"
-},
-
     "ferropaladin": {
         "normal": "https://images2.imgbox.com/da/7b/cDdpiygO_o.gif",
         "shiny": "https://images2.imgbox.com/a3/6f/M6hxcuCB_o.gif"
@@ -406,20 +99,6 @@
         "normal": "https://images2.imgbox.com/90/cd/aGNTxD4H_o.gif",
         "shiny": "https://images2.imgbox.com/de/0d/BMC6nd4G_o.gif"
     },
-  "tauros-paldea": {
-    "normal": "https://images2.imgbox.com/15/dd/90b6R6AC_o.gif",
-    "shiny": "https://images2.imgbox.com/70/29/FpfVHOmM_o.gif"
-},
-
-"tauros-paldea-ardiente": {
-    "normal": "https://images2.imgbox.com/18/da/8p7cIiny_o.gif",
-    "shiny": "https://images2.imgbox.com/83/55/q0Wtcoxl_o.gif"
-},
-
-"tauros-paldea-acuatico": {
-    "normal": "https://images2.imgbox.com/8f/fa/ujGvHwN2_o.gif",
-    "shiny": "https://images2.imgbox.com/a6/0c/4BS5MzJg_o.gif"
-},
 
   "ferromole": {
         "normal": "https://images2.imgbox.com/a0/e4/oHPSkip9_o.gif",
@@ -434,50 +113,6 @@
         "normal": "https://images2.imgbox.com/68/3d/FF6V8X9t_o.gif",
         "shiny": "https://images2.imgbox.com/61/17/Mv2peNSS_o.gif"
     },
-
-"dipplin": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/1011.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/1011.gif"
-},
-
-"hydrapple": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/1019.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/1019.gif"
-},
-
-"sinistcha": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/1013.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/1013.gif"
-},
-
-"poltchageist": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/1012.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/1012.gif"
-},
- "archaludon": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/1018.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/1018.gif"
-},
-
-"ondulagua": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/1009.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/1009.gif"
-},
-
-"flamariete": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/1020.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/1020.gif"
-},
-
-"electrofuria": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/1021.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/1021.gif"
-},
-
-"koraidon": {
-    "normal": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-gen9/1007.gif",
-    "shiny": "https://raw.githubusercontent.com/AlphaTsundere/sprites/refs/heads/ani-shiny-gen9/1007.gif"
-},
 
 "miraidon": {
     "normal": "https://images2.imgbox.com/69/14/8PQ61ChC_o.gif",
