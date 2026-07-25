@@ -30,6 +30,20 @@
     "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/dudunsparce-threesegment.gif"
 },
 
+  "gimmighoul-cofre": {
+    "normal": "https://play.pokemonshowdown.com/sprites/ani/gimmighoul.gif",
+    "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/gimmighoul.gif"
+},
+   "gimmighoul-andante": {
+    "normal": "https://play.pokemonshowdown.com/sprites/ani/gimmighoul-roaming.gif",
+    "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/gimmighoul-roaming.gif"
+},
+
+"gimmighoul": {
+    "normal": "https://play.pokemonshowdown.com/sprites/ani/gimmighoul.gif",
+    "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/gimmighoul.gif"
+},
+
     "ferrodada": {
         "normal": "https://images2.imgbox.com/f8/a2/o313cjNS_o.gif",
         "shiny": "https://images2.imgbox.com/7c/ec/xHiyutjw_o.gif"
@@ -46,21 +60,6 @@
         "normal": "https://images2.imgbox.com/e9/7b/WnaL5HAd_o.gif",
         "shiny": "https://images2.imgbox.com/25/40/n9ptX2q9_o.gif"
     },
-
-
-"gimmighoul-cofre": {
-    "normal": "https://play.pokemonshowdown.com/sprites/ani/gimmighoul.gif",
-    "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/gimmighoul.gif"
-},
-   "gimmighoul-andante": {
-    "normal": "https://play.pokemonshowdown.com/sprites/ani/gimmighoul-roaming.gif",
-    "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/gimmighoul-roaming.gif"
-},
-
-"gimmighoul": {
-    "normal": "https://play.pokemonshowdown.com/sprites/ani/gimmighoul.gif",
-    "shiny": "https://play.pokemonshowdown.com/sprites/ani-shiny/gimmighoul.gif"
-},
 
 "wo-chien": {
     "normal": "https://images2.imgbox.com/50/49/I2pmabSz_o.gif",
@@ -155,41 +154,41 @@
     },
 
   "clefable-mega": {
-  "normal": "https://images2.imgbox.com/ad/a8/S7yxh2Gi_o.gif",
-  "shiny": "https://images2.imgbox.com/f8/e5/oOk....gif"
+  "normal": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani/clefable-mega.gif",
+  "shiny": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani-shiny/clefable-mega.gif"
 },
 
   "dragonite-mega": {
-  "normal": "https://images2.imgbox.com/42/6e/XFeIE1e0_o.gif",
-  "shiny": "https://images2.imgbox.com/47/1d/QTTyKZ5H_o.gif"
+  "normal": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani/dragonite-mega.gif",
+  "shiny": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani-shiny/dragonite-mega.gif"
 },
 "emboar-mega": {
-  "normal": "https://images2.imgbox.com/41/a9/uCMGlyPg_o.gif",
-  "shiny": "https://images2.imgbox.com/f8/89/6b8qEofM_o.gif"
+  "normal": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani/emboar-mega.gif",
+  "shiny": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani-shiny/emboar-mega.gif"
 },
 "feraligatr-mega": {
-  "normal": "https://images2.imgbox.com/43/48/WZIrYW4T_o.gif",
-  "shiny": "https://images2.imgbox.com/98/cf/YmdsFh9x_o.gif"
+  "normal": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani/feraligatr-mega.gif",
+  "shiny": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani-shiny/feraligatr-mega.gif"
 },
 "froslass-mega": {
-  "normal": "https://images2.imgbox.com/bf/f2/ogGLqVAR_o.gif",
-  "shiny": "https://images2.imgbox.com/31/d3/JeSXFEX2_o.gif"
+  "normal": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani/froslass-mega.gif",
+  "shiny": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani-shiny/froslass-mega.gif"
 },
 "meganium-mega": {
-  "normal": "https://images2.imgbox.com/83/50/UVJeWPQc_o.gif",
-  "shiny": "https://images2.imgbox.com/10/8a/RmnEq500_o.gif"
+  "normal": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani/meganium-mega.gif",
+  "shiny": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani-shiny/meganium-mega.gif"
 },
 "skarmory-mega": {
-  "normal": "https://images2.imgbox.com/9f/ef/0AlGGtg6_o.gif",
-  "shiny": "https://images2.imgbox.com/c4/53/mitvIX0x_o.gif"
+  "normal": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani/skarmory-mega.gif",
+  "shiny": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani-shiny/skarmory-mega.gif"
 },
 "starmie-mega": {
-  "normal": "https://images2.imgbox.com/1e/3a/ucJWpVfC_o.gif",
-  "shiny": "https://images2.imgbox.com/b3/7c/paNyYuZs_o.gif"
+  "normal": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani/starmie-mega.gif",
+  "shiny": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani-shiny/starmie-mega.gif"
 },
 "victreebel-mega": {
-  "normal": "https://images2.imgbox.com/71/14/Yu5xDUQ9_o.gif",
-  "shiny": "https://images2.imgbox.com/cf/7c/kJYDtkJf_o.gif"
+  "normal": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani/victreebel-mega.gif",
+  "shiny": "https://raw.githubusercontent.com/PKAlparius/Sprites/ani-shiny/victreebel-mega.gif"
 }
   
 }
